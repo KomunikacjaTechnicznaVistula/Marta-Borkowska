@@ -1,11 +1,11 @@
 name: Marta Borkowska
-title: Lucy's World
-description: Snap's from the life of a little girl
+title: Modern Barn - how to build a smart mini-house
+description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: vistula
 
-logo: "/images/20210829_184527.png"
+logo: "assets/images/small-modern-house-plans.png"
 
 aux_links:
   "Source repository on GitHub":
@@ -14,4 +14,4 @@ aux_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "This is a test page."
+footer_content: "This documentation is a project for the Technical Communication course at Vistula University (Warsaw). The content is based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project."
