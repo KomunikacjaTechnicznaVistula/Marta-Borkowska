@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Level 1c
-nav_order: 3
+nav_order: 2
 has_children: true
 ---
 
