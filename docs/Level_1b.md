@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Level 1b
+title: Level_1b
 nav_order: 3
 ---
 
-# Level 1b
+# Level_1b
 {: .no_toc}
 
 Specification

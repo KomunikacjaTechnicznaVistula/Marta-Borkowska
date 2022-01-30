@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Level 1c
+title: Level_1c
 nav_order: 4
 ---
 
-# Level 1c
+# Level_1c
 
 Text
