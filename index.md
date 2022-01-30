@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Introduction
+title: Wstęp
 nav_order: 1
-description: "Modern Barn - how to build a smart mini-house"
+description: "Jak skonfigurować i zacząć korzystać ze Zwifta"
 permalink: /
 ---
 
