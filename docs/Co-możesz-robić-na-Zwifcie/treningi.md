@@ -25,5 +25,5 @@ Możesz również stworzyć **własny trening**. W tym celu wybierz _Custom Work
 *Stwórz własny trening*  
 
 
-Trenować możesz również w formie **[jazdy grupowej]({% link /../jazdy-grupowe.md))**. 
+Trenować możesz również w formie **[jazdy grupowej]({% link /../jazdy-grupowe.md)**. 
 
