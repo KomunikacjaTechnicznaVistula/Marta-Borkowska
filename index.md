@@ -2,7 +2,7 @@
 layout: default
 title: Wstęp
 nav_order: 1
-description: "Zwift - krótki podręcznik Użytkownika"
+description: "Zwift - podręcznik Użytkownika"
 permalink: /
 ---
 
