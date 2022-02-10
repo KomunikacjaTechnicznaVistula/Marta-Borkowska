@@ -11,9 +11,9 @@ Jazda grupowa to tzw. _group ride_. Opcję tę wybiera się w aplikacji _Zwift C
 
 Jest to jednak coś innego niż jazda samemu czy trening. Dzięki Zwiftowi poczujesz się niemal jak na prawdziwej ustawce. 
 
-Podobnie jak w przypadku wyścigów tu również obowiązują kategorie (patrz [Glosariusz]({% link /docs/../../Glosariusz.md)) i warto wcześniej zaplanować sobie rozgrzewkę.
+Podobnie jak w przypadku wyścigów tu również obowiązują kategorie i warto wcześniej zaplanować sobie rozgrzewkę.
 
-Jednak w przeciwieństwie do wyścigu celem jazdy grupowej jest korzystanie z dobrodziejstw jazdy w peletonie i draftingu (patrz [Glosariusz]({% link /docs/../../Glosariusz.md)). Mocniejsi kolarze będą jechać z przodu a słabsi z tyłu stawki.
+Jednak w przeciwieństwie do wyścigu celem jazdy grupowej jest korzystanie z dobrodziejstw jazdy w peletonie i draftingu. Mocniejsi kolarze będą jechać z przodu a słabsi z tyłu stawki.
 
 W jeździe grupowej na początku peletonu jedzie lider, nad którym wyświetla się żółta strzałka. Z kolei w ogonie mamy tzw. sweepera z czerwoną strzałką, który pilnuje, by nikt nie odłączył się od peletonu.
 
