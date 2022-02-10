@@ -1,17 +1,19 @@
 name: Marta Borkowska
-title: Modern Barn - how to build a smart mini-house
+title: Jak skonfigurować i zacząć korzystać ze Zwifta. Podręcznik Użytkownika
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: vistula
 
-logo: "assets/images/small-modern-house-plans.png"
+logo: "assets/images/"
 
 aux_links:
   "Source repository on GitHub":
     - "//github.com/KomunikacjaTechnicznaVistula/marta-borkowska"
 
 back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top_text: "Powrót na górę"
 
-footer_content: "This documentation is a project for the Technical Communication course at Vistula University (Warsaw). The content is based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project."
+footer_content: "Niniejszy podręcznik powstał w ramach projektu na studiach podyplomowych Komunikacja Techniczna na Akademii Finansów i Biznesu Vistula.
+
+Stan wszelkich informacji i zrzutów ekranu na dzień 14.02.2022 r.
