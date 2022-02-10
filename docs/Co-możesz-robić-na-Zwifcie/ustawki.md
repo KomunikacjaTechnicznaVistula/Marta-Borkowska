@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ustawki
-parent: Co możesz robić na Zwifcie
+parent: Co możesz robić na Zwifcie?
 nav_order: 5
 ---
 

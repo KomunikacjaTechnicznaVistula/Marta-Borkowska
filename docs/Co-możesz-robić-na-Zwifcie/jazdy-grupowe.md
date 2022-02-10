@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jazdy grupowe
-parent: Co możesz robić na Zwifcie
+parent: Co możesz robić na Zwifcie?
 nav_order: 2
 ---
 
