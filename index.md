@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wstęp
-nav_order: 1
+nav_order: 
 description: "Jak skonfigurować i zacząć korzystać ze Zwifta. Podręcznik Użytkownika"
 permalink: /
 ---
