@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Glosariusz
+my_variable: Glosariusz.html
 nav_order: 7
 ---
 

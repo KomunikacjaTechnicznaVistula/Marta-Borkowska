@@ -20,7 +20,7 @@ W aplikacji możesz wybrać spośród wielu aktywności sportowych:
       * szosowe 
       * czasowe (_time trial - TT_)   
 
-      Wyboru możesz dokonać w aplikacji _Zwift Companion_ (większy wybór) lub na Zwifcie (_Upcoming events_). Uwaga: należy wybrać wyścig zgodnie z własną [kategorią]({% link _collection/Glosariusz.md %})). W przeciwnym razie grozi dyskwalifikacja!
+      Wyboru możesz dokonać w aplikacji _Zwift Companion_ (większy wybór) lub na Zwifcie (_Upcoming events_). Uwaga: należy wybrać wyścig zgodnie z własną [kategorią]({% link {{ page.my_variable }} %}. W przeciwnym razie grozi dyskwalifikacja!
 
    * ustawki (_meet-ups_)  
       prywatne jazdy na zaproszenie jednego z użytkowników 
