@@ -16,7 +16,7 @@ Na górze ekranu znajdują się trzy światy dostępne w danym dniu na Zwifcie z
 
 Po wybraniu jednej z tras kliknij _Ride_ na dole ekranu. Wówczas przeniesiesz się do wirtualnego świata, gdzie możesz jeździć we własnym tempie z innymi kolarzami, którzy są w danym czasie online.
 
-Jest to opcja polecana na początek przygody ze Zwiftem. W tym trybie nie działa ERG (patrz [Glosariusz]({% link /docs/../../Glosariusz.md)).
+Jest to opcja polecana na początek przygody ze Zwiftem. W tym trybie nie działa ERG.
 
 Sama jazda to nie wszystko, co oferuje Zwift. W ramach jazdy można również:
 
