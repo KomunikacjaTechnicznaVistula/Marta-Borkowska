@@ -1,11 +1,23 @@
 ---
 layout: default
-title: Jazda z Pacemaker
+title: Jazda z Pace Partners
 parent: Co możesz robić na Zwifcie?
 nav_order: 6
 ---
 
-# Jazda z Pacemaker
+# Jazda z Pace Partners 
 
-(_Join another Zwifter?_)  
-        dołączenie do jednego z użytkowników aktualnie znajdującego się na trasie 
+Ciekawą opcją jest również możliwość dołączenia do konkretnego użytkownika aktualnie znajdującego się na trasie. 
+
+Istnieją 2 opcje:
+* jazda z tzw. Pace Maker'em, czyli botem. Aktualnie jest 4 takich awatarów reprezentujących daną kategorię. Jeżdzą oni po trasach, które zmieniają się co tydzień.
+
+![Pace Makers](/assets/images/PaceMaker.png)
+*Pace Makers*  
+
+* jazda z innym użytkownikiem Zwifta
+
+W tym celu na ekranie startowym należy wybrać odpowiedniego użytkownika w sekcji _Join another Zwifter?_.
+
+Jest to jazda grupowa, ale w stałym tempie, które można dostosować pod siebie, wybierając osobę o odpowiedniej dla nas średniej prędkości. Można z niej skorzystać podczas rozgrzewki, gdy chcesz jechać dłuższy dystans lub ze stałym tempem. A może chcesz poćwiczyć drafting lub potrenować interwały? Zawsze raźniej jest z kimś niż samemu.
+         
