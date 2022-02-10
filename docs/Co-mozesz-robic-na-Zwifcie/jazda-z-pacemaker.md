@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Jazda z _pacemaker_
+title: Jazda z Pacemaker
 parent: Co możesz robić na Zwifcie
 nav_order: 6
 ---
 
-# Jazda z _Pacemaker_ (_Join another Zwifter?_)  
+# Jazda z Pacemaker
+
+(_Join another Zwifter?_)  
         dołączenie do jednego z użytkowników aktualnie znajdującego się na trasie 
