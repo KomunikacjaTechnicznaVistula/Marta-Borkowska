@@ -17,7 +17,7 @@ Na tym ekranie możesz wybrać odpowiedni dla siebie trening indywidualny:
 * _plan treningowy_ - ustrukturyzowany zestaw treningów do wykonywania przez określony czas i w konkretnym celu (np. poprawa mocy, przygotowanie do wyścigów).
 
 ![Plan](../../assets/images/Plan.png){:height="300px" width="500px"}  
-*Plan* 
+*Plan treningowy* 
 
 Możesz również stworzyć **własny trening**. W tym celu wybierz _Custom Workouts_ i kliknij _Create a new workout_.
 
