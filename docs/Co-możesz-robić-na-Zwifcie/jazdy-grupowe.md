@@ -27,9 +27,9 @@ W jeździe grupowej na początku peletonu jedzie lider, nad którym wyświetla s
 *Lider i Sweeper*                                      
 
 **Kilka dobrych rad:**
-* nie wyprzedzaj lidera
-* trzymaj się jak najbliżej lidera lub z przodu peletonu
-* korzystaj z draftingu z umiarem; pozwól tym mocnym odpocząć ci na kole
-* współpracuj z innymi
-* baw się dobrze!
+* Nie wyprzedzaj lidera.
+* Trzymaj się jak najbliżej lidera lub z przodu peletonu.
+* Korzystaj z draftingu z umiarem; pozwól tym mocnym odpocząć ci na kole.
+* Współpracuj z innymi.
+* Baw się dobrze!
 
