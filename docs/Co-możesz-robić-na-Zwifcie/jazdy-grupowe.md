@@ -17,7 +17,7 @@ Jednak w przeciwieństwie do wyścigu celem jazdy grupowej jest korzystanie z do
 
 W jeździe grupowej na początku peletonu jedzie lider, nad którym wyświetla się żółta strzałka. Z kolei w ogonie mamy tzw. sweepera z czerwoną strzałką, który pilnuje, by nikt nie odłączył się od peletonu.
 
-![Lider](../../assets/images/Lider.png){:height="300px" width="100px"} ![Sweeper](../../assets/images/Sweeper.png){:height="350px" width="100px"}    
+![Lider](../../assets/images/Lider.png){:height="300px" width="100px"} ![Sweeper](../../assets/images/Sweeper.png){:height="400px" width="100px"}    
 *Lider i Sweeper*                                      
 
 **Kilka dobrych rad:**
