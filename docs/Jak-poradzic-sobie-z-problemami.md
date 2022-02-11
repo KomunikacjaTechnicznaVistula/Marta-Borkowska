@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Jak poradzić sobie z problemami?
+title: Jak radzić sobie z problemami?
 nav_order: 6
 ---
 
-## Jak poradzić sobie z problemami?
+## Jak radzić sobie z problemami?
 
 Oto kilka problemów, które najczęściej pojawiają się na początku drogi ze Zwiftem:
 
