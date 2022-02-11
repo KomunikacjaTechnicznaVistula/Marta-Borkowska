@@ -7,7 +7,7 @@ nav_order: 4
 ## Jak zacząć?
 
    1. Ściągnij aplikację Zwift na docelowe urządzenie.
-   2. Załóż [wymagane konta]({% link /docs/../../Czego-potrzebujesz.md)) i je ze sobą zintegruj (patrz [Glosariusz]({% link /docs/../../Glosariusz.md)).
+   2. Załóż [wymagane konta]({% link /docs/../../Czego-potrzebujesz.md) i je ze sobą zintegruj (patrz [Glosariusz]({% link /docs/../../Glosariusz.md)).
    3. Przygotuj trenażer z rowerem oraz dodatkowe urządzenia, z których korzystasz.
    4. Uruchom Zwifta i zaloguj się do swojego konta.
    5. Podłącz i skalibruj trenażer ([więcej informacji](http://ztpl.cc/parowanie-podlaczenie-trenazera)). Jeśli łączysz się przez ant+, upewnij się, że przy opcjach _Power source_ i _Controllable_ pojawia się symbol _FE-C_. Jeśli tak nie jest, kliknij _Search_ i wybierz go z listy. 
