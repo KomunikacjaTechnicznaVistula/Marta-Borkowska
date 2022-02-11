@@ -10,7 +10,10 @@ nav_order: 2
 Jazda grupowa to tzw. _group ride_. Opcję tę wybiera się w aplikacji _Zwift Companion_ lub na Zwifcie (_Upcoming events_) bezpośrednio w aplikacji lub na [stronie z wydarzeniami](https://www.zwift.com/eu/events).
 
 ![Events](../../assets/images/Events.png){:height="500px" width="150px"}  
-*Wyścigi w aplikacji Zwift Companion*  
+*Jazdy grupowe i wyścigi w aplikacji Zwift Companion*  
+
+![Jazdy grupowe i wyścigi](../../assets/images/Lista.png){:height="300px" width="500px"}  
+*Jazdy grupowe i wyścigi na ekranie startowym Zwifta*  
 
 Jest to jednak coś innego niż jazda samemu czy trening. Dzięki Zwiftowi poczujesz się niemal jak na prawdziwej ustawce. 
 

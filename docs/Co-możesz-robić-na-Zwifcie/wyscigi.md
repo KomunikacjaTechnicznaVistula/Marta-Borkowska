@@ -21,7 +21,10 @@ Wyścigi dzielą się również na 2 grupy:
 Opcję tę wybiera się w aplikacji _Zwift Companion_ lub na Zwifcie (_Upcoming events_) bezpośrednio w aplikacji bądź na [stronie z wydarzeniami](https://www.zwift.com/eu/events). 
 
 ![Events](../../assets/images/Events.png){:height="600px" width="200px"}  
-*Wyścigi w aplikacji Zwift Companion*
+*Jazdy grupowe i wyścigi w aplikacji Zwift Companion*
+
+![Jazdy grupowe i wyścigi](../../assets/images/Lista.png){:height="300px" width="500px"}  
+*Jazdy grupowe i wyścigi na ekranie startowym Zwifta*  
 
 Uwaga: należy wybrać wyścig zgodnie z własną [kategorią]({% link /../../Glosariusz.md). W przeciwnym razie grozi dyskwalifikacja!
 
