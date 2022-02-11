@@ -15,7 +15,7 @@ Tzw. jazda na kole, bezpośrednio za innym kolarzem, który „przecina” powie
 > **Kategorie wyścigowe**  
 Każdy wyścig na Zwifcie jest oznaczony literami od A do E, w zależności od poziomu wytrenowania kolarza, przy czym A jest dla tych najlepszych, a E to wydarzenie dostępne dla wszystkich. Wyniki podawane są również w tych kategoriach. Nie ma kategorii wiekowych. Aby dowiedzieć się, do jakiej kategori należysz, wykonaj test FTP.  Więcej informacji na [stronie Zwifta](https://www.zwift.com/news/12012-zwift-how-to-choose-your-cycling-race-category?__znl=en-eu). 
 
-![Kategorie](/../Marta-Borkowska/assets/images/Kategorie.png)  
+![Kategorie](/../Marta-Borkowska/assets/images/Kategorie.png){:height="400px" width="600px"}    
 *Kategorie* 
 
 > **Strava**  
