@@ -16,7 +16,7 @@ Na tym ekranie możesz wybrać odpowiedni dla siebie trening indywidualny:
 * _workout_ - trening jednostkowy, lub
 * _plan treningowy_ - ustrukturyzowany zestaw treningów do wykonywania przez określony czas i w konkretnym celu (np. poprawa mocy, przygotowanie do wyścigów).
 
-![Plan](/assets/images/Plan.png)
+![Plan](/assets/images/PaceMaker.png)
 *Plan* 
 
 Możesz również stworzyć **własny trening**. W tym celu wybierz _Custom Workouts_ i kliknij _Create a new workout_.
