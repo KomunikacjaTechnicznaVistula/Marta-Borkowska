@@ -31,6 +31,6 @@ Uwaga: należy wybrać wyścig zgodnie z własną [kategorią]({% link /../../Gl
 **Dobre rady:**
 * Sprawdź trasę przed wyścigiem. Zwróć szczególną uwagę na wzniesienia, liczbę okrążeń.
 * Oczekuj ognia od startu (w przypadku wyścigów TT - do mety)!
-* Korzystaj z draftngu i [PowerUp’ów](https://zwiftinsider.com/powerups), by oszczędzać siły.
+* Korzystaj z draftingu (patrz [Glosariusz]({% link /../../Glosariusz.md)) i [PowerUp’ów](https://zwiftinsider.com/powerups), by oszczędzać siły.
 * Trzymaj się środka peletonu. Na przodzie za bardzo się zmęczysz, a gdy będziesz z tyłu, mocniejsi moga ci odjechać podczas ataku i tego nie zauważysz.
 * Skonfiguruj konto na [ZwiftPower](https://zwiftpower.com), by podejrzeć dokładne wyniki, nie tylko swoje, ale również swoich rywali.
