@@ -30,7 +30,7 @@ Uwaga: należy wybrać wyścig zgodnie z własną [kategorią]({% link /../../Gl
 
 **Dobre rady:**
 * Sprawdź trasę przed wyścigiem. Zwróć szczególną uwagę na wzniesienia, liczbę okrążeń i długość trasy.
-* Wybierz odpowiedni do trasy rower i koła z garażu (jeśli już osiągnąłeś odpowiedni poziom lub zdobyłeś wymaganą liczbę kropelek (_drops_), by móc je wymienić na lepszy sprzęt).
+* Wybierz odpowiedni do trasy rower i koła z garażu (jeśli już osiągnąłeś odpowiedni poziom lub zdobyłeś wymaganą liczbę kropelek (_drops_), by móc je wymienić na lepszy sprzęt). Więcej na ten temat znajdziesz na stronie [Zwift Insider](https://support.zwift.com/en_us/drop-shop-faq-Bk1vMkTfB).
 * Oczekuj ognia od startu (w przypadku wyścigów TT - do mety)!
 * Korzystaj z draftingu (patrz [Glosariusz]({% link /../../Glosariusz.md)) i [PowerUp’ów](https://zwiftinsider.com/powerups), by oszczędzać siły (nie dotyczy wyścigów TT).
 * Trzymaj się środka peletonu. Na przodzie za bardzo się zmęczysz, a gdy będziesz z tyłu, mocniejsi moga ci odjechać podczas ataku i tego nie zauważysz.
