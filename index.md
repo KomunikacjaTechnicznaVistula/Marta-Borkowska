@@ -6,7 +6,7 @@ description: "Zwift - podręcznik Użytkownika"
 permalink: /
 ---
 
-![Zwift](/assets/images/logo.png){:height="400px" width="600px"} 
+![Zwift](/assets/images/logo.png){:height="300px" width="500px"} 
 
 # Wstęp
 {: .no_toc}
