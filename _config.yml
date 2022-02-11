@@ -4,6 +4,7 @@ description: An example of technical documentation hosted on Github pages, using
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: vistula
+baseurl: /Marta-Borkowska
 
 aux_links:
   "Source repository on GitHub":
