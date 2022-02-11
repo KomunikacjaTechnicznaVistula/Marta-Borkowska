@@ -21,9 +21,9 @@ Na tym ekranie możesz wybrać odpowiedni dla siebie trening indywidualny:
 
 Możesz również stworzyć **własny trening**. W tym celu wybierz _Custom Workouts_ i kliknij _Create a new workout_.
 
-![Custom workout](../../assets/images/Custom.png)
+![Custom workout](../../assets/images/Custom.png){:height="100px" width="200px"}
 *Stwórz własny trening*  
 
 
-Trenować możesz również w formie **[jazdy grupowej]({% link /../jazdy-grupowe.md)**. 
+Trenować możesz również w formie [jazdy grupowej]({% link /../jazdy-grupowe.md). 
 
