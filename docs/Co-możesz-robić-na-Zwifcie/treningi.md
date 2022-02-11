@@ -9,11 +9,18 @@ nav_order: 4
 
 Na Zwifcie można wybierać spośród różnego rodzaju treningów (_training_). W tym celu kliknij _Training_ w opcji _Ride type_.
 
-![Treningi](../../assets/images/Trening.png){:height="300px" width="500px"}  
-*Treningi*  
+![Workout](../../assets/images/Workout.png){:height="300px" width="500px"}  
+*Przejście do treningów z ekranu startowego*  
 
 Na tym ekranie możesz wybrać odpowiedni dla siebie trening indywidualny:
-* _workout_ - trening jednostkowy, lub
+
+* _workout_ - trening jednostkowy
+
+![Treningi](../../assets/images/Trening.png){:height="300px" width="500px"}  
+*Treningi* 
+
+lub
+
 * _plan treningowy_ - ustrukturyzowany zestaw treningów do wykonywania przez określony czas i w konkretnym celu (np. poprawa mocy, przygotowanie do wyścigów).
 
 ![Plan](../../assets/images/Plan.png){:height="300px" width="500px"}  
