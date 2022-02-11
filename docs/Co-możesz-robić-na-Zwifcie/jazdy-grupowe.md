@@ -7,7 +7,7 @@ nav_order: 2
 
 # Jazda grupowa  
 
-Jazda grupowa to tzw. _group ride_. Opcję tę wybiera się w aplikacji _Zwift Companion_ lub na Zwifcie (_Upcoming events_) bezpośrednio w aplikacji lub na [stronie z wydarzeniami](https://www.zwift.com/eu/events)).
+Jazda grupowa to tzw. _group ride_. Opcję tę wybiera się w aplikacji _Zwift Companion_ lub na Zwifcie (_Upcoming events_) bezpośrednio w aplikacji lub na [stronie z wydarzeniami](https://www.zwift.com/eu/events).
 
 ![Events](../../assets/images/Events.png){:height="600px" width="200px"}  
 
