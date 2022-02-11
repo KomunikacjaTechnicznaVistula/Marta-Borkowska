@@ -20,3 +20,5 @@ UWAGA: można zaprosić tylko tych użytkowników, którzy są Twoimi followersa
 4. Kliknij _Create Meetup_.
 5. Każda osoba, do której wyślesz wiadomość, musi zaakceptować zaproszenie.
 
+![Lider](../../assets/images/MeetUp1.png)  ![Sweeper](../../assets/images/MeetUp2.png)  
+*Tworzenie ustawki w Zwift Companion*  
