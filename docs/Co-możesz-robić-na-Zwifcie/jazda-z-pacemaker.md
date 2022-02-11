@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Jazda z Pace Partners
+title: Jazda z Pace Partnerem
 parent: Co możesz robić na Zwifcie?
 nav_order: 6
 ---
 
-# Jazda z Pace Partners 
+# Jazda z Pace Partnerem
 
 Ciekawą opcją jest również możliwość dołączenia do konkretnego użytkownika aktualnie znajdującego się na trasie. 
 
@@ -13,7 +13,7 @@ Istnieją 2 opcje:
 * jazda z tzw. Pace Partnerem, czyli botem. Aktualnie jest 4 takich awatarów reprezentujących daną kategorię. Jeżdzą oni po trasach, które zmieniają się co tydzień.
 
 ![Pace Partners](../../assets/images/PaceMaker.png) 
-*Pace Partners*  
+*Pace Partnerzy*  
 
 * jazda z innym użytkownikiem Zwifta
 
