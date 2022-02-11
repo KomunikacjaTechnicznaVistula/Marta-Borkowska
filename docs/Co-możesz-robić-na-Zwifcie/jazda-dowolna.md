@@ -11,7 +11,7 @@ Jazda dowolna to tzw. _free ride_. Opcję tę wybiera się z ekranu startowego.
 
 Na górze ekranu znajdują się trzy światy dostępne w danym dniu na Zwifcie zgodnie z [kalendarzem](https://zwiftinsider.com/schedule). Należy wybrać jeden z nich (_World choice_), a następnie przejść do listy tras (_routes_).  
 
-![Lista tras](main/assets/images/Trasy.png)  
+![Lista tras](Marta-Borkowska/assets/images/Trasy.png)  
 *Lista tras*  
 
 Po wybraniu jednej z tras kliknij _Ride_ na dole ekranu. Wówczas przeniesiesz się do wirtualnego świata, gdzie możesz jeździć we własnym tempie z innymi kolarzami, którzy są w danym czasie online.
