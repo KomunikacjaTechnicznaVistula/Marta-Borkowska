@@ -19,5 +19,8 @@ Istnieją 2 opcje:
 
 W tym celu na ekranie startowym należy wybrać odpowiedniego użytkownika w sekcji _Join another Zwifter?_.
 
+![Pace Partners](../../assets/images/PP.png){:height="300px" width="500px"}   
+*Wybór Pace Partnera lub użytkownika na ekranie startowym*  
+
 Jest to jazda grupowa, ale w stałym tempie, które można dostosować pod siebie, wybierając osobę o odpowiedniej dla nas średniej prędkości. Można z niej skorzystać podczas rozgrzewki, gdy chcesz jechać dłuższy dystans lub ze stałym tempem. A może chcesz poćwiczyć drafting lub potrenować interwały? Zawsze raźniej jest z kimś niż samemu.
          
