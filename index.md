@@ -6,6 +6,8 @@ description: "Zwift - podręcznik Użytkownika"
 permalink: /
 ---
 
+![Zwift](../../assets/images/logo.png) 
+
 # Wstęp
 {: .no_toc}
 ### Spis treści
