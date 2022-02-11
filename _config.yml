@@ -5,9 +5,6 @@ remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: vistula
 
-baseurl: /Marta-Borkowska/
-url: "https://komunikacjatechnicznavistula.github.io/Marta-Borkowska/"
-
 aux_links:
   "Source repository on GitHub":
     - "//github.com/KomunikacjaTechnicznaVistula/Marta-Borkowska"
