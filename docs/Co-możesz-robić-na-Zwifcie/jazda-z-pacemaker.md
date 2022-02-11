@@ -12,7 +12,7 @@ Ciekawą opcją jest również możliwość dołączenia do konkretnego użytkow
 Istnieją 2 opcje:
 * jazda z tzw. Pace Maker'em, czyli botem. Aktualnie jest 4 takich awatarów reprezentujących daną kategorię. Jeżdzą oni po trasach, które zmieniają się co tydzień.
 
-![Pace Makers](/assets/images/PaceMaker.png)
+![Pace Makers](../../assets/images/PaceMaker.png) 
 *Pace Makers*  
 
 * jazda z innym użytkownikiem Zwifta
