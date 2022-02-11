@@ -20,7 +20,7 @@ Wyścigi dzielą się również na 2 grupy:
 
 Opcję tę wybiera się w aplikacji _Zwift Companion_ lub na Zwifcie (_Upcoming events_) bezpośrednio w aplikacji bądź na [stronie z wydarzeniami](https://www.zwift.com/eu/events)). 
 
-Uwaga: należy wybrać wyścig zgodnie z własną [kategorią]({% link /../../Glosariusz.md){:height="400px" width="600px"}. W przeciwnym razie grozi dyskwalifikacja!
+Uwaga: należy wybrać wyścig zgodnie z własną [kategorią]({% link /../../Glosariusz.md). W przeciwnym razie grozi dyskwalifikacja!
 
 **Dobre rady:**
 * Sprawdź trasę przed wyścigiem. Zwróć szczególną uwagę na wzniesienia, liczbę okrążeń.
