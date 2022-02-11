@@ -11,6 +11,7 @@ Jazda dowolna to tzw. _free ride_. Opcję tę wybiera się z ekranu startowego.
 
 Na górze ekranu znajdują się trzy światy dostępne w danym dniu na Zwifcie zgodnie z [kalendarzem](https://zwiftinsider.com/schedule). Należy wybrać jeden z nich (_World choice_), a następnie przejść do listy tras (_routes_).  
 
+<img src="{{ Marta-Borkowska }}/assets/images/Trasy.png">
 ![Lista tras](/assets/images/Trasy.png)  
 *Lista tras*  
 
