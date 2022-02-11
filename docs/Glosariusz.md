@@ -9,7 +9,7 @@ nav_order: 7
 > **Awatar**   
 Obrazek reprezentujący użytkownika w wirtualnym świecie. Na Zwifcie dostosowuje się on do wymiarów danej osoby po podaniu wzrostu i wagi. Awatara możesz skonfigurować w _Menu > Garage_ przez wybranie m.in. kasku, koszulki czy Twoich cech charakterystycznych.
 
-> **Drafting**
+> **Drafting**  
 Tzw. jazda na kole, bezpośrednio za innym kolarzem, który „przecina” powietrze, biorąc na siebie opory aerodynamiczne. Osoba jadąca z tyłu zużywa w ten sposób o 30% mniej energii niż ta pedałująca na czele. Dzięki temu można odpocząć za kimś, zebrać siły, ponownie wyjść na prowadzenie, dać zmianę i pozwolić, by inni też złapali oddech. Taka jazda jest bardziej efektywna i zdecydowanie szybsza, niż solowa przejażdżka. Na Zwifcie drafting jest możliwy na wyścigach (z wyjątkiem TT) i jazdach grupowych z pewnymi różnicami: brak hamowania, brak sterowania kierownicą (wyjątek: jeśli posiadasz specjalną podkładkę Sterzo Smart) i opóźnienia. 
 
 > **Kategorie wyścigowe**  
