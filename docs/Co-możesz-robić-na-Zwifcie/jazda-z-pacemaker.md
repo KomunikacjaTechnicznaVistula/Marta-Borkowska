@@ -10,10 +10,10 @@ nav_order: 6
 Ciekawą opcją jest również możliwość dołączenia do konkretnego użytkownika aktualnie znajdującego się na trasie. 
 
 Istnieją 2 opcje:
-* jazda z tzw. Pace Maker'em, czyli botem. Aktualnie jest 4 takich awatarów reprezentujących daną kategorię. Jeżdzą oni po trasach, które zmieniają się co tydzień.
+* jazda z tzw. Pace Partnerem, czyli botem. Aktualnie jest 4 takich awatarów reprezentujących daną kategorię. Jeżdzą oni po trasach, które zmieniają się co tydzień.
 
-![Pace Makers](../../assets/images/PaceMaker.png) 
-*Pace Makers*  
+![Pace Partners](../../assets/images/PaceMaker.png) 
+*Pace Partners*  
 
 * jazda z innym użytkownikiem Zwifta
 
