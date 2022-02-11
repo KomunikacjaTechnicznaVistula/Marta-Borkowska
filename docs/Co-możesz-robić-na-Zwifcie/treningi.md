@@ -21,7 +21,7 @@ Na tym ekranie możesz wybrać odpowiedni dla siebie trening indywidualny:
 
 Możesz również stworzyć **własny trening**. W tym celu wybierz _Custom Workouts_ i kliknij _Create a new workout_.
 
-![Custom workout](../../assets/images/Custom.png){:height="100px" width="200px"}
+![Custom workout](../../assets/images/Custom.png){:height="200px" width="300px"}  
 *Stwórz własny trening*  
 
 
