@@ -18,10 +18,9 @@ nav_order: 4
    
 6.  Na ekranie _Paired devices_ sparuj wszystkie dodatkowe urządzenia. Jeśli połączą się poprawnie, zostaną oznaczone jako _Connected_, a przejście do kolejnego ekranu nastąpi automatycznie. W innym przypadku kliknij _OK_.
 
-![Parowanie](/../Marta-Borkowska/assets/images/Pairing.png){:height="250px" width="400px"}    
+    ![Parowanie](/../Marta-Borkowska/assets/images/Pairing.png){:height="250px" width="400px"}    
    *Parowanie urządzeń*
 
-{:start="7"}
 7.  Na ekranie startowym kliknij _Ride_.
 
 8.  Następnie wybierz _Menu > Garage_, aby skonfigurować awatara i wybrać rower oraz koła z dostępnych w aplikacji. Możesz również dostosować ustawienia w _Settings_.
