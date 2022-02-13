@@ -25,13 +25,13 @@ nav_order: 4
 
 8.  Następnie wybierz _Menu > Garage_, aby skonfigurować awatara i wybrać rower oraz koła z dostępnych w aplikacji. Możesz również dostosować ustawienia w _Settings_.
 
-![Ride](/../Marta-Borkowska/assets/images/Ride.png){:height="250px" width="400px"}    
+    ![Ride](/../Marta-Borkowska/assets/images/Ride.png){:height="250px" width="400px"}    
    *Ekran jazdy*
 
-![Garage](/../Marta-Borkowska/assets/images/Garage.png){:height="250px" width="400px"}    
+    ![Garage](/../Marta-Borkowska/assets/images/Garage.png){:height="250px" width="400px"}    
    *Przejście do konfiguracji awatara i sprzętu*
 
-![Customize](/../Marta-Borkowska/assets/images/Customize.png){:height="250px" width="400px"}    
+    ![Customize](/../Marta-Borkowska/assets/images/Customize.png){:height="250px" width="400px"}    
    *Konfiguracja awatara i sprzętu* 
 
 9.  Kliknij _Return to Home_, aby powrócić do ekranu startowego.
