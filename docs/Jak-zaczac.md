@@ -20,6 +20,7 @@ nav_order: 4
 
 ![Parowanie](/../Marta-Borkowska/assets/images/Pairing.png){:height="250px" width="400px"}    
    *Parowanie urządzeń*
+
 {:start="7"}
 7.  Na ekranie startowym kliknij _Ride_.
 
