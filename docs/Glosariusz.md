@@ -9,7 +9,7 @@ nav_order: 7
 > **Awatar**   
 Obrazek reprezentujący użytkownika w wirtualnym świecie. Na Zwifcie dostosowuje się on do wymiarów danej osoby po podaniu wzrostu i wagi. Awatara możesz skonfigurować w _Menu > Garage_ przez wybranie m.in. kasku, koszulki czy Twoich cech charakterystycznych.
 
-![Awatar](/../Marta-Borkowska/assets/images/Awatar.png){:height="200px" width="300px"}{:.centered}    
+![Awatar](/../Marta-Borkowska/assets/images/Awatar.png){:height="200px" width="300px"}    
 *Awatar* 
 
 > **Drafting**  
@@ -18,7 +18,7 @@ Tzw. jazda na kole, bezpośrednio za innym kolarzem, który „przecina” powie
 > **Kategorie wyścigowe**  
 Każdy wyścig na Zwifcie jest oznaczony literami od A do E, w zależności od poziomu wytrenowania kolarza, przy czym A jest dla tych najlepszych, a E to wydarzenie dostępne dla wszystkich. Wyniki podawane są również w tych kategoriach. Nie ma kategorii wiekowych. Aby dowiedzieć się, do jakiej kategori należysz, wykonaj test FTP.  Więcej informacji na [stronie Zwifta](https://www.zwift.com/news/12012-zwift-how-to-choose-your-cycling-race-category?__znl=en-eu). 
 
-![Kategorie](/../Marta-Borkowska/assets/images/Kategorie.png){:height="200px" width="300px"}{:.centered}    
+![Kategorie](/../Marta-Borkowska/assets/images/Kategorie.png){:height="200px" width="300px"}
 *Kategorie* 
 
 > **Strava**  
