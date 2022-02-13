@@ -34,10 +34,10 @@ nav_order: 4
    ![Customize](/../Marta-Borkowska/assets/images/Customize.png){:height="250px" width="400px"}    
    *Konfiguracja awatara i sprzętu* 
 
-   1.  Kliknij _Return to Home_, aby powrócić do ekranu startowego.
+   9.  Kliknij _Return to Home_, aby powrócić do ekranu startowego.
    
-   2.   Wykonaj test FTP (wybór z _Training > Workouts > FTP Tests_). Wróć do ekranu startowego.
+   10. Wykonaj test FTP (wybór z _Training > Workouts > FTP Tests_). Wróć do ekranu startowego.
    
-   3.    Gotowe! Kliknij _Ride_ i już możesz zacząć jeździć na Zwifcie. W przypadku problemów zajrzyj do sekcji [Jak poradzić sobie z problemami?](Jak-poradzic-sobie-z-problemami.md).
-   
-   4.      Po zakończonej jeździe zapisz dane, wyłącz aplikację (_Exit_) i rozłącz urządzenia. W przypadku wyścigu możesz sprawdzić wyniki na [ZwiftPower](https://zwiftpower.com). W przypadku jazdy dowolnej lub treningu najbardziej dokładne dane możesz podejrzeć w _Zwift Companion_. 
+   11. Gotowe! Kliknij _Ride_ i już możesz zacząć jeździć na Zwifcie. W przypadku problemów zajrzyj do sekcji [Jak poradzić sobie z problemami?](Jak-poradzic-sobie-z-problemami.md).
+
+   12. Po zakończonej jeździe zapisz dane, wyłącz aplikację (_Exit_) i rozłącz urządzenia. W przypadku wyścigu możesz sprawdzić wyniki na [ZwiftPower](https://zwiftpower.com). W przypadku jazdy dowolnej lub treningu najbardziej dokładne dane możesz podejrzeć w _Zwift Companion_. 
