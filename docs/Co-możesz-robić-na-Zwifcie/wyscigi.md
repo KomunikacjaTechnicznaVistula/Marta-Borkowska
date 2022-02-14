@@ -7,7 +7,7 @@ nav_order: 3
 
 # Wyścigi 
 
-Wyścigi (_races_) na Zwifcie to jest to, co kolarze lubią najbardziej. Od niedawna w tym wirtualnym świecie odbywają się nawet [Mistrzostwa Świata](https://velonews.pl/posts/7017-zwift-ponownie-gospodarzem-mistrzostw-swiata-uci-cycling-esports-world-championships), co pokazuje, jak bardzo e-sport zyskuje na znaczeniu. Niestety Zwift wciaż walczy z plagą oszustw poprzez wpisywanie przez zawodników zaniżonych parametrów tj. wzrost czy waga, co pozwala im uzyskiwać lepsze wyniki. Dlatego też warto traktować to przede wszystkim jako dobrą zabawę.
+Wyścigi (_races_) na Zwifcie to jest to, co kolarze lubią najbardziej. Od niedawna w tym wirtualnym świecie odbywają się nawet [Mistrzostwa Świata](https://velonews.pl/posts/7017-zwift-ponownie-gospodarzem-mistrzostw-swiata-uci-cycling-esports-world-championships), co pokazuje, jak bardzo e-sport zyskuje na znaczeniu. Niestety Zwift wciaż walczy z plagą oszustw ze strony zawodników podających w profilach zaniżone parametry tj. wzrost czy waga, co pozwala im uzyskiwać lepsze wyniki. Dlatego też warto traktować to przede wszystkim jako dobrą zabawę.
 
 Na Zwifcie możesz wziąć udział w wyścigach:
 
