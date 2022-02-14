@@ -35,7 +35,7 @@ Uwaga: należy wybrać wyścig zgodnie z własną [kategorią]({% link /../../Gl
 ![Drop Shop](../../assets/images/Drop_shop.png){:height="300px" width="500px"}  
 *Zakupy w Drop Shop* 
 
-* Oczekuj ognia od startu (w przypadku wyścigów TT - do mety)! Warto przeznaczyć trochę casu przed wyścigiem na solidną rozgrzewkę.
+* Oczekuj ognia od startu (w przypadku wyścigów TT - do mety)! Warto przeznaczyć trochę czasu przed wyścigiem na solidną rozgrzewkę.
 * Korzystaj z draftingu (patrz [Glosariusz]({% link /../../Glosariusz.md)) i [PowerUp’ów](https://zwiftinsider.com/powerups), by oszczędzać siły (nie dotyczy wyścigów TT).
 * Trzymaj się środka peletonu. Na przodzie za bardzo się zmęczysz, a gdy będziesz z tyłu, mocniejsi mogą ci odjechać podczas ataku i tego nie zauważysz.
 * Skonfiguruj konto na [ZwiftPower](https://zwiftpower.com), by podejrzeć dokładne wyniki, nie tylko swoje, ale również swoich rywali.
