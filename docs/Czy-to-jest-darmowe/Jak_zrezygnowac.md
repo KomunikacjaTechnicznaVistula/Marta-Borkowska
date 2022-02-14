@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jak zrezygnować z subskrypcji?
-parent: Czy to jest darmowe
+parent: Czy to jest darmowe?
 nav_order: 2
 ---
 
