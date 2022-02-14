@@ -15,10 +15,12 @@ nav_order: 1
     ![Membership](../../assets/images/Membership.png){:height="250px" width="400px"}   
 *Proces zakupu - krok 1*
    
-4. Sprawdź, czy wszystko się zgadza z zamówieniem i kliknij _Checkout now_ a na następnym oknie _Secure Checkout_.
+4. Sprawdź, czy wszystko się zgadza z zamówieniem i kliknij _Checkout now_ a na następnym oknie _Secure Checkout_.  
     ![Checkout](../../assets/images/Checkout.png){:height="250px" width="400px"}   
 *Proces zakupu - krok 2*
 
 5. W kolejnym kroku musisz podać dane karty płatniczej, z której **co miesiąc** będą pobierane płatności.
     ![Karta](../../assets/images/Card.png){:height="250px" width="400px"}   
 *Dane do płatności*
+
+6. I gotowe! Pamiętaj, że możesz w każdym momencie [zrezygnować z subskrypcji](Jak_zrezygnowac.md). Konto będzie aktywne do końca okresu rozliczeniowego.
