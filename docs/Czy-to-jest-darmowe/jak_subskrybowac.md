@@ -5,7 +5,7 @@ parent: Czy to jest darmowe?
 nav_order: 1
 ---
 
-## Jak subskrybować? 
+# Jak subskrybować? 
 
 1. Zaloguj się do swojego konta na [Zwifcie](https://www.zwift.com/) w przeglądarce.
    
