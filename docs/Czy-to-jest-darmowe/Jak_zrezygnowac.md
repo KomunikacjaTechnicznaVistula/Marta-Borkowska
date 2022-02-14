@@ -5,7 +5,7 @@ parent: Czy to jest darmowe?
 nav_order: 2
 ---
 
-# Jak zrezygnować z subskrypcji?
+## Jak zrezygnować z subskrypcji?
 
 Możesz zrezygnować z miesięcznej subskrypcji na 2 sposoby:
 * aby zawiesić subskrypcję na **12 tygodni**, wybierz opcję _Pause membership_  
