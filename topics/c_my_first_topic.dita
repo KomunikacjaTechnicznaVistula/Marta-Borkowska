@@ -5,6 +5,7 @@
     <shortdesc>text</shortdesc>
     <conbody>
         <p>First</p>
-        <p/>
+        <p>This is my pdf: <xref href="../docs/my_first_map.pdf" format="pdf" scope="external">PDF
+                document</xref></p>
     </conbody>
 </concept>
