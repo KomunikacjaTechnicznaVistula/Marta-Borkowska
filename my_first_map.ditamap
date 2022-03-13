@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>My first map</title>
+    <topicref href="topics/c_my_first_topic.dita"/>
+    <topicref href="topics/r_my_first_reference_topic.dita"/>
+    <topicref href="topics/t_creating_my_first_task.dita"/>
+    <reltable>
+        <relrow>
+            <relcell>
+                <topicref href="topics/c_my_first_topic.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_creating_my_first_task.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/r_my_first_reference_topic.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_creating_my_first_task.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/r_my_first_reference_topic.dita" linking="targetonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/c_my_first_topic.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
+</map>
