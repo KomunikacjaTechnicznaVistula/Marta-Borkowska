@@ -1,2 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map/>
+<map>
+   <appContext helpID="my_first_topic" path="topics/c_my_first_topic.html"/>
+   <appContext helpID="t_my_first_task" path="topics/t_creating_my_first_task.html"/>
+   <appContext helpID="r_my_first_reference_topic"
+               path="topics/r_my_first_reference_topic.html"/>
+   <appContext helpID="c_my_second_topic" path="topics/c_my_second_topic.html"/>
+   <appContext helpID="t_creating_my_second_task"
+               path="topics/t_creating_my_second_task.html"/>
+   <appContext helpID="r_my_second_reference" path="topics/r_my_second_reference.html"/>
+   <appContext helpID="c_my_third_topic" path="topics/c_my_third_topic.html"/>
+   <appContext helpID="t_creating_my_third_task"
+               path="topics/t_creating_my_third_task.html"/>
+   <appContext helpID="r_my_third_reference" path="topics/r_my_third_reference.html"/>
+   <appContext helpID="glossary" path="topics/glossary.html"/>
+   <appContext helpID="my_first_topic" path="topics/c_my_first_topic.html"/>
+   <appContext helpID="t_my_first_task" path="topics/t_creating_my_first_task.html"/>
+   <appContext helpID="r_my_first_reference_topic"
+               path="topics/r_my_first_reference_topic.html"/>
+   <appContext helpID="t_my_first_task" path="topics/t_creating_my_first_task.html"/>
+   <appContext helpID="r_my_first_reference_topic"
+               path="topics/r_my_first_reference_topic.html"/>
+   <appContext helpID="my_first_topic" path="topics/c_my_first_topic.html"/>
+   <appContext helpID="c_my_second_topic" path="topics/c_my_second_topic.html"/>
+   <appContext helpID="t_creating_my_second_task"
+               path="topics/t_creating_my_second_task.html"/>
+   <appContext helpID="r_my_second_reference" path="topics/r_my_second_reference.html"/>
+   <appContext helpID="t_creating_my_second_task"
+               path="topics/t_creating_my_second_task.html"/>
+   <appContext helpID="r_my_second_reference" path="topics/r_my_second_reference.html"/>
+   <appContext helpID="c_my_second_topic" path="topics/c_my_second_topic.html"/>
+   <appContext helpID="c_my_third_topic" path="topics/c_my_third_topic.html"/>
+   <appContext helpID="t_creating_my_third_task"
+               path="topics/t_creating_my_third_task.html"/>
+   <appContext helpID="r_my_third_reference" path="topics/r_my_third_reference.html"/>
+   <appContext helpID="t_creating_my_third_task"
+               path="topics/t_creating_my_third_task.html"/>
+   <appContext helpID="r_my_third_reference" path="topics/r_my_third_reference.html"/>
+   <appContext helpID="c_my_third_topic" path="topics/c_my_third_topic.html"/>
+</map>
