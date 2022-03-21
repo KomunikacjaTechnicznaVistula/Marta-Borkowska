@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_my_second_reference">
+    <title>r_My second reference</title>
+    <shortdesc>Consult the available data</shortdesc>
+    <refbody>
+        <data/>
+        <data/>
+    </refbody>
+</reference>

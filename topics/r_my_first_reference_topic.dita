@@ -2,7 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_my_first_reference_topic">
     <title>My first reference topic</title>
-    <shortdesc/>
+    <shortdesc>Consult the system requirements.</shortdesc>
     <refbody>
         <table frame="all" rowsep="1" colsep="1" id="table_nvz_pvz_vsb">
             <title>My first table</title>

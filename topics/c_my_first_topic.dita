@@ -2,10 +2,11 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="my_first_topic">
     <title>My first topic</title>
-    <shortdesc>text</shortdesc>
+    <shortdesc>This is an overview of skills that you may develop.</shortdesc>
     <conbody>
-        <p>First</p>
+        <p>Background text</p>
         <p>This is my pdf: <xref href="../docs/my_first_map.pdf" format="pdf" scope="external">PDF
-                document</xref></p>
+                document</xref><note type="remember" id="note_mqs_5vr_xsb">Always do this and
+                that!</note></p>
     </conbody>
 </concept>

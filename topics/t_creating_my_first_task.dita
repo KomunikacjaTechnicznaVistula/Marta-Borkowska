@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_my_first_task">
     <title>Creating my first task</title>
-    <shortdesc/>
+    <shortdesc>Learn how to configure the tool to use it effectively.</shortdesc>
     <taskbody>
         <context>
             <p/>

@@ -2,9 +2,26 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>My first map</title>
-    <topicref href="topics/c_my_first_topic.dita"/>
-    <topicref href="topics/r_my_first_reference_topic.dita"/>
-    <topicref href="topics/t_creating_my_first_task.dita"/>
+    <topicmeta>
+        <author>Marta Borkowska, Vistula University</author>
+        <copyright>
+            <copyryear year="2022"/>
+            <copyrholder/>
+        </copyright>
+    </topicmeta>
+    <topicref href="topics/c_my_first_topic.dita">
+        <topicref href="topics/t_creating_my_first_task.dita"/>
+        <topicref href="topics/r_my_first_reference_topic.dita"/>
+    </topicref>
+    <topicref href="topics/c_my_second_topic.dita">
+        <topicref href="topics/t_creating_my_second_task.dita"/>
+        <topicref href="topics/r_my_second_reference.dita"/>
+    </topicref>
+    <topicref href="topics/c_my_third_topic.dita">
+        <topicref href="topics/t_creating_my_third_task.dita"/>
+        <topicref href="topics/r_my_third_reference.dita"/>
+    </topicref>
+    <topicref href="topics/glossary.dita"/>
     <reltable>
         <relrow>
             <relcell>
@@ -28,6 +45,54 @@
             </relcell>
             <relcell>
                 <topicref href="topics/c_my_first_topic.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/c_my_second_topic.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_creating_my_second_task.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/r_my_second_reference.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_creating_my_second_task.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/r_my_second_reference.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/c_my_second_topic.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/c_my_third_topic.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_creating_my_third_task.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/r_my_third_reference.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_creating_my_third_task.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/r_my_third_reference.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/c_my_third_topic.dita"/>
             </relcell>
         </relrow>
     </reltable>

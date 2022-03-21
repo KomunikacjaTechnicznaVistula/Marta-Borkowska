@@ -14,19 +14,16 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>PDF (CSS Formatter - HTML5)</String>
                                         <String>WebHelp Responsive</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
-                                        <Byte>2</Byte>
                                         <Byte>2</Byte>
                                     </list>
                                 </field>
@@ -37,7 +34,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>PDF (CSS Formatter - HTML5)</String>
+                                        <String>WebHelp Responsive</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -251,7 +248,7 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="baseDir">
-                                    <String>${cfd}</String>
+                                    <String>${cd}</String>
                                 </field>
                                 <field name="outputDir">
                                     <String>${pd}/docs</String>
@@ -296,10 +293,10 @@
                                 <field name="publishingTemplateDataPO">
                                     <publishingTemplate>
                                         <field name="templateRoot">
-                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/ashes</String>
+                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen-gray</String>
                                         </field>
                                         <field name="descriptorRelativePath">
-                                            <String>ashes-tiles.opt</String>
+                                            <String>oxygen-gray-tiles.opt</String>
                                         </field>
                                         <field name="isCustomTemplate">
                                             <Boolean>false</Boolean>

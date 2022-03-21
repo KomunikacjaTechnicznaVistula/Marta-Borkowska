@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_creating_my_third_task">
+    <title>Creating my third task</title>
+    <shortdesc>You can integrate your vendors in the system manually.</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

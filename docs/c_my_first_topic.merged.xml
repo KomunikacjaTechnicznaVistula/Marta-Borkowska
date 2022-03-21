@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/ashes-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/notes.css'?>
+<?workdir /C:\Users\BorkMa2\Desktop\Moje dokumenty\Marta-Borkowska\temp?><?workdir-uri file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/temp/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="my_first_topic" specializations="@props/deliveryTarget" xtrc="concept:1;3:30" xtrf="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/topics/c_my_first_topic.dita" xml:lang="en">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">My first topic</ph></title>
+    <shortdesc class="- topic/shortdesc ">This is an overview of skills that you may develop.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Background text</p>
+        <p class="- topic/p ">This is my pdf: <xref class="- topic/xref " format="pdf" href="../docs/my_first_map.pdf" scope="external"><?ditaot usertext?>PDF
+                document</xref><note class="- topic/note " id="note_mqs_5vr_xsb" type="remember">Always do this and
+                that!</note></p>
+    </conbody>
+</concept>

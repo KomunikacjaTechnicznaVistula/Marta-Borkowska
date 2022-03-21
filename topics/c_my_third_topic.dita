@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_my_third_topic">
+    <title>My third topic</title>
+    <shortdesc>Learn about development possibilities.</shortdesc>
+    <conbody>
+        <p>Text, text, text</p>
+        <fig id="fig_uzm_mvr_xsb">
+            <title>Inline tags</title>
+            <image
+                href="../../_Studia%20Komunikacja%20Techniczna/Technologie%20komunikacji%20technicznej/Screenshot%20XTM.svg"
+                scale="50" id="image_vzm_mvr_xsb">
+                <alt>XTM inline tags</alt>
+            </image>
+        </fig>
+    </conbody>
+</concept>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_my_second_topic">
+    <title>My second topic</title>
+    <shortdesc>Learn why effective writing is good for you.</shortdesc>
+    <conbody>
+        <p>Text, text, text</p>
+        <p>&lt;xrefhref="http://www.google.com" format="html" scope="external">Link to
+            google.com&lt;/xref></p>
+    </conbody>
+</concept>
