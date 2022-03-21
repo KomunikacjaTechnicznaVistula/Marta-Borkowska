@@ -5,7 +5,6 @@
     <shortdesc>Learn why effective writing is good for you.</shortdesc>
     <conbody>
         <p>Text, text, text</p>
-        <p>&lt;xrefhref="http://www.google.com" format="html" scope="external">Link to
-            google.com&lt;/xref></p>
+        <p><xref href="http://www.google.com" format="html" scope="external">Link to Google</xref></p>
     </conbody>
 </concept>
