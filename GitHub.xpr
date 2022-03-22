@@ -14,7 +14,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>PDF (CSS Formatter - HTML5)</String>
+                                        <String>WebHelp Responsive</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -30,7 +30,27 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>topics/c_my_second_topic.dita</String>
+                                    <String>topics/c_example.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>WebHelp Responsive</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>topics/sample_file.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -51,6 +71,26 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>topics/c_my_first_topic.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>WebHelp Responsive</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>topics/r_my_first_reference.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -91,6 +131,66 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>topics/c_new_topic.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>WebHelp Responsive</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>topics/c_my_second_topic.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>WebHelp Responsive</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>topics/r_my_first_reference_topic.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>WebHelp Responsive</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>topics/c_my_first_topic%20-%20Copy.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -311,7 +411,7 @@
                                     <String>${cd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${pd}/docs</String>
+                                    <String>C:\Users\BorkMa2\Desktop\Moje dokumenty\Marta-Borkowska\docs</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>${pd}/temp</String>

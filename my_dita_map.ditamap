@@ -11,7 +11,7 @@
     </topicmeta>
     <topicref href="topics/c_my_first_topic.dita">
         <topicref href="topics/t_creating_my_first_task.dita"/>
-        <topicref href="topics/r_my_first_reference_topic.dita"/>
+        <topicref href="topics/r_my_first_reference.dita"/>
     </topicref>
     <topicref href="topics/c_my_second_topic.dita">
         <topicref href="topics/t_creating_my_second_task.dita"/>
@@ -22,10 +22,15 @@
         <topicref href="topics/r_my_third_reference.dita"/>
     </topicref>
     <topicref href="topics/glossary.dita"/>
+    <topicref href="topics/c_example.dita"/>
+    <topicref href="topics/sample_file.dita"/>
     <reltable>
         <relrow>
             <relcell>
-                <topicref href="topics/c_my_first_topic.dita"/>
+                <topicref href="topics/c_my_first_topic.dita">
+                    <topicref href="topics/t_creating_my_first_task.dita"/>
+                    <topicref href="topics/r_my_first_reference.dita"/>
+                </topicref>
             </relcell>
             <relcell>
                 <topicref href="topics/t_creating_my_first_task.dita"/>
@@ -33,7 +38,7 @@
         </relrow>
         <relrow>
             <relcell>
-                <topicref href="topics/r_my_first_reference_topic.dita" linking="sourceonly"/>
+                <topicref href="topics/r_my_first_reference.dita"/>
             </relcell>
             <relcell>
                 <topicref href="topics/t_creating_my_first_task.dita"/>
@@ -41,58 +46,21 @@
         </relrow>
         <relrow>
             <relcell>
-                <topicref href="topics/r_my_first_reference_topic.dita" linking="targetonly"/>
+                <topicref href="topics/r_my_first_reference.dita"/>
             </relcell>
             <relcell>
-                <topicref href="topics/c_my_first_topic.dita"/>
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref href="topics/c_my_second_topic.dita"/>
-            </relcell>
-            <relcell>
-                <topicref href="topics/t_creating_my_second_task.dita"/>
+                <topicref href="topics/c_my_first_topic.dita">
+                    <topicref href="topics/t_creating_my_first_task.dita"/>
+                    <topicref href="topics/r_my_first_reference.dita"/>
+                </topicref>
             </relcell>
         </relrow>
         <relrow>
             <relcell>
-                <topicref href="topics/r_my_second_reference.dita"/>
+                <topicref href="topics/c_example.dita"/>
             </relcell>
             <relcell>
-                <topicref href="topics/t_creating_my_second_task.dita"/>
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref href="topics/r_my_second_reference.dita"/>
-            </relcell>
-            <relcell>
-                <topicref href="topics/c_my_second_topic.dita"/>
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref href="topics/c_my_third_topic.dita"/>
-            </relcell>
-            <relcell>
-                <topicref href="topics/t_creating_my_third_task.dita"/>
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref href="topics/r_my_third_reference.dita"/>
-            </relcell>
-            <relcell>
-                <topicref href="topics/t_creating_my_third_task.dita"/>
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref href="topics/r_my_third_reference.dita"/>
-            </relcell>
-            <relcell>
-                <topicref href="topics/c_my_third_topic.dita"/>
+                <topicref href="topics/sample_file.dita"/>
             </relcell>
         </relrow>
     </reltable>

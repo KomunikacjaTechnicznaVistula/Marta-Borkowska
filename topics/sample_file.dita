@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="sample_file">
+    <title>Sample file</title>
+    <shortdesc/>
+    <conbody>
+        <p>This is my pdf: <xref href="../docs/my_dita_map.pdf" format="pdf" scope="external">PDF
+                document</xref><note type="remember" id="note_mqs_5vr_xsb">Always do this and
+                that!</note></p>
+    </conbody>
+</concept>
