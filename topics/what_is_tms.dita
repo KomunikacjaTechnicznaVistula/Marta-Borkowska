@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_tms">
+    <title>What is a TMS?</title>
+    <shortdesc/>
+    <conbody>
+        <p>A <b>translation management system (TMS)</b> is a type of software used for comprehensive
+            work with translation projects. It is a centralized platform that comprises various
+            tools, performs an abundance of tasks, and allows to achieve numerous goals.</p>
+        <p>Through its process optimization and linguistic technology features, each TMS aims
+            to:</p>
+        <ul id="ul_fkt_cr1_zsb">
+            <li>automate repeatable and non-essential tasks done by a project manager in the
+                translation process </li>
+            <li>maximise translator efficiency</li>
+            <li>reduce costs </li>
+            <li>cut down on processing time</li>
+            <li>monitor the translation status</li>
+            <li>standardise cooperation with translation vendors</li>
+            <li>ensure transparency of workflows</li>
+        </ul>
+        <p>As a result, a TMS is a complex content management tool used in the translation and
+            localization process, that comprises:</p>
+        <ul id="ul_ygf_kr1_zsb">
+            <li>translation editor</li>
+            <li>quality assurance tool</li>
+            <li>translation memory management</li>
+            <li>terminology database</li>
+            <li>finance management tools</li>
+            <li>API interface for connection with other systems and engines (CMS, machine
+                translation, other third-party systems)</li>
+        </ul>
+        <p>All of these parts support and accelerate the translation process.</p>
+    </conbody>
+</concept>

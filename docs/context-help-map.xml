@@ -1,4 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
    <appContext helpID="introduction" path="topics/introduction.html"/>
+   <appContext helpID="what_is_tms" path="topics/what_is_tms.html"/>
+   <appContext helpID="how_does_it_differ_from_cat"
+               path="topics/how_does_it_differ_from_cat.html"/>
+   <appContext helpID="cloud_vs_onsite_system"
+               path="topics/cloud_vs__onsite_system.html"/>
+   <appContext helpID="public_vs_private_cloud"
+               path="topics/public_vs__private_cloud.html"/>
+   <appContext helpID="market_overview1" path="topics/market_overview.html"/>
+   <appContext helpID="how_to_make_a_final_decision"
+               path="topics/how_to_make_a_final_decision.html"/>
+   <appContext helpID="tms_in_the_corporate_language_policy"
+               path="topics/tms_in_the_corporate_language_policy.html"/>
+   <appContext helpID="key_tms_features" path="topics/key_tms_features.html"/>
+   <appContext helpID="project_management" path="topics/project_management.html"/>
+   <appContext helpID="searcher" path="topics/searcher.html"/>
+   <appContext helpID="reports" path="topics/reports.html"/>
+   <appContext helpID="notifications" path="topics/notifications.html"/>
+   <appContext helpID="analytics" path="topics/analytics.html"/>
+   <appContext helpID="workflows" path="topics/workflows.html"/>
+   <appContext helpID="working_outside" path="topics/working_outside.html"/>
+   <appContext helpID="language_variants" path="topics/language_variants.html"/>
+   <appContext helpID="file_formats" path="topics/file_formats.html"/>
+   <appContext helpID="translation_editor_workbench"
+               path="topics/translation_editor_workbench.html"/>
+   <appContext helpID="key_functionalities" path="topics/key_functionalities.html"/>
+   <appContext helpID="dealing_with_inline_tags"
+               path="topics/dealing_with_inline_tags.html"/>
+   <appContext helpID="work_automation" path="topics/work_automation.html"/>
+   <appContext helpID="offline_editor" path="topics/offline_editor.html"/>
+   <appContext helpID="quality_management" path="topics/quality_management.html"/>
+   <appContext helpID="automatic_qa" path="topics/automatic_qa.html"/>
+   <appContext helpID="lqa" path="topics/lqa.html"/>
+   <appContext helpID="tm_management" path="topics/tm_management.html"/>
+   <appContext helpID="term_bases" path="topics/term_bases.html"/>
+   <appContext helpID="concordance" path="topics/concordance.html"/>
+   <appContext helpID="alignment" path="topics/alignment.html"/>
+   <appContext helpID="finance_management" path="topics/finance_management.html"/>
+   <appContext helpID="rate_cards" path="topics/rate_cards.html"/>
+   <appContext helpID="quotations" path="topics/quotations.html"/>
+   <appContext helpID="file_formats" path="topics/file_formats.html"/>
+   <appContext helpID="machine_translation" path="topics/machine_translation.html"/>
+   <appContext helpID="connectors" path="topics/connectors.html"/>
+   <appContext helpID="vendor_management" path="topics/vendor_management.html"/>
+   <appContext helpID="best_practices_of_cooperation"
+               path="topics/best_practices_of_cooperation.html"/>
+   <appContext helpID="how_to_integrate_your_vendors_in_xtm"
+               path="topics/how_to_integrate_your_vendors_in_xtm.html"/>
 </map>

@@ -1,0 +1,1 @@
+define({"topics":[{"title":"TMS in the Corporate Language Policy","shortdesc":"<p class=\"shortdesc\"\/>","href":"topics\/tms_in_the_corporate_language_policy.html","attributes":{"data-id":"tms_in_the_corporate_language_policy"},"menu":{"hasChildren":false},"tocID":"tms_in_the_corporate_language_policy-d385e83","topics":[]}]});

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="cloud_vs_onsite_system">
+    <title>Cloud vs. onsite system</title>
+    <shortdesc/>
+    <conbody>
+        <p>Most of the TMSs available on the market are offered:</p><ul id="ul_bt4_ns1_zsb">
+                <li>as cloud-based only</li>
+                <li>as onsite only or </li>
+                <li>in the hybrid model: cloud and onsite with only some features different</li>
+            </ul>
+        <p>There are companies which would only choose the solution that is physically installed on
+            their servers due to security issues and they have resources to manage it. Add to that a
+            high initial price, difficult installation, maintenance costs and the need to pay for
+            each upgrade (after a certain grace period is over) and you will quickly find out why
+            the cloud-based TMS is a better option for you.</p>
+        <p><b>What are the advantages of the cloud system?</b></p>
+        <ul id="ul_bd3_5s1_zsb">
+            <li>Lower costs of almost everything: from setup, maintenance, subscription fees</li>
+            <li>No need to have a dedicated maintenance team </li>
+            <li>Flexibility of adapting the TMS to your needs</li>
+            <li>Scalability of paying only for what you use</li>
+            <li>Possibility to access it from any place in the world, without VPN, at any time – you
+                only need Internet access</li>
+            <li>Update of translation resources in real time</li>
+            <li>Ongoing montoring of translation projects</li>
+            <li>Easier cooperation with multiple vendors at the same time</li>
+            <li>Backup of content which is hosted on multiple servers (reliability)</li>
+            <li>Security of data thanks to high-standard security protocols (e.g. no need to send
+                TMs by email)</li>
+            <li>Integration with other cloud-based systems (e.g. Wordpress)</li>
+            <li>For bigger and wealthier enterprises a private cloud is an option.</li>
+        </ul>
+        <p><b>Biggest threats to using a cloud-base solutions include:</b></p>
+        <ul id="ul_x4g_2t1_zsb">
+            <li>Security – your data is still outside your organization; this is solved by NDA</li>
+            <li>Reliability – problems with accessibility when the servers are down; this is solved
+                by SLA</li>
+        </ul>
+    </conbody>
+</concept>

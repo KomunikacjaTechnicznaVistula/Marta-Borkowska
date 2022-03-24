@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>How to choose TMS</title>
-    <topicref href="topics/introduction.dita"/>
+    <title>How to choose the right TMS for your company - XTM case</title>
+    <topicref href="topics/introduction.dita">
+        <topicref href="topics/what_is_tms.dita"/>
+        <topicref href="topics/how_does_it_differ_from_cat.dita"/>
+        <topicref href="topics/cloud_vs__onsite_system.dita"/>
+        <topicref href="topics/public_vs__private_cloud.dita"/>
+        <topicref href="topics/market_overview.dita"/>
+    </topicref>
+    <topicref href="topics/how_to_make_a_final_decision.dita">
+        <topicref href="topics/tms_in_the_corporate_language_policy.dita"/>
+    </topicref>
+    <topicref href="topics/key_tms_features.dita">
+        <topicref href="topics/project_management.dita">
+            <topicref href="topics/searcher.dita"/>
+            <topicref href="topics/reports.dita"/>
+            <topicref href="topics/notifications.dita"/>
+            <topicref href="topics/analytics.dita"/>
+            <topicref href="topics/workflows.dita"/>
+            <topicref href="topics/working_outside.dita"/>
+            <topicref href="topics/language_variants.dita"/>
+            <topicref href="topics/file_formats.dita"/>
+        </topicref>
+        <topicref href="topics/translation_editor_workbench.dita">
+            <topicref href="topics/key_functionalities.dita"/>
+            <topicref href="topics/dealing_with_inline_tags.dita"/>
+            <topicref href="topics/work_automation.dita"/>
+            <topicref href="topics/offline_editor.dita"/>
+        </topicref>
+        <topicref href="topics/quality_management.dita">
+            <topicref href="topics/automatic_qa.dita"/>
+            <topicref href="topics/lqa.dita"/>
+            <topicref href="topics/tm_management.dita"/>
+            <topicref href="topics/term_bases.dita"/>
+            <topicref href="topics/concordance.dita"/>
+            <topicref href="topics/alignment.dita"/>
+        </topicref>
+        <topicref href="topics/finance_management.dita">
+            <topicref href="topics/rate_cards.dita"/>
+            <topicref href="topics/quotations.dita"/>
+        </topicref>
+        <topicref href="topics/file_formats.dita"/>
+        <topicref href="topics/machine_translation.dita"/>
+        <topicref href="topics/connectors.dita"/>
+    </topicref>
+    <topicref href="topics/vendor_management.dita">
+        <topicref href="topics/best_practices_of_cooperation.dita"/>
+        <topicref href="topics/how_to_integrate_your_vendors_in_xtm.dita"/>
+    </topicref>
 </map>

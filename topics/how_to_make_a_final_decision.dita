@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_make_a_final_decision">
+    <title>Decision-making process</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>These are the steps that you should take before making the final decision on which
+                TMS to buy for your company:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Market research - check the rating</cmd>
+            </step>
+            <step>
+                <cmd>Demo? – testing if it meets company needs (resistance to change, fear of new
+                    tools, speed, quality)</cmd>
+            </step>
+            <step>
+                <cmd>Price offer + suites – budget alignment + no. of users</cmd>
+            </step>
+            <step>
+                <cmd>Feature analysis</cmd>
+            </step>
+            <step>
+                <cmd>Contract management (cooperation agreement + DPA + SLA)</cmd>
+            </step>
+            <step>
+                <cmd>Quick to learn?</cmd>
+            </step>
+            <step>
+                <cmd>Security issues</cmd>
+            </step>
+            <step>
+                <cmd>Support + documentation (release notes)</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

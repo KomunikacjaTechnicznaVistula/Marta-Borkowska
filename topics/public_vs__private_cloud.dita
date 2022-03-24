@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="public_vs_private_cloud">
+    <title>Public vs. private cloud</title>
+    <shortdesc/>
+    <conbody>
+        <p>Online service providers offer solutions to their clients on:</p>
+        <ul id="ul_hsy_dfb_zsb">
+            <li>private cloud</li>
+            <li>public cloud</li>
+            <li>hybrid cloud</li>
+        </ul>
+        <p><b>What's the difference between them and how does it affect your decision on which TMS
+            to buy?</b></p>
+        <p>There’s no one type of cloud that’s right for every organization. As a result, a choice
+            of a deployment method depends on your business needs.</p>
+        <p>A <b>private cloud</b> is cloud computing with resources used <b>exclusively</b> by one
+            business. It can be physically located at your organization’s on-site datacenter, or it
+            can be hosted by a third-party service provider. But in this case, the services and
+            infrastructure are always maintained on a <b>private network</b> and the hardware and
+            software are dedicated solely to one organization.</p>
+        <p>A <b>public cloud</b> is cloud computing with resources (hardware, software, storage,
+            network devices, etc.) owned and operated by a third-party cloud service provider and
+            delivered over the internet. Clients share the same insfrastructure with other
+            organizations (known as “tenants”) accessing services and managing their accounts using
+            a web browser.</p>
+        <p>A <b>hybrid cloud</b> is cloud computing that uses both public and private clouds, or
+            combine online and on-premises resouces. Inrastructure components can share the
+            resources between public and private cloud deployment depending on the business needs.
+            It is often used by organizations that require assistance in the form of public cloud
+            services e.g. to meet increased traffic demand or private clouds to handle sensitive
+            data. It is the most complex solution requiring some IT knowledge.</p>
+        <p>In the table below you will find a comparison of the most important cloud aspects:</p><table id="table_odl_bhb_zsb" frame="all">
+            <tgroup cols="4">
+                <colspec colname="c1" colnum="1"/>
+                <colspec colname="c2" colnum="2"/>
+                <colspec colname="c3" colnum="3"/>
+                <colspec colname="newCol4" colnum="4"/>
+                <thead>
+                    <row>
+                        <entry>Aspect</entry>
+                        <entry>Public cloud</entry>
+                        <entry>Private cloud</entry>
+                        <entry>Hybrid cloud</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><b>Security</b></entry>
+                        <entry><i>medium</i><p>there is always a risk of data disclosure due to
+                                resource sharing</p></entry>
+                        <entry><i>high</i><p>dedicated to one organization, more secure if on-site
+                                than online</p></entry>
+                        <entry><i>high</i><p>possibility of customized security measures</p></entry>
+                    </row>
+                    <row>
+                        <entry><b>Control</b></entry>
+                        <entry><i>low</i><p>both over costs and infrastructure
+                            availability</p></entry>
+                        <entry><i>high</i><p>especialy when stored on-site</p></entry>
+                        <entry><i>medium</i><p>lack of direct control over public
+                            infrastructure</p></entry>
+                    </row>
+                    <row>
+                        <entry><b>Customization</b></entry>
+                        <entry><i>low</i><p>features are the same for all clients using
+                            it</p></entry>
+                        <entry><i>high</i><p>flexibility to meet specific business needs</p></entry>
+                        <entry><i>high</i><p>possibility to choose which resources are stored on
+                                which cloud</p></entry>
+                    </row>
+                    <row>
+                        <entry><b>Costs</b></entry>
+                        <entry><i>low</i><p>you pay only for the service used and do not have to buy
+                                any infrastructure</p></entry>
+                        <entry><i>high</i><p>you incur initial costs of instalation,then pay for
+                                each upgrade</p></entry>
+                        <entry><i>medium</i><p>flexible plans to meet specific demands</p></entry>
+                    </row>
+                    <row>
+                        <entry><b>Installation and maintenance</b></entry>
+                        <entry><i>none</i><p>service provider is responsible for it</p></entry>
+                        <entry><i>required</i><p>only if it is stored on-site</p></entry>
+                        <entry><i>required</i><p>only if it is stored on-site</p></entry>
+                    </row>
+                    <row>
+                        <entry><b>Reliability</b></entry>
+                        <entry><i>high</i><p>ensured by a variety of third-party servers and
+                                back-ups</p></entry>
+                        <entry><i>high</i><p>SLA performance and efficiency</p></entry>
+                        <entry><i>high</i><p>due to workload diversity</p></entry>
+                    </row>
+                    <row>
+                        <entry><b>Scalability</b></entry>
+                        <entry><i>unlimited</i><p>resources are always available to meet any
+                                demand</p></entry>
+                        <entry><i>medium</i><p>depending on the subscription plan (may not meet
+                                unpredictable demands)</p></entry>
+                        <entry><i>high</i><p>achieved without exposing sensitive IT workloads to the
+                                inherent security risks</p></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>Which solution to choose then? The answer is: the one that <b>meets the needs of your
+                organization</b> and <b>is within your budget</b>. You are also limited to the offer
+            that is available on the market. However, it is always good to know about all the
+            benefits and drawbacks.</p>
+    </conbody>
+</concept>

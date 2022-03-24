@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="market_overview1">
+    <title>Market overview</title>
+    <shortdesc/>
+    <conbody>
+        <p>There is a great number of Translation Management Systems available to meet different
+            business needs. Below you can find a graphical representation from Nimdzi Language
+            Technology Atlas 2020, listing all TMSs divided into special-purpose categories:</p>
+        <fig id="fig_rtf_yzh_zsb">
+            <title><i>Translation Management Systems</i></title>
+            <image href="../images/Atlas-2020-v1.03-Web_2.6MB_3000px_wide-scaled.jpg" scale="50"
+                id="image_stf_yzh_zsb">
+                <alt>Translation Management Systems</alt>
+            </image>
+        </fig>
+        <p>Source: <xref href="https://www.nimdzi.com/nimdzi-language-technology-atlas-2020/"
+                format="html" scope="external"/></p>
+        <p>Here is a list of most popular TMSs available on the market with a brief description:</p>
+        <table id="table_dm4_5t1_zsb">
+            <title>Key TMS market players</title>
+            <tgroup cols="5">
+                <colspec colname="c1" colnum="1"/>
+                <colspec colname="c2" colnum="2"/>
+                <colspec colname="newCol3" colnum="3"/>
+                <colspec colname="newCol4" colnum="4" align="center"/>
+                <colspec colname="newCol5" colnum="5"/>
+                <thead>
+                    <row>
+                        <entry><b>TMS</b></entry>
+                        <entry><b>Description</b></entry>
+                        <entry><b>Cloud deployment</b></entry>
+                        <entry><b>On premises?</b></entry>
+                        <entry><b>Editor</b></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><xref href="https://www.memsource.com/" format="html"
+                                scope="external">Memsource</xref></entry>
+                        <entry>AI-powered TMS for global enterprises and language service
+                            providers</entry>
+                        <entry>Public cloud only</entry>
+                        <entry>No</entry>
+                        <entry>All major operating systems, including mobile</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://phrase.com/" format="html" scope="external"
+                                >Phrase</xref></entry>
+                        <entry>platform for software  localization</entry>
+                        <entry>Public cloud only</entry>
+                        <entry>Yes</entry>
+                        <entry>Web only</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://xtm.cloud/" format="html" scope="external">XTM
+                                Cloud</xref></entry>
+                        <entry>AI-powered TMS for global enterprises and language service
+                            providers</entry>
+                        <entry>Public or private</entry>
+                        <entry>Yes</entry>
+                        <entry>Web, mobile, offline</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://lokalise.com/" format="html" scope="external"
+                                >Localise</xref></entry>
+                        <entry>platform for software and games localization</entry>
+                        <entry>Public cloud only</entry>
+                        <entry>No</entry>
+                        <entry>Web only</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://www.smartling.com/" format="html"
+                                scope="external">Smartling</xref></entry>
+                        <entry>enterprise translation management software</entry>
+                        <entry>Cloud deployment</entry>
+                        <entry>No</entry>
+                        <entry>Web only</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://www.memoq.com/" format="html" scope="external"
+                                >memoQ cloud</xref></entry>
+                        <entry>Software as a Service translation management system</entry>
+                        <entry>Public or private</entry>
+                        <entry>Yes</entry>
+                        <entry>Windows installable and web</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://www.across.net/" format="html" scope="external"
+                                >Across</xref></entry>
+                        <entry>translation management system for enterprises and language service
+                            providers</entry>
+                        <entry>Public or private</entry>
+                        <entry>Yes</entry>
+                        <entry>Desktop or web</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://unbabel.com/" format="html" scope="external"
+                                >Unbabel</xref></entry>
+                        <entry>platform for translating your customer service communications</entry>
+                        <entry>Public cloud only</entry>
+                        <entry>No</entry>
+                        <entry>Web only</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://www.transifex.com/" format="html"
+                                scope="external">Transifex</xref></entry>
+                        <entry>translation &amp; localization management platform for web and mobile
+                            apps</entry>
+                        <entry>Public cloud only</entry>
+                        <entry>No</entry>
+                        <entry>Web only</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://globallink.translations.com/" format="html"
+                                scope="external">GlobalLink</xref></entry>
+                        <entry>cloud-based technology platform that optimizes translation management
+                            for businesses</entry>
+                        <entry>Public or private</entry>
+                        <entry>Yes</entry>
+                        <entry>Installable and web</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://www.smartcat.com/" format="html" scope="external"
+                                >Smartcat</xref></entry>
+                        <entry>internet platform for translation project management</entry>
+                        <entry>Public or private</entry>
+                        <entry>No</entry>
+                        <entry>All major operating systems and web</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://poeditor.com/" format="html" scope="external"
+                                >POEditor</xref></entry>
+                        <entry>cross-platform translation and localization management
+                            solution</entry>
+                        <entry>Public cloud only</entry>
+                        <entry>No</entry>
+                        <entry>Web only</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://wordbee.com/" format="html" scope="external"
+                                >Wordbee</xref></entry>
+                        <entry>SaaS collaborative translation management system for enterprises and
+                            LSPs</entry>
+                        <entry>Public or private</entry>
+                        <entry>Yes</entry>
+                        <entry>Web only</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://lilt.com/" format="html" scope="external"
+                                >Lilt</xref></entry>
+                        <entry>complete, high-quality online adaptive platform  for enterprise
+                            translation</entry>
+                        <entry>Cloud deployment</entry>
+                        <entry>No</entry>
+                        <entry>Web only</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://crowdin.com/" format="html" scope="external"
+                                >CrowdIn</xref></entry>
+                        <entry>cloud-based solution that streamlines localization management </entry>
+                        <entry>Public or private</entry>
+                        <entry>No</entry>
+                        <entry>Web only</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://www.rws.com/localization/language-cloud/"
+                                format="html" scope="external">RWS Language Cloud </xref></entry>
+                        <entry>next-generation complete intelligent translation platform</entry>
+                        <entry>Public cloud</entry>
+                        <entry>No</entry>
+                        <entry>Integration with SDL Trados Studio</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>Source: <i><xref
+                    href="https://rubric.com/en-US/translation-management-system-comparison/"
+                    format="html" scope="external"
+                    >https://rubric.com/en-US/translation-management-system-comparison/</xref></i></p>
+        <p>For detailed information on a variety of Translation Management Systems you can consult
+                <xref href="https://www.nimdzi.com/tms" format="html" scope="external"
+            >Nimdzi</xref>.</p>
+        <p>There are also a few interesting tools for you, e.g. <xref
+                href="https://www.g2.com/categories/translation-management?utf8=%E2%9C%93&amp;selected_view=grid#grid"
+                format="html" scope="external">G2</xref> or <xref
+                href="https://crozdesk.com/it/localization-software" format="html" scope="external"
+                >Crozdesk</xref> for you to check the rating of and compare the most popular TMSs
+            including user reviews.</p>
+    </conbody>
+</concept>
