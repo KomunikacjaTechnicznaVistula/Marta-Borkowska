@@ -9,10 +9,14 @@
    <appContext helpID="public_vs_private_cloud"
                path="topics/public_vs__private_cloud.html"/>
    <appContext helpID="market_overview1" path="topics/market_overview.html"/>
-   <appContext helpID="how_to_make_a_final_decision"
-               path="topics/how_to_make_a_final_decision.html"/>
    <appContext helpID="tms_in_the_corporate_language_policy"
                path="topics/tms_in_the_corporate_language_policy.html"/>
+   <appContext helpID="which_companies_need_a_tms"
+               path="topics/which_companies_need_a_tms.html"/>
+   <appContext helpID="what_are_common_concerns_about_using_a_tms"
+               path="topics/what_are_common_concerns_about_using_a_tms.html"/>
+   <appContext helpID="how_to_make_a_final_decision"
+               path="topics/how_to_make_a_final_decision.html"/>
    <appContext helpID="key_tms_features" path="topics/key_tms_features.html"/>
    <appContext helpID="project_management" path="topics/project_management.html"/>
    <appContext helpID="searcher" path="topics/searcher.html"/>
@@ -43,6 +47,7 @@
    <appContext helpID="file_formats" path="topics/file_formats.html"/>
    <appContext helpID="machine_translation" path="topics/machine_translation.html"/>
    <appContext helpID="connectors" path="topics/connectors.html"/>
+   <appContext helpID="documentation" path="topics/documentation.html"/>
    <appContext helpID="vendor_management" path="topics/vendor_management.html"/>
    <appContext helpID="best_practices_of_cooperation"
                path="topics/best_practices_of_cooperation.html"/>

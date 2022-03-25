@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="tms_in_the_corporate_language_policy">
-    <title>TMS in the Corporate Language Policy</title>
-    <shortdesc/>
+    <title>TMS in Corporate Language Policy</title>
+    <shortdesc>Learn when you should choose a TMS and how to do it.</shortdesc>
     <conbody>
-        <p/>
+        <p>From a business perspective, a <b>Corporate Language Policy</b> is a must for every
+            multinational an multilingual corporation engaged in international operations. It should
+            be drafted at the beginning of their globalization process along other important
+            regulations and procedures such as Security Policy or Data Protection Policy. However,
+            it is often not the case, which is a pity.</p>
+        <p>A Corporate Language Policy is a comprehensive strategy that defines the organization's
+            approach to the language that is used in external and internal communication to be more
+            diverse and inclusive. The best option is to write it down in the form of an official
+            document and make it available to all the employees worldwide.</p>
+        <p>It defines in particular:</p>
+        <p>
+            <ul id="ul_wrl_myp_zsb">
+                <li>one global corporate language (e.g. English)</li>
+                <li>what needs to be translated and into which languages</li>
+                <li>how the language policy helps achieve corporate objectives</li>
+                <li>what tools are used and by whom</li>
+                <li>if the translation process is kept in-house or outsourced</li>
+                <li>aspects of inter-cultural communication</li>
+                <li>impact on other internal regulations e.g. employment policy, marketing
+                    strategy</li>
+            </ul>
+        </p>
+        <p>While being a rather general and high-level document, a Corporate Language Policy may
+            contain a more detailed <b>localization strategy</b> which focuses more on target
+            markets and customers buying company's products. And here is where you should look when
+            deciding upon a TMS. Its features must correspond to the goals set by the organization
+            on how to communicate its message.</p>
+        <p>For example, if your company wishes to make only websites and customer service
+            communication available in other languages, you may decide on a more
+            localization-oriented TMS (such as Localize). However, when your targets are both
+            marketing materials, IT software strings and corporate communication, then choose a
+            comprehensive translation management system instead (e.g. XTM, Memsource).</p>
     </conbody>
 </concept>

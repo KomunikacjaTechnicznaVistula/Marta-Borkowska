@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>How to choose the right TMS for your company - XTM case</title>
+    <title>How to choose and start working with the right TMS for your company - XTM case</title>
     <topicref href="topics/introduction.dita">
         <topicref href="topics/what_is_tms.dita"/>
         <topicref href="topics/how_does_it_differ_from_cat.dita"/>
@@ -9,8 +9,10 @@
         <topicref href="topics/public_vs__private_cloud.dita"/>
         <topicref href="topics/market_overview.dita"/>
     </topicref>
-    <topicref href="topics/how_to_make_a_final_decision.dita">
-        <topicref href="topics/tms_in_the_corporate_language_policy.dita"/>
+    <topicref href="topics/tms_in_the_corporate_language_policy.dita">
+        <topicref href="topics/which_companies_need_a_tms.dita"/>
+        <topicref href="topics/what_are_common_concerns_about_using_a_tms.dita"/>
+        <topicref href="topics/how_to_make_a_final_decision.dita"/>
     </topicref>
     <topicref href="topics/key_tms_features.dita">
         <topicref href="topics/project_management.dita">
@@ -44,6 +46,7 @@
         <topicref href="topics/file_formats.dita"/>
         <topicref href="topics/machine_translation.dita"/>
         <topicref href="topics/connectors.dita"/>
+        <topicref href="topics/documentation.dita"/>
     </topicref>
     <topicref href="topics/vendor_management.dita">
         <topicref href="topics/best_practices_of_cooperation.dita"/>

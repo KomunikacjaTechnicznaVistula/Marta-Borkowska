@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_are_common_concerns_about_using_a_tms">
+    <title>What are common concerns about using a TMS?</title>
+    <shortdesc/>
+    <conbody>
+        <p>Once the management decides upon buying a TMS, different participants of the translation
+            process may raise their objections. Here is what you may often hear from them and how
+            you may reply:</p>
+            <table id="table_qpg_x4q_zsb">
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1"/>
+                    <colspec colname="c2" colnum="2"/>
+                    <thead>
+                        <row>
+                            <entry>They say:</entry>
+                            <entry>You reply:</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><i>It is very expensive so it is not worth it. We already spend a
+                                lot on translation.</i></entry>
+                            <entry>We have calculated it: we will save more on leveraging on
+                            centralized TMs than spend on the TMS. We will no longer pay twice for
+                            translation of the same content and will benefit from discounts on
+                            similar texts. We will have a biger control over the pricing policy than
+                            it used to be so far.</entry>
+                        </row>
+                        <row>
+                            <entry><i>It is difficult to use. We would need ongoing technical
+                                support.</i></entry>
+                            <entry>Yes, that's true: new systems require time to learn. However,
+                            most TMS providers offer free initial training courses, catch-up
+                            webinars, support documentation and/or access to a Key Account Manager.
+                            You will also be able to get help from a dedicated Localization
+                            Specialist. We will also draft  user manuals and guidelines for our
+                            internal stakeholders.</entry>
+                        </row>
+                        <row>
+                            <entry><i>The translation process will take longer than now and time to
+                                market is crucial.</i></entry>
+                            <entry>TMSs make the translation faster by leveraging on translation
+                            memories and content reuse. They also have special features to automate
+                            a variety of tasks so forget about unnecessary steps in the
+                            process.</entry>
+                        </row>
+                        <row>
+                            <entry><i>Our reviewers will not be willing to use it. They are used to
+                                working on standard documents.</i></entry>
+                            <entry>Explain that you will make the whole process user-friendly.
+                            Everyone will be able to work according to their preferences. Most TMSs
+                            allow for exporting file previews that can be worked on in a traditional
+                            way. But it is also possible to use the Editor saving on time and making
+                            the whole process quicker.</entry>
+                        </row>
+                        <row>
+                            <entry><i>It will complicate our workflows. We do not want to change
+                                what is already functioning well.</i></entry>
+                            <entry>People are generally reluctant to change but it doesn't mean it
+                            has to be for the worse. Try to show each of them the benefits of using
+                            a TMS from their perspective. Focus mostly on cost- and time-savings and
+                            a biger control over the whole process.</entry>
+                        </row>
+                        <row>
+                            <entry><i>Our current translation vendors will not want to use it. Each
+                                of them have their own TMS and CAT tools.</i></entry>
+                            <entry>Most TMSs enable exporting packages to be processed in any CAT
+                            tool (interoperability). As a result, LSPs or freelancers can still use
+                            their preferred resources with a possibility to translate in the TMS
+                            Editor as well (thus saving on their licence costs).</entry>
+                        </row>
+                    <row>
+                        <entry><i>I feel it more secure when all translation memories are saved on
+                                my computer. I don't trust cloud services.</i></entry>
+                        <entry>The TMS provider will sign an NDA agreement with us and it ensures
+                            continuous back-up of our data on several secure servers. Anyway, you
+                            can always lose access to your hard drives due to a computer failure as
+                            well and then no one will be to retrieve this content.</entry>
+                    </row>
+                    <row>
+                        <entry><i>I fear this change will have a negative impact on the translation
+                                quality. An IT tool cannot be better than human.</i></entry>
+                        <entry>QA, LQA</entry>
+                    </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        
+    </conbody>
+</concept>
