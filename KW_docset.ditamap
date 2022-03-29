@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title><keyword keyref="company"/> espresso machines</title>
+    <keydef keys="company">
+        <topicmeta>
+            <keywords>
+                <keyword>Kawomator</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="product1">
+        <topicmeta>
+            <keywords>
+                <keyword>KW100</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="product2">
+        <topicmeta>
+            <keywords>
+                <keyword>KW200</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <topicref href="topics/c_introduction.dita">
+        <ditavalref href="ditavals/f_consumer.ditaval"/>
+        <topicref href="topics/t_operating.dita" keyscope="1">
+            <keydef keys="product">
+                <topicmeta>
+                    <keywords>
+                        <keyword>KW100</keyword>
+                    </keywords>
+                </topicmeta>
+            </keydef>
+        </topicref>
+        <topicref href="topics/t_operating.dita" keyscope="2">
+            <keydef keys="product">
+                <topicmeta>
+                    <keywords>
+                        <keyword>KW200</keyword>
+                    </keywords>
+                </topicmeta>
+            </keydef>
+        </topicref>
+        <topicref href="topics/r_recipes.dita"/>
+    </topicref>
+
+    <topicref href="topics/c_introduction.dita">
+        <ditavalref href="ditavals/f_maintenance.ditaval"/>
+        <topicgroup keyscope="1">
+            <ditavalref href="ditavals/f_product1.ditaval"/>
+            <topicref href="topics/t_assembling.dita"/>
+            <topicref href="topics/t_cleaning_steam.dita"/>
+            <topicref href="topics/t_cleaning_filter.dita"/>
+            <topicref href="topics/t_operating.dita"/>
+        </topicgroup>
+        <topicgroup>
+            <ditavalref href="ditavals/f_product2.ditaval"/>
+            <topicref href="topics/t_assembling.dita" keyscope="2"/>
+            <topicref href="topics/t_cleaning_steam.dita" keyscope="2"/>
+            <topicref href="topics/t_cleaning_filter.dita" keyscope="2"/>
+            <topicref href="topics/t_operating.dita" keyscope="2"/>
+        </topicgroup>
+    </topicref>
+
+    <topicref href="glossary/glossary.ditamap" format="ditamap" toc="no"/>
+
+</map>

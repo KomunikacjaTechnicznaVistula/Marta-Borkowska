@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_operating">
+    <title>Cleaning the <keyword keyref="product"/> filter holder and portafilter</title>
+    <shortdesc><ph product="product1">The <keyword keyref="g_filter_holder"/> in the <keyword
+                keyref="product1"/> must be cleaned every 50 servings.</ph><ph product="product2"
+            >The 1-cup <keyword keyref="g_filter_holder"/> in the <keyword keyref="product2"/> must
+            be cleaned every 50 servings, while the 2-cup <keyword keyref="g_filter_holder"/> must
+            be cleaned every 40 servings.</ph></shortdesc>
+    <taskbody>
+        <steps id="steps_cff_4mf_cpb">
+            <step>
+                <cmd>Remove the <keyword keyref="g_portafilter"/> from the <keyword>brew
+                        head</keyword>.</cmd>
+            </step>
+            <step>
+                <cmd>Dismantle the <keyword keyref="g_portafilter"/> to separate the <keyword
+                        keyref="g_filter_holder"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Soak the <keyword keyref="g_filter_holder"/> in hot water with a few drops of
+                        <keyword keyref="company"/>-compatible filter cleaning fluid.</cmd>
+            </step>
+            <step>
+                <cmd>Use a damp cloth to wipe the exterior and interior of the <keyword
+                        keyref="g_portafilter"/> and the <keyword keyref="g_brew_head"/>.</cmd>
+            </step>
+            <step product="product2">
+                <!--KW200-->
+                <cmd>Use a small brush to clean the interior of each of the outlets of the <keyword
+                        keyref="g_portafilter"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Wipe the <keyword keyref="g_filter_holder"/> and re-assemble the <keyword
+                        keyref="g_portafilter"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Run water through the <keyword keyref="product"/> with an empty <keyword
+                        keyref="g_portafilter"/> connected to the <keyword keyref="g_brew_head"/> to
+                    rinse out any residual filter-cleaning fluid.</cmd>
+                <info>The empty <keyword keyref="g_portafilter"/> should contain the <keyword
+                        keyref="g_filter_holder"/> but no ground coffee.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

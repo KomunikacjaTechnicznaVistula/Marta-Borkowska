@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>KWXXX PDF guide core structure</title>
+    <keydef keys="company">
+        <topicmeta>
+            <keywords>
+                <keyword>Kawomator</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="product1">
+        <topicmeta>
+            <keywords>
+                <keyword>KW100</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="product2">
+        <topicmeta>
+            <keywords>
+                <keyword>KW200</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <topicgroup audience="consumer">
+        <topicref href="topics/c_introduction.dita"/>
+        <topicref href="topics/t_operating.dita"/>
+        <topicref href="topics/r_recipes.dita"/>
+    </topicgroup>
+    <topicgroup audience="maintenance">
+        <topicref href="topics/c_introduction.dita"/>
+        <topicref href="topics/t_assembling.dita"/>
+        <topicref href="topics/t_cleaning_steam.dita"/>
+        <topicref href="topics/t_cleaning_filter.dita"/>
+        <topicref href="topics/t_operating.dita"/>
+    </topicgroup>
+    <topicref href="glossary/glossary.ditamap" format="ditamap" toc="no"/>
+</map>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_introduction">
+    <title><ph audience="consumer">Consumer</ph><ph audience="maintenance">Maintenance</ph>
+        guide</title>
+    <shortdesc>Learn how to <ph audience="consumer">operate</ph><ph audience="maintenance"
+            >maintain</ph> your <keyword keyref="company"/> espresso machine.</shortdesc>
+    <conbody>
+        <p><keyword keyref="company"/> produces high-quality espresso machines for true coffee
+            connoisseurs.</p>
+        <section id="section_gh2_vqf_cpb" product="product1"><title><keyword keyref="company"/>
+                <keyword keyref="product1"/></title><p>The <keyword keyref="product1"/> is a
+                superior single-cup espresso machine model.</p><image href="../images/KW100.jpg"
+                width="400px" id="image_uhw_zrf_cpb"/></section>
+        <section id="section_exv_frf_cpb" product="product2"><title><keyword keyref="company"/>
+                <keyword keyref="product2"/></title><p>The <keyword keyref="product2"/> is a
+                top-tier espresso machine capable of simultaneously brewing two cups of silky,
+                aromatic espresso.</p><image href="../images/KW200.jpg" id="image_g3m_yrf_cpb"
+                width="400px"/></section>
+        <section id="section_czc_tgg_cpb" audience="html">
+            <title>Documentation downloads</title>
+            <ul id="ul_ttj_ygg_cpb" audience="consumer">
+                <li><xref href="KW100_consumer_guide.pdf" format="pdf" scope="external">KW100
+                        consumer guide (PDF)</xref></li>
+                <li><xref href="KW200_consumer_guide.pdf" format="pdf" scope="external">KW200
+                        consumer guide (PDF)</xref></li>
+            </ul>
+            <ul id="ul_rns_lhg_cpb" audience="maintenance">
+                <li><xref href="KW100_maintenance_guide.pdf" format="pdf" scope="external">KW100
+                        maintenance guide (PDF)</xref></li>
+                <li><xref href="KW200_maintenance_guide.pdf" format="pdf" scope="external">KW200
+                        maintenance guide (PDF)</xref></li>
+            </ul>
+        </section>
+    </conbody>
+</concept>

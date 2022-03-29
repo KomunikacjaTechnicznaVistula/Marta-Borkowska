@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_operating">
+    <title>Cleaning the <keyword keyref="product"/> steam wand and frothing attachment</title>
+    <shortdesc>The <keyword>Steam Wand </keyword> and <keyword keyref="g_frothing_att"/> should
+        always be cleaned after frothing milk.</shortdesc>
+    <taskbody>
+        <steps id="steps_lg5_tlf_cpb">
+            <step>
+                <cmd>Remove the <keyword keyref="g_frothing_att"/> and rinse in warm tap
+                    water.</cmd>
+            </step>
+            <step>
+                <cmd>Use a <keyword keyref="company"/>-compatible cleaning tool to clean the two
+                    fine steam holes on either end of the <keyword keyref="g_frothing_att"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Wipe the <keyword keyref="g_steam_wand"/> with a damp cloth.</cmd>
+            </step>
+            <step>
+                <cmd>With the <keyword keyref="g_steam_wand"/> directed back into the drip tray,
+                    briefly set the <uicontrol>Selector Control</uicontrol> to the
+                        <parmname>Steam</parmname> setting.</cmd>
+                <info>Leave the <uicontrol>Selector Control</uicontrol> in the
+                        <parmname>Steam</parmname> setting for at least 5 seconds.</info>
+            </step>
+            <step>
+                <cmd>Set the <uicontrol>Selector Control</uicontrol> to the
+                        <parmname>Standby</parmname> position.</cmd>
+            </step>
+            <step>
+                <cmd>Press the <uicontrol>ON/OFF button </uicontrol> to <parmname>OFF</parmname>,
+                    switch off at the power outlet, unplug the power cord and allow the machine to
+                    cool before starting it again.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

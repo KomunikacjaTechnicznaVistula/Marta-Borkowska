@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>glossary map</title>
+    <keydef keys="g_brew_head" href="g_brew_head.dita"/>
+    <keydef keys="g_filter_holder" href="g_filter_holder.dita"/>
+    <keydef keys="g_frothing_att" href="g_frothing_att.dita"/>
+    <keydef keys="g_portafilter" href="g_portafilter.dita"/>
+    <keydef keys="g_steam_wand" href="g_steam_wand.dita"/>
+     <topicref href="r_glossary.dita" chunk="to-content">
+        <topicref keyref="g_brew_head"/>
+        <topicref keyref="g_filter_holder"/>
+        <topicref keyref="g_frothing_att"/>
+        <topicref keyref="g_portafilter"/>
+        <topicref keyref="g_steam_wand"/>
+    </topicref>
+</map>

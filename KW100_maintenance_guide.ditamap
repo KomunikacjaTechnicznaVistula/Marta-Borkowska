@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>KW100 maintenance guide</title>
+    <ditavalref href="ditavals/f_product1_maintenance_pdf.ditaval"/>
+    <keydef keys="product">
+        <topicmeta>
+            <keywords>
+                <keyword>KW100</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <mapref href="KW_pdf.ditamap"/>
+</map>

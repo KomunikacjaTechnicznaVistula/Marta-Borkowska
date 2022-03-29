@@ -1,34 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="my_first_topic" path="topics/c_my_first_topic.html"/>
-   <appContext helpID="t_my_first_task" path="topics/t_creating_my_first_task.html"/>
-   <appContext helpID="r_my_first_reference_topic"
-               path="topics/r_my_first_reference.html"/>
-   <appContext helpID="c_my_second_topic" path="topics/c_my_second_topic.html"/>
-   <appContext helpID="t_creating_my_second_task"
-               path="topics/t_creating_my_second_task.html"/>
-   <appContext helpID="r_my_second_reference" path="topics/r_my_second_reference.html"/>
-   <appContext helpID="c_my_third_topic" path="topics/c_my_third_topic.html"/>
-   <appContext helpID="t_creating_my_third_task"
-               path="topics/t_creating_my_third_task.html"/>
-   <appContext helpID="r_my_third_reference" path="topics/r_my_third_reference.html"/>
-   <appContext helpID="glossary" path="topics/glossary.html"/>
-   <appContext helpID="c_example" path="topics/c_example.html"/>
-   <appContext helpID="sample_file" path="topics/sample_file.html"/>
-   <appContext helpID="my_first_topic" path="topics/c_my_first_topic.html"/>
-   <appContext helpID="t_my_first_task" path="topics/t_creating_my_first_task.html"/>
-   <appContext helpID="r_my_first_reference_topic"
-               path="topics/r_my_first_reference.html"/>
-   <appContext helpID="t_my_first_task" path="topics/t_creating_my_first_task.html"/>
-   <appContext helpID="r_my_first_reference_topic"
-               path="topics/r_my_first_reference.html"/>
-   <appContext helpID="t_my_first_task" path="topics/t_creating_my_first_task.html"/>
-   <appContext helpID="r_my_first_reference_topic"
-               path="topics/r_my_first_reference.html"/>
-   <appContext helpID="my_first_topic" path="topics/c_my_first_topic.html"/>
-   <appContext helpID="t_my_first_task" path="topics/t_creating_my_first_task.html"/>
-   <appContext helpID="r_my_first_reference_topic"
-               path="topics/r_my_first_reference.html"/>
-   <appContext helpID="c_example" path="topics/c_example.html"/>
-   <appContext helpID="sample_file" path="topics/sample_file.html"/>
+   <appContext helpID="c_introduction" path="topics/c_introduction-1.html"/>
+   <appContext helpID="t_operating" path="topics/t_operating-1.html"/>
+   <appContext helpID="t_operating" path="topics/t_operating-1-1.html"/>
+   <appContext helpID="r_recipes" path="topics/r_recipes.html"/>
+   <appContext helpID="c_introduction" path="topics/c_introduction-2.html"/>
+   <appContext helpID="t_operating" path="topics/t_assembling-1.html"/>
+   <appContext helpID="t_operating" path="topics/t_cleaning_steam-1.html"/>
+   <appContext helpID="t_operating" path="topics/t_cleaning_filter-1.html"/>
+   <appContext helpID="t_operating" path="topics/t_operating-2.html"/>
+   <appContext helpID="t_operating" path="topics/t_assembling-2.html"/>
+   <appContext helpID="t_operating" path="topics/t_cleaning_steam-2.html"/>
+   <appContext helpID="t_operating" path="topics/t_cleaning_filter-2.html"/>
+   <appContext helpID="t_operating" path="topics/t_operating-3.html"/>
+   <appContext helpID="r_glossary" path="glossary/r_glossary.html#r_glossary"/>
+   <appContext helpID="g_brew_head" path="glossary/r_glossary.html#g_brew_head"/>
+   <appContext helpID="g_filter_holder"
+               path="glossary/r_glossary.html#g_filter_holder"/>
+   <appContext helpID="g_steam_wand" path="glossary/r_glossary.html#g_steam_wand"/>
+   <appContext helpID="g_portafilter" path="glossary/r_glossary.html#g_portafilter"/>
+   <appContext helpID="unique_1833358404"
+               path="glossary/r_glossary.html#unique_1833358404"/>
 </map>

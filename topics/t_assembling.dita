@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_operating">
+    <title>Assembling the <keyword keyref="company"/>
+        <keyword keyref="product"/></title>
+    <shortdesc>Your <keyword keyref="product"/> will have the Drip Tray and Water Tank in place when
+        you unpack it from the box. Other elements will be provided in foam packaging and require
+        manual assembly.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Remove the Drip Tray and Water Tank and wash all parts and accessories.</cmd>
+                <info>Use warm, soapy water using a non-abrasive washing liquid. Rinse and dry
+                    thoroughly</info>
+            </step>
+            <step>
+                <cmd>Insert the Storage Tray into the base of the machine and slide in towards the
+                    back wall.</cmd>
+                <info>This is a convenient location to store spare filters and other maintenance
+                    equipment like <keyword keyref="company"/>-compatible filter cleaning
+                    fluid.</info>
+            </step>
+            <step product="product1">
+                <!--KW100-->
+                <cmd>Slide the Drip Tray, with the Drip Tray Full Indicator and Grid in place, into
+                    the base of the machine and in front of the Storage Tray.</cmd>
+            </step>
+            <step product="product2">
+                <!--KW200-->
+                <cmd>Slide the Drip Tray, with the Drip Tray Full Indicator and each of its two
+                    Grids in place, into the base of the machine and in front of the Storage
+                    Tray.</cmd>
+            </step>
+            <step>
+                <cmd>Slide the Water Tank over the Drip Tray and into the front opening of the
+                    machine and into position above the Storage Tray</cmd>
+                <info>Ensure the Water Tank aligns flush with the sides of the machine.</info>
+            </step>
+        </steps>
+        <postreq id="postreq_dfv_cgf_cpb">Before first use we strongly recommend to perform two
+            complete water brewing operations (without ground coffee), to ensure that all internal
+            piping has been preheated.</postreq>
+    </taskbody>
+</task>
