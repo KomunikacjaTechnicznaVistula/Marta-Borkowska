@@ -5,7 +5,7 @@
     <keydef keys="company">
         <topicmeta>
             <keywords>
-                <keyword>Kawomator</keyword>
+                <keyword>Kawonator</keyword>
             </keywords>
         </topicmeta>
     </keydef>
@@ -23,7 +23,7 @@
             </keywords>
         </topicmeta>
     </keydef>
-    
+
     <topicref href="topics/c_introduction.dita">
         <ditavalref href="ditavals/f_consumer.ditaval"/>
         <topicref href="topics/t_operating.dita" keyscope="1">
