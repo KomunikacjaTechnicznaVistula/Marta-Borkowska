@@ -20,7 +20,7 @@
                     </substep>
                     <substep>
                         <cmd>Remove the <term keyref="g_portafilter"/> if locked into the <term
-                            keyref="g_brew_head"/> and move the <term keyref="g_steam_wand"/> to
+                                keyref="g_brew_head"/> and move the <term keyref="g_steam_wand"/> to
                             the side of the machine.</cmd>
                     </substep>
                     <substep>
@@ -50,11 +50,11 @@
                 <substeps id="substeps_whd_zfy_zsb">
                     <substep product="product1">
                         <cmd>Place the <term keyref="g_filter_holder"/> into the <term
-                            keyref="g_portafilter"/></cmd>
+                                keyref="g_portafilter"/></cmd>
                     </substep>
                     <substep product="product2">
                         <cmd>Place your selected <term keyref="g_filter_holder"/> into the <term
-                            keyref="g_portafilter"/> (use the smaller filter for 1 cup and the
+                                keyref="g_portafilter"/> (use the smaller filter for 1 cup and the
                             larger filter for 2 cups).</cmd>
                     </substep>
                     <substep>
@@ -75,7 +75,7 @@
                     </substep>
                     <substep>
                         <cmd>Clean any excess coffee from the rim of the <term
-                            keyref="g_portafilter"/> to ensure a proper fit into the
+                                keyref="g_portafilter"/> to ensure a proper fit into the
                             machine.</cmd>
                     </substep>
                 </substeps>
@@ -85,12 +85,12 @@
                 <substeps id="substeps_dhl_lhy_zsb">
                     <substep>
                         <cmd>Place the filled <term keyref="g_portafilter"/> underneath the <term
-                            keyref="g_brew_head"/> so that the handle is aligned with the arrow
+                                keyref="g_brew_head"/> so that the handle is aligned with the arrow
                             symbol printed in the front of the <term keyref="g_brew_head"/>.</cmd>
                     </substep>
                     <substep>
                         <cmd>Insert the <term keyref="g_portafilter"/> up into the <term
-                            keyref="g_brew_head"/> and rotate the handle to the right until
+                                keyref="g_brew_head"/> and rotate the handle to the right until
                             resistance is felt. This will be at an approximate 90° angle to the
                             machine.</cmd>
                     </substep>
@@ -108,11 +108,11 @@
                     </substep>
                     <substep product="product1">
                         <cmd>Place one pre-warmed cup beneath the outlet of the <term
-                            keyref="g_portafilter"/>.</cmd>
+                                keyref="g_portafilter"/>.</cmd>
                     </substep>
                     <substep product="product2">
                         <cmd>Place one or two pre-warmed cups beneath the outlets of the <term
-                            keyref="g_portafilter"/>.</cmd>
+                                keyref="g_portafilter"/>.</cmd>
                     </substep>
                     <substep>
                         <cmd>Set the Selector Control to the ‘Espresso’ position.</cmd>
@@ -123,7 +123,7 @@
                     </substep>
                     <substep>
                         <cmd>When sufficient coffee has flowed into the <ph product="product1"
-                            >cup</ph><ph product="product2">cups</ph>, set the Selector Control
+                                >cup</ph><ph product="product2">cups</ph>, set the Selector Control
                             to the ‘Standby’ position. This will stop the flow of coffee.</cmd>
                     </substep>
                     <substep>
