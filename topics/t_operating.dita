@@ -3,8 +3,8 @@
 <task id="t_operating_the_kawonator_kwxxx_espresso_machine">
     <title>Operating the <keyword keyref="company"/>
         <keyword keyref="product"/> espresso machine</title>
-    <shortdesc>Learn how to operate the Kawonator espresso machine by performing the following
-        steps.</shortdesc>
+    <shortdesc>Learn how to operate the <keyword keyref="company"/> espresso machine by performing
+        the following steps.</shortdesc>
     <taskbody>
         <steps>
             <step>

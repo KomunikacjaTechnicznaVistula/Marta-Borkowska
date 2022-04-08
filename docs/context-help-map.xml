@@ -8,13 +8,13 @@
    <appContext helpID="r_recipes" path="topics/r_recipes.html"/>
    <appContext helpID="c_introduction" path="topics/c_introduction-2.html"/>
    <appContext helpID="t_operating" path="topics/t_assembling-1.html"/>
-   <appContext helpID="t_operating" path="topics/t_cleaning_steam-1.html"/>
-   <appContext helpID="t_operating" path="topics/t_cleaning_filter-1.html"/>
+   <appContext helpID="mockup" path="topics/t_cleaning_steam-1.html"/>
+   <appContext helpID="mockup" path="topics/t_cleaning_filter-1.html"/>
    <appContext helpID="t_operating_the_kawonator_kwxxx_espresso_machine"
                path="topics/t_operating-2.html"/>
    <appContext helpID="t_operating" path="topics/t_assembling-2.html"/>
-   <appContext helpID="t_operating" path="topics/t_cleaning_steam-2.html"/>
-   <appContext helpID="t_operating" path="topics/t_cleaning_filter-2.html"/>
+   <appContext helpID="mockup" path="topics/t_cleaning_steam-2.html"/>
+   <appContext helpID="mockup" path="topics/t_cleaning_filter-2.html"/>
    <appContext helpID="t_operating_the_kawonator_kwxxx_espresso_machine"
                path="topics/t_operating-3.html"/>
    <appContext helpID="r_glossary" path="glossary/r_glossary.html#r_glossary"/>
@@ -23,6 +23,6 @@
                path="glossary/r_glossary.html#g_filter_holder"/>
    <appContext helpID="g_steam_wand" path="glossary/r_glossary.html#g_steam_wand"/>
    <appContext helpID="g_portafilter" path="glossary/r_glossary.html#g_portafilter"/>
-   <appContext helpID="unique_694909806"
-               path="glossary/r_glossary.html#unique_694909806"/>
+   <appContext helpID="unique_401106378"
+               path="glossary/r_glossary.html#unique_401106378"/>
 </map>
