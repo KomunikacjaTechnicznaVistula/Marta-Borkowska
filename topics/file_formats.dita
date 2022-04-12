@@ -4,6 +4,17 @@
     <title>File formats </title>
     <shortdesc/>
     <conbody>
+        <p>You need to know what file formats are usually sent for translation in your company so
+            that you could decide which TMS to choose. It is best to decide on the one that
+            processes not only those but also similar formats to cater for future developments.</p>
+        <p>It is also good if a TMS supports the original file formats that you use so as to reduce
+            the risks of files corrupting after being converted to a replacement format. </p>
+        <p>For example: if your company translates a lot of indd files, look for a TMS that
+            processes indd files directly instead of idml files, because after conversion of indd
+            files to idml format you may have the layout distorted or links to images broken, which
+            will result in a lot of additional unnecessary work by a graphic designer.</p>
+        <p>In case of an IT company, it is extremely important that a TMS supports such native
+            formats as xml, xliff or po so as not to translate using an Excel sheet.</p>
         <p>XTM supports the following file formats for translation:</p>
         <ul id="ul_ow2_w3q_2tb">
             <li>Adobe FrameMaker (mif)</li>

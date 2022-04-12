@@ -23,7 +23,8 @@
         <ul id="ul_mmb_zp1_zsb">
             <li>Analysis of top features of a TMS and how they can help your company tackle
                 translation and localizaton challenges</li>
-            <li>Practical information shown on an XTM example</li>
+            <li>Practical information shown on an <xref href="https://xtm.cloud/" format="html"
+                    scope="external"><b>XTM</b></xref> example</li>
         </ul>
         <p><b>Why have I chosen XTM?</b></p>
         <p>Because I know this system and I work with it every day. Please note that I am not
@@ -31,11 +32,8 @@
             promotional text. What’s more, XTM’s documentation is very complex, it is available in
             so many different places and is not much user-friendly. That’s why I wanted to make it
             more accessible and succint.</p>
-        <p>This manual is a starting point, which I will try to supplement with other TMSs later on
-            to create a comparative study.</p>
         <p>So if you have a goal: to find the right translation solution for your company, but you
-            don’t know what and how, I hope it will be clearer once you have read the whole
-            manual.</p>
+            don’t know what and how, I hope it will be clearer once you have read everything.</p>
         <p>You can download this manual also as a pdf file.</p>
     </conbody>
 </concept>
