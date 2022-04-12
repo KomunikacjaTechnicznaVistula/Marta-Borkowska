@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="analysing">
+    <title>Analysing</title>
+    <shortdesc>The first step that you need to take is to perform due dilligence of the existing
+        translation process at your company.</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Analyse the translation process that runs at your company so far by answering
+                    the following questions:</cmd>
+                <substeps id="substeps_ltk_35p_2tb">
+                    <substep>
+                        <cmd>What content do you usually translate?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Which file formats are sent for translation?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Which tools do you use?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Who manages the whole process: is it centralized or dispersed, operated
+                            globally or locally?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Do you have any TMs or TBs? Where are they stored (internally, at your
+                            translation partner’s)?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Do you have a database of translated documents/resources?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>How is translation quality managed?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Are there any complaints of internal users and if yes, what do they
+                            concern (e.g. translation is too slow, quality is poor, it costs a
+                            lot)?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>How much does the translation cost your company?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Who do you cooperate with (in-house team, freelancers, agencies)?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Do you need any connectors to the systems used at your company?</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Decide if and how this process should change by answering the following
+                    questions:</cmd>
+                <substeps id="substeps_mlg_bvp_2tb">
+                    <substep>
+                        <cmd>Who will take care of the new/amended process?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Does it have to fit in yur existing workflows or will you create new
+                            ones?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>What budget do you have at your disposal?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>How is the translation process to be aligned with the corporate
+                            language policy or business operations (e.g. change to more agile work,
+                            more automate processes)?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>What is the company’s policy concerning cloud-based tools?</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <result id="result_t15_w5p_2tb">At this stage you should have a document containing the
+            answers to the above questions with recommendation on the further development of the
+            translation process.</result>
+    </taskbody>
+</task>

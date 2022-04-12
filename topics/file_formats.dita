@@ -4,6 +4,47 @@
     <title>File formats </title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>XTM supports the following file formats for translation:</p>
+        <ul id="ul_ow2_w3q_2tb">
+            <li>Adobe FrameMaker (mif)</li>
+            <li>Adobe Illustrator (fxg, svg, ai,)</li>
+            <li>Adobe InDesign (idml, indd, indb)</li>
+            <li>Adobe Photoshop (psd)</li>
+            <li>Android apps (xml)</li>
+            <li>asp, aspx, ascx</li>
+            <li>Digia QT (ts)</li>
+            <li>DITA</li>
+            <li>Document template (tpl)</li>
+            <li>eps</li>
+            <li>html, htm xhtml, xht shtml, shtm</li>
+            <li>ini</li>
+            <li>iOS apps (strings, stringsdict)</li>
+            <li>Java property files</li>
+            <li>JSON</li>
+            <li>MadCap Flare (flprj)</li>
+            <li>Markdown (md)</li>
+            <li>MemoQ (mqxliff)</li>
+            <li>Microsoft Office (doc, docx, xls, xlsx, xlsm, ppt, pptx,)</li>
+            <li>Microsoft Visio</li>
+            <li>Open Office (sxw, odt, ods, odp)</li>
+            <li>PDF (converts PDF file to Word)</li>
+            <li>php</li>
+            <li>po, pot</li>
+            <li>rc</li>
+            <li>resx, resw</li>
+            <li>rtf</li>
+            <li>SalesForce (stf)</li>
+            <li>sdf</li>
+            <li>Sketch files (.sketch)</li>
+            <li>SubRip text (srt)</li>
+            <li>Trados (ttx)</li>
+            <li>Trados Studio (sdlxliff)</li>
+            <li>txt</li>
+            <li>vdx, vsdx</li>
+            <li>Wordfast (txml)</li>
+            <li>xlf, xliff</li>
+            <li>xml</li>
+            <li>yml, yaml</li>
+        </ul>
     </conbody>
 </concept>

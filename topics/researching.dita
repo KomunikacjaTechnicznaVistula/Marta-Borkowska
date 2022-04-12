@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="researching">
+    <title>Researching</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Check the key TMS features: decide which are must, nice-to-have or unnecessary
+                    ones.</cmd>
+            </step>
+            <step>
+                <cmd>Do a TMS shortlist:</cmd>
+                <substeps id="substeps_amc_mvp_2tb">
+                    <substep>
+                        <cmd>Go through the list of the most popular TMSs. Choose a few and read
+                            more about them on their websites.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Ask for more information from the respective sales teams.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Make a comparison of their features and prices in one file.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Arrange meetings with sales representatives of particular
+                            companies.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Take part in webinars offered by TMS experts.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Browse through available documentation (user guides, webhelp, videos,
+                            etc.).</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Complete your comparison file with new information.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Check how a TMS works in practice:</cmd>
+                <substeps id="substeps_l4d_5vp_2tb">
+                    <substep>
+                        <cmd>Ask for a free trial of a few selected tools</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Create test projects, workflows, user accounts.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Import your TMs (if any) and test them.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Check those TMS’s features that are most relevant to your company. Is
+                            it easy to use? Will it be easy for use also by other internal
+                            clients?</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Consult your choice of a TMS with relevant stakeholders (e.g. internal
+                    reviewers, marketing team, software developers). Ask about their needs, fears,
+                    must-have features and recommendations.</cmd>
+            </step>
+            <step>
+                <cmd>Make a final decision on a TMS and prepare an offer for your management,
+                    including its:</cmd>
+                <substeps id="substeps_bgn_bwp_2tb">
+                    <substep>
+                        <cmd>strengths</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>weaknesses</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>benefits</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>risks</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>costs</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

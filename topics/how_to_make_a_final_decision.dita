@@ -2,39 +2,32 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="how_to_make_a_final_decision">
     <title>Decision-making process</title>
-    <shortdesc/>
+    <shortdesc>The decision-making process is based on ITCQF, points 6.2 and 6.3 of Syllabus,
+        version 2.0.</shortdesc>
     <taskbody>
         <prereq id="prereq_zwt_rkq_zsb"/>
-        <context>
-            <p>These are the steps that you should take before making the final decision on which
-                TMS to buy for your company:</p>
-        </context>
+        <context>In order to choose the right TMS for your company, you should consider a lot of
+            different aspects, both from business and technical perspectives. To make it easier for
+            you, I strongly encourage you to follow these steps:</context>
         <steps>
             <step>
-                <cmd>Market research - check the rating</cmd>
+                <cmd>Analysing</cmd>
             </step>
             <step>
-                <cmd>Demo? – testing if it meets company needs (resistance to change, fear of new
-                    tools, speed, quality)</cmd>
+                <cmd>Researching</cmd>
             </step>
             <step>
-                <cmd>Price offer + suites – budget alignment + no. of users</cmd>
-            </step>
-            <step>
-                <cmd>Feature analysis</cmd>
-            </step>
-            <step>
-                <cmd>Contract management (cooperation agreement + DPA + SLA)</cmd>
-            </step>
-            <step>
-                <cmd>Quick to learn?</cmd>
-            </step>
-            <step>
-                <cmd>Security issues</cmd>
-            </step>
-            <step>
-                <cmd>Support + documentation (release notes)</cmd>
+                <cmd>Preparing for launch</cmd>
             </step>
         </steps>
+        <postreq id="postreq_owb_gtp_2tb">
+            <p>In the end, what you are looking for is:</p>
+            <ul id="ul_fwf_gtp_2tb">
+                <li>higher team productivity</li>
+                <li>more effective collaboration</li>
+                <li>faster time to market</li>
+                <li>reduced translation costs</li>
+            </ul>
+        </postreq>
     </taskbody>
 </task>

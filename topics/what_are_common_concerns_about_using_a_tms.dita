@@ -81,7 +81,9 @@
                     <row>
                         <entry><i>I fear this change will have a negative impact on the translation
                                 quality. An IT tool cannot be better than human.</i></entry>
-                        <entry>QA, LQA</entry>
+                        <entry>All TMSs contain build-in QA and LQA features which automate quality
+                            assurance and allow you to spot mistakes sometimes not easily noticed by
+                            proofreaders.</entry>
                     </row>
                 </tbody>
             </tgroup>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="support">
+    <title>Support</title>
+    <shortdesc/>
+    <conbody>
+        <p>High-quality documentation is useful, but in some cases it may not be enough. As with
+            every IT tool, with TMSs you can also experience technical problems. Then, you need to
+            have access to a <b>professional support team</b>, available at least during business
+            hours. You can turn to them if:<ul id="ul_op5_fcq_2tb">
+                <li>you or your translation vendors cannot work in a TMS due to unavailability of a
+                    certain feature (critical bug)</li>
+                <li>you want to report a bug you or your translation vendors have found, which is
+                    important or minor, but not critical</li>
+                <li>you wish to know more about a certain feature that is not explained in the
+                    documentation</li>
+                <li>you would like to have a report generated from the TMS that you cannot do
+                    yourself (e.g. on the average number of concurrent users in a specific period of
+                    time)</li>
+            </ul></p>
+        <p>How can you contact <b>XTM support</b>?<ul id="ul_x3m_xcq_2tb">
+                <li>send an email to a dedicated address (support@xtm-intl.com)</li>
+                <li>call them at +48 61 654 91 53</li>
+                <li>log in to the <xref href="https://support.xtm-intl.com/en/support/home"
+                        format="html" scope="external"><b>Support Portal</b></xref> to create a new
+                    support ticket or check the ticket status and provide additional information.
+                    here you can also check if you can solve your issue by reading a FAQ.</li>
+            </ul></p>
+        <p>The response and resolution times are governed by the SLA that you sign with your TMS
+            provider. They should be confirmed each time you report a bug.</p>
+        <p><image href="../images/Support.jpg" scale="65" id="image_kxh_22q_2tb"/></p>
+    </conbody>
+</concept>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="preparing_for_launch">
+    <title>Preparing for launch</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq id="prereq_y1b_gwp_2tb">You may start this stage once you have received an approval
+            to buy a TMS from your management.</prereq>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Start the sales process with TMS provider (either through your purchasing
+                    department or on your own):</cmd>
+                <substeps id="substeps_i24_3wp_2tb">
+                    <substep>
+                        <cmd>Ask for all necessary agreements (subscription agreement, NDA, SLA, DPA
+                            if applicable).</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Consult these documents with your legal department. Allocate some time
+                            for this part because the negotiation process is usually a lengthy
+                            one.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Request an offer to be presented to the management for final approval
+                            (containing all the terms and conditons of purchase).</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Arrange for a TMS to be installed on-premises or on your instance in
+                            the cloud.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Train your team, translation vendors and other internal customers that need to
+                    work with it. You need some time to implement it and learn how to use it.</cmd>
+                <substeps id="substeps_z44_pwp_2tb">
+                    <substep>
+                        <cmd>Prepare internal documentation for your new TMS to present its main
+                            features and benefits of using it.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Manage the whole onboarding process by delivering training to new users
+                            (project managers, reviewers, translators).</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Draft relevant documentation (e.g. checklist for translation vendors,
+                            guide on how to review documents).</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Set yourself as the first point of contact for all TMS-related issues
+                            (user access rights, technical support).</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Carry out an internal marketing campaign for your refreshed translation
+                            process with your TMS as the key tool. Advertise it e.g. in the
+                            intranet.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Start looking for new partners if not all of your translation vendors
+                            wish to continue cooperation with you with the use of the new TMS.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Migrate all your TMs and TBs (if any) to the TMS. Create workflows, user
+                    accounts with relevant access rights and roles.</cmd>
+            </step>
+            <step>
+                <cmd>Start working with your new TMS, initially only for some projects (the easiest
+                    ones) and gradually move the whole translation process to it. Once you discover
+                    all the TMS’s features, you will no longer imagine work outside it ;). You will
+                    process even very complex projects in it.</cmd>
+            </step>
+            <step>
+                <cmd>Be prepared to report on TMS key metrics such as translation volume (number of
+                    TM segments, translated words), language pairs, discounts on TM use, overall
+                    external costs. It is a good idea to have an Excel report at hand with all
+                    relevant data generated from TMS from time to time. Every management would like
+                    to be updated on the metrics (KPIs) relating to the process.</cmd>
+            </step>
+            <step>
+                <cmd>Once in a while, review your decision:</cmd>
+                <substeps id="substeps_g1j_zwp_2tb">
+                    <substep>
+                        <cmd>Check if the TMS meets your business needs: are there more advantages
+                            than disadvantages from using it? Are all of your company’s requirements
+                            met?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Continue taking part in webinars to be up-to-date with your TMS
+                            upgrades.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Check what is available in the market: has anything new appeared or
+                            changed in the TMS offer?</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Ask yourself a question if you are satisfied with cooperation with this
+                            TMS provider (e.g. as regards IT support, your customer success
+                            manager).</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

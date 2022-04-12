@@ -2,8 +2,46 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="documentation">
     <title>Documentation</title>
-    <shortdesc/>
+    <shortdesc>When you start working with a new tool, it is extremely useful to have relevant
+        documentation at hand to refer to it when you need it. </shortdesc>
     <conbody>
-        <p/>
+        <p>Most TMS providers offer you a variety of ways to broaden your knowledge of their tools.
+            Here is what you may benefit from if you decide to use XTM:</p>
+        <ul id="ul_xpj_1zp_2tb">
+            <li><b><xref href="https://xtm.cloud/documentation/" format="html" scope="external">User
+                        Guides</xref></b>: general (for top features) and more specific (e.g. for
+                connectors, APIs). They are available online (e.g. <xref
+                    href="https://help.xtm.cloud/xtm-cloud/13/?lang=en" format="html"
+                    scope="external">online help</xref>) or for download as pdf files (e.g. <xref
+                    href="https://xtm.cloud/docs/xtm-excel-offline-editor.x48305.pdf" format="pdf"
+                    scope="external">manual for Offline Editor</xref>).</li>
+            <li><b><xref href="https://xtm.cloud/knowledge-base/" format="html" scope="external"
+                        >Knowledge base</xref></b>: introduction to a few general topics presented
+                in the form of FAQ</li>
+            <li><b><xref href="https://xtm.cloud/welcome-on-xtm-on-demand/" format="html"
+                        scope="external">XTM On Demand</xref></b>: a video platform giving access to
+                    <xref href="https://xtm.cloud/webinars/" format="html" scope="external"
+                    >webinars</xref> delivered by XTM experts</li>
+            <li><b><xref href="https://xtmlive.com/" format="html" scope="external">XTM
+                    Live</xref></b>: the leading translation technology summit for localization
+                professionals from international enterprises.</li>
+            <li><b><xref href="https://xtm.cloud/translation-technology-videos/" format="html"
+                        scope="external">TechTalks</xref></b>: open discussions with technology
+                leaders on key language technology topics (current trends, innovations and latest
+                developments in language technology).</li>
+            <li><xref href="https://xtm.cloud/release-notes/" format="html" scope="external"
+                        ><b>Release notes</b></xref>: listing changes made to particular XTM Cloud
+                versions as well as its products (e.g. Connect, Portal, Mobile). You can choose
+                between reading a <xref href="https://xtm.cloud/release-notes/13-0/" format="html"
+                    scope="external">description</xref> or a full <xref
+                    href="https://xtm.cloud/changelog/XC/13-0" format="html" scope="external">change
+                    log</xref>.</li>
+        </ul>
+        <p>You can also access help and information for users directly from XTM tool:<image
+                href="../images/Help.jpg" scale="60" id="image_ar5_rbq_2tb"/></p>
+        <p>
+            <note id="note_phv_k3q_2tb">It is very important for the documentation to be easily
+                accessible, user-friendly and up-to-date!</note>
+        </p>
     </conbody>
 </concept>
