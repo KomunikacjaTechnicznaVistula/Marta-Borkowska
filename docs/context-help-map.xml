@@ -47,7 +47,6 @@
    <appContext helpID="finance_management" path="topics/finance_management.html"/>
    <appContext helpID="rate_cards" path="topics/rate_cards.html"/>
    <appContext helpID="quotations" path="topics/quotations.html"/>
-   <appContext helpID="file_formats" path="topics/file_formats.html"/>
    <appContext helpID="machine_translation" path="topics/machine_translation.html"/>
    <appContext helpID="connectors" path="topics/connectors.html"/>
    <appContext helpID="documentation" path="topics/documentation.html"/>

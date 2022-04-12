@@ -47,7 +47,6 @@
             <topicref href="topics/rate_cards.dita"/>
             <topicref href="topics/quotations.dita"/>
         </topicref>
-        <topicref href="topics/file_formats.dita"/>
         <topicref href="topics/machine_translation.dita"/>
         <topicref href="topics/connectors.dita"/>
         <topicref href="topics/documentation.dita"/>

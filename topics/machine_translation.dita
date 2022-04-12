@@ -4,6 +4,30 @@
     <title>Machine translation</title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>Machine translation (MT) is a hot topic in the translaton industry right now with
+            everyone talking about it both in respect of the human factor and the tools used in the
+            process. MT quality has dramatically improved over the past few years. Many enterprises
+            and language service providers have turned to MT for faster and more cost-effective
+            translation. </p>
+        <p>MT engines are third-party systems that are not standard components of a TMS. A company
+            that wants to use MT needs to have an account with an MT provider or configure a custom
+            engine. Only then is it possible to connect the MT engine to TMS via an interface.</p>
+        <p>As a result, it is important to choose a TMS that offers a range of fully managed engines
+            from leading MT providers. In addition, you should be able to choose <b>more than one
+                engine</b>, because you may decide to use one for a particular language pair or
+            domain and another for a different one.</p>
+        <p>Here is a choice available in XTM:</p>
+        <p><image href="../images/MT%20engines.jpg" scale="65" id="image_nrw_vbs_2tb"/></p>
+        <p>What you should also note is the ability to choose an MT hub (e.g. <xref
+                href="https://inten.to/" format="html" scope="external">Intento</xref>) or the
+            option to <i>add your custom MT</i> (e.g. the one you had created yourself or the one
+            developed by a third-party provider).</p>
+        <p>After you decide on an MT engine or engines, all you need to do is to create an account
+            with a given provider, subscribe to a selected plan and get an authentication key for
+            CAT tools to be copied to a relevant place.</p>
+        <p><image href="../images/DeepL.jpg" scale="55" id="image_kgc_scs_2tb"/></p>
+        <p>You should also decide how this MT engine will work for your translation projects. All in
+            all, with it you get another support in addition to your translation memory. </p>
+        <p><image href="../images/General%20options.jpg" scale="65" id="image_iql_1ds_2tb"/></p>
     </conbody>
 </concept>
