@@ -29,5 +29,32 @@
         <p>The response and resolution times are governed by the SLA that you sign with your TMS
             provider. They should be confirmed each time you report a bug.</p>
         <p><image href="../images/Support.jpg" scale="65" id="image_kxh_22q_2tb"/></p>
+        <p><b>Customer Success Manager</b></p>
+        <p>If you need assistance with any TMS feature or would like to know more about the tool's
+            development plan, you should be able to address a <b>Customer Success Manager</b> (CSM)
+            or any other person fulfilling a similar function. This person works with customers to
+            ensure they are receiving the tools and support needed to achieve their goals.</p>
+        <p>As a result, it is good to make sure if you can count on such contact from the TMS's
+            provider you wish to purchase. </p>
+        <p>At XTM a Customer Success Manager  is a main point of contact for commercial and general
+            questions. As part of the Customer Success team this person is a clients' advocate aimed
+            at improving their experience. </p>
+        <p><b>Consulting service</b></p>
+        <p>This is a novelty in the TMS sector and is currently available only from <xref
+                href="https://www.memsource.com/" format="html" scope="external">Memsource</xref>.
+            However, we can expect it to be launched by other providers soon.</p>
+        <p>It is a subscription-based service provided by subject-matter experts for customers who
+            can ask questions or seek support whenever they need help. There is no limit of the
+            number of hours spent both by a customer and the consultants, and the costs of this
+            service are known upfront in the subscription agreement.</p>
+        <p>The consulting service covers the following areas:<ul id="ul_bxf_rpx_2tb">
+                <li>migration support (transferring TMs and other content from CAT tools, other TMSs
+                    and CMSs)</li>
+                <li>automation and integration support (connection of various tools using API)</li>
+                <li>machine translation support (quality, types of content, pricing strategy)</li>
+            </ul></p>
+        <p>For more details please visit <xref
+                href="https://www.memsource.com/blog/memsource-launches-consulting-service/"
+                format="html" scope="external">Memsource blog</xref>.</p>
     </conbody>
 </concept>

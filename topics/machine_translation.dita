@@ -23,11 +23,13 @@
             option to <i>add your custom MT</i> (e.g. the one you had created yourself or the one
             developed by a third-party provider).</p>
         <p>After you decide on an MT engine or engines, all you need to do is to create an account
-            with a given provider, subscribe to a selected plan and get an authentication key for
+            with a given provider, subscribe to a selected plan, and get an authentication key for
             CAT tools to be copied to a relevant place.</p>
         <p><image href="../images/DeepL.jpg" scale="55" id="image_kgc_scs_2tb"/></p>
         <p>You should also decide how this MT engine will work for your translation projects. All in
-            all, with it you get another support in addition to your translation memory. </p>
+            all, with it you get another support in addition to your translation memory (TM). When
+            you have some TM matches, you send these to an MT engine to fill in the blanks, creating
+            an opportunity to leverage existing resources in an innovative way.</p>
         <p><image href="../images/General%20options.jpg" scale="65" id="image_iql_1ds_2tb"/></p>
     </conbody>
 </concept>

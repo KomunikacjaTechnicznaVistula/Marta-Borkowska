@@ -20,12 +20,14 @@
             intricate middleware type configurations.</p>
         <p>There are many different connector types depending on what they are used for:<ul
                 id="ul_t2g_1gq_2tb">
-                <li>websites, blogs, and online content (e.g. Wordpress)</li>
+                <li>content management system (CMS) (e.g. Wordpress)</li>
                 <li>e-commerce</li>
                 <li>customer relationship management (CRM) and customer service</li>
                 <li>marketing content and marketing automation</li>
                 <li>code repositories (e.g. GitHub)</li>
+                <li>product information management (PIM) system</li>
                 <li>cloud service solutions</li>
+                <li>digital asset management (DAM)</li>
             </ul></p>
         <p><b>What are the benefits of using them?</b></p>
         <p>The connectors save time, reduce file management costs, cut down turnaround times and
@@ -38,6 +40,10 @@
             development team for an offer of a custom-made integration with the system that is not
             on the above list. It can be pricey, though, and may also require some work from your IT
             team so be prepared with some additional financial and human resources.</p>
+        <p>Since release of XTM version 13.0, its connectors have entered a continuous deployment
+            cycle, providing ongoing releases of new features. This means that you will see updates
+            being made to connectors in between main releases, enabling use of new connector
+            functionality faster. </p>
         <p>For a more comprehensive reference to TMS integrations, you can visit <xref
                 href="https://www.nimdzi.com/integration-map/" format="html" scope="external"
                 >Nimdzi</xref>.</p>

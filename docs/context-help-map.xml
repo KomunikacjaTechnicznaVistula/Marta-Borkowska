@@ -15,6 +15,7 @@
                path="topics/which_companies_need_a_tms.html"/>
    <appContext helpID="what_are_common_concerns_about_using_a_tms"
                path="topics/what_are_common_concerns_about_using_a_tms.html"/>
+   <appContext helpID="future_of_tmss" path="topics/future_of_tmss.html"/>
    <appContext helpID="how_to_make_a_final_decision"
                path="topics/how_to_make_a_final_decision.html"/>
    <appContext helpID="analysing" path="topics/analysing.html"/>
@@ -30,6 +31,8 @@
    <appContext helpID="working_outside" path="topics/working_outside.html"/>
    <appContext helpID="language_variants" path="topics/language_variants.html"/>
    <appContext helpID="file_formats" path="topics/file_formats.html"/>
+   <appContext helpID="alignment" path="topics/alignment.html"/>
+   <appContext helpID="concordance" path="topics/concordance.html"/>
    <appContext helpID="translation_editor_workbench"
                path="topics/translation_editor_workbench.html"/>
    <appContext helpID="key_functionalities" path="topics/key_functionalities.html"/>
@@ -42,8 +45,8 @@
    <appContext helpID="lqa" path="topics/lqa.html"/>
    <appContext helpID="tm_management" path="topics/tm_management.html"/>
    <appContext helpID="term_bases" path="topics/term_bases.html"/>
-   <appContext helpID="concordance" path="topics/concordance.html"/>
-   <appContext helpID="alignment" path="topics/alignment.html"/>
+   <appContext helpID="terinology_extraction"
+               path="topics/terminology_extraction.html"/>
    <appContext helpID="finance_management" path="topics/finance_management.html"/>
    <appContext helpID="rate_cards" path="topics/rate_cards.html"/>
    <appContext helpID="quotations" path="topics/quotations.html"/>
@@ -51,6 +54,7 @@
    <appContext helpID="connectors" path="topics/connectors.html"/>
    <appContext helpID="documentation" path="topics/documentation.html"/>
    <appContext helpID="support" path="topics/support.html"/>
+   <appContext helpID="product_development" path="topics/product_development.html"/>
    <appContext helpID="vendor_management" path="topics/vendor_management.html"/>
    <appContext helpID="best_practices_of_cooperation"
                path="topics/best_practices_of_cooperation.html"/>

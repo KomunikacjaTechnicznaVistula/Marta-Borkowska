@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="quotations">
-    <title>Quotations</title>
+    <title>Purchase Orders</title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>Based on the data entered in <xref href="rate_cards.dita">rate cards</xref>, you can
+            generate a Purchase Order easily for every translation project created in XTM and
+            assigned to a linguist or an LSP.</p>
+        <p>You only need to go to <i>Project Editor</i> > <i>Estimates</i> and click on<i>
+                Generate</i>.</p>
+        <p><image href="../images/PO%20generate.jpg" scale="60" id="image_u25_4cy_2tb"/></p>
+        <p>You can generate costs based on: metrics, current metrics, statistics source or
+            statistics target. In <i>Data</i> > <i>Estimates </i>> <i>PO settings</i> you can choose
+            e.g. a calculation method (substraction/addition) and other features that should be
+            included in the file and work best for you.</p>
+        <p>A Purchase Order is a pdf file [sample] showing all the metrics and the final price you
+            will pay for this translation. The costs can be broken down into particular language
+            pairs and workflow steps, if needed.</p>
+        <p>You can send this file to your vendor by email or request that XTM does it for you
+            directly using feature <i>Email PO to Linguist</i>.</p>
+        <p>XTM also gives you an opportunity to enter your own cost settings, exchange rates and
+            proposal factors to make finance management for translation projects easy.</p>
     </conbody>
 </concept>

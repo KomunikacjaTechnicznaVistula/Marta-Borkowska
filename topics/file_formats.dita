@@ -14,48 +14,57 @@
             files to idml format you may have the layout distorted or links to images broken, which
             will result in a lot of additional unnecessary work by a graphic designer.</p>
         <p>In case of an IT company, it is extremely important that a TMS supports such native
-            formats as xml, xliff or po so as not to translate using an Excel sheet.</p>
-        <p>XTM supports the following file formats for translation:</p>
-        <ul id="ul_ow2_w3q_2tb">
-            <li>Adobe FrameMaker (mif)</li>
-            <li>Adobe Illustrator (fxg, svg, ai,)</li>
-            <li>Adobe InDesign (idml, indd, indb)</li>
-            <li>Adobe Photoshop (psd)</li>
-            <li>Android apps (xml)</li>
-            <li>asp, aspx, ascx</li>
-            <li>Digia QT (ts)</li>
-            <li>DITA</li>
-            <li>Document template (tpl)</li>
-            <li>eps</li>
-            <li>html, htm xhtml, xht shtml, shtm</li>
-            <li>ini</li>
-            <li>iOS apps (strings, stringsdict)</li>
-            <li>Java property files</li>
-            <li>JSON</li>
-            <li>MadCap Flare (flprj)</li>
-            <li>Markdown (md)</li>
-            <li>MemoQ (mqxliff)</li>
-            <li>Microsoft Office (doc, docx, xls, xlsx, xlsm, ppt, pptx,)</li>
-            <li>Microsoft Visio</li>
-            <li>Open Office (sxw, odt, ods, odp)</li>
-            <li>PDF (converts PDF file to Word)</li>
-            <li>php</li>
-            <li>po, pot</li>
-            <li>rc</li>
-            <li>resx, resw</li>
-            <li>rtf</li>
-            <li>SalesForce (stf)</li>
-            <li>sdf</li>
-            <li>Sketch files (.sketch)</li>
-            <li>SubRip text (srt)</li>
-            <li>Trados (ttx)</li>
-            <li>Trados Studio (sdlxliff)</li>
-            <li>txt</li>
-            <li>vdx, vsdx</li>
-            <li>Wordfast (txml)</li>
-            <li>xlf, xliff</li>
-            <li>xml</li>
-            <li>yml, yaml</li>
-        </ul>
+            formats as .xml, .xliff or .po so as <xref
+                href="https://localization.pl/thou-shalt-not-excel/" format="html" scope="external"
+                >not to translate using an Excel sheet</xref>.</p>
+        <p>XTM supports the following <b>file formats</b> for translation:<ul id="ul_ow2_w3q_2tb">
+                <li>Adobe FrameMaker (mif)</li>
+                <li>Adobe Illustrator (fxg, svg, ai,)</li>
+                <li>Adobe InDesign (idml, indd, indb)</li>
+                <li>Adobe Photoshop (psd)</li>
+                <li>Android apps (xml)</li>
+                <li>asp, aspx, ascx</li>
+                <li>Digia QT (ts)</li>
+                <li>DITA</li>
+                <li>Document template (tpl)</li>
+                <li>eps</li>
+                <li>html, htm xhtml, xht shtml, shtm</li>
+                <li>ini</li>
+                <li>iOS apps (strings, stringsdict)</li>
+                <li>Java property files</li>
+                <li>JSON</li>
+                <li>MadCap Flare (flprj)</li>
+                <li>Markdown (md)</li>
+                <li>MemoQ (mqxliff)</li>
+                <li>Microsoft Office (doc, docx, xls, xlsx, xlsm, ppt, pptx,)</li>
+                <li>Microsoft Visio</li>
+                <li>Open Office (sxw, odt, ods, odp)</li>
+                <li>PDF (converts PDF file to Word)</li>
+                <li>php</li>
+                <li>po, pot</li>
+                <li>rc</li>
+                <li>resx, resw</li>
+                <li>rtf</li>
+                <li>SalesForce (stf)</li>
+                <li>sdf</li>
+                <li>Sketch files (.sketch)</li>
+                <li>SubRip text (srt)</li>
+                <li>Trados (ttx)</li>
+                <li>Trados Studio (sdlxliff)</li>
+                <li>txt</li>
+                <li>vdx, vsdx</li>
+                <li>Wordfast (txml)</li>
+                <li>xlf, xliff</li>
+                <li>xml</li>
+                <li>yml, yaml</li>
+            </ul></p>
+        <p>Some TMSs require a filter to be able to process a particular file format that is either
+            embedded or similar to the native one. For example, if you want to translate a Markdown
+            file in memoQ, which is not supported there, you need to apply a plain text filter. As a
+            result, special Markdown tags will still appear in the Editor and if used improperly by
+            a translator, can result in more work to bring it back to the original format. XTM
+            processes .md files without a filter so you can save your time and effort for more
+            productive tasks.</p>
+        <p><image href="../images/Screenshot%20XTM.svg" scale="60" id="image_rdt_3fy_2tb"/></p>
     </conbody>
 </concept>

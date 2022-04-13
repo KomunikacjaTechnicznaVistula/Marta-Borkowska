@@ -23,6 +23,9 @@
                         <cmd>Ask for more information from the respective sales teams.</cmd>
                     </substep>
                     <substep>
+                        <cmd>Consult case studies from different companies.</cmd>
+                    </substep>
+                    <substep>
                         <cmd>Make a comparison of their features and prices in one file.</cmd>
                     </substep>
                     <substep>

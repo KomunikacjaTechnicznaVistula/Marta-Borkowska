@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="future_of_tmss">
+    <title>Future of TMSs</title>
+    <shortdesc/>
+    <conbody>
+        <p>Future trends in TMSs include:</p>
+        <ul id="ul_wz5_jvx_2tb">
+            <li>interoperation with more CMS offerings: content managers should be able to order
+                translations within their own environment</li>
+            <li>tie in with text <xref href="https://en.wikipedia.org/wiki/Authoring_system"
+                    format="html" scope="external">authoring environments</xref>: for existing
+                multilingual content leverage against new writing</li>
+            <li>incorporation of business management functions: to preview the localization cost and
+                timeframe</li>
+            <li>integration with enterprise systems: general ledger applications and sales force
+                automation tools</li>
+            <li>better TM leveraging: project managers can now have full peace of mind that they are
+                making the best possible use of their translation memories. XTM's proprietary
+                algorithm has been enhanced to deliver up to 25% improved accuracy, now enabling
+                users to leverage more TM matches in segments which differ only by the order of
+                words or only by proper nouns. Plus, it gives the savings that come from the fact
+                that the fuzzy matching calculation score algorithm was able to retrieve the TM
+                match, as opposed to standard algorithms which would assign too low a score to this
+                example or possibly fail to retrieve it at all.</li>
+            <li> AI-enhanced TM features:  fuzzy matches coming from the TM can now be directly sent
+                to MT engine, enabling TM and MT to work together to deliver the best match
+                possible. This is particularly useful when the source text could be translated in a
+                number of different ways. it can solve the problem of lacking or inconsistent
+                context in machine translation.</li>
+        </ul>
+    </conbody>
+</concept>

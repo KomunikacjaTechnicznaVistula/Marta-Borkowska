@@ -4,6 +4,21 @@
     <title>Finance management </title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>The main reason for investing in a TMS is to reduce costs that your organization spends
+            on translation in general. How can this tool help you achieve it?</p>
+        <p>It is best if you have all the translation costs under control. However, only a few TMSs
+            have incorporated this important business management function, XTM being one of
+            them.</p>
+        <p>In the translation industry pricing strategies are very diverse. You can be charged per
+            characters, words, lines, both source and target. It is good practice to agree upon one
+            model with all of your vendors and apply it in your TMS.</p>
+        <p>XTM has two main features that you can use to manage your translation-related
+                finances:<ul id="ul_cct_kwx_2tb">
+                <li><xref href="rate_cards.dita">rate cards</xref></li>
+                <li><xref href="quotations.dita">purchase orders</xref></li>
+            </ul></p>
+        <p>If you decide to use them, the whole process will be quick (no need to wait for a
+            quotation from your translation vendor) and transparent (you will know how much you will
+            pay in advance).</p>
     </conbody>
 </concept>

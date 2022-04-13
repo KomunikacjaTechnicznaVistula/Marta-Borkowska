@@ -12,6 +12,7 @@
     <topicref href="topics/tms_in_the_corporate_language_policy.dita">
         <topicref href="topics/which_companies_need_a_tms.dita"/>
         <topicref href="topics/what_are_common_concerns_about_using_a_tms.dita"/>
+        <topicref href="topics/future_of_tmss.dita"/>
     </topicref>
     <topicref href="topics/how_to_make_a_final_decision.dita">
         <topicref href="topics/analysing.dita"/>
@@ -28,6 +29,8 @@
             <topicref href="topics/working_outside.dita"/>
             <topicref href="topics/language_variants.dita"/>
             <topicref href="topics/file_formats.dita"/>
+            <topicref href="topics/alignment.dita"/>
+            <topicref href="topics/concordance.dita"/>
         </topicref>
         <topicref href="topics/translation_editor_workbench.dita">
             <topicref href="topics/key_functionalities.dita"/>
@@ -40,8 +43,7 @@
             <topicref href="topics/lqa.dita"/>
             <topicref href="topics/tm_management.dita"/>
             <topicref href="topics/term_bases.dita"/>
-            <topicref href="topics/concordance.dita"/>
-            <topicref href="topics/alignment.dita"/>
+            <topicref href="topics/terminology_extraction.dita"/>
         </topicref>
         <topicref href="topics/finance_management.dita">
             <topicref href="topics/rate_cards.dita"/>
@@ -51,6 +53,7 @@
         <topicref href="topics/connectors.dita"/>
         <topicref href="topics/documentation.dita"/>
         <topicref href="topics/support.dita"/>
+        <topicref href="topics/product_development.dita"/>
     </topicref>
     <topicref href="topics/vendor_management.dita">
         <topicref href="topics/best_practices_of_cooperation.dita"/>

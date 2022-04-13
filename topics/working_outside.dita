@@ -4,6 +4,18 @@
     <title>Working outside</title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>Often TMSs are based on a subscription model in which you pay for the number of
+            concurrent users, i.e. people that use the tool at the same time. As a result, it is
+            good if the TMS offered the possibility for the vendor to work in another CAT tool by
+            downloading a package with all language resources. Some translation vendors may not like
+            or be familiar with the TMS that you have bought so this option is also a nice
+            alternative.</p>
+        <p>XTM offers an opportunity to download an xliff file from the <i>Offline translation</i>
+            column.</p>
+        <p><image href="../images/Working%20outside.jpg" scale="50" id="image_pl3_sny_2tb"/></p>
+        <p>After translation in another CAT tool, a vendor should import the xliff file back to XTM
+            by clicking <i>Upload file</i> in the <i>Offline translation</i> column.</p>
+        <p>The translation memory is updated automatically and it is possible to generate the target
+            file from XTM.</p>
     </conbody>
 </concept>
