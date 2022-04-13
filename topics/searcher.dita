@@ -4,6 +4,27 @@
     <title>Searcher</title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>Each TMS is an extensive and comprehensive tool to manage your translatable content. As a
+            result, it is very important that it has a <b>good searcher</b> so that you could easily
+            find what you are looking for.</p>
+        <p>On one hand you should be able to see only what is relevant for you, because <b>a
+                dashboard is also a project management tool</b>. XTM offers you different views: you
+            can decide if you wish to view projects by project manager (only your projects or all
+            projects) or status (current, archived or all projects).</p>
+        <p>On the other hand, you should be able to find a particular project quickly instead of
+            browsing through your huge dashboard. In XTM you can use two different options:</p>
+        <p>
+            <ul id="ul_un3_gqy_2tb">
+                <li>simple search</li>
+                <li>advanced search</li>
+            </ul>
+        </p>
+        <p><b>Simple search</b> allows you to search against the project name, ref. ID, customer
+            name, source language, date created, due date, minimum status, or maximum status. It is
+            also possible to search for multiple projects in one search request. You will see the
+            results on your dashboard.</p>
+        <p><b>Advanced search</b>, which is available in a separate tab, gives you plenty of
+            filtering options.</p>
+        <p><image href="../images/Advanced%20search.jpg" scale="50" id="image_jm3_hry_2tb"/></p>
     </conbody>
 </concept>

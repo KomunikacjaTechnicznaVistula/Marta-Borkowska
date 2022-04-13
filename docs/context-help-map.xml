@@ -38,6 +38,7 @@
    <appContext helpID="key_functionalities" path="topics/key_functionalities.html"/>
    <appContext helpID="dealing_with_inline_tags"
                path="topics/dealing_with_inline_tags.html"/>
+   <appContext helpID="preview" path="topics/preview.html"/>
    <appContext helpID="work_automation" path="topics/work_automation.html"/>
    <appContext helpID="offline_editor" path="topics/offline_editor.html"/>
    <appContext helpID="quality_management" path="topics/quality_management.html"/>

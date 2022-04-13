@@ -35,6 +35,7 @@
         <topicref href="topics/translation_editor_workbench.dita">
             <topicref href="topics/key_functionalities.dita"/>
             <topicref href="topics/dealing_with_inline_tags.dita"/>
+            <topicref href="topics/preview.dita"/>
             <topicref href="topics/work_automation.dita"/>
             <topicref href="topics/offline_editor.dita"/>
         </topicref>

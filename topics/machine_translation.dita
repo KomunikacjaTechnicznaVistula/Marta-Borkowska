@@ -16,6 +16,13 @@
             from leading MT providers. In addition, you should be able to choose <b>more than one
                 engine</b>, because you may decide to use one for a particular language pair or
             domain and another for a different one.</p>
+        <p>For more information on machine translation performance for different language pairs and
+            content, conuslt the <xref href="https://go.memsource.com/machine-translation-report"
+                format="html" scope="external">Memsource Machine Translation Report</xref> or the
+                <xref
+                href="https://try.inten.to/machine-translation-report-2021/?_ga=2.234064026.560105315.1649773908-478560454.1649498107&amp;_gl=1*e8905i*_ga*NDc4NTYwNDU0LjE2NDk0OTgxMDc.*_ga_8ER1RD0745*MTY0OTg1MjczNy4zLjAuMTY0OTg1MjczNy4w"
+                format="html" scope="external">State of Machine Translation report</xref> by
+            Intento.</p>
         <p>Here is a choice available in XTM:</p>
         <p><image href="../images/MT%20engines.jpg" scale="65" id="image_nrw_vbs_2tb"/></p>
         <p>What you should also note is the ability to choose an MT hub (e.g. <xref
