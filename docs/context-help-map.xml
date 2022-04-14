@@ -21,10 +21,10 @@
    <appContext helpID="analysing" path="topics/analysing.html"/>
    <appContext helpID="researching" path="topics/researching.html"/>
    <appContext helpID="preparing_for_launch" path="topics/preparing_for_launch.html"/>
+   <appContext helpID="roi" path="topics/roi.html"/>
    <appContext helpID="key_tms_features" path="topics/key_tms_features.html"/>
    <appContext helpID="project_management" path="topics/project_management.html"/>
    <appContext helpID="searcher" path="topics/searcher.html"/>
-   <appContext helpID="reports" path="topics/reports.html"/>
    <appContext helpID="notifications" path="topics/notifications.html"/>
    <appContext helpID="analytics" path="topics/analytics.html"/>
    <appContext helpID="workflows" path="topics/workflows.html"/>
@@ -33,13 +33,14 @@
    <appContext helpID="file_formats" path="topics/file_formats.html"/>
    <appContext helpID="alignment" path="topics/alignment.html"/>
    <appContext helpID="concordance" path="topics/concordance.html"/>
+   <appContext helpID="anonymization" path="topics/anonymization.html"/>
+   <appContext helpID="mobile_version" path="topics/mobile_version.html"/>
    <appContext helpID="translation_editor_workbench"
                path="topics/translation_editor_workbench.html"/>
-   <appContext helpID="key_functionalities" path="topics/key_functionalities.html"/>
    <appContext helpID="dealing_with_inline_tags"
                path="topics/dealing_with_inline_tags.html"/>
    <appContext helpID="preview" path="topics/preview.html"/>
-   <appContext helpID="work_automation" path="topics/work_automation.html"/>
+   <appContext helpID="filtering" path="topics/filtering.html"/>
    <appContext helpID="offline_editor" path="topics/offline_editor.html"/>
    <appContext helpID="quality_management" path="topics/quality_management.html"/>
    <appContext helpID="automatic_qa" path="topics/automatic_qa.html"/>
@@ -57,6 +58,7 @@
    <appContext helpID="support" path="topics/support.html"/>
    <appContext helpID="product_development" path="topics/product_development.html"/>
    <appContext helpID="vendor_management" path="topics/vendor_management.html"/>
+   <appContext helpID="access_rights" path="topics/access_rights.html"/>
    <appContext helpID="best_practices_of_cooperation"
                path="topics/best_practices_of_cooperation.html"/>
    <appContext helpID="how_to_integrate_your_vendors_in_xtm"

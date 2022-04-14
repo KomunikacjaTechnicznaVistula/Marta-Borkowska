@@ -4,6 +4,36 @@
     <title>Workflows</title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>One of the main features of a TMS is <b>work automation</b>. This is reflected, for
+            example, by workflows which keep all translation stakeholders on the same page. This is
+            where the process is actually managed with full traceability.</p>
+        <p>It is very important for a TMS to have <b>pre-defined workflows</b> (such as: translate,
+            review, manage, LQA) with a possibility to manage relations between them. In XTM:<ul
+                id="ul_s4j_zl2_ftb">
+                <li>particular steps can be processed at the same time</li>
+                <li>the next step cannot be started until the previous step for that bundle is
+                    finished</li>
+                <li> both steps can be done simultaneously</li>
+            </ul></p>
+        <p>Some steps are also <b>automatic</b> to save on linguists' or PMs' time. These include
+            e.g. approving TM segments or setting a predefined status of XTM segments.</p>
+        <p>A system administrator can also <b>create custom steps</b> depending on business
+            needs.</p>
+        <p>It is also possible to <b>split a file into bundles of segments</b> so that multiple
+            translators can work on the file at the same time reducing the time needed for the
+            job.</p>
+        <p>You can manage workflows in XTM also by:<ul id="ul_tsz_wm2_ftb">
+                <li>allocating linguists to a particular step - on the dashboard you can see who is
+                    responsible for what and until when</li>
+                <li>rolling back the process to a previous step - if you want a linguist to make
+                    corrections</li>
+                <li>moving the file forward to a subsequent step</li>
+                <li>modifying the workflow by adding new or deleting unnecessary steps</li>
+            </ul></p>
+        <p>Once you start the process, persons responsible for particular tasks will receive
+            automatic <xref href="notifications.dita">notificatons</xref> form XTM to their email
+            addresses so there is no need for a PM to send any additional message. PMs also receives
+            emails once a particular step is finished so they can keep an eye on the translation
+            process.</p>
     </conbody>
 </concept>

@@ -38,5 +38,11 @@
             you have some TM matches, you send these to an MT engine to fill in the blanks, creating
             an opportunity to leverage existing resources in an innovative way.</p>
         <p><image href="../images/General%20options.jpg" scale="65" id="image_iql_1ds_2tb"/></p>
+        <p>A great benefit from using MT in a TMS is that you use its <b>secure version</b> in
+            comparison to the free web-based tool. Your texts are never stored or used by an MT
+            provider to improve its engine.</p>
+        <p>In addition, while working in XTM, you can translate all <xref href="file_formats.dita"
+                >supported file formats</xref> using an MT engine and not only a few selected files
+            (e.g. Word or PowerPoint).</p>
     </conbody>
 </concept>

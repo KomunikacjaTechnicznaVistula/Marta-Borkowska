@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="access_rights">
+    <title>Access rights and roles</title>
+    <shortdesc/>
+    <conbody>
+        <p>There are pre-defined and configurable user roles in XTM. The Administrator is the
+            highest level of user with access to all functions.</p>
+    </conbody>
+</concept>

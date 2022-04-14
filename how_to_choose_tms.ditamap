@@ -18,11 +18,11 @@
         <topicref href="topics/analysing.dita"/>
         <topicref href="topics/researching.dita"/>
         <topicref href="topics/preparing_for_launch.dita"/>
+        <topicref href="topics/roi.dita"/>
     </topicref>
     <topicref href="topics/key_tms_features.dita">
         <topicref href="topics/project_management.dita">
             <topicref href="topics/searcher.dita"/>
-            <topicref href="topics/reports.dita"/>
             <topicref href="topics/notifications.dita"/>
             <topicref href="topics/analytics.dita"/>
             <topicref href="topics/workflows.dita"/>
@@ -31,12 +31,13 @@
             <topicref href="topics/file_formats.dita"/>
             <topicref href="topics/alignment.dita"/>
             <topicref href="topics/concordance.dita"/>
+            <topicref href="topics/anonymization.dita"/>
+            <topicref href="topics/mobile_version.dita"/>
         </topicref>
         <topicref href="topics/translation_editor_workbench.dita">
-            <topicref href="topics/key_functionalities.dita"/>
             <topicref href="topics/dealing_with_inline_tags.dita"/>
             <topicref href="topics/preview.dita"/>
-            <topicref href="topics/work_automation.dita"/>
+            <topicref href="topics/filtering.dita"/>
             <topicref href="topics/offline_editor.dita"/>
         </topicref>
         <topicref href="topics/quality_management.dita">
@@ -57,6 +58,7 @@
         <topicref href="topics/product_development.dita"/>
     </topicref>
     <topicref href="topics/vendor_management.dita">
+        <topicref href="topics/access_rights.dita"/>
         <topicref href="topics/best_practices_of_cooperation.dita"/>
         <topicref href="topics/how_to_integrate_your_vendors_in_xtm.dita"/>
     </topicref>

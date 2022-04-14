@@ -5,7 +5,11 @@
     <shortdesc>The decision-making process is based on ITCQF, points 6.2 and 6.3 of Syllabus,
         version 2.0.</shortdesc>
     <taskbody>
-        <prereq id="prereq_zwt_rkq_zsb"/>
+        <prereq id="prereq_zwt_rkq_zsb">
+            <p>The market for translation management systems is often confusing and constantly in
+                motion. The decision to purchase a new system or to change an existing one is
+                therefore not an easy one.</p>
+        </prereq>
         <context>In order to choose the right TMS for your company, you should consider a lot of
             different aspects, both from business and technical perspectives. To make it easier for
             you, I strongly encourage you to follow these steps:</context>
@@ -27,6 +31,7 @@
                 <li>more effective collaboration</li>
                 <li>faster time to market</li>
                 <li>reduced translation costs</li>
+                <li><xref href="roi.dita">return on your investment</xref></li>
             </ul>
         </postreq>
     </taskbody>

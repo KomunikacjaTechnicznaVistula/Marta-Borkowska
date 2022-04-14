@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="mobile_version">
+    <title>Mobile version</title>
+    <shortdesc/>
+    <conbody>
+        <p>Today's world requires you to be on the go all the time. On one hand, you expect
+            work-life balance, but on the other wish to manage translations on your phone or tablet
+            using a mobile app; around the clock. It does not mean you have to do it, but it is good
+            if you have such an opportunity.</p>
+        <p>The <b>XTM Mobile</b> enables project managers to oversee projects on the go. You can
+            focus on critical issues such as:</p>
+        <ul id="ul_fyv_txf_ftb">
+            <li>managing projects</li>
+            <li>applying smart filters</li>
+            <li>accessing metrics</li>
+            <li>managing LSPs</li>
+        </ul>
+        <p>The app also offers some unique features such as calling or sending a text message to
+            customers, users, or LSPs directly.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="anonymization">
+    <title>Anonymization</title>
+    <shortdesc/>
+    <conbody>
+        <p>In order to comply with the <xref href="https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+                format="html" scope="external">GDPR</xref>, companies are required to anonymize
+            clients' TM content, essentially remove personal data. One of the features ensuring data
+            protection is <i>anonymization</i> (also called<i> pseudonymization</i>).</p>
+        <p>In XTM the anonymization feature is based on Named Entity Recognition (NER). Its purpose
+            is to protect private or personally identifiable data. It identifies confidential data
+            by converting it to inline tags, while still maintaining the integrity of the data
+            itself.</p>
+        <p>As a result, there is no risk of a data leak, whether the text is translated by a human
+            translator or through machine translation.</p>
+        <p>To convert sensitive data into inline tags during translation in XTM Workbench, you need
+            to use special MS Word styles. </p>
+        <p>This feature is available for all languages, while anonymization applies only to the
+            following languages: Danish, Dutch, English, French, German, Italian, Portuguese,
+            Spanish, Swedish.</p>
+        <p>Once the translation process is complete, and the target document is finalized, the
+            sensitive data is automatically reinserted into the text.</p>
+    </conbody>
+</concept>
