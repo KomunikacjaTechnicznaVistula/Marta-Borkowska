@@ -31,7 +31,7 @@
                 <li>modifying the workflow by adding new or deleting unnecessary steps</li>
             </ul></p>
         <p>Once you start the process, persons responsible for particular tasks will receive
-            automatic <xref href="notifications.dita">notificatons</xref> form XTM to their email
+            automatic <xref href="notifications.dita">notifications</xref> form XTM to their email
             addresses so there is no need for a PM to send any additional message. PMs also receives
             emails once a particular step is finished so they can keep an eye on the translation
             process.</p>

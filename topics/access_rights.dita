@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="access_rights">
-    <title>Access rights and roles</title>
+    <title>User access rights and roles</title>
     <shortdesc/>
     <conbody>
-        <p>There are pre-defined and configurable user roles in XTM. The Administrator is the
-            highest level of user with access to all functions.</p>
+        <p>TMS is a platform where all translation project participants meet. That's why it is
+            important to be able to manage these users effectively so as everyone could make the
+            best use of this tool. On the other hand, you should also be able to restrict access to
+            certain features to protect your company's content.</p>
+        <p>It is up to you as the manager of your corporate translation resources to define what
+            third-party users are allowed to do in a TMS. For example, it may be necessary to
+            determine if users can modify, import, export, view and add TM entries or limit their
+            ability to do so. The same goes for LQA results, Concordance and Terminology.</p>
+        <p>Here is how you can manage <b>users access</b> to different features in XTM:</p>
+        <p><image href="../images/Access%20rights.jpg" scale="70" id="image_d4t_hzl_ftb"/></p>
+        <p>It is a nice-have to be able to set access rights globally, for all user roles (as shown
+            above) and for particular users.</p>
+        <p>In XTM there are both pre-defined and configurable <b>user roles</b> with different
+            access rights:<ul id="ul_iqs_2wl_ftb">
+                <li><u>Pre-defined roles</u>:<ul id="ul_e53_1wl_ftb">
+                        <li>Administrator - the highest level of user with access to all
+                            functions</li>
+                        <li>Project Manager - can e.g. create and edit other Project Managers,
+                            Linguists, Customers, manage projects, access and download reports</li>
+                        <li>Linguist - has access to any of the 4 steps in the workflow</li>
+                        <li>Terminologist - has access to Terminology</li>
+                        <li>TM Expert - has access only to TM Manager</li>
+                    </ul></li>
+                <li><u>Configurable roles</u>:<ul id="ul_xqp_kwl_ftb">
+                        <li>PM Creator &amp; Viewer (Limited Project Managers)</li>
+                        <li>PM Projects and Customers (Limited Project Managers)</li>
+                        <li>Cost Approver</li>
+                        <li>Requester</li>
+                    </ul></li>
+            </ul></p>
+        <p>It is possible to subcontract projects by creating an LSP account being a special type of
+            user.</p>
+        <p>Apart from access rights for each user you can define language pairs and rate cards to be
+            able to generate automatic <xref href="quotations.dita">purchase orders</xref>. You can
+            also define a rating for qulaity and punctuality, which helps choose the best providers
+            for your translation projects.</p>
     </conbody>
 </concept>

@@ -29,12 +29,20 @@
    <appContext helpID="analytics" path="topics/analytics.html"/>
    <appContext helpID="workflows" path="topics/workflows.html"/>
    <appContext helpID="working_outside" path="topics/working_outside.html"/>
-   <appContext helpID="language_variants" path="topics/language_variants.html"/>
    <appContext helpID="file_formats" path="topics/file_formats.html"/>
-   <appContext helpID="alignment" path="topics/alignment.html"/>
-   <appContext helpID="concordance" path="topics/concordance.html"/>
    <appContext helpID="anonymization" path="topics/anonymization.html"/>
    <appContext helpID="mobile_version" path="topics/mobile_version.html"/>
+   <appContext helpID="finance_management" path="topics/finance_management.html"/>
+   <appContext helpID="rate_cards" path="topics/rate_cards.html"/>
+   <appContext helpID="quotations" path="topics/quotations.html"/>
+   <appContext helpID="content_management" path="topics/content_management.html"/>
+   <appContext helpID="alignment" path="topics/alignment.html"/>
+   <appContext helpID="terinology_extraction"
+               path="topics/terminology_extraction.html"/>
+   <appContext helpID="tm_management" path="topics/tm_management.html"/>
+   <appContext helpID="term_bases" path="topics/term_bases.html"/>
+   <appContext helpID="concordance" path="topics/concordance.html"/>
+   <appContext helpID="language_variants" path="topics/language_variants.html"/>
    <appContext helpID="translation_editor_workbench"
                path="topics/translation_editor_workbench.html"/>
    <appContext helpID="dealing_with_inline_tags"
@@ -45,13 +53,6 @@
    <appContext helpID="quality_management" path="topics/quality_management.html"/>
    <appContext helpID="automatic_qa" path="topics/automatic_qa.html"/>
    <appContext helpID="lqa" path="topics/lqa.html"/>
-   <appContext helpID="tm_management" path="topics/tm_management.html"/>
-   <appContext helpID="term_bases" path="topics/term_bases.html"/>
-   <appContext helpID="terinology_extraction"
-               path="topics/terminology_extraction.html"/>
-   <appContext helpID="finance_management" path="topics/finance_management.html"/>
-   <appContext helpID="rate_cards" path="topics/rate_cards.html"/>
-   <appContext helpID="quotations" path="topics/quotations.html"/>
    <appContext helpID="machine_translation" path="topics/machine_translation.html"/>
    <appContext helpID="connectors" path="topics/connectors.html"/>
    <appContext helpID="documentation" path="topics/documentation.html"/>

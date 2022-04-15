@@ -4,6 +4,49 @@
     <title>LQA</title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p><b>Linguistic Quality Assurance</b> (LQA) is a comprehensive, multi-level process that
+            includes a large number of factors that all aim to measure, control and increase the
+            linguistic quality of any text.</p>
+        <p>While <xref href="automatic_qa.dita">QA checks</xref> are performed automatically, LQA is
+            always performed by human linguists. Using a pre-determined methodology, they determine
+            if the translation contains any <b>objective errors</b> grouped into categories. These
+            may include: <ul id="ul_usz_pxm_ftb">
+                <li>inaccuracy or inconsistency with glossary, style guide or translation memory </li>
+                <li>inadequate spelling, grammar, punctuation</li>
+                <li>wrong register</li>
+                <li>omissions</li>
+                <li>different meaning/mistranslation/incorrect translation</li>
+            </ul></p>
+        <p>The process of performing LQA begins with the recording of the errors in translation and
+            ends with reporting analysis. For that purpose an evaluator can use a special form or
+            use a TMS-embedded one.</p>
+        <p>In XTM the LQA feature is a translation quality scoring system based on the
+            Multidimensional Quality Metrics (MQM) model which has been designed as part of the
+                <xref href="https://www.qt21.eu/launchpad/" format="html" scope="external">QT
+                Launchpad project</xref>. As a result it is flexible (can be easily configured to
+            meet your needs), suitable for all translation methods (including MT) and
+            comparable.</p>
+        <p>You can also set the weight for each item and severity multiplier for neutral, minor,
+            major, and critical items, or add new errors.</p>
+        <p>XTM offers different methods of calculating LQA scores:</p>
+        <ul id="ul_ut5_wwm_ftb">
+            <li>
+                <p>based on the number of words in the target text (default option)</p>
+            </li>
+            <li>
+                <p>based on the number of words in the source text</p>
+            </li>
+            <li>
+                <p>Reference Word Count (RWC) which can be added to either of the other methods.
+                </p>
+            </li>
+        </ul>
+        <p>After the process is completed in XTM Workbench, you can view LQA results next to each
+            user or download an LQA report. Usually, when the score is below 93%, the test is failed
+            and the translation should be returned to the linguist for correction.</p>
+        <p><image href="../images/LQA%20form.jpg" scale="70" id="image_ss2_tzm_ftb"/></p>
+        <p>LQA can be a separate service or a part of the translation service that you buy from your
+            LSP. In any case, XTM enables you ro perform it using a separate <i>LQA workflow
+                step</i>.</p>
     </conbody>
 </concept>

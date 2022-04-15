@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="term_bases">
-    <title>Term bases</title>
+    <title>Termbases</title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>A termbase (TB), also known as terminology database, is a glossary of industry-specific
+            and company-specific terms, which you can manage outside your translation memories.
+            While TMs are automatically created in a TMS, TBs need to be prepared manually. It is
+            possible to use <xref href="terminology_extraction.dita">terminology extraction</xref>
+            to help this process, but it still requires a human factor.</p>
+        <p>XTM incorporates a comprehensive terminology module, i.e. a database of multilingual
+            terms.</p>
+        <p>In XTM Workbench, the system identifies and highlights terms in the source text that are
+            in the termbase. The approved term equivalent in the target language is displayed in the
+            docked panel. On hover, more term details are displayed. This feature facilitates a
+            consistent use of the agreed terminology during translation.</p>
+        <p> In XTM you can:<ul id="ul_ycb_1nm_ftb">
+                <li>manage terminology (add, suggest, edit, delete, add images)</li>
+                <li>export any termbase from XTM to several standard file formats</li>
+                <li>import a list of existing terms into XTM from external sources, and then edit or
+                    add new terms directly from the XTM Workbench or in Manage tab.</li>
+            </ul></p>
+        <p>Here is how a termbase looks like in XTM:</p>
+        <p><image href="../images/Termbase.jpg" scale="70" id="image_lb4_5mm_ftb"/></p>
     </conbody>
 </concept>

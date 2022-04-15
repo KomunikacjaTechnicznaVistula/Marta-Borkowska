@@ -4,6 +4,20 @@
     <title>Quality management</title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>There are still discussions on what should be considered a high-quality translation. Is
+            it an error-free document in the target language or the smooth process where every step
+            complies with the established procedure?</p>
+        <p>Many linguists agree that it is when the translated document meets or exceeds the
+            expectations of the client and the target audience. Although, it is very difficult to
+            measure linguistic quality, everyone keeps talking about it, especially when they regard
+            it as "poor".</p>
+        <p>And that's the point: quality can be both a subjective and objective notion. What Project
+            Managers can do is to focus on the former aspect. One of the reasons for buying the TMS
+            is improving the quality of translations and quality of the whole process. </p>
+        <p>Here are key features that help manage and improve the quality of translations:<ul
+                id="ul_vft_j5m_ftb">
+                <li><xref href="automatic_qa.dita">Quality Assurance (QA)</xref></li>
+                <li><xref href="lqa.dita">Linguistic Quality Assurance (LQA)</xref></li>
+            </ul></p>
     </conbody>
 </concept>

@@ -11,7 +11,7 @@
             <li>hybrid cloud</li>
         </ul>
         <p><b>What's the difference between them and how does it affect your decision on which TMS
-            to buy?</b></p>
+                to buy?</b></p>
         <p>There’s no one type of cloud that’s right for every organization. As a result, a choice
             of a deployment method depends on your business needs.</p>
         <p>A <b>private cloud</b> is cloud computing with resources used <b>exclusively</b> by one
@@ -30,7 +30,8 @@
             It is often used by organizations that require assistance in the form of public cloud
             services e.g. to meet increased traffic demand or private clouds to handle sensitive
             data. It is the most complex solution requiring some IT knowledge.</p>
-        <p>In the table below you will find a comparison of the most important cloud aspects:</p><table id="table_odl_bhb_zsb" frame="all">
+        <p>In the table below you will find a comparison of the most important cloud aspects:</p>
+        <table id="table_odl_bhb_zsb" frame="all">
             <tgroup cols="4">
                 <colspec colname="c1" colnum="1"/>
                 <colspec colname="c2" colnum="2"/>
@@ -106,5 +107,9 @@
                 organization</b> and <b>is within your budget</b>. You are also limited to the offer
             that is available on the market. However, it is always good to know about all the
             benefits and drawbacks.</p>
+        <p>For example, if you wish to purchase a private cloud to use XTM, you should read its
+                <xref
+                href="https://help.xtm.cloud/xtm-cloud/13/en/server-specifications-for-private-xtm-cloud.html"
+                format="html" scope="external">specification</xref>.</p>
     </conbody>
 </concept>

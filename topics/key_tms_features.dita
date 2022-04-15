@@ -2,8 +2,29 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="key_tms_features">
     <title>Key TMS features</title>
-    <shortdesc/>
+    <shortdesc>Every TMS should have certain features you should look for to meet your business
+        needs.</shortdesc>
     <conbody>
-        <p/>
+        <p>Before you decide on committing to a particular tool, I encourage you to check the
+            following categories with a brief description and examples how they are supported in
+            XTM:</p>
+        <p>
+            <ul id="ul_c1s_4hn_ftb">
+                <li><xref href="project_management.dita">Project management</xref></li>
+                <li><xref href="finance_management.dita">Finance management</xref></li>
+                <li><xref href="content_management.dita">Content management</xref></li>
+                <li><xref href="translation_editor_workbench.dita">Translation editor</xref></li>
+                <li><xref href="quality_management.dita">Quality management</xref></li>
+                <li><xref href="machine_translation.dita">Machine translation</xref></li>
+                <li><xref href="connectors.dita">Connectors</xref></li>
+                <li><xref href="documentation.dita">Documentation</xref></li>
+                <li><xref href="support.dita">Support</xref></li>
+                <li><xref href="product_development.dita">Product development</xref></li>
+            </ul>
+        </p>
+        <p>The above list is not exhaustive. It contains the key features that you may consult
+            during your decision-making process. All in all, these capabilities should provide for a
+            harmonious and versatile system to bring your translation process onto the next
+            level.</p>
     </conbody>
 </concept>

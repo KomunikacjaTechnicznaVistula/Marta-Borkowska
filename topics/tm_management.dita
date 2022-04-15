@@ -4,6 +4,41 @@
     <title>TM management </title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>A translation memory has been at a core of the industry since the late 1990s and its
+            importance has not faded even with the arrival of new technologies. It is a database
+            that stores sentences, paragraphs or segments of text that have been translated
+            before.</p>
+        <p>XTM has integrated Translation Memory and <xref href="term_bases.dita">Terminology</xref>
+            modules to allow creating, maintaining, and updating translation memories and termbases.
+            All sets of TM assigned to a project are <b>updated in real-time</b> as the translators
+            move from segment to segment. Any changes made to the TM are immediately updated and
+            accessible to all users with appropriate roles and access rights. </p>
+        <p>The translation memory is assigned to the customer and a language pair. You can edit it
+            both in a dedicate <i>TM Manage</i> tab or directly in <i>Workbench</i> for a particular
+            segment.</p>
+        <p>The TM management system enables you to:</p>
+        <ul id="ul_rnx_bhm_ftb">
+            <li>
+                <p>manage your translation resources (edit, approve, delete, search, find and
+                    replace)</p>
+            </li>
+            <li>
+                <p>import a new TM</p>
+            </li>
+            <li>
+                <p>export selected TMs in a relevant format </p>
+            </li>
+        </ul>
+        <p>Translation memories can be imported into XTM from:<ul id="ul_f4p_hhm_ftb">
+                <li>
+                    <p>TMX</p>
+                </li>
+                <li>
+                    <p>XLS</p>
+                </li>
+                <li>
+                    <p>single-language XLIFF file</p>
+                </li>
+            </ul></p>
     </conbody>
 </concept>

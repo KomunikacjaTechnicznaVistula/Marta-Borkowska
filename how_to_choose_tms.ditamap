@@ -27,12 +27,21 @@
             <topicref href="topics/analytics.dita"/>
             <topicref href="topics/workflows.dita"/>
             <topicref href="topics/working_outside.dita"/>
-            <topicref href="topics/language_variants.dita"/>
             <topicref href="topics/file_formats.dita"/>
-            <topicref href="topics/alignment.dita"/>
-            <topicref href="topics/concordance.dita"/>
             <topicref href="topics/anonymization.dita"/>
             <topicref href="topics/mobile_version.dita"/>
+        </topicref>
+        <topicref href="topics/finance_management.dita">
+            <topicref href="topics/rate_cards.dita"/>
+            <topicref href="topics/quotations.dita"/>
+        </topicref>
+        <topicref href="topics/content_management.dita">
+            <topicref href="topics/alignment.dita"/>
+            <topicref href="topics/terminology_extraction.dita"/>
+            <topicref href="topics/tm_management.dita"/>
+            <topicref href="topics/term_bases.dita"/>
+            <topicref href="topics/concordance.dita"/>
+            <topicref href="topics/language_variants.dita"/>
         </topicref>
         <topicref href="topics/translation_editor_workbench.dita">
             <topicref href="topics/dealing_with_inline_tags.dita"/>
@@ -43,13 +52,6 @@
         <topicref href="topics/quality_management.dita">
             <topicref href="topics/automatic_qa.dita"/>
             <topicref href="topics/lqa.dita"/>
-            <topicref href="topics/tm_management.dita"/>
-            <topicref href="topics/term_bases.dita"/>
-            <topicref href="topics/terminology_extraction.dita"/>
-        </topicref>
-        <topicref href="topics/finance_management.dita">
-            <topicref href="topics/rate_cards.dita"/>
-            <topicref href="topics/quotations.dita"/>
         </topicref>
         <topicref href="topics/machine_translation.dita"/>
         <topicref href="topics/connectors.dita"/>

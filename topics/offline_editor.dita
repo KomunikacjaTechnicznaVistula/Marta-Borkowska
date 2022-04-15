@@ -4,6 +4,13 @@
     <title>Offline editor</title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>Sometimes you know you will not have internet access (rare cases nowadays but it can
+            still happen if you are able to work from anywhere) and you would like to have your job
+            done. This is where an offline editor proves handy, especially if you do not have any
+            other desktop CAT tool on your laptop.</p>
+        <p>The <b>XTM Offline Editor </b>is a self-contained application that allows you to
+            translate, correct and review offline. The only software that you need to install is a
+            compatible version of Microsoft Excel. It works in a similar manner to the online,
+            browser-based version of XTM Workbench.</p>
     </conbody>
 </concept>

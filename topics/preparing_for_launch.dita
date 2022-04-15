@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="preparing_for_launch">
-    <title>Preparing for launch</title>
+    <title>Preparing for go-live</title>
     <shortdesc/>
     <taskbody>
         <prereq id="prereq_y1b_gwp_2tb">You may start this stage once you have received an approval
@@ -66,7 +66,8 @@
             </step>
             <step>
                 <cmd>Migrate all your TMs and TBs (if any) to the TMS. Create workflows, user
-                    accounts with relevant access rights and roles.</cmd>
+                    accounts with relevant <xref href="access_rights.dita">access rights and
+                        roles</xref>.</cmd>
             </step>
             <step>
                 <cmd>Start working with your new TMS, initially only for some projects (the easiest

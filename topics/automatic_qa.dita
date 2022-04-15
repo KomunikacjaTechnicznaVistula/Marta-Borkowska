@@ -4,6 +4,29 @@
     <title>Automatic QA</title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>Automatic QA tools to check translations have become the norm in the translation
+            industry. Many of them are built-in with the various CAT, but some are also available
+            separately. The aim is to help linguists and Project Managers spot as many errors in the
+            translated documents as possible quickly and effectively.</p>
+        <p>After translation and proofreading PMs usually perform an automatic Quality Assurance
+            check e.g. for:</p>
+        <ul id="ul_zxr_y1n_ftb">
+            <li>formatting</li>
+            <li>punctuation</li>
+            <li>grammar</li>
+            <li>spelling</li>
+            <li>inline tags</li>
+            <li>forbidden or rejected terms used</li>
+        </ul>
+        <p>In XTM, the scope of QA checks depends on the connected spell checker and its
+            availability for the particular language. You run it directly in Workbench. It is also
+            possible to perform QA using <xref href="https://www.xbench.net/" format="html"
+                scope="external">Xbench</xref>- a third-party translation QA and terminology
+            management tool.</p>
+        <p>As a result, when a QA error is detected, it is highlighted and you will see warnings
+            displayed with segment number, category and description. You can also filter our
+            segments with QA warnings to focus only on them.</p>
+        <p>XTM enables you also to use regular expressions to perform an in-depth quality assurance
+            check. You can choose between a series of predefined regexes in the QA profile.</p>
     </conbody>
 </concept>
