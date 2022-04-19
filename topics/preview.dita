@@ -5,5 +5,36 @@
     <shortdesc/>
     <conbody>
         <p/>
+        <p>The aim of the visual mode in TMSs is to show you a preview of the source and target file
+            so that linguists could click on the text in the preview and enter or correct a
+            translation in the target segment. The target preview is immediately updated with the
+            translation which allows you to see the full context of your translation as you are
+            working on it.</p>
+        <p>Not only does it provide translators and reviewers with much expected visualized context,
+            but also shows places where texts are too long and need to be shortened to be visible.
+            It also saves time of post-processing work e.g. of graphic designers.</p>
+        <p>In XTM you can see the live preview of the following files:<ul id="ul_mqc_drp_gtb">
+                <li>
+                    <p>HTML</p>
+                </li>
+                <li>
+                    <p>XML</p>
+                </li>
+                <li>
+                    <p>PDF (only editable)</p>
+                </li>
+                <li>
+                    <p>Word</p>
+                </li>
+                <li>
+                    <p>InDesign (only with an InDesign server enabled which is an additionally paid
+                        service)</p>
+                </li>
+                <li>SRT (to see video subtitles in context)</li>
+            </ul></p>
+        <p>With a real-time preview of translations, you can also eliminate errors and omissions.
+            Certainlym project managers will receive fewer questions from linguists lacking context.
+            In addition, if translators know the final result of their work already while doing it,
+            they will have greater satisfaction with it.</p>
     </conbody>
 </concept>

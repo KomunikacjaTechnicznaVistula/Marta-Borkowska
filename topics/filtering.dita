@@ -4,6 +4,24 @@
     <title>Filtering</title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>You choose a TMS for time and cost savings so one way to make you and your lingusts' work
+            faster is to use <b>filters</b> in the text editor. Filtering speeds up both the
+            translation and review process, and makes the terminology more coherent. By using it,
+            linguists can focus on specific segments, especially in case of bigger files.</p>
+        <p>It is also of key importance to have <b>quick access to filters</b>. In XTM you can use
+            them directly from the top menu in Workbench. In addition, you can quickly set up your
+                <b>favourite filters</b> and you will see the ones you used last. As an additional
+            feature you can create <b>advanced, customized filters</b> by joining two or more
+            segment filters together.</p>
+        <p>Each linguist and PM should be able to see <b>filters grouped in categories</b> such as:
+            status, invalid, modification, match, inconsistency and <b>exclude</b> them from being
+            displayed.</p>
+        <p>Here are some of available filters in XTM:</p>
+        <p><image href="../images/Filters.jpg" scale="60" id="image_o1r_2bq_gtb"/></p>
+        <p>Filters are a great way to save on costs, e.g. if you pay hourly rates, your linguists
+            spend less time on browsing through huge files. You can also send only new and modified
+            texts for translation by filtering out all 100% and 101% matches so you will pay much
+            less. This is extremely useful in case of files with a lot of reused content for which
+            you still pay for matches.</p>
     </conbody>
 </concept>

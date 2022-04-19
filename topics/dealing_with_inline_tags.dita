@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="dealing_with_inline_tags">
-    <title>Dealing with inline tags</title>
+    <title>Inline tags</title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>Inline tags are text fragments that correspond to: <ul id="ul_l1l_tvp_gtb">
+                <li>
+                    <p>text formatting such as italic or line breaks</p>
+                </li>
+                <li>
+                    <p>non-translatable technical symbols (such as HTML tags)</p>
+                </li>
+                <li>
+                    <p>other special characters</p>
+                </li>
+            </ul></p>
+        <p>They need to be placed correctly so that the final text had the correct layout. In
+            addition, it is a must to place them in the target segment so that the TM could be
+            updated and the file be exported from the TMS. That's why, usually, the tag placement in
+            the target segment should be as in the original.</p>
+        <p>Inline tags can be displayed in CAT tool text editors in a different way (e.g. in XTM
+            Workbench as numbers in curly brackets). They are an indispensable part of work now, but
+            can still cause a lot of frustration and make the translation work extremely tedious
+            both for linguists and project managers. For more information on why they are so
+            important, you can consult the <xref
+                href="https://www.idioma.com/blog/107-translation-tips-tags-in-translation"
+                format="html" scope="external">Idioma blog</xref>.</p>
+        <p>That's why it is essential to choose a TMS that <b>helps automate dealing with inline
+                tags</b>. XTM offers the option of auto-inserting tags in Workbench. Whenever they
+            are missing or are incorrectly inserted, you can have them fixed automatically. The
+            system will propose the inline tags which should be entered into the target segment and
+            you may accept them or reject them and insert your own.</p>
     </conbody>
 </concept>
