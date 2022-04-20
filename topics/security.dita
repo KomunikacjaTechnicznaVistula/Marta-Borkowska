@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="security">
+    <title>Security</title>
+    <shortdesc/>
+    <conbody>
+        <p>Nowadays, data security is on top of mind of all businesses, with the translation
+            industry being no exception. On one hand, it concerns the confidentiality of transmitted
+            content and the protection of sensitive data. On the other, data is power so it is a
+            must to protect it against accidental loss, especially in case of a cloud solution.</p>
+        <p>With all legal and compliance obligations, you need to choose a TMS carefully in
+            cooperation with the legal and IT departments to adapt the translation process to your
+            needs. You will certainly need to ask your TMS provider to sign a DPA and NDA. If you
+            can provide them with your corporate terms, the better for you.</p>
+        <p>There are certain aspects that should be kept in mind to ensure the secure environment
+            for your translation management. It is important to check if your TMS of choice offers
+            the following features:<ul id="ul_x1z_4lw_gtb">
+                <li>Using SSL certificate - to ensure secure communication via HTTPS</li>
+                <li>Enabling API authentication for new users</li>
+                <li>Allowing 2-Step verification</li>
+                <li>Configuring allowed login attempts</li>
+                <li>Disabling account after non-use</li>
+                <li>Configuring computer activation level</li>
+                <li>Password settings (e.g. duration, strength, use of brute force dictionary)</li>
+                <li>Privacy settings (e.g. option to hide the names or details of other users of the
+                    system)</li>
+            </ul></p>
+        <p>All of these are provided by XTM being a secure environment to work in.</p>
+        <p>In addition, XTM is <b>ISO/IEC 27001: 2017-06</b> certified, which confirms that the
+            provider has the processes in place to protect customer data. It’s also evidence that
+            its information security management system (ISMIS) is able to minimize risk and ensure
+            business continuity by pro-actively limiting the impact of a security breach.</p>
+    </conbody>
+</concept>

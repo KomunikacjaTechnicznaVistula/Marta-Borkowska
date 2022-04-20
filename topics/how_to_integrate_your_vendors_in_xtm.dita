@@ -1,77 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="how_to_integrate_your_vendors_in_xtm">
-    <title>How to start working with your vendors</title>
+    <title>How to start working with your vendors in TMS</title>
     <shortdesc/>
     <taskbody>
+        <prereq id="prereq_e3x_jqw_gtb">List all vendors who are willing to work in the TMS and sign
+            all the necessary agreements with them.</prereq>
         <context>
             <p/>
         </context>
         <steps>
             <step>
-                <cmd>Creating an account for a new LSP</cmd>
+                <cmd>Create an account for your vendor.</cmd>
                 <substeps id="substeps_gft_hvf_ftb">
                     <substep>
-                        <cmd>Users -> LSPs -> Add LSPs -> (podajemy nazwę LSP, np. Supercontext,
-                            dane osoby kontaktowej od strony LSP, jej mail; NIE MUSIMY PODAWAĆ
-                            Project Coordinatora – to jest osoba od nas, która będzie się zajmować
-                            danym LSP)</cmd>
+                        <cmd>For translator/reviewer - linguist (assign roles)</cmd>
                     </substep>
                     <substep>
-                        <cmd>Zaznaczamy w Connection tylko „We send tasks to this LSP” !</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Przypisujemy określoną liczbę licencji (optional)</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Możemy ustawić dla niego Rate cards, Languages i Access rights</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Klikamy send e-mail</cmd>
+                        <cmd>For LSP - subcontracting</cmd>
                     </substep>
                 </substeps>
             </step>
             <step>
-                <cmd>Setting up an LSP account in XTM</cmd>
-                <substeps id="substeps_ndz_nvf_ftb">
-                    <substep>
-                        <cmd>You receive invitation email from XTM </cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Click on „click here” link in the email (marked in red) </cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Fill in the website form and click „Next”. 4. You will get an email
-                            with login details.</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Open XTM website following the link in your email </cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Log in and change password.</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Go to: -> Settings -> Security -> Computer activation level -> click on
-                            “None” and save.</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Go to Users ->LSPs ->Add new LSP</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Fill in client company's details (name of the company/contact email to
-                            TPC)</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Go to “Connection” on the left toolbar (LSP Editor –CLIENT): A) Mark
-                            only “We receive tasks from this LSP” B) Fill in “Connection information
-                            from the LSP” with details from welcome email C) Click on “Save” </cmd>
-                    </substep>
-                </substeps>
+                <cmd>Ask you vendor to go through the setting up process.</cmd>
+                <stepresult>Vendor confirms to be ready to work in TMS.</stepresult>
+            </step>
+            <step>
+                <cmd>Complete your vendor's language pairs, billing details and rates.</cmd>
+            </step>
+            <step>
+                <cmd>Create a test project for vendor (LSP - set up accounts for its PMs and
+                    linguists, and check workflows).</cmd>
+            </step>
+            <step>
+                <cmd>Send all training materials such as manuals and checklist (if any).</cmd>
+            </step>
+            <step>
+                <cmd>Create a real project in TMS, assign it to your vendor and start working.</cmd>
             </step>
         </steps>
-        <result id="result_yhn_pwf_ftb">The connection is established. CLIENT is set as one of your
-            LSP Now you will receive projects from the CLIENT. When the new project is available,
-            you will get an email with notification and the project will be visible in “Projects”
-            tab </result>
     </taskbody>
 </task>

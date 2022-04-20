@@ -47,7 +47,7 @@
                     </substep>
                     <substep>
                         <cmd>Draft relevant documentation (e.g. checklist for translation vendors,
-                            guide on how to review documents).</cmd>
+                            guide on how to review documents for in-house reviewers).</cmd>
                     </substep>
                     <substep>
                         <cmd>Set yourself as the first point of contact for all TMS-related issues
@@ -102,6 +102,11 @@
                         <cmd>Ask yourself a question if you are satisfied with cooperation with this
                             TMS provider (e.g. as regards IT support, your customer success
                             manager).</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Conduct a satisfaction survey among your vendors and/por your internal
+                            clients working in this TMS. Analyze its results and present it in a
+                            form of an executive report for your management.</cmd>
                     </substep>
                 </substeps>
             </step>

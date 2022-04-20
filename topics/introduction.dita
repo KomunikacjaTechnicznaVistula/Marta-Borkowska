@@ -21,19 +21,25 @@
             some common features that you should take into account.</p>
         <p><b>What can you find in this manual?</b></p>
         <ul id="ul_mmb_zp1_zsb">
-            <li>Analysis of top features of a TMS and how they can help your company tackle
-                translation and localizaton challenges</li>
+            <li>Brief description and overview of TMS available in the market (2022)</li>
+            <li>Reasons for and against having a TMS</li>
+            <li>Steps that you should take when deciding to buy a TMS</li>
+            <li>Analysis of <xref href="key_tms_features.dita">key features</xref> of a TMS and how
+                they can help your company tackle translation and localizaton challenges</li>
             <li>Practical information shown on an <xref href="https://xtm.cloud/" format="html"
                     scope="external"><b>XTM</b></xref> example</li>
+            <li>What to do after you have launched a TMS in your company</li>
         </ul>
         <p><b>Why have I chosen XTM?</b></p>
         <p>Because I know this system and I work with it every day. Please note that I am not
             related to XTM International, the software provider, in any way and this is not a
             promotional text. What’s more, XTM’s documentation is very complex, it is available in
-            so many different places and is not much user-friendly. That’s why I wanted to make it
-            more accessible and succint.</p>
-        <p>So if you have a goal: to find the right translation solution for your company, but you
-            don’t know what and how, I hope it will be clearer once you have read everything.</p>
-        <p>You can download this manual also as a pdf file.</p>
+            so many different places and is not much user-friendly. That’s why I wanted to make its
+            key parts more accessible and succint for future users.</p>
+        <p>So if you have a goal: <b>to find the right translation solution for your company</b>,
+            but you don’t know what and how, I hope it will be clearer once you have read
+            everything.</p>
+        <p>You can download this manual also as a <xref href="../docs/how_to_choose_tms.pdf"
+                format="pdf">pdf file</xref>.</p>
     </conbody>
 </concept>

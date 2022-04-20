@@ -55,13 +55,14 @@
         </topicref>
         <topicref href="topics/machine_translation.dita"/>
         <topicref href="topics/connectors.dita"/>
+        <topicref href="topics/security.dita"/>
         <topicref href="topics/documentation.dita"/>
         <topicref href="topics/support.dita"/>
         <topicref href="topics/product_development.dita"/>
     </topicref>
     <topicref href="topics/vendor_management.dita">
         <topicref href="topics/access_rights.dita"/>
-        <topicref href="topics/best_practices_of_cooperation.dita"/>
         <topicref href="topics/how_to_integrate_your_vendors_in_xtm.dita"/>
+        <topicref href="topics/best_practices_of_cooperation.dita"/>
     </topicref>
 </map>

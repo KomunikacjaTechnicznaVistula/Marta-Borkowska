@@ -12,7 +12,10 @@
             modules to allow creating, maintaining, and updating translation memories and termbases.
             All sets of TM assigned to a project are <b>updated in real-time</b> as the translators
             move from segment to segment. Any changes made to the TM are immediately updated and
-            accessible to all users with appropriate roles and access rights. </p>
+            accessible to all users with appropriate roles and access rights. <note
+                id="note_mcr_m2x_gtb">It is a huge advantage of a TMS that TMs do not have to be
+                sent by email or any other file transfer, but are stored and updated centrally on
+                the server.</note></p>
         <p>The translation memory is assigned to the customer and a language pair. You can edit it
             both in a dedicate <i>TM Manage</i> tab or directly in <i>Workbench</i> for a particular
             segment.</p>

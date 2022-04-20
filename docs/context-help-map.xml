@@ -55,13 +55,14 @@
    <appContext helpID="lqa" path="topics/lqa.html"/>
    <appContext helpID="machine_translation" path="topics/machine_translation.html"/>
    <appContext helpID="connectors" path="topics/connectors.html"/>
+   <appContext helpID="security" path="topics/security.html"/>
    <appContext helpID="documentation" path="topics/documentation.html"/>
    <appContext helpID="support" path="topics/support.html"/>
    <appContext helpID="product_development" path="topics/product_development.html"/>
    <appContext helpID="vendor_management" path="topics/vendor_management.html"/>
    <appContext helpID="access_rights" path="topics/access_rights.html"/>
-   <appContext helpID="best_practices_of_cooperation"
-               path="topics/best_practices_of_cooperation.html"/>
    <appContext helpID="how_to_integrate_your_vendors_in_xtm"
                path="topics/how_to_integrate_your_vendors_in_xtm.html"/>
+   <appContext helpID="best_practices_of_cooperation"
+               path="topics/best_practices_of_cooperation.html"/>
 </map>
