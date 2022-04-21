@@ -21,7 +21,7 @@
         <p>In XTM, the scope of QA checks depends on the connected spell checker and its
             availability for the particular language. You run it directly in Workbench. It is also
             possible to perform QA using <xref href="https://www.xbench.net/" format="html"
-                scope="external">Xbench</xref>- a third-party translation QA and terminology
+                scope="external">Xbench</xref> – a third-party translation QA and terminology
             management tool.</p>
         <p>As a result, when a QA error is detected, it is highlighted and you will see warnings
             displayed with segment number, category and description. You can also filter our

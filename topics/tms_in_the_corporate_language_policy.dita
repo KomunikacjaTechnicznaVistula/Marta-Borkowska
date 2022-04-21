@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="tms_in_the_corporate_language_policy">
     <title>TMS in Corporate Language Policy</title>
-    <shortdesc>Learn when you should choose a TMS and how to do it.</shortdesc>
+    <shortdesc>It is good to know which companies should choose a TMS and how what their concerns
+        are.</shortdesc>
     <conbody>
         <p>From a business perspective, a <b>Corporate Language Policy</b> is a must for every
             multinational an multilingual corporation engaged in international operations. It should
@@ -33,8 +34,11 @@
             on how to communicate its message.</p>
         <p>For example, if your company wishes to make only websites and customer service
             communication available in other languages, you may decide on a more
-            localization-oriented TMS (such as Localize). However, when your targets are both
-            marketing materials, IT software strings and corporate communication, then choose a
-            comprehensive translation management system instead (e.g. XTM, Memsource).</p>
+            localization-oriented TMS (such as <xref href="https://lokalise.com/home" format="html"
+                scope="external">Localise</xref>). However, when your targets are both marketing
+            materials, IT software strings and corporate communication, then choose a comprehensive
+            translation management system instead (e.g. <xref href="https://xtm.cloud/"
+                format="html" scope="external">XTM</xref>, <xref href="https://www.memsource.com/"
+                format="html" scope="external">Memsource</xref>).</p>
     </conbody>
 </concept>
