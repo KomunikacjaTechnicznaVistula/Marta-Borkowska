@@ -2,26 +2,22 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="how_to_make_a_final_decision">
     <title>Decision-making process</title>
-    <shortdesc>This process is based on ITCQF Syllabus, version 2.0, Tool Support for Technical
-        Communication</shortdesc>
+    <shortdesc>The TMS market is often confusing and constantly in motion. The decision to purchase
+        a new system or to change an existing one is therefore not an easy one.</shortdesc>
     <taskbody>
-        <prereq id="prereq_zwt_rkq_zsb">
-            <p>The market for translation management systems is often confusing and constantly in
-                motion. The decision to purchase a new system or to change an existing one is
-                therefore not an easy one.</p>
-        </prereq>
+        <prereq id="prereq_zwt_rkq_zsb"/>
         <context>In order to choose the right TMS for your company, you should consider a lot of
             different aspects, both from business and technical perspectives. To make it easier for
             you, I strongly encourage you to follow these steps:</context>
         <steps>
             <step>
-                <cmd>Analysing</cmd>
+                <cmd><xref href="analysing.dita">Analysing</xref></cmd>
             </step>
             <step>
-                <cmd>Researching</cmd>
+                <cmd><xref href="researching.dita">Researching</xref></cmd>
             </step>
             <step>
-                <cmd>Preparing for launch</cmd>
+                <cmd><xref href="preparing_for_launch.dita">Preparing for go-live</xref></cmd>
             </step>
         </steps>
         <postreq id="postreq_owb_gtp_2tb">

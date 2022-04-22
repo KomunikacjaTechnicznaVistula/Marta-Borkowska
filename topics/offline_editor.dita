@@ -10,7 +10,15 @@
             other desktop CAT tool on your laptop.</p>
         <p>The <b>XTM Offline Editor </b>is a self-contained application that allows you to
             translate, correct and review offline. The only software that you need to install is a
-            compatible version of Microsoft Excel. It works in a similar manner to the online,
-            browser-based version of XTM Workbench.</p>
+            compatible version of <i>Microsoft Excel</i>. It works in a similar manner to the
+            online, browser-based version of XTM Workbench.</p>
+        <p>
+            <fig id="fig_zkg_j2l_htb">
+                <title>Offline Editor in XTM</title>
+                <image href="../images/Offline%20editor.jpg" scale="60" id="image_alg_j2l_htb">
+                    <alt>Offline Editor in XTM</alt>
+                </image>
+            </fig>
+        </p>
     </conbody>
 </concept>

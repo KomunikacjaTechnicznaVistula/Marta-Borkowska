@@ -33,8 +33,24 @@
                 <li>SRT (to see video subtitles in context)</li>
             </ul></p>
         <p>With a real-time preview of translations, you can also eliminate errors and omissions.
-            Certainlym project managers will receive fewer questions from linguists lacking context.
+            Certainly, project managers will receive fewer questions from linguists lacking context.
             In addition, if translators know the final result of their work already while doing it,
             they will have greater satisfaction with it.</p>
+        <p>
+            <fig id="fig_rqn_qfl_htb">
+                <title>HTML file preview in XTM</title>
+                <image href="../images/Preview_html.jpg" scale="60" id="image_sqn_qfl_htb">
+                    <alt>HTML file preview in XTM</alt>
+                </image>
+            </fig>
+        </p>
+        <p>
+            <fig id="fig_h1t_tgl_htb">
+                <title>Interactive pdf preview for indd files in XTM</title>
+                <image href="../images/Preview_pdf.jpg" scale="60" id="image_i1t_tgl_htb">
+                    <alt>Interactive pdf preview for indd files in XTM</alt>
+                </image>
+            </fig>
+        </p>
     </conbody>
 </concept>

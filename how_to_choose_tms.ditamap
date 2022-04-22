@@ -65,4 +65,46 @@
         <topicref href="topics/how_to_integrate_your_vendors_in_xtm.dita"/>
         <topicref href="topics/best_practices_of_cooperation.dita"/>
     </topicref>
+    <reltable>
+        <relrow>
+            <relcell>
+                <topicref href="topics/introduction.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/tms_in_the_corporate_language_policy.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/introduction.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/which_companies_need_a_tms.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/introduction.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/what_are_common_concerns_about_using_a_tms.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/introduction.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/future_of_tmss.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/introduction.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/roi.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
 </map>

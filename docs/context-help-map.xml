@@ -65,4 +65,17 @@
                path="topics/how_to_integrate_your_vendors_in_xtm.html"/>
    <appContext helpID="best_practices_of_cooperation"
                path="topics/best_practices_of_cooperation.html"/>
+   <appContext helpID="introduction" path="topics/introduction.html"/>
+   <appContext helpID="tms_in_the_corporate_language_policy"
+               path="topics/tms_in_the_corporate_language_policy.html"/>
+   <appContext helpID="introduction" path="topics/introduction.html"/>
+   <appContext helpID="which_companies_need_a_tms"
+               path="topics/which_companies_need_a_tms.html"/>
+   <appContext helpID="introduction" path="topics/introduction.html"/>
+   <appContext helpID="what_are_common_concerns_about_using_a_tms"
+               path="topics/what_are_common_concerns_about_using_a_tms.html"/>
+   <appContext helpID="introduction" path="topics/introduction.html"/>
+   <appContext helpID="future_of_tmss" path="topics/future_of_tmss.html"/>
+   <appContext helpID="introduction" path="topics/introduction.html"/>
+   <appContext helpID="roi" path="topics/roi.html"/>
 </map>
