@@ -18,6 +18,7 @@
                 <li>Using SSL certificate - to ensure secure communication via HTTPS</li>
                 <li>Enabling API authentication for new users</li>
                 <li>Allowing 2-Step verification</li>
+                <li>LDAP authentication (e.g. for corporate Active Directory)</li>
                 <li>Configuring allowed login attempts</li>
                 <li>Disabling account after non-use</li>
                 <li>Configuring computer activation level</li>
@@ -27,8 +28,8 @@
             </ul></p>
         <p>All of these are provided by XTM being a secure environment to work in.</p>
         <p>In addition, XTM is <b>ISO/IEC 27001: 2017-06</b> certified, which confirms that the
-            provider has the processes in place to protect customer data. It’s also evidence that
-            its information security management system (ISMIS) is able to minimize risk and ensure
+            provider has the processes in place to protect customer data. It’s also evident that its
+            information security management system (ISMIS) is able to minimize risk and ensure
             business continuity by pro-actively limiting the impact of a security breach.</p>
     </conbody>
 </concept>

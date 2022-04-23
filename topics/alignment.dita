@@ -7,8 +7,8 @@
         <p><b>What is it?</b></p>
         <p><i>Translation alignment</i> is a feature of most CAT tools, but its use can vary from
             very difficult (e.g. in Trados) to extremely easy. The alignment tool matches the source
-            and target language files side-by-side, to determine which pairs belong together.The
-            result is a paralel text (<i>bitext</i>).</p>
+            and target language files side-by-side to determine which pairs belong together. The
+            result is a parallel text (<i>bitext</i>).</p>
         <p>You use it if you have the translated versions of your documents, but the translation
             wasn’t performed in a CAT tool so you don't have a translation memory. Now these
             documents need to be updated or changed across the languages and you want to retain the
@@ -17,17 +17,17 @@
         <p><image href="../images/Alignment.jpg" scale="50" id="image_jck_j2y_2tb"/></p>
         <p>TMSs are of great help here because this is a built-in feature. All you have to do is go
             to <i>TM </i>> <i>Align</i>, upload two documents (in source and target languages), run
-            the alignment and analyse the results. In XTM you get an Excel file with texts in two
+            the alignment and analyze the results. In XTM you get an Excel file with texts in two
             columns and a probability score. </p>
         <p><image href="../images/Aligned%20docs.jpg" scale="60" id="image_chn_bhy_2tb"/></p>
-        <p>You need to check it throughly and, if everything is done, upload the file in the <i>TM
+        <p>You need to check it thoroughly and, if everything is done, upload the file in the <i>TM
                 import</i> tab. Then, the translation memory is updated automatically.</p>
         <p>XTM Align creates two Excel spreadsheets for each alignment: one with
-            <i>90+</i>probability of accurate alignment (quick check and upload) and the other will
+            <i>90+</i>probability of accurate alignment (quick check and upload) and the other with
             all texts.</p>
         <p>The only disadvantage is that the Align feature in XTM is shared with all of the
             customers on the cloud so sometimes it takes a long time for the file to be returned. It
-            also takes longer oif you build the dictionary for a new language pair.</p>
+            also takes longer if you build the dictionary for a new language pair.</p>
         <p>It is important to notice that, for example, in XTM the Align feature is only available
             for enterprise account (they are not available for freelance or group accounts).</p>
     </conbody>

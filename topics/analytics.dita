@@ -11,7 +11,7 @@
         <p>That's where a TMS proves handy. Since it is a content management system for translation,
             it provides a variety of data in form of metrics and statistics.</p>
         <p><b>Metrics</b></p>
-        <p>Metrics in a TMS should present all data in a user-frieedly way so that all project
+        <p>Metrics in a TMS should present all data in a user-friendly way so that all project
             participants could make relevant decisions e.g. on due dates, costs or linguist
             allocations. Here is an example of a metrics report generated from XTM:</p>
         <p><image href="../images/Metrics.jpg" scale="60" id="image_okj_q1f_ftb"/></p>
@@ -19,7 +19,7 @@
                 <li>present different data (e.g. number of words and characters)</li>
                 <li>outline all possible TM matches (including internal and machine translation as
                     well as non-translatables)</li>
-                <li>enable downloading reports in diferent formats (e.g. xls, csv) or showing them
+                <li>enable downloading reports in different formats (e.g. xls, csv) or showing them
                     in the interface on a dashboard</li>
                 <li>show progress of how much work has been done and is yet to be done</li>
             </ul></p>
@@ -34,7 +34,7 @@
             source and statistics target. The data is presented for each linguist, workflow step and
             file and when there are multiple files in a project as a total for each linguist per
             workflow step. </p>
-        <p>A PM can decide when project statistics should be processed (when workflow changes,or
+        <p>A PM can decide when project statistics should be processed (when workflow changes, or
             once the whole project is finished. It is also possible to download this data as a .csv
             or .xls file, or present it on a dashboard in XTM.</p>
         <p><image href="../images/Statistics.jpg" scale="50" id="image_v3v_xgf_ftb"/></p>
@@ -45,8 +45,8 @@
             evaluation used for calculating the price for post-editing.</p>
         <p><b>Reports</b></p>
         <p>As mentioned above, all data can be presented in a TMS on a dashboard, but it is also
-            very handy to be able to download them in a form of an Excel file (as xls or csv format)
-            that you can use for your further reporting purposes.</p>
+            very handy to be able to download them in a form of an Excel file (as .xls or .csv
+            format) that you can use for your further reporting purposes.</p>
         <p>Here are types of reports that you can generate from XTM:<ul id="ul_uq4_f3f_ftb">
                 <li>Metrics history</li>
                 <li>Combined metrics</li>

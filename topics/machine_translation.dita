@@ -4,7 +4,7 @@
     <title>Machine translation</title>
     <shortdesc/>
     <conbody>
-        <p>Machine translation (MT) is a hot topic in the translaton industry right now with
+        <p>Machine translation (MT) is a hot topic in the translation industry right now with
             everyone talking about it both in respect of the human factor and the tools used in the
             process. MT quality has dramatically improved over the past few years. Many enterprises
             and language service providers have turned to MT for faster and more cost-effective
@@ -17,7 +17,7 @@
                 engine</b>, because you may decide to use one for a particular language pair or
             domain and another for a different one.</p>
         <p>For more information on machine translation performance for different language pairs and
-            content, conuslt the <xref href="https://go.memsource.com/machine-translation-report"
+            content, consult the <xref href="https://go.memsource.com/machine-translation-report"
                 format="html" scope="external">Memsource Machine Translation Report</xref> or the
                 <xref
                 href="https://try.inten.to/machine-translation-report-2021/?_ga=2.234064026.560105315.1649773908-478560454.1649498107&amp;_gl=1*e8905i*_ga*NDc4NTYwNDU0LjE2NDk0OTgxMDc.*_ga_8ER1RD0745*MTY0OTg1MjczNy4zLjAuMTY0OTg1MjczNy4w"
@@ -27,22 +27,22 @@
         <p><image href="../images/MT%20engines.jpg" scale="65" id="image_nrw_vbs_2tb"/></p>
         <p>What you should also note is the ability to choose an MT hub (e.g. <xref
                 href="https://inten.to/" format="html" scope="external">Intento</xref>) or the
-            option to <i>add your custom MT</i> (e.g. the one you had created yourself or the one
+            option to <i>add your custom MT</i> (e.g. the one you have created yourself or the one
             developed by a third-party provider).</p>
-        <p>After you decide on an MT engine or engines, all you need to do is to create an account
-            with a given provider, subscribe to a selected plan, and get an authentication key for
-            CAT tools to be copied to a relevant place.</p>
+        <p>After you decide on an MT engine or engines, all you need to do is create an account with
+            a given provider, subscribe to a selected plan, and get an authentication key for CAT
+            tools to be copied to a relevant place.</p>
         <p><image href="../images/DeepL.jpg" scale="55" id="image_kgc_scs_2tb"/></p>
         <p>You should also decide how this MT engine will work for your translation projects. All in
             all, with it you get another support in addition to your translation memory (TM). When
             you have some TM matches, you send these to an MT engine to fill in the blanks, creating
             an opportunity to leverage existing resources in an innovative way.</p>
         <p><image href="../images/General%20options.jpg" scale="65" id="image_iql_1ds_2tb"/></p>
-        <p>A great benefit from using MT in a TMS is that you use its <b>secure version</b> in
+        <p>A great benefit of using MT in a TMS is that you use its <b>secure version</b> in
             comparison to the free web-based tool. Your texts are never stored or used by an MT
             provider to improve its engine.</p>
         <p>In addition, while working in XTM, you can translate all <xref href="file_formats.dita"
-                >supported file formats</xref> using an MT engine and not only a few selected files
+                >supported file formats</xref> using an MT engine, and not only a few selected files
             (e.g. Word or PowerPoint).</p>
     </conbody>
 </concept>

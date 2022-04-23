@@ -6,12 +6,12 @@
         a new system or to change an existing one is therefore not an easy one.</shortdesc>
     <taskbody>
         <prereq id="prereq_zwt_rkq_zsb"/>
-        <context>In order to choose the right TMS for your company, you should consider a lot of
-            different aspects, both from business and technical perspectives. To make it easier for
-            you, I strongly encourage you to follow these steps:</context>
+        <context>To choose the right TMS for your company, you should consider a lot of different
+            aspects, both from business and technical perspectives. To make it easier for you, I
+            strongly encourage you to follow these steps:</context>
         <steps>
             <step>
-                <cmd><xref href="analysing.dita">Analysing</xref></cmd>
+                <cmd><xref href="analysing.dita">Analyzing</xref></cmd>
             </step>
             <step>
                 <cmd><xref href="researching.dita">Researching</xref></cmd>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="analysing">
-    <title>Analysing</title>
-    <shortdesc>The first step that you need to take is to perform due dilligence of the existing
+    <title>Analyzing</title>
+    <shortdesc>The first step that you need to take is to perform due diligence of the existing
         translation process at your company.</shortdesc>
     <taskbody>
         <context>
@@ -10,7 +10,7 @@
         </context>
         <steps>
             <step>
-                <cmd>Analyse the translation process that runs at your company so far by answering
+                <cmd>Analyze the translation process that runs at your company so far by answering
                     the following questions:</cmd>
                 <substeps id="substeps_ltk_35p_2tb">
                     <substep>
@@ -37,7 +37,7 @@
                         <cmd>How is translation quality managed?</cmd>
                     </substep>
                     <substep>
-                        <cmd>Are there any complaints of internal users and if yes, what do they
+                        <cmd>Are there any complaints of internal users and if so, what do they
                             concern (e.g. translation is too slow, quality is poor, it costs a
                             lot)?</cmd>
                     </substep>
@@ -60,7 +60,7 @@
                         <cmd>Who will take care of the new/amended process?</cmd>
                     </substep>
                     <substep>
-                        <cmd>Does it have to fit in yur existing workflows or will you create new
+                        <cmd>Does it have to fit in your existing workflows or will you create new
                             ones?</cmd>
                     </substep>
                     <substep>

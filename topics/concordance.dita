@@ -4,7 +4,7 @@
     <title>Concordance</title>
     <shortdesc/>
     <conbody>
-        <p><i>Concordance</i> is a feature intristic to CAT tools and TMSs. It involves searching
+        <p><i>Concordance</i> is a feature intrinsic to CAT tools and TMSs. It involves searching
             all over a particular TM for translation of particular expression or phrase where there
             is no TM match (or where the match is below a pre-determined threshold, e.g. 75%, to be
             displayed) or the translator wants to learn more about the context.</p>

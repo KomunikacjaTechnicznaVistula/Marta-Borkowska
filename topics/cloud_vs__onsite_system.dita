@@ -4,11 +4,12 @@
     <title>Cloud vs. onsite system</title>
     <shortdesc/>
     <conbody>
-        <p>Most of the TMSs available on the market are offered:</p><ul id="ul_bt4_ns1_zsb">
-                <li>as cloud-based only</li>
-                <li>as onsite only or </li>
-                <li>in the hybrid model: cloud and onsite with only some features different</li>
-            </ul>
+        <p>Most of the TMSs available on the market are offered:</p>
+        <ul id="ul_bt4_ns1_zsb">
+            <li>as cloud-based only</li>
+            <li>as onsite only or </li>
+            <li>in the hybrid model: cloud and onsite with only some features different</li>
+        </ul>
         <p>There are companies which would only choose the solution that is physically installed on
             their servers due to security issues and they have resources to manage it. Add to that a
             high initial price, difficult installation, maintenance costs and the need to pay for
@@ -23,7 +24,7 @@
             <li>Possibility to access it from any place in the world, without VPN, at any time – you
                 only need Internet access</li>
             <li>Update of translation resources in real time</li>
-            <li>Ongoing montoring of translation projects</li>
+            <li>Ongoing monitoring of translation projects</li>
             <li>Easier cooperation with multiple vendors at the same time</li>
             <li>Backup of content which is hosted on multiple servers (reliability)</li>
             <li>Security of data thanks to high-standard security protocols (e.g. no need to send

@@ -20,7 +20,7 @@
         <p>A system administrator can also <b>create custom steps</b> depending on business
             needs.</p>
         <p>It is also possible to <b>split a file into bundles of segments</b> so that multiple
-            translators can work on the file at the same time reducing the time needed for the
+            translators can work on the file at the same time, reducing the time needed for the
             job.</p>
         <p>You can manage workflows in XTM also by:<ul id="ul_tsz_wm2_ftb">
                 <li>allocating linguists to a particular step - on the dashboard you can see who is

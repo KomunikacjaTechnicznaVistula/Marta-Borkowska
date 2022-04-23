@@ -5,17 +5,16 @@
     <shortdesc/>
     <conbody>
         <p>Terminology plays a very important role in many different fields with translation and
-            localisation being only some of them. Many sectors use specific wording that is only
+            localization being only some of them. Many sectors use specific wording that is only
             typical for them, while some customers may opt for their preferred terms. Researching
-            them is a time-consuming task. That's why computer-aided terminology extracton proves
+            them is a time-consuming task. That's why computer-aided terminology extraction proves
             useful.</p>
-        <p>There are many CAT tools in the market that enable such feature so it is certain than
+        <p>There are many CAT tools in the market that enable such feature so it is certain that
             TMSs must follow. After terms are extracted, i.e. a bilingual list of candidate terms is
             created, it should still be verified by a human terminologist or translator.</p>
-        <p>In XTM this features is based on the <xref href="alignment.dita">Alignment</xref> so it
-            is also available only to enterprise accounts and the output is an Excel file.. It
-            utilizes Big Data, AI, and advances in computational linguistic technology including
-                <xref
+        <p>In XTM this feature is based on the <xref href="alignment.dita">Alignment</xref> so it is
+            also available only to enterprise accounts and the output is an Excel file.. It utilizes
+            Big Data, AI, and advances in computational linguistic technology including <xref
                 href="https://xtm.cloud/blog/xtm-international-introduces-inter-language-vector-space/"
                 format="html" scope="external">Inter-language vector space</xref>. The feature
             already works for 50 languages helping customers save up to 80 percent of time on

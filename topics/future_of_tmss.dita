@@ -19,11 +19,10 @@
             <li><b>better TM leveraging</b> – so that project managers could make the best possible
                 use of their translation memories. For example, XTM's algorithm has been enhanced to
                 deliver up to 25% improved accuracy, enabling users to leverage more TM matches in
-                segments which differ only by the order of words or only by proper nouns. Plus, it
-                gives the savings that come from the fact that the fuzzy matching calculation score
-                algorithm was able to retrieve the TM match, as opposed to standard algorithms which
-                would assign too low a score to this example or possibly fail to retrieve it at
-                all.</li>
+                segments which differ only by the order of words or proper nouns. Plus, it gives the
+                savings that come from the fact that the fuzzy matching calculation score algorithm
+                was able to retrieve the TM match, as opposed to standard algorithms which would
+                assign too low a score to this example or possibly fail to retrieve it at all.</li>
             <li>
                 <b>AI-enhanced TM features</b> – so that fuzzy matches coming from the TM could be
                 directly sent to MT engine, enabling TM and MT to work together to deliver the best

@@ -21,11 +21,11 @@
             software are dedicated solely to one organization.</p>
         <p>A <b>public cloud</b> is cloud computing with resources (hardware, software, storage,
             network devices, etc.) owned and operated by a third-party cloud service provider and
-            delivered over the internet. Clients share the same insfrastructure with other
+            delivered over the internet. Clients share the same infrastructure with other
             organizations (known as “tenants”) accessing services and managing their accounts using
             a web browser.</p>
         <p>A <b>hybrid cloud</b> is cloud computing that uses both public and private clouds, or
-            combine online and on-premises resouces. Inrastructure components can share the
+            combine online and on-premises resources. Infrastructure components can share the
             resources between public and private cloud deployment depending on the business needs.
             It is often used by organizations that require assistance in the form of public cloud
             services e.g. to meet increased traffic demand or private clouds to handle sensitive
@@ -58,7 +58,7 @@
                         <entry><b>Control</b></entry>
                         <entry><i>low</i><p>both over costs and infrastructure
                             availability</p></entry>
-                        <entry><i>high</i><p>especialy when stored on-site</p></entry>
+                        <entry><i>high</i><p>especially when stored on-site</p></entry>
                         <entry><i>medium</i><p>lack of direct control over public
                             infrastructure</p></entry>
                     </row>
@@ -74,7 +74,7 @@
                         <entry><b>Costs</b></entry>
                         <entry><i>low</i><p>you pay only for the service used and do not have to buy
                                 any infrastructure</p></entry>
-                        <entry><i>high</i><p>you incur initial costs of instalation,then pay for
+                        <entry><i>high</i><p>you incur initial costs of instalation, then pay for
                                 each upgrade</p></entry>
                         <entry><i>medium</i><p>flexible plans to meet specific demands</p></entry>
                     </row>

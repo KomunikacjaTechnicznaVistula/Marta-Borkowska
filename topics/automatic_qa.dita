@@ -5,9 +5,9 @@
     <shortdesc/>
     <conbody>
         <p>Automatic QA tools to check translations have become the norm in the translation
-            industry. Many of them are built-in with the various CAT, but some are also available
-            separately. The aim is to help linguists and Project Managers spot as many errors in the
-            translated documents as possible quickly and effectively.</p>
+            industry. Many of them are built-in with the various CAT tools, but some are also
+            available separately. The aim is to help linguists and Project Managers spot as many
+            errors in the translated documents as possible quickly and effectively.</p>
         <p>After translation and proofreading PMs usually perform an automatic Quality Assurance
             check e.g. for:</p>
         <ul id="ul_zxr_y1n_ftb">

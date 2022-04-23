@@ -4,7 +4,7 @@
     <title>Anonymization</title>
     <shortdesc/>
     <conbody>
-        <p>In order to comply with the <xref href="https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+        <p>To comply with the <xref href="https://eur-lex.europa.eu/eli/reg/2016/679/oj"
                 format="html" scope="external">GDPR</xref>, companies are required to anonymize
             clients' TM content, essentially remove personal data. One of the features ensuring data
             protection is <i>anonymization</i> (also called<i> pseudonymization</i>).</p>

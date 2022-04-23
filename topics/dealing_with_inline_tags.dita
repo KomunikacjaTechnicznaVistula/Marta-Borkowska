@@ -5,17 +5,11 @@
     <shortdesc/>
     <conbody>
         <p>Inline tags are text fragments that correspond to: <ul id="ul_l1l_tvp_gtb">
-                <li>
-                    <p>text formatting such as italic or line breaks</p>
-                </li>
-                <li>
-                    <p>non-translatable technical symbols (such as HTML tags)</p>
-                </li>
-                <li>
-                    <p>other special characters</p>
-                </li>
+                <li>text formatting such as italic or line breaks</li>
+                <li>non-translatable technical symbols (such as HTML tags)</li>
+                <li>other special characters</li>
             </ul></p>
-        <p>They need to be placed correctly so that the final text had the correct layout. In
+        <p>They need to be placed correctly so that the final text has the correct layout. In
             addition, it is a must to place them in the target segment so that the TM could be
             updated and the file be exported from the TMS. That's why, usually, the tag placement in
             the target segment should be as in the original.</p>
