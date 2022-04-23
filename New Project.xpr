@@ -18,7 +18,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>PDF</String>
+                                        <String>WebHelp Responsive</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
