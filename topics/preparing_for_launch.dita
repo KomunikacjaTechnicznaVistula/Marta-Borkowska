@@ -85,34 +85,19 @@
                     relevant data generated from TMS from time to time. Every management would like
                     to be updated on the metrics (KPIs) relating to the process.</cmd>
             </step>
-            <step>
-                <cmd>Once in a while, review your decision:</cmd>
-                <substeps id="substeps_g1j_zwp_2tb">
-                    <substep>
-                        <cmd>Check if the TMS meets your business needs: are there more advantages
-                            than disadvantages from using it? Are all of your company’s requirements
-                            met?</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Continue taking part in webinars to be up-to-date with your TMS
-                            upgrades.</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Check what is available in the market: has anything new appeared or
-                            changed in the TMS offer?</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Ask yourself a question if you are satisfied with cooperation with this
-                            TMS provider (e.g. as regards IT support, your customer success
-                            manager).</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Conduct a satisfaction survey among your vendors and/or your internal
-                            clients working in this TMS. Analyze its results and present it in a
-                            form of an executive report for your management.</cmd>
-                    </substep>
-                </substeps>
-            </step>
         </steps>
+        <postreq id="postreq_czw_kth_3tb">Once in a while, review your decision:<ul
+                id="ul_dwk_nth_3tb">
+                <li>Check if the TMS meets your business needs: are there more advantages than
+                    disadvantages from using it? Are all of your company’s requirements met?</li>
+                <li>Continue taking part in webinars to be up-to-date with your TMS upgrades.</li>
+                <li>Check what is available in the market: has anything new appeared or changed in
+                    the TMS offer?</li>
+                <li>Ask yourself a question if you are satisfied with cooperation with this TMS
+                    provider (e.g. as regards IT support, your customer success manager).</li>
+                <li>Conduct a satisfaction survey among your vendors and/or your internal clients
+                    working in this TMS. Analyze its results and present it in a form of an
+                    executive report for your management.</li>
+            </ul></postreq>
     </taskbody>
 </task>
