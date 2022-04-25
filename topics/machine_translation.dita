@@ -34,10 +34,10 @@
             tools to be copied to a relevant place.</p>
         <p><image href="../images/DeepL.jpg" scale="55" id="image_kgc_scs_2tb"/></p>
         <p>You should also decide how this MT engine will work for your translation projects. All in
-            all, with it you get another support in addition to your translation memory (TM). When
-            you have some <xref href="../glossary/g_translation_memory.dita">TM</xref> matches, you
-            send these to an MT engine to fill in the blanks, creating an opportunity to leverage
-            existing resources in an innovative way.</p>
+            all, with it you get another support in addition to your <abbreviated-form
+                keyref="g_translation_memory"/>. When you have some TM matches, you send these to an
+            MT engine to fill in the blanks, creating an opportunity to leverage existing resources
+            in an innovative way.</p>
         <p><image href="../images/General%20options.jpg" scale="65" id="image_iql_1ds_2tb"/></p>
         <p>A great benefit of using MT in a TMS is that you use its <b>secure version</b> in
             comparison to the free web-based tool. Your texts are never stored or used by an MT
