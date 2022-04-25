@@ -15,8 +15,9 @@
                     department or on your own):</cmd>
                 <substeps id="substeps_i24_3wp_2tb">
                     <substep>
-                        <cmd>Ask for all necessary agreements (subscription agreement, NDA, SLA, DPA
-                            if applicable).</cmd>
+                        <cmd>Ask for all necessary agreements (subscription agreement,
+                                <abbreviated-form keyref="g_nda"/>, <abbreviated-form keyref="g_sla"
+                            />, <abbreviated-form keyref="g_dpa"/> if applicable).</cmd>
                     </substep>
                     <substep>
                         <cmd>Consult these documents with your legal department. Allocate some time

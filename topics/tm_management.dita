@@ -4,10 +4,6 @@
     <title>TM management </title>
     <shortdesc/>
     <conbody>
-        <p>A translation memory has been at the core of the industry since the late 1990s and its
-            importance has not faded even with the arrival of new technologies. It is a database
-            that stores sentences, paragraphs or segments of text that have been translated
-            before.</p>
         <p>XTM has integrated Translation Memory and <xref href="term_bases.dita">Terminology</xref>
             modules to allow creating, maintaining, and updating translation memories and termbases.
             All sets of TM assigned to a project are <b>updated in real time</b> as the translators

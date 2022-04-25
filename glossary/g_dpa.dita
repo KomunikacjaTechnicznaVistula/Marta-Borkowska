@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="g_dpa">
+    <glossterm>Data Protection Agreement (DPA)</glossterm>
+    <glossdef>It is an agreement between a data controller (such as a company) and a data processor
+        (such as a third-party service provider). It regulates any personal data processing
+        conducted for business purposes. Recently, it has become an important part of business
+        relations in the translation industry due to the entry of the <xref
+            href="https://eur-lex.europa.eu/eli/reg/2016/679/oj" format="html" scope="external"
+            >General Data Protection Regulation</xref> in the EU.</glossdef>
+    <glossBody>
+        <glossSurfaceForm>Data Protection Agreement (DPA)</glossSurfaceForm>
+        <glossAlt>
+            <glossAcronym>DPA</glossAcronym>
+        </glossAlt>
+    </glossBody>
+</glossentry>

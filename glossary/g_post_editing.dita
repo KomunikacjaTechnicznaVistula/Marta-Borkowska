@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="g_post_editing">
+    <glossterm>Post-editing (PE)</glossterm>
+    <glossdef>Service defined in ISO 18587:2017 as editing and correcting machine translation output
+        There are two main levels of post-editing, light and full; their use depends on the purpose
+        of the translation output and the client’s requirements: <ul id="ul_ivb_1kz_htb">
+            <li><i>full post-editing</i> - process to obtain a product comparable to a product
+                obtained by human translation</li>
+            <li><i>light post-editing</i> - process to obtain a merely comprehensible text without
+                any attempt to produce a product comparable to a product obtained by human
+                translation</li>
+        </ul></glossdef>
+</glossentry>

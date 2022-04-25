@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="g_termbase">
+    <glossterm>Termbase (TB)</glossterm>
+    <glossdef>A termbase (TB), also known as terminology database, is a glossary of
+        industry-specific and company-specific terms, which you can manage outside your translation
+        memories. It is a glossary of terms in a CAT tool that you can create to be able to search
+        for individual words and display them among translation results. It is useful if there are
+        multiple translators working on the same project and it’s important to keep accuracy and
+        consistency regarding the main terms. It can be single-language or multilingual. A term base
+        shows the translators which terms are new, approved, forbidden, or preferred together with
+        their additional description, definition or picture. </glossdef>
+</glossentry>

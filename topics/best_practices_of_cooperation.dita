@@ -13,8 +13,9 @@
         <p>
             <ul id="ul_tz2_qxw_gtb">
                 <li>Decide what kind of agreements you should sign with your vendors depending on
-                    your business needs (compliance) – Cooperation Agreement, NDA, DPA, annexes
-                    (e.g. complaints procedure, LQA process, rate cards), etc.</li>
+                    your business needs (compliance) – Cooperation Agreement, <abbreviated-form
+                        keyref="g_nda"/>, <abbreviated-form keyref="g_sla"/>, annexes (e.g.
+                    complaints procedure, LQA process, rate cards), etc.</li>
                 <li>Discuss the invoicing terms with your vendor – if you should be invoiced in
                     advance or after translation, monthly or after each project, based on PO from
                     TMS or PO from your vendor.</li>

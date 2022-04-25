@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="fuzzy_matches">
+    <glossterm>Fuzzy matches</glossterm>
+    <glossdef>Each CAT tool divides a text into segments. Then, it begins analysing the text against
+        a relevant translation memory. As a result, each segment is given a score, i.e. a match
+        ranging from 1 to 99%. Matches are important because they speed up the translation process
+        and provide discounts. As a result, you save a lot on a bigger translation memory and
+        similar texts stored in it. There are different types of matches:<ul id="ul_if1_njz_htb">
+            <li><i>101% match </i>(also called: ICE match or a context match) is an identical
+                segment in an identical context, which means we the translator can be sure this
+                match can be approved, because the segments before and after it are also
+                identical.</li>
+            <li><i>100% match</i> (also called: identical match) is an identical segment, but the
+                segment before or after it is different, which means it still needs to be checked by
+                the translator.</li>
+            <li><i>99% - 95% matches</i> – almost exact matches; it is usually enough to check the
+                tags or particular words in the segment</li>
+            <li><i>95% - 75% matches</i> – they are called high and medium fuzzy matches which show
+                similar texts in the translation memory where some changes are needed</li>
+            <li><i>75% - 50% matches</i> – low fuzzy matches usually useless for the translation
+                process and most CAT tools do not show them at all; as a result such segments are
+                considered “no matches” for which you need to pay the whole price</li>
+            <li><i>Fuzzy repeat matches (95% - 75% internal matches)</i> – these are similar
+                segments found not in the translation memory, but across one file or more files in
+                one project. Not all vendors provide discounts on them, but you can always try to
+                convince them.</li>
+            <li><i>Repetitions </i>– are types of internal matches, i.e. identical segments found
+                across one file or more files in one project. However, their special status is due
+                to the fact that most vendors charge less for them, while not willing to pay less
+                for the others.</li>
+            <li><i>Machine translation matches</i> – if you use an MT engine for your translation
+                project, each segment for which no fuzzy match was found in the TM is propagated
+                with machine translation from this engine</li>
+        </ul></glossdef>
+</glossentry>

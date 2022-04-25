@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
 <glossentry id="SLA">
-    <glossterm>SLA</glossterm>
-    <glossdef>Service Level Agreement</glossdef>
+    <glossterm>Service Level Agreement (SLA)</glossterm>
+    <glossdef>This agreement defines the scope of expectations and needs of the client in relation
+        to the service delivered by the software provider. It can outline the following aspects: <ul
+            id="ul_oqx_xlz_htb">
+            <li>minimum time of system availability</li>
+            <li>time of providing a solution to reported issues</li>
+            <li>procedure of reporting and monitoring issues</li>
+            <li>consequences of failure to comply with the terms of agreement (e.g.
+                compensation)</li>
+        </ul></glossdef>
+    <glossBody>
+        <glossSurfaceForm>Service Level Agreement (SLA)</glossSurfaceForm>
+        <glossAlt id="glossAlt_gzn_hlg_3tb">
+            <glossAcronym>SLA</glossAcronym>
+        </glossAlt>
+    </glossBody>
 </glossentry>

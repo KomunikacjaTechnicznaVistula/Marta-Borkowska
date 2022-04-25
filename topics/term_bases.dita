@@ -4,9 +4,7 @@
     <title>Termbases</title>
     <shortdesc/>
     <conbody>
-        <p>A termbase (TB), also known as terminology database, is a glossary of industry-specific
-            and company-specific terms, which you can manage outside your translation memories.
-            While TMs are automatically created in a TMS, TBs need to be prepared manually. It is
+        <p>While TMs are automatically created in a TMS, TBs need to be prepared manually. It is
             possible to use <xref href="terminology_extraction.dita">terminology extraction</xref>
             to help this process, but it still requires a human factor.</p>
         <p>XTM incorporates a comprehensive terminology module, i.e. a database of multilingual

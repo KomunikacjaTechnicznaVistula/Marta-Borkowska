@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map print="yes">
     <title>Glossary</title>
+    <keydef keys="g_dpa" href="g_dpa.dita" print="yes"/>
+    <keydef keys="g_fuzzy_matches" href="g_fuzzy_matches.dita" print="yes"/>
+    <keydef keys="g_inline_tag" href="g_inline_tag.dita" print="yes"/>
+    <keydef keys="g_localization" href="g_localization.dita" print="yes"/>
+    <keydef keys="g_machine_translation" href="g_machine_translation.dita" print="yes"/>
+    <keydef keys="g_nda" href="g_nda.dita" print="yes"/>
+    <keydef keys="g_post_editing" href="g_post_editing.dita" print="yes"/>
+    <keydef keys="g_sla" href="g_sla.dita" print="yes"/>
+    <keydef keys="g_termbase" href="g_termbase.dita" print="yes"/>
+    <keydef keys="g_translation_memory" href="g_translation_memory.dita" print="yes"/>
+    <topicref href="r_glossary.dita" chunk="to-content">
+        <topicref href="g_dpa.dita"/>
+        <topicref href="g_fuzzy_matches.dita"/>
+        <topicref href="g_inline_tag.dita"/>
+        <topicref href="g_localization.dita"/>
+        <topicref href="g_machine_translation.dita"/>
+        <topicref href="g_nda.dita"/>
+        <topicref href="g_post_editing.dita"/>
+        <topicref href="g_sla.dita"/>
+        <topicref href="g_termbase.dita"/>
+        <topicref href="g_translation_memory.dita"/>
+    </topicref>
 </map>

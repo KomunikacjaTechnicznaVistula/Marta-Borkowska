@@ -4,14 +4,12 @@
     <title>Machine translation</title>
     <shortdesc/>
     <conbody>
-        <p>Machine translation (MT) is a hot topic in the translation industry right now with
-            everyone talking about it both in respect of the human factor and the tools used in the
-            process. MT quality has dramatically improved over the past few years. Many enterprises
-            and language service providers have turned to MT for faster and more cost-effective
-            translation. </p>
         <p>MT engines are third-party systems that are not standard components of a TMS. A company
             that wants to use MT needs to have an account with an MT provider or configure a custom
             engine. Only then is it possible to connect the MT engine to TMS via an interface.</p>
+        <p>In TMS you mostly use it in combination with <b>post-editing service</b> to combine the
+            advantages of both options: the speed and ability of MT engines to quickly handle large
+            volumes of text with the skill and sensitivity of trained linguists.</p>
         <p>As a result, it is important to choose a TMS that offers a range of fully managed engines
             from leading MT providers. In addition, you should be able to choose <b>more than one
                 engine</b>, because you may decide to use one for a particular language pair or

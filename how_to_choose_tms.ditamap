@@ -79,32 +79,9 @@
                 <topicref href="topics/introduction.dita"/>
             </relcell>
             <relcell>
-                <topicref href="topics/which_companies_need_a_tms.dita"/>
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref href="topics/introduction.dita"/>
-            </relcell>
-            <relcell>
-                <topicref href="topics/what_are_common_concerns_about_using_a_tms.dita"/>
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref href="topics/introduction.dita"/>
-            </relcell>
-            <relcell>
-                <topicref href="topics/future_of_tmss.dita"/>
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref href="topics/introduction.dita"/>
-            </relcell>
-            <relcell>
                 <topicref href="topics/roi.dita"/>
             </relcell>
         </relrow>
     </reltable>
+    <topicref href="glossary/glossary.ditamap" format="ditamap"/>
 </map>

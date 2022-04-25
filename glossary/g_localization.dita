@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="g_localization">
+    <glossterm>Localization (L10n)</glossterm>
+    <glossdef>Localization is the process of adapting a product, service, advertising or any other
+        content to a specific market. It should be considered different from translation because it
+        actually goes way beyond. Localization requires you to convert text from one language to
+        another, taking into consideration all the different factors such as: time zones,
+        currencies, symbols, colours, legal requirements, website links, product beliefs and
+        cultural references. The goal is to give your content the look and feel of having been
+        created specifically for each target market you’re aiming at.</glossdef>
+</glossentry>

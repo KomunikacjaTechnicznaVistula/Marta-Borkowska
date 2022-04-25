@@ -69,13 +69,18 @@
    <appContext helpID="tms_in_the_corporate_language_policy"
                path="topics/tms_in_the_corporate_language_policy.html"/>
    <appContext helpID="introduction" path="topics/introduction.html"/>
-   <appContext helpID="which_companies_need_a_tms"
-               path="topics/which_companies_need_a_tms.html"/>
-   <appContext helpID="introduction" path="topics/introduction.html"/>
-   <appContext helpID="what_are_common_concerns_about_using_a_tms"
-               path="topics/what_are_common_concerns_about_using_a_tms.html"/>
-   <appContext helpID="introduction" path="topics/introduction.html"/>
-   <appContext helpID="future_of_tmss" path="topics/future_of_tmss.html"/>
-   <appContext helpID="introduction" path="topics/introduction.html"/>
    <appContext helpID="roi" path="topics/roi.html"/>
+   <appContext helpID="r_glossary" path="glossary/r_glossary.html#r_glossary"/>
+   <appContext helpID="g_dpa" path="glossary/r_glossary.html#g_dpa"/>
+   <appContext helpID="fuzzy_matches" path="glossary/r_glossary.html#fuzzy_matches"/>
+   <appContext helpID="inline_tag" path="glossary/r_glossary.html#inline_tag"/>
+   <appContext helpID="g_localization" path="glossary/r_glossary.html#g_localization"/>
+   <appContext helpID="g_machine_translation"
+               path="glossary/r_glossary.html#g_machine_translation"/>
+   <appContext helpID="nda" path="glossary/r_glossary.html#nda"/>
+   <appContext helpID="g_post_editing" path="glossary/r_glossary.html#g_post_editing"/>
+   <appContext helpID="SLA" path="glossary/r_glossary.html#SLA"/>
+   <appContext helpID="g_termbase" path="glossary/r_glossary.html#g_termbase"/>
+   <appContext helpID="g_translation_memory"
+               path="glossary/r_glossary.html#g_translation_memory"/>
 </map>

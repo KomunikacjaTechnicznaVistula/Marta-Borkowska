@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="g_machine_translation">
+    <glossterm>Machine translation (MT)</glossterm>
+    <glossdef>It is defined in ISO 18587:2017 as automatic translation of text from one natural
+        language to another using a computer application. Machine translation is a hot topic in the
+        translation industry right now with everyone talking about it both in respect of the human
+        factor and the tools used in the process. MT quality has dramatically improved over the past
+        few years. Many enterprises and language service providers have turned to MT for faster and
+        more cost-effective translation.</glossdef>
+</glossentry>

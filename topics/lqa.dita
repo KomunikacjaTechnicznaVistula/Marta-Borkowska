@@ -42,11 +42,12 @@
             </li>
         </ul>
         <p>After the process is completed in XTM Workbench, you can view LQA results next to each
-            user or download an LQA report. Usually, when the score is below 93%, the test is failed
-            and the translation should be returned to the linguist for correction.</p>
-        <p><image href="../images/LQA%20form.jpg" scale="70" id="image_ss2_tzm_ftb"/></p>
+            user or download an LQA report.</p>
         <p>LQA can be a separate service or a part of the translation service that you buy from your
             LSP. In any case, XTM enables you to perform it using a separate <i>LQA workflow
                 step</i>.</p>
+        <p>Usually, when the score is below 93%, the test is failed and the translation should be
+            returned to the linguist for correction.</p>
+        <p><image href="../images/LQA%20form.jpg" scale="70" id="image_ss2_tzm_ftb"/></p>
     </conbody>
 </concept>

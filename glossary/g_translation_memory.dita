@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="g_translation_memory">
+    <glossterm>Translation memory (TM)</glossterm>
+    <glossdef>It is an electronic collection of source language and target language segment pairs.
+        Its purpose is to facilitate the retrieval and use of previously translated content. It is a
+        database of translated sentences (segments), which is created during the translation process
+        [source: ISO 17100:2015 Translation services — Requirements for translation services]. A
+        translation memory has been at the core of the industry since the late 1990s and its
+        importance has not faded even with the arrival of new technologies.</glossdef>
+</glossentry>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="nda">
+    <glossterm>Non-Disclosure Agreement (NDA)</glossterm>
+    <glossdef>It is also known as a confidentiality agreement (CA) under which the parties agree not
+        to disclose any information covered by it. It is especially important when translating
+        sensitive or confidential information contained in documents. Many translation vendors fail
+        to properly protect their customer’s information which can lead to many legal issues. You
+        have a choice: to sign your NDA or your vendor's NDA. This agreement can be signed between
+        the client and LSP, and between LSP and translator/reviewer.</glossdef>
+    <glossBody>
+        <glossSurfaceForm>Non-Disclosure Agreement (NDA)</glossSurfaceForm>
+        <glossAlt id="glossAlt_gzn_hlg_3tb">
+            <glossAcronym>NDA</glossAcronym>
+        </glossAlt>
+    </glossBody>
+</glossentry>
