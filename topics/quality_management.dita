@@ -2,11 +2,10 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="quality_management">
     <title>Quality management</title>
-    <shortdesc/>
+    <shortdesc>There are still discussions on what should be considered a high-quality translation.
+        Is it an error-free document in the target language or the smooth process where every step
+        complies with the established procedure?</shortdesc>
     <conbody>
-        <p>There are still discussions on what should be considered a high-quality translation. Is
-            it an error-free document in the target language or the smooth process where every step
-            complies with the established procedure?</p>
         <p>Many linguists agree that it is when the translated document meets or exceeds the
             expectations of the client and the target audience. Although, it is very difficult to
             measure linguistic quality, everyone keeps talking about it, especially when they regard

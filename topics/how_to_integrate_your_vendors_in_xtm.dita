@@ -5,9 +5,10 @@
     <shortdesc>This is how you can set up the TMS environment for your translation vendors based on
         the XTM example.</shortdesc>
     <taskbody>
-        <prereq id="prereq_e3x_jqw_gtb">Make sure you have migrated all TMs and TBs to your new TMS.
-            List all vendors who are willing to work in the TMS and sign all the necessary
-            agreements with them.</prereq>
+        <prereq id="prereq_e3x_jqw_gtb">Make sure you have migrated all <xref
+                href="../glossary/g_translation_memory.dita">TMs</xref> and <xref
+                href="../glossary/g_termbase.dita">TBs</xref> to your new TMS. List all vendors who
+            are willing to work in the TMS and sign all the necessary agreements with them.</prereq>
         <context>
             <p/>
         </context>
@@ -20,7 +21,7 @@
                             relevant workflows (e.g. Translate, Correct).</cmd>
                     </substep>
                     <substep>
-                        <cmd>For LSP, use the <i><xref
+                        <cmd>For <xref href="../glossary/g_lsp.dita">LSP</xref>, use the <i><xref
                                     href="https://help.xtm.cloud/xtm-cloud/13/en/overview.html"
                                     format="html" scope="external">Subcontracting</xref></i>
                             feature.</cmd>

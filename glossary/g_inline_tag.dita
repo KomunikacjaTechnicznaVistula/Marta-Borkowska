@@ -3,8 +3,10 @@
 <glossentry id="inline_tag">
     <glossterm>Inline tag</glossterm>
     <glossdef>It is a label that define the way a certain information should be processed. In CAT
-        tools generally, tags are used to mark parts of a text that have different formatting i.e.
-        different fonts, font sizes, or colors or internal code (like index entries or
-        cross-references) of the original document. However, sometimes they are just minor (or even
-        invisible) changes.</glossdef>
+        tools generally, tags are used to mark parts of a text that correspond to: <ul
+            id="ul_psd_tjh_3tb">
+            <li>different formatting i.e. different fonts, font sizes, line breaks or colors</li>
+            <li>internal code (e.g. HTML, index entries or cross-references)</li>
+            <li>other special characters</li>
+        </ul>However, sometimes they are just minor (or even invisible) changes.</glossdef>
 </glossentry>

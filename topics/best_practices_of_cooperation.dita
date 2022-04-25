@@ -17,8 +17,9 @@
                         keyref="g_nda"/>, <abbreviated-form keyref="g_sla"/>, annexes (e.g.
                     complaints procedure, LQA process, rate cards), etc.</li>
                 <li>Discuss the invoicing terms with your vendor – if you should be invoiced in
-                    advance or after translation, monthly or after each project, based on PO from
-                    TMS or PO from your vendor.</li>
+                    advance or after translation, monthly or after each project, based on <xref
+                        href="quotations.dita">purchase order</xref> from TMS or PO from your
+                    vendor.</li>
                 <li>Agree with your vendor on how to deal with confidential texts (e.g. work outside
                     TMS).</li>
                 <li>Inform your vendor that not all projects may be processed in TMS (e.g. certified
@@ -28,8 +29,9 @@
                     texts to open format files, additional price, etc.).</li>
                 <li>Prepare a checklist for your vendors, outlining aspects not covered by the
                     Cooperation Agreement to be used with your projects in TMS.</li>
-                <li>Make sure the LSP informs its linguists of all relevant aspects of cooperation
-                    with you and ensures all the PMs are also updated.</li>
+                <li>Make sure the <abbreviated-form keyref="g_lsp"/> informs its linguists of all
+                    relevant aspects of cooperation with you and ensures all the PMs are also
+                    updated.</li>
             </ul>
         </p>
         <p><b>Communication</b></p>
@@ -56,8 +58,10 @@
                 <li>Send all reference materials to your vendor, which may help linguist deliver
                     accurate translations. These may include corporate websites, previous
                     translations (not existing in your TM)., offline glossaries, etc.</li>
-                <li>Inform your vendor about the need to use of TMs, TBs, Concordance and what to do
-                    in case of conflicting matches (e.g. use the most recent one).</li>
+                <li>Inform your vendor about the need to use of <abbreviated-form
+                        keyref="g_translation_memory"/>, <abbreviated-form keyref="g_termbase"/>,
+                    Concordance and what to do in case of conflicting matches (e.g. use the most
+                    recent one).</li>
                 <li>Discuss with your vendor whether linguists can use machine translation for
                     particular projects or not.</li>
                 <li>Ask your vendors to use in-context preview if available for particular files to

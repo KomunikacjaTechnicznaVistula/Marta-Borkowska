@@ -22,8 +22,10 @@
                 <li>No one controls the costs of translations or knows how to reduce them.</li>
                 <li>There are concerns about security of translated data and the need is to have it
                     at a higher level.</li>
-                <li>Translation resources (TMs, TBs) are not stored in one place: each department
-                    has their own and there is no one who would collect and reuse them.</li>
+                <li>Translation resources (<xref href="../glossary/g_translation_memory.dita"
+                        >TMs</xref>, <xref href="../glossary/g_termbase.dita">TBs</xref>) are not
+                    stored in one place: each department has their own and there is no one who would
+                    collect and reuse them.</li>
                 <li>The whole translation process takes a long time: internal stakeholders would
                     like to make it quicker, also with the use of translation memories and machine
                     translation.</li>
@@ -54,17 +56,19 @@
                 <li>already has a content management system (CMS) or a product management system
                     (PIM) in place with translation features</li>
                 <li>invests costs in a TMS (subscription or installation/maintenance fees) that
-                    exceed the savings generated from its use (TM discounts, MT use, less work for
+                    exceed the savings generated from its use (TM discounts, <xref
+                        href="../glossary/g_machine_translation.dita">MT</xref> use, less work for
                     internal reviewers and due to content reuse)</li>
             </ul>
         </p>
         <p>In such cases CAT tools (with a server or group-sharing feature) or outsourcing the whole
-            process to a language service provider (LSP) would be a better option. </p>
+            process to an <xref href="../glossary/g_lsp.dita">LSP</xref> would be a better
+            option.</p>
         <p>
-            <note id="note_eqn_xlr_2tb">You should also remember that with the purchase of a TMS, a
-                company needs to employ relevant specialists such as: Translation Coordinator,
-                Translation Manager, Localization Specialist or Localization Engineer to manage the
-                system and process.</note>
+            <note id="note_eqn_xlr_2tb" type="remember">With the purchase of a TMS, a company needs
+                to employ relevant specialists such as: Translation Coordinator, Translation
+                Manager, Localization Specialist or Localization Engineer to manage the system and
+                process.</note>
         </p>
     </conbody>
 </concept>

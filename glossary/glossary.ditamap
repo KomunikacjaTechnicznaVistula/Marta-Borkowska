@@ -6,6 +6,7 @@
     <keydef keys="g_fuzzy_matches" href="g_fuzzy_matches.dita" print="yes"/>
     <keydef keys="g_inline_tag" href="g_inline_tag.dita" print="yes"/>
     <keydef keys="g_localization" href="g_localization.dita" print="yes"/>
+    <keydef keys="g_lsp" href="g_lsp.dita" print="yes"/>
     <keydef keys="g_machine_translation" href="g_machine_translation.dita" print="yes"/>
     <keydef keys="g_nda" href="g_nda.dita" print="yes"/>
     <keydef keys="g_post_editing" href="g_post_editing.dita" print="yes"/>
@@ -17,6 +18,7 @@
         <topicref href="g_fuzzy_matches.dita"/>
         <topicref href="g_inline_tag.dita"/>
         <topicref href="g_localization.dita"/>
+        <topicref href="g_lsp.dita"/>
         <topicref href="g_machine_translation.dita"/>
         <topicref href="g_nda.dita"/>
         <topicref href="g_post_editing.dita"/>

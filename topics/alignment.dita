@@ -22,13 +22,15 @@
         <p><image href="../images/Aligned%20docs.jpg" scale="60" id="image_chn_bhy_2tb"/></p>
         <p>You need to check it thoroughly and, if everything is done, upload the file in the <i>TM
                 import</i> tab. Then, the translation memory is updated automatically.</p>
-        <p>XTM Align creates two Excel spreadsheets for each alignment: one with
-            <i>90+</i>probability of accurate alignment (quick check and upload) and the other with
-            all texts.</p>
+        <p>XTM Align creates two Excel spreadsheets for each alignment: one with <i>90+</i>
+            probability of accurate alignment (quick check and upload) and the other with all
+            texts.</p>
         <p>The only disadvantage is that the Align feature in XTM is shared with all of the
             customers on the cloud so sometimes it takes a long time for the file to be returned. It
-            also takes longer if you build the dictionary for a new language pair.</p>
-        <p>It is important to notice that, for example, in XTM the Align feature is only available
-            for enterprise account (they are not available for freelance or group accounts).</p>
+            also takes longer if you build a dictionary for a new language pair.</p>
+        <p>
+            <note id="note_psz_33h_3tb">In XTM the <i>Align</i> feature is only available for
+                enterprise account (they are not available for freelance or group accounts).</note>
+        </p>
     </conbody>
 </concept>

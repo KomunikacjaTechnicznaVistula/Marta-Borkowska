@@ -30,6 +30,14 @@
                 <li>moving the file forward to a subsequent step</li>
                 <li>modifying the workflow by adding new or deleting unnecessary steps</li>
             </ul></p>
+        <p>
+            <fig id="fig_pjt_ghh_3tb">
+                <title>Workflow management in XTM</title>
+                <image href="../images/Workflows.jpg" scale="60" id="image_qjt_ghh_3tb">
+                    <alt>Workflow management in XTM</alt>
+                </image>
+            </fig>
+        </p>
         <p>Once you start the process, persons responsible for particular tasks will receive
             automatic <xref href="notifications.dita">notifications</xref> form XTM to their email
             addresses so there is no need for a PM to send any additional message. PMs also receives

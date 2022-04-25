@@ -2,14 +2,16 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="machine_translation">
     <title>Machine translation</title>
-    <shortdesc/>
+    <shortdesc><xref href="../glossary/g_machine_translation.dita">Machine translation</xref>
+        engines are third-party systems that are not standard components of a TMS. </shortdesc>
     <conbody>
-        <p>MT engines are third-party systems that are not standard components of a TMS. A company
-            that wants to use MT needs to have an account with an MT provider or configure a custom
-            engine. Only then is it possible to connect the MT engine to TMS via an interface.</p>
-        <p>In TMS you mostly use it in combination with <b>post-editing service</b> to combine the
-            advantages of both options: the speed and ability of MT engines to quickly handle large
-            volumes of text with the skill and sensitivity of trained linguists.</p>
+        <p>A company that wants to use MT needs to have an account with an MT provider or configure
+            a custom engine. Only then is it possible to connect the MT engine to TMS via an
+            interface.</p>
+        <p>In TMS you mostly use it in combination with <b><xref
+                    href="../glossary/g_post_editing.dita">post-editing service</xref></b> to
+            combine the advantages of both options: the speed and ability of MT engines to quickly
+            handle large volumes of text with the skill and sensitivity of trained linguists.</p>
         <p>As a result, it is important to choose a TMS that offers a range of fully managed engines
             from leading MT providers. In addition, you should be able to choose <b>more than one
                 engine</b>, because you may decide to use one for a particular language pair or
@@ -33,8 +35,9 @@
         <p><image href="../images/DeepL.jpg" scale="55" id="image_kgc_scs_2tb"/></p>
         <p>You should also decide how this MT engine will work for your translation projects. All in
             all, with it you get another support in addition to your translation memory (TM). When
-            you have some TM matches, you send these to an MT engine to fill in the blanks, creating
-            an opportunity to leverage existing resources in an innovative way.</p>
+            you have some <xref href="../glossary/g_translation_memory.dita">TM</xref> matches, you
+            send these to an MT engine to fill in the blanks, creating an opportunity to leverage
+            existing resources in an innovative way.</p>
         <p><image href="../images/General%20options.jpg" scale="65" id="image_iql_1ds_2tb"/></p>
         <p>A great benefit of using MT in a TMS is that you use its <b>secure version</b> in
             comparison to the free web-based tool. Your texts are never stored or used by an MT

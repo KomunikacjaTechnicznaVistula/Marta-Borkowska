@@ -15,9 +15,17 @@
             <li>managing projects</li>
             <li>applying smart filters</li>
             <li>accessing metrics</li>
-            <li>managing LSPs</li>
+            <li>managing <xref href="../glossary/g_lsp.dita">LSPs</xref></li>
         </ul>
         <p>The app also offers some unique features such as calling or sending a text message to
-            customers, users, or LSPs directly.</p>
+            customers, users, or LSPs directly. It is easy to use and has very ascetic looks:</p>
+        <p>
+            <fig id="fig_ezl_nxg_3tb">
+                <title>XTM Mobile app</title>
+                <image href="../images/Mobile%20app.jpg" scale="50" id="image_fzl_nxg_3tb">
+                    <alt>XTM Mobile app</alt>
+                </image>
+            </fig>
+        </p>
     </conbody>
 </concept>

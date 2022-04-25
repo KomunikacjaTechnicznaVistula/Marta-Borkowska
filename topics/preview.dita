@@ -2,14 +2,12 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="preview">
     <title>Preview</title>
-    <shortdesc/>
+    <shortdesc>The aim of the visual mode in TMSs is to show you a preview of the source and target
+        file so that linguists could click on the text in the preview and enter or correct a
+        translation in the target segment. </shortdesc>
     <conbody>
-        <p/>
-        <p>The aim of the visual mode in TMSs is to show you a preview of the source and target file
-            so that linguists could click on the text in the preview and enter or correct a
-            translation in the target segment. The target preview is immediately updated with the
-            translation which allows you to see the full context of your translation as you are
-            working on it.</p>
+        <p>The target preview is immediately updated with the translation which allows you to see
+            the full context of your translation as you are working on it.</p>
         <p>Not only does it provide translators and reviewers with much expected visualized context,
             but also shows places where texts are too long and need to be shortened to be visible.
             It also saves time of post-processing work e.g. of graphic designers.</p>

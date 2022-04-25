@@ -2,11 +2,10 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="lqa">
     <title>LQA</title>
-    <shortdesc/>
+    <shortdesc><b>Linguistic Quality Assurance</b> (LQA) is a comprehensive, multi-level process
+        that includes a large number of factors that all aim to measure, control and increase the
+        linguistic quality of any text.</shortdesc>
     <conbody>
-        <p><b>Linguistic Quality Assurance</b> (LQA) is a comprehensive, multi-level process that
-            includes a large number of factors that all aim to measure, control and increase the
-            linguistic quality of any text.</p>
         <p>While <xref href="automatic_qa.dita">QA checks</xref> are performed automatically, LQA is
             always performed by human linguists. Using a pre-determined methodology, they determine
             if the translation contains any <b>objective errors</b> grouped into categories. These
@@ -24,8 +23,8 @@
             Multidimensional Quality Metrics (MQM) model which has been designed as part of the
                 <xref href="https://www.qt21.eu/launchpad/" format="html" scope="external">QT
                 Launchpad project</xref>. As a result it is flexible (can be easily configured to
-            meet your needs), suitable for all translation methods (including MT) and
-            comparable.</p>
+            meet your needs), suitable for all translation methods (including <xref
+                href="../glossary/g_machine_translation.dita">MT</xref>) and comparable.</p>
         <p>You can also set the weight for each item and severity multiplier for neutral, minor,
             major, and critical items, or add new errors.</p>
         <p>XTM offers different methods of calculating LQA scores:</p>

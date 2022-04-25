@@ -13,7 +13,7 @@
             any organization that works with high volumes of content in multiple languages could
             benefit from a TMS connector. For example, a company with a multilingual website and a
             blog that requires frequent updates can benefit from a TMS connector that connects their
-            website CMS to their LSP’s TMS.</p>
+            website CMS to their <xref href="../glossary/g_lsp.dita">LSP’s</xref> TMS.</p>
         <p>The integrations between systems are made possible by a layer of software (a connector)
             based on the RESTFUL API principles of push and pull. Depending on the types of systems,
             these integrations can be either lightweight, which involves very little set-up, or more

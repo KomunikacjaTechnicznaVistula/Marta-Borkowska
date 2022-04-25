@@ -75,6 +75,7 @@
    <appContext helpID="fuzzy_matches" path="glossary/r_glossary.html#fuzzy_matches"/>
    <appContext helpID="inline_tag" path="glossary/r_glossary.html#inline_tag"/>
    <appContext helpID="g_localization" path="glossary/r_glossary.html#g_localization"/>
+   <appContext helpID="g_lsp" path="glossary/r_glossary.html#g_lsp"/>
    <appContext helpID="g_machine_translation"
                path="glossary/r_glossary.html#g_machine_translation"/>
    <appContext helpID="nda" path="glossary/r_glossary.html#nda"/>

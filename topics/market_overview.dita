@@ -181,11 +181,13 @@
         <p>For detailed information on a variety of Translation Management Systems you can consult
                 <xref href="https://www.nimdzi.com/tms" format="html" scope="external"
             >Nimdzi</xref>.</p>
-        <p>There are also a few interesting tools for you, e.g. <xref
-                href="https://www.g2.com/categories/translation-management?utf8=%E2%9C%93&amp;selected_view=grid#grid"
-                format="html" scope="external">G2</xref> or <xref
-                href="https://crozdesk.com/it/localization-software" format="html" scope="external"
-                >Crozdesk</xref> to check the rating of and compare the most popular TMSs including
-            user reviews.</p>
+        <p>
+            <note id="note_yzs_hsg_3tb">There are also a few interesting tools for you, e.g. <xref
+                    href="https://www.g2.com/categories/translation-management?utf8=%E2%9C%93&amp;selected_view=grid#grid"
+                    format="html" scope="external">G2</xref> or <xref
+                    href="https://crozdesk.com/it/localization-software" format="html"
+                    scope="external">Crozdesk</xref> to check the rating of and compare the most
+                popular TMSs including user reviews.</note>
+        </p>
     </conbody>
 </concept>

@@ -9,15 +9,16 @@
             to help this process, but it still requires a human factor.</p>
         <p>XTM incorporates a comprehensive terminology module, i.e. a database of multilingual
             terms.</p>
-        <p>In XTM Workbench, the system identifies and highlights terms in the source text that are
-            in the termbase. The approved term equivalent in the target language is displayed in the
-            docked panel. On hover, more term details are displayed. This feature facilitates a
-            consistent use of the agreed terminology during translation.</p>
+        <p>In XTM <i>Workbench</i>, the system identifies and highlights terms in the source text
+            that are in the termbase. The approved term equivalent in the target language is
+            displayed in the docked panel. On hover, more term details are displayed. This feature
+            facilitates a consistent use of the agreed terminology during translation.</p>
         <p> In XTM you can:<ul id="ul_ycb_1nm_ftb">
                 <li>manage terminology (add, suggest, edit, delete, add images)</li>
                 <li>export any termbase from XTM to several standard file formats</li>
                 <li>import a list of existing terms into XTM from external sources, and then edit or
-                    add new terms directly from the XTM Workbench or in Manage tab.</li>
+                    add new terms directly from the XTM <i>Workbench</i> or in the <i>Manage</i>
+                    tab.</li>
             </ul></p>
         <p>Here is what a termbase looks like in XTM:</p>
         <p><image href="../images/Termbase.jpg" scale="70" id="image_lb4_5mm_ftb"/></p>

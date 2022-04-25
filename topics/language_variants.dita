@@ -2,11 +2,11 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="language_variants">
     <title>Language variants</title>
-    <shortdesc/>
+    <shortdesc>Some languages have variants that you want to preserve in separate translation
+        memories. However, a problem appears if you want to leverage on cost reductions due to a
+        high number of matches from a <xref href="../glossary/g_translation_memory.dita">TM</xref>
+        with a different language variant.</shortdesc>
     <conbody>
-        <p>Some languages have variants that you want to preserve in separate translation memories.
-            However, a problem appears if you want to leverage on cost reductions due to a high
-            number of matches from a TM with a different language variant.</p>
         <p>XTM gives you the option to benefit from TMs of other language variants for Arabic,
             English, French, German, Italian, Portuguese and Spanish. If you choose it and are
             translating English to Spanish (en-GB to sp-SP), XTM will firstly match against the TM

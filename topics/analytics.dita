@@ -2,12 +2,11 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="analytics">
     <title>Analytics</title>
-    <shortdesc/>
+    <shortdesc>According to <i>The Economist,</i> data is now the most valuable resource in the
+        world, ahead of oil. That is why it should be regarded as the company's biggest asset. The
+        translation process is no different. You should be able to present the management with all
+        kinds of data at any time.</shortdesc>
     <conbody>
-        <p>According to The Economist, data is now the most valuable resource in the world, ahead of
-            oil. That is why it should be regarded as the company's biggest asset. The translation
-            process is no different. You should be able to present the management with all kinds of
-            data at any time.</p>
         <p>That's where a TMS proves handy. Since it is a content management system for translation,
             it provides a variety of data in form of metrics and statistics.</p>
         <p><b>Metrics</b></p>

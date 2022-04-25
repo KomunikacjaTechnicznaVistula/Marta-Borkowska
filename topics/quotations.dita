@@ -14,9 +14,17 @@
             statistics target. In <i>Data</i> > <i>Estimates </i>> <i>PO settings</i> you can choose
             e.g. a calculation method (substraction/addition) and other features that should be
             included in the file and work best for you.</p>
-        <p>A Purchase Order is a pdf file [sample] showing all the metrics and the final price you
-            will pay for this translation. The costs can be broken down into particular language
-            pairs and workflow steps, if needed.</p>
+        <p>A Purchase Order is a pdf file showing all the metrics and the final price you will pay
+            for this translation. The costs can be broken down into particular language pairs and
+            workflow steps, if needed.</p>
+        <p>
+            <fig id="fig_mt4_g3h_3tb">
+                <title>Sample Purchase Order from XTM</title>
+                <image href="../images/Sample%20PO.jpg" scale="50" id="image_nt4_g3h_3tb">
+                    <alt>Sample Purchase Order from XTM</alt>
+                </image>
+            </fig>
+        </p>
         <p>You can send this file to your vendor by email or request that XTM does it for you
             directly using feature <i>Email PO to Linguist</i>.</p>
         <p>XTM also gives you an opportunity to enter your own cost settings, exchange rates and

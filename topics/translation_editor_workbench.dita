@@ -2,13 +2,13 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="translation_editor_workbench">
     <title>Translation editor (Workbench)</title>
-    <shortdesc/>
+    <shortdesc>Currently, hardly anyone translates in an original document, be it Word, HTML file or
+        InDesign. Most translators and reviewers work in <b>special text editors</b> that are core
+        CAT tool components.</shortdesc>
     <conbody>
-        <p>Currently, hardly anyone translates in an original document, be it Word, HTML file or
-            InDesign. Most translators and reviewers work in <b>special text editors</b> that are
-            core CAT tool components. As a result, they do not need any other special tools (e.g.
-            code editors for html) or even software licenses (e.g. for InDesign) to translate a
-            special file. It is possible to work with any file format on a plain text.</p>
+        <p> As a result, they do not need any other special tools (e.g. code editors for html) or
+            even software licenses (e.g. for InDesign) to translate a special file. It is possible
+            to work with any file format on a plain text.</p>
         <p>Such editors can be available as <b>desktop</b> or <b>cloud</b> versions. However, most
             TMSs will have both options with the latter one set as default. Therefore, translators
             need stable internet connection to be able to work in it, which can still be a nuisance

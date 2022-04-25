@@ -2,12 +2,12 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="filtering">
     <title>Filtering</title>
-    <shortdesc/>
+    <shortdesc>You choose a TMS for time and cost savings so one way to make you and your linguists
+        work faster is to use <b>filters</b> in the text editor. </shortdesc>
     <conbody>
-        <p>You choose a TMS for time and cost savings so one way to make you and your linguists work
-            faster is to use <b>filters</b> in the text editor. Filtering speeds up both the
-            translation and review process, and makes the terminology more coherent. By using it,
-            linguists can focus on specific segments, especially in case of bigger files.</p>
+        <p>Filtering speeds up both the translation and review process, and makes the terminology
+            more coherent. By using it, linguists can focus on specific segments, especially in case
+            of bigger files.</p>
         <p>It is also very important to have <b>quick access to filters</b>. In XTM you can use them
             directly from the top menu in Workbench. In addition, you can quickly set up your
                 <b>favourite filters</b> and you will see the ones you used last. As an additional

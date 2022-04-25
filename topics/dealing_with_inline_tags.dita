@@ -2,13 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="dealing_with_inline_tags">
     <title>Inline tags</title>
-    <shortdesc/>
+    <shortdesc><xref href="../glossary/g_inline_tag.dita">Inline tags</xref> are a very important
+        part of the whole translation process. </shortdesc>
     <conbody>
-        <p>Inline tags are text fragments that correspond to: <ul id="ul_l1l_tvp_gtb">
-                <li>text formatting such as italic or line breaks</li>
-                <li>non-translatable technical symbols (such as HTML tags)</li>
-                <li>other special characters</li>
-            </ul></p>
         <p>They need to be placed correctly so that the final text has the correct layout. In
             addition, it is a must to place them in the target segment so that the TM could be
             updated and the file be exported from the TMS. That's why, usually, the tag placement in
@@ -21,9 +17,17 @@
                 href="https://www.idioma.com/blog/107-translation-tips-tags-in-translation"
                 format="html" scope="external">Idioma blog</xref>.</p>
         <p>That's why it is essential to choose a TMS that <b>helps automate dealing with inline
-                tags</b>. XTM offers the option of auto-inserting tags in Workbench. Whenever they
-            are missing or are incorrectly inserted, you can have them fixed automatically. The
+                tags</b>. XTM offers the option of auto-inserting tags in <i>Workbench</i>. Whenever
+            they are missing or are incorrectly inserted, you can have them fixed automatically. The
             system will propose the inline tags which should be entered into the target segment and
             you may accept them or reject them and insert your own.</p>
+        <p>
+            <fig id="fig_sf5_lkh_3tb">
+                <title>Inline tags correction in XTM</title>
+                <image href="../images/Inline%20tags.jpg" scale="50" id="image_tf5_lkh_3tb">
+                    <alt>Inline tags correction in XTM</alt>
+                </image>
+            </fig>
+        </p>
     </conbody>
 </concept>

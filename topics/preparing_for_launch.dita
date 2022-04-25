@@ -66,9 +66,11 @@
                 </substeps>
             </step>
             <step>
-                <cmd>Migrate all your TMs and TBs (if any) to the TMS. Create workflows, user
-                    accounts with relevant <xref href="access_rights.dita">access rights and
-                        roles</xref>.</cmd>
+                <cmd>Collect all your <xref href="../glossary/g_translation_memory.dita">TMs</xref>
+                    and <xref href="../glossary/g_termbase.dita">TBs</xref> (if any) from your
+                    previous vendors and migrate them to the TMS. Create workflows, user accounts
+                    with relevant <xref href="access_rights.dita">access rights and
+                    roles</xref>.</cmd>
             </step>
             <step>
                 <cmd>Start working with your new TMS, initially only for some projects (the easiest
