@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="access_rights">
-    <title>User access rights and roles</title>
-    <shortdesc>TMS is a platform where all translation project participants meet.</shortdesc>
+    <title>Managing user access rights and roles</title>
+    <shortdesc>TMS is a platform where all translation project participants meet. To streamline its,
+        you should manage your vendors in a structured and efficient way so that all parties are
+        satisfied with this cooperation and bring your translation process to the next
+        level.</shortdesc>
     <conbody>
         <p>That's why it is important to manage these users effectively so that everyone could make
             the best use of this tool. On the other hand, you should also be able to restrict access

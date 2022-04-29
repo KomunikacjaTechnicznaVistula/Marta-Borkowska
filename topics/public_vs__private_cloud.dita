@@ -33,6 +33,7 @@
         <p>In the table below you will find a <b>comparison of the most important cloud
             aspects</b>:</p>
         <table id="table_odl_bhb_zsb" frame="all">
+            <title>Comparison of top cloud features</title>
             <tgroup cols="4">
                 <colspec colname="c1" colnum="1"/>
                 <colspec colname="c2" colnum="2"/>

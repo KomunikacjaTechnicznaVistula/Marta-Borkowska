@@ -19,15 +19,25 @@
             <li>forbidden or rejected terms used</li>
         </ul>
         <p>In XTM, the scope of QA checks depends on the connected spell checker and its
-            availability for the particular language. You run it directly in Workbench. It is also
+            availability for the particular language. You run it directly in Workbench, using
+            eiither a built-in solution or the connect to the one provided by MS Word. It is also
             possible to perform QA using <xref href="https://www.xbench.net/" format="html"
                 scope="external">Xbench</xref> – a third-party translation QA and terminology
             management tool.</p>
         <p>As a result, when a QA error is detected, it is highlighted and you will see warnings
             displayed with segment number, category and description. You can also filter our
             segments with QA warnings to focus only on them.</p>
-        <p>XTM enables you also to use regular expressions to perform an in-depth quality assurance
-            check. You can choose between a series of predefined regular expressions in the QA
-            profile.</p>
+        <p>
+            <fig id="fig_zq2_mcm_jtb">
+                <title>QA feature in XTM</title>
+                <image href="../images/QA.jpg" scale="50" id="image_ar2_mcm_jtb">
+                    <alt>QA feature in XTM</alt>
+                </image>
+            </fig>
+        </p>
+        <p>XTM enables you also to use <xref href="https://en.wikipedia.org/wiki/Regular_expression"
+                format="html" scope="external">regular expressions</xref> to perform an in-depth
+            quality assurance check. You can choose between a series of predefined regular
+            expressions in the QA profile.</p>
     </conbody>
 </concept>

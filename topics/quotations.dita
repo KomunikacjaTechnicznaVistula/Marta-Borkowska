@@ -2,12 +2,13 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="quotations">
     <title>Purchase orders</title>
-    <shortdesc>You can generate a Purchase Order easily before your vendors start working on the
-        project.</shortdesc>
+    <shortdesc>A Purchase Order is the specification of costs that your vendors (e.g. translators,
+        LSPs) will charge you. </shortdesc>
     <conbody>
-        <p>Based on the data entered in <xref href="rate_cards.dita">rate cards</xref>, you can
-            generate a Purchase Order (PO) easily for every translation project created in XTM and
-            assigned to a linguist or an <xref href="../glossary/g_lsp.dita">LSP</xref>.</p>
+        <p>You can generate it easily before your vendors start working on the project. Based on the
+            data entered in <xref href="rate_cards.dita">rate cards</xref>, you can generate a
+            Purchase Order (PO) easily for every translation project created in XTM and assigned to
+            a linguist or an <xref href="../glossary/g_lsp.dita">LSP</xref>.</p>
         <p>You only need to go to <i>Project Editor</i> > <i>Estimates</i> and click on<i>
                 Generate</i>.</p>
         <p>
@@ -37,5 +38,12 @@
             directly using feature <i>Email PO to Linguist</i>.</p>
         <p>XTM also gives you an opportunity to enter your own cost settings, exchange rates and
             proposal factors to make finance management for translation projects easy.</p>
+        <p>
+            <note id="note_wzr_5fm_jtb">If you work for an LSP, you could benefit from the fact that
+                the <i>Estimates</i> tab where all costs are generated, is divided into 2 sections:
+                    <i>Proposal</i> and <i>Costs</i>. Depending on your XTM configuration, one of
+                them can be used to show how much you will charge your customer. As a result, you
+                can generate two POs: one for your vendor and one for your customer.</note>
+        </p>
     </conbody>
 </concept>

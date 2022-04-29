@@ -2,15 +2,16 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="preparing_for_launch">
     <title>Preparing for launch</title>
-    <shortdesc>Once you have received an approval to buy a TMS from your management, you should
-        prepare your company for launch.</shortdesc>
+    <shortdesc>You have made your choice and still need to comply with a lot of formalities before
+        you can start working with your TMS.</shortdesc>
     <taskbody>
-        <prereq id="prereq_y1b_gwp_2tb">You may start this stage </prereq>
+        <prereq id="prereq_y1b_gwp_2tb">Start this stage only after you have received an
+                <b>approval</b> to buy the selected TMS from your management.</prereq>
         <context>Follow these steps to ensure that your new tool finds its place in your
             company.</context>
         <steps>
             <step>
-                <cmd>Start the sales process with TMS provider (either through your purchasing
+                <cmd>Start the sales process with the TMS provider (either through your purchasing
                     department or on your own):</cmd>
                 <substeps id="substeps_i24_3wp_2tb">
                     <substep>
@@ -75,10 +76,11 @@
                         href="access_rights.dita">access rights and roles</xref>.</cmd>
             </step>
             <step>
-                <cmd>Start working with your new TMS, initially only for some projects (the easiest
-                    ones) and gradually move the whole translation process to it. Once you discover
-                    all the TMS’s features, you will no longer imagine work outside it ;). You will
-                    process even very complex projects in it.</cmd>
+                <cmd>Set the go-live date and start working with your new TMS. Initially process
+                    only some projects (the easiest ones) and gradually move the whole translation
+                    process to it. Once you discover all the TMS’s features, you will no longer
+                    imagine work outside it ;). You will process even very complex projects in
+                    it.</cmd>
             </step>
             <step>
                 <cmd>Be prepared to report on TMS key metrics such as translation volume (number of

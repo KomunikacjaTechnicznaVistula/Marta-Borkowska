@@ -19,10 +19,14 @@
                 <cmd><xref href="researching.dita">Researching the TMS market</xref></cmd>
             </step>
             <step>
-                <cmd><xref href="preparing_for_launch.dita">Preparing for go-live</xref></cmd>
+                <cmd><xref href="roi.dita">Budgeting</xref></cmd>
             </step>
         </steps>
         <postreq id="postreq_owb_gtp_2tb">
+            <note id="note_kjt_4jm_jtb">The whole process can take even a few months so be prepared
+                to allocate a specific period of time. Don't hurry up - the decision is important
+                and costly! I also recommend to set yourself a go-live date early and try to stick
+                to it.</note>
             <p>In the end, what you are looking for is:</p>
             <ul id="ul_fwf_gtp_2tb">
                 <li>higher team productivity</li>

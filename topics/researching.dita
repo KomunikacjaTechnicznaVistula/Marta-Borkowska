@@ -23,7 +23,7 @@
                         <cmd>Create a Request-for-Proposal listing all your requirements.</cmd>
                     </substep>
                     <substep>
-                        <cmd>Ask for more information from the respective sales teams.</cmd>
+                        <cmd>Ask for more information from the respective TMS sales teams.</cmd>
                     </substep>
                     <substep>
                         <cmd>Consult case studies from different companies.</cmd>
@@ -33,8 +33,8 @@
                                 >features</xref> and prices in one file.</cmd>
                     </substep>
                     <substep>
-                        <cmd>Arrange meetings with sales representatives of particular
-                            companies.</cmd>
+                        <cmd>Arrange meetings with sales representatives of particular TMS
+                            providers.</cmd>
                     </substep>
                     <substep>
                         <cmd>Take part in webinars offered by TMS experts.</cmd>
@@ -52,6 +52,9 @@
                 <cmd>Check how a TMS works in practice:</cmd>
                 <substeps id="substeps_l4d_5vp_2tb">
                     <substep>
+                        <cmd>Watch a demo.</cmd>
+                    </substep>
+                    <substep>
                         <cmd>Ask for a free trial of a few selected tools</cmd>
                     </substep>
                     <substep>
@@ -64,9 +67,9 @@
                                 >TMs</xref> (if any) and test them.</cmd>
                     </substep>
                     <substep>
-                        <cmd>Check those TMS’s features that are most relevant to your company. Is
-                            it easy to use? Will it be easy for use also by other internal
-                            clients?</cmd>
+                        <cmd>Check those <xref href="key_tms_features.dita">TMS’s features</xref>
+                            that are most relevant to your company. Is it easy to use? Will it be
+                            easy for use also by other internal clients?</cmd>
                     </substep>
                 </substeps>
             </step>

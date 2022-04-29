@@ -2,24 +2,23 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="vendor_management">
     <title>Go-Live</title>
-    <shortdesc>With more and more people involved in a translation process, TMS helps you manage all
-        of them.</shortdesc>
+    <shortdesc>Once you have made your decision, it's time to think how to move your process to the
+        selected TMS.</shortdesc>
     <conbody>
-        <p>Even though TMSs automate a lot of tasks, they still require humans to sign contracts,
-            manage workflows, translate and review texts, and configure the system. After all it is
-            a system for gathering all project participants in one place.</p>
-        <p>To streamline TMS operations, you should manage your vendors in a structured and
-            efficient way so that all parties are satisfied with this cooperation and bring your
-            translation process to the next level.</p>
-        <p>As a result, it is important to consider the following aspects of vendor management in
-            the TMS:</p>
+        <p>You thought it took a long time to make up your mind on which TMS to choose for your
+            company, but it may take even longer to prepare the whole go-live process. Draft a plan
+            involving your internal stakeholders, translation resources and vendors - there are so
+            many aspects to cover. And... once again remember about the deadline you set
+            earlier.</p>
+        <p>The final process should include the following steps:</p>
         <p>
             <ul id="ul_itd_cjx_gtb">
                 <li><xref href="preparing_for_launch.dita">Preparing for launch</xref></li>
-                <li><xref href="access_rights.dita">User access rights and roles</xref></li>
-                <li><xref href="how_to_integrate_your_vendors_in_xtm.dita">How to set up TMS to work
+                <li><xref href="access_rights.dita">Managing user access rights and
+                    roles</xref></li>
+                <li><xref href="how_to_integrate_your_vendors_in_xtm.dita">Setting up TMS to work
                         with your vendors</xref></li>
-                <li><xref href="best_practices_of_cooperation.dita">Best cooperation
+                <li><xref href="best_practices_of_cooperation.dita">Agreeing on best cooperation
                         practices</xref></li>
             </ul>
         </p>

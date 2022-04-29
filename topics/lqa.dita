@@ -19,7 +19,7 @@
         <p>The process of performing LQA begins with the recording of the errors in translation and
             ends with reporting analysis. For that purpose an evaluator can use a special form or
             use a TMS-embedded one.</p>
-        <p>In XTM the LQA feature is a translation quality scoring system based on the
+        <p>In XTM, the LQA feature is a translation quality scoring system based on the
             Multidimensional Quality Metrics (MQM) model which has been designed as part of the
                 <xref href="https://www.qt21.eu/launchpad/" format="html" scope="external">QT
                 Launchpad project</xref>. As a result it is flexible (can be easily configured to
@@ -41,12 +41,24 @@
             </li>
         </ul>
         <p>After the process is completed in <i>XTM Workbench</i>, you can view LQA results next to
-            each user or download an LQA report.</p>
+            each user or download an LQA report as an Excel file.</p>
+        <p><fig id="fig_lq5_b2m_jtb">
+                <title>LQA report</title>
+            <image href="../images/LQA%20report.jpg" scale="50" id="image_qgq_12m_jtb">
+                <alt>LQA report</alt>
+            </image></fig></p>
         <p>LQA can be a separate service or a part of the translation service that you buy from your
-            LSP. In any case, XTM enables you to perform it using a separate <i>LQA workflow
-                step</i>.</p>
+                <xref href="../glossary/g_lsp.dita">LSP</xref>. In any case, XTM enables you to
+            perform it using a separate <i>LQA workflow step</i>.</p>
         <p>Usually, when the score is below 93%, the test is failed and the translation should be
             returned to the linguist for correction.</p>
-        <p><image href="../images/LQA%20form.jpg" scale="70" id="image_ss2_tzm_ftb"/></p>
+        <p>
+            <fig id="fig_vkg_ndm_jtb">
+                <title>LQA feature in XTM Workbench</title>
+                <image href="../images/LQA.jpg" scale="50" id="image_wkg_ndm_jtb">
+                    <alt>LQA feature in XTM Workbench</alt>
+                </image>
+            </fig>
+        </p>
     </conbody>
 </concept>
