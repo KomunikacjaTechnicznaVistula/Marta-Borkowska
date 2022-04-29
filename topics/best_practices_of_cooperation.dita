@@ -2,93 +2,101 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="best_practices_of_cooperation">
     <title>Best cooperation practices</title>
-    <shortdesc/>
+    <shortdesc>Once you have set up the TMS in your company, you need to inform your vendors that
+        you will soon use it for all the translation projects.</shortdesc>
     <conbody>
-        <p>Once you have set up the TMS in your company, you need to inform your vendors that you
-            will soon use it for all the translation projects.</p>
         <p>However, before you start, you should agree on certain aspects because work with TMS may
             be different than the standard terms of cooperation: In particular, you should clarify
             the following issues:</p>
-        <p><b>Terms of cooperation</b></p>
-        <p>
-            <ul id="ul_tz2_qxw_gtb">
-                <li>Decide what kind of agreements you should sign with your vendors depending on
-                    your business needs (compliance) – Cooperation Agreement, <abbreviated-form
-                        keyref="g_nda"/>, <abbreviated-form keyref="g_sla"/>, annexes (e.g.
-                    complaints procedure, LQA process, <xref href="rate_cards.dita">rate
-                        cards</xref>), etc.</li>
-                <li>Discuss the invoicing terms with your vendor – if you should be invoiced in
-                    advance or after translation, monthly or after each project, based on <xref
-                        href="quotations.dita">purchase order</xref> from TMS or PO from your
-                    vendor.</li>
-                <li>Agree with your vendor on how to deal with confidential texts (e.g. work outside
-                    TMS).</li>
-                <li>Inform your vendor that not all projects may be processed in TMS (e.g. certified
-                    translations, patents, etc.) and agree on a suitable process and pricing for
-                    them.</li>
-                <li>Agree with your vendor on how to proceed with non-editable graphics (e.g. export
-                    texts to open format files, additional price, etc.).</li>
-                <li>Prepare a checklist for your vendors, outlining aspects not covered by the
-                    Cooperation Agreement to be used with your projects in TMS.</li>
-                <li>Make sure the <abbreviated-form keyref="g_lsp"/> informs its linguists of all
-                    relevant aspects of cooperation with you and ensures all the PMs are also
-                    updated.</li>
-            </ul>
-        </p>
-        <p><b>Communication</b></p>
-        <p>
-            <ul id="ul_kc1_sxw_gtb">
-                <li>Decide upon the main communication channel with your vendor for your translation
-                    projects (email, TMS notifications, vendor's client portal, etc.)</li>
-                <li>Agree on communication process during the project e.g. when translators have
-                    questions – how project participants (linguists, PMs, client) should proceed to
-                    keep the deadline.</li>
-                <li>Remember that your vendors may work in different time zones and countries so
-                    when setting deadlines make sure you specify it and take account of holidays
-                    different than yours.</li>
-                <li>Discuss with your vendor what to do in case of technical problems with the TMS
-                    (if you should be the contact person or they can contact support directly).</li>
-                <li>Establish the way of how you should be informed that the vendor has finished the
-                    project and how files should be transferred to you (via TMS, by email, via data
-                    transfer system, etc.).</li>
-            </ul>
-        </p>
-        <p><b>Translation in TMS</b></p>
-        <p>
-            <ul id="ul_bbn_txw_gtb">
-                <li>Send all reference materials to your vendor, which may help linguist deliver
-                    accurate translations. These may include corporate websites, previous
-                    translations (not existing in your TM)., offline glossaries, etc.</li>
-                <li>Inform your vendor about the need to use of <abbreviated-form
-                        keyref="g_translation_memory"/>, <abbreviated-form keyref="g_termbase"/>,
-                    Concordance and what to do in case of conflicting matches (e.g. use the most
-                    recent one).</li>
-                <li>Discuss with your vendor whether linguists can use machine translation for
-                    particular projects or not.</li>
-                <li>Ask your vendors to use in-context preview if available for particular files to
-                    check the translation in reality (not only in the text editor) and the length of
-                    texts.</li>
-                <li>Make sure the vendor understands the need to run automatic QA on a file in TMS
-                    to check e.g. non-translated texts or invalid inline tags.</li>
-                <li>Ensure your vendor generates the target file from TMS to check its layout after
-                    translation (e.g. if there are no hidden texts or if the file is ready to be
-                    sent to the final client). If there are layout issues, agree with the vendor who
-                    should fix them (if the vendor, discuss an additional price).</li>
-                <li>Ask your vendor to confirm all segments in the text editor so that the TM could
-                    be updated automatically.</li>
-                <li>Inform your vendor about the need to follow messages from TMS concerning its
-                    potential unavailability for maintenance, which may affect their work and your
-                    deadline.</li>
-                <li>Discuss with your vendor how many licenses they will need for their linguists.
-                    Inform them that your TMS may be unavailable at certain times due to the
-                    exceeding of the number of concurrent users (if applicable).</li>
-            </ul>
-        </p>
-        <p>
-            <note id="note_tvm_v2x_gtb">It is a good practice to prepare a checklist for your
-                vendors, outlining aspects not covered by the Cooperation Agreement to be used. It
-                may list some or all of the above issues relevant for dealing with your projects in
-                the TMS.</note>
-        </p>
+        <section id="section_c2y_rqk_jtb">
+            <title>Terms of cooperation</title>
+            <p>
+                <ul id="ul_wh2_tqk_jtb">
+                    <li>Decide what kind of agreements you should sign with your vendors depending
+                        on your business needs (compliance) – Cooperation Agreement,
+                            <abbreviated-form keyref="g_nda"/>, <abbreviated-form keyref="g_sla"/>,
+                        annexes (e.g. complaints procedure, LQA process, <xref
+                            href="rate_cards.dita">rate cards</xref>), etc.</li>
+                    <li>Discuss the invoicing terms with your vendor – if you should be invoiced in
+                        advance or after translation, monthly or after each project, based on <xref
+                            href="quotations.dita">purchase order</xref> from TMS or PO from your
+                        vendor.</li>
+                    <li>Agree with your vendor on how to deal with confidential texts (e.g. work
+                        outside TMS).</li>
+                    <li>Inform your vendor that not all projects may be processed in TMS (e.g.
+                        certified translations, patents, etc.) and agree on a suitable process and
+                        pricing for them.</li>
+                    <li>Agree with your vendor on how to proceed with non-editable graphics (e.g.
+                        export texts to open format files, additional price, etc.).</li>
+                    <li>Prepare a checklist for your vendors, outlining aspects not covered by the
+                        Cooperation Agreement to be used with your projects in TMS.</li>
+                    <li>Make sure the <abbreviated-form keyref="g_lsp"/> informs its linguists of
+                        all relevant aspects of cooperation with you and ensures all the PMs are
+                        also updated.</li>
+                </ul>
+            </p>
+        </section>
+        <section id="section_c53_tqk_jtb">
+            <title>Communication</title>
+            <p>
+                <ul id="ul_xyp_5qk_jtb">
+                    <li>Decide upon the main communication channel with your vendor for your
+                        translation projects (email, TMS notifications, vendor's client portal,
+                        etc.)</li>
+                    <li>Agree on communication process during the project e.g. when translators have
+                        questions – how project participants (linguists, PMs, client) should proceed
+                        to keep the deadline.</li>
+                    <li>Remember that your vendors may work in different time zones and countries so
+                        when setting deadlines make sure you specify it and take account of holidays
+                        different than yours.</li>
+                    <li>Discuss with your vendor what to do in case of technical problems with the
+                        TMS (if you should be the contact person or they can contact support
+                        directly).</li>
+                    <li>Establish the way of how you should be informed that the vendor has finished
+                        the project and how files should be transferred to you (via TMS, by email,
+                        via data transfer system, etc.).</li>
+                </ul>
+            </p>
+        </section>
+        <section id="section_dxt_5qk_jtb">
+            <title>Translation in TMS</title>
+            <p>
+                <ul id="ul_v11_wqk_jtb">
+                    <li>Send all reference materials to your vendor, which may help linguist deliver
+                        accurate translations. These may include corporate websites, previous
+                        translations (not existing in your TM)., offline glossaries, etc.</li>
+                    <li>Inform your vendor about the need to use of <abbreviated-form
+                            keyref="g_translation_memory"/>, <abbreviated-form keyref="g_termbase"
+                        />, Concordance and what to do in case of conflicting matches (e.g. use the
+                        most recent one).</li>
+                    <li>Discuss with your vendor whether linguists can use machine translation for
+                        particular projects or not.</li>
+                    <li>Ask your vendors to use in-context preview if available for particular files
+                        to check the translation in reality (not only in the text editor) and the
+                        length of texts.</li>
+                    <li>Make sure the vendor understands the need to run automatic QA on a file in
+                        TMS to check e.g. non-translated texts or invalid inline tags.</li>
+                    <li>Ensure your vendor generates the target file from TMS to check its layout
+                        after translation (e.g. if there are no hidden texts or if the file is ready
+                        to be sent to the final client). If there are layout issues, agree with the
+                        vendor who should fix them (if the vendor, discuss an additional
+                        price).</li>
+                    <li>Ask your vendor to confirm all segments in the text editor so that the TM
+                        could be updated automatically.</li>
+                    <li>Inform your vendor about the need to follow messages from TMS concerning its
+                        potential unavailability for maintenance, which may affect their work and
+                        your deadline.</li>
+                    <li>Discuss with your vendor how many licenses they will need for their
+                        linguists. Inform them that your TMS may be unavailable at certain times due
+                        to the exceeding of the number of concurrent users (if applicable).</li>
+                </ul>
+            </p>
+            <p>
+                <note id="note_ubn_xqk_jtb">It is a good practice to prepare a checklist for your
+                    vendors, outlining aspects not covered by the Cooperation Agreement to be used.
+                    It may list some or all of the above issues relevant for dealing with your
+                    projects in the TMS.</note>
+            </p>
+        </section>
     </conbody>
 </concept>

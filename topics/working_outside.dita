@@ -2,20 +2,26 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="working_outside">
     <title>Working outside</title>
-    <shortdesc/>
+    <shortdesc>Often TMSs are based on a subscription model in which you pay for the number of
+        concurrent users, i.e. people that use the tool at the same time. As a result, it is good if
+        the TMS offered the possibility for the vendor to work in another CAT tool.</shortdesc>
     <conbody>
-        <p>Often TMSs are based on a subscription model in which you pay for the number of
-            concurrent users, i.e. people that use the tool at the same time. As a result, it is
-            good if the TMS offered the possibility for the vendor to work in another CAT tool by
-            downloading a package with all language resources. Some translation vendors may not like
-            or be familiar with the TMS that you have bought so this option is also a nice
-            alternative.</p>
+        <p>It is possible to work outside a TMS by downloading a package with all language
+            resources. Some translation vendors may not like or be familiar with the TMS that you
+            have bought so this option is also a nice alternative.</p>
         <p>XTM offers an opportunity to download an xliff file from the <i>Offline translation</i>
             column.</p>
-        <p><image href="../images/Working%20outside.jpg" scale="50" id="image_pl3_sny_2tb"/></p>
+        <p>
+            <fig id="fig_s1k_nsk_jtb">
+                <title>Working outside in XTM</title>
+                <image href="../images/Working%20outside.jpg" scale="50" id="image_t1k_nsk_jtb">
+                    <alt>Working outside in XTM</alt>
+                </image>
+            </fig>
+        </p>
         <p>After translation in another CAT tool, a vendor should import the xliff file back to XTM
             by clicking <i>Upload file</i> in the <i>Offline translation</i> column.</p>
-        <p>The translation memory is updated automatically and it is possible to generate the target
-            file from XTM.</p>
+        <p>The <xref href="../glossary/g_translation_memory.dita">translation memory</xref> is
+            updated automatically and it is possible to generate the target file from XTM.</p>
     </conbody>
 </concept>

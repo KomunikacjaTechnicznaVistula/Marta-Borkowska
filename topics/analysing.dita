@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="analysing">
-    <title>Analyzing</title>
+    <title>Analyzing your translation process</title>
     <shortdesc>The first step that you need to take is to perform due diligence of the existing
         translation process at your company.</shortdesc>
     <taskbody>
         <context>
-            <p/>
+            <p>These steps will help you get to know what you already have and decide what should
+                change in your <xref href="tms_in_the_corporate_language_policy.dita">Corporate
+                    Language Policy</xref>.</p>
         </context>
         <steps>
             <step>

@@ -17,7 +17,14 @@
             status, invalid, modification, match, inconsistency and <b>exclude</b> them from being
             displayed.</p>
         <p>Here are some of available filters in XTM:</p>
-        <p><image href="../images/Filters.jpg" scale="60" id="image_o1r_2bq_gtb"/></p>
+        <p>
+            <fig id="fig_dny_hbl_jtb">
+                <title>Some filters available in XTM</title>
+                <image href="../images/Filters.jpg" scale="60" id="image_eny_hbl_jtb">
+                    <alt>Some filters available in XTM</alt>
+                </image>
+            </fig>
+        </p>
         <p>Filters are a great way to save on costs, e.g. if you pay hourly rates, your linguists
             spend less time on browsing through huge files. You can also send only new and modified
             texts for translation by filtering out all 100% and 101% matches so you will pay much

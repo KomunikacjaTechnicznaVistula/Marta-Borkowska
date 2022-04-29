@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="researching">
-    <title>Researching</title>
+    <title>Researching the TMS market</title>
     <shortdesc/>
     <taskbody>
         <context>
@@ -29,7 +29,8 @@
                         <cmd>Consult case studies from different companies.</cmd>
                     </substep>
                     <substep>
-                        <cmd>Make a comparison of their features and prices in one file.</cmd>
+                        <cmd>Make a comparison of their <xref href="key_tms_features.dita"
+                                >features</xref> and prices in one file.</cmd>
                     </substep>
                     <substep>
                         <cmd>Arrange meetings with sales representatives of particular
@@ -39,8 +40,8 @@
                         <cmd>Take part in webinars offered by TMS experts.</cmd>
                     </substep>
                     <substep>
-                        <cmd>Browse through available documentation (user guides, webhelp, videos,
-                            etc.).</cmd>
+                        <cmd>Browse through available <xref href="documentation.dita"
+                                >documentation</xref> (user guides, webhelp, videos, etc.).</cmd>
                     </substep>
                     <substep>
                         <cmd>Complete your comparison file with new information.</cmd>
@@ -54,10 +55,13 @@
                         <cmd>Ask for a free trial of a few selected tools</cmd>
                     </substep>
                     <substep>
-                        <cmd>Create test projects, workflows, user accounts.</cmd>
+                        <cmd>Create test projects, <xref href="workflows.dita">workflows</xref>,
+                                <xref href="access_rights.dita">user accounts with specific
+                                roles</xref>.</cmd>
                     </substep>
                     <substep>
-                        <cmd>Import your TMs (if any) and test them.</cmd>
+                        <cmd>Import your <xref href="../glossary/g_translation_memory.dita"
+                                >TMs</xref> (if any) and test them.</cmd>
                     </substep>
                     <substep>
                         <cmd>Check those TMS’s features that are most relevant to your company. Is
@@ -88,7 +92,7 @@
                         <cmd>risks</cmd>
                     </substep>
                     <substep>
-                        <cmd>costs</cmd>
+                        <cmd><xref href="roi.dita">costs</xref></cmd>
                     </substep>
                 </substeps>
             </step>

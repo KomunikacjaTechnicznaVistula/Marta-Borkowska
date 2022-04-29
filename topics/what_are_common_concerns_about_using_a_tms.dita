@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="what_are_common_concerns_about_using_a_tms">
     <title>What are common concerns about using a TMS?</title>
-    <shortdesc/>
+    <shortdesc>As with every new tool, there is a risk your business will resist to the
+        change.</shortdesc>
     <conbody>
         <p>Once the management decides upon buying a TMS, different participants of the translation
             process may raise their objections. Here is what you may often hear from them and how
@@ -66,24 +67,27 @@
                         <entry><i>Our current translation vendors will not want to use it. Each of
                                 them have their own TMS and CAT tools.</i></entry>
                         <entry>Most TMSs enable exporting packages to be processed in any CAT tool
-                            (interoperability). As a result, LSPs or freelancers can still use their
-                            preferred resources with a possibility to translate in the TMS Editor as
-                            well (thus saving on their license costs).</entry>
+                            (interoperability). As a result, <xref href="../glossary/g_lsp.dita"
+                                >LSPs</xref> or freelancers can still use their preferred resources
+                            with a possibility to translate in the TMS Editor as well (thus saving
+                            on their license costs).</entry>
                     </row>
                     <row>
                         <entry><i>I feel it more secure when all translation memories are saved on
                                 my computer. I don't trust cloud services.</i></entry>
-                        <entry>The TMS provider will sign an NDA agreement with us and it ensures
-                            continuous back-up of our data on several secure servers. Anyway, you
-                            can always lose access to your hard drives due to a computer failure as
-                            well and then no one will be to retrieve this content.</entry>
+                        <entry>The TMS provider will sign an <xref href="../glossary/g_nda.dita"
+                                >NDA</xref> agreement with us and it ensures continuous back-up of
+                            our data on several secure servers. Anyway, you can always lose access
+                            to your hard drives due to a computer failure as well and then no one
+                            will be to retrieve this content.</entry>
                     </row>
                     <row>
                         <entry><i>I fear this change will have a negative impact on the translation
                                 quality. An IT tool cannot be better than human.</i></entry>
-                        <entry>All TMSs contain built-in QA and LQA features which automate quality
-                            assurance and allow you to spot mistakes sometimes not easily noticed by
-                            proofreaders.</entry>
+                        <entry>All TMSs contain built-in <xref href="automatic_qa.dita">QA
+                            </xref>and <xref href="lqa.dita">LQA</xref> features which automate
+                            quality assurance and allow you to spot mistakes sometimes not easily
+                            noticed by proofreaders.</entry>
                     </row>
                 </tbody>
             </tgroup>

@@ -2,12 +2,13 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="terinology_extraction">
     <title>Terminology extraction</title>
-    <shortdesc>Terminology plays a very important role in many different fields with translation and
-        localization being only some of them. Many sectors use specific wording that is only typical
-        for them, while some customers may opt for their preferred terms. Researching them is a
-        time-consuming task. That's why computer-aided terminology extraction proves
-        useful.</shortdesc>
+    <shortdesc>Computer-aided terminology extraction proves useful when you need to search for
+        customer-specific vocabulary.</shortdesc>
     <conbody>
+        <p>Terminology plays a very important role in many different fields with translation and
+            localization being only some of them. Many sectors use wording that is only typical for
+            them, while some customers may opt for their preferred terms. Researching them is a
+            time-consuming task.</p>
         <p>There are many CAT tools in the market that enable such feature so it is certain that
             TMSs must follow. After terms are extracted, i.e. a bilingual list of candidate terms is
             created, it should still be verified by a human terminologist or translator.</p>

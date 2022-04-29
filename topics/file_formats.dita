@@ -2,19 +2,19 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="file_formats">
     <title>File formats </title>
-    <shortdesc/>
+    <shortdesc>You need to know what file formats are usually sent for translation in your company
+        so that you could decide which TMS to choose.</shortdesc>
     <conbody>
-        <p>You need to know what file formats are usually sent for translation in your company so
-            that you could decide which TMS to choose. It is best to decide on the one that
-            processes not only those but also similar formats to cater for future developments.</p>
+        <p> It is best to decide on the one that processes not only those but also similar formats
+            to cater for future developments.</p>
         <p>It is also good if a TMS supports the original file formats that you use so as to reduce
             the risks of files corrupting after being converted to a replacement format. </p>
         <p>For example: if your company translates a lot of indd files, look for a TMS that
             processes indd files directly instead of idml files, because after conversion of indd
             files to idml format you may have the layout distorted or links to images broken, which
             will result in a lot of additional unnecessary work by a graphic designer.</p>
-        <p>In case of an IT company, it is extremely important that a TMS supports such native
-            formats as .xml, .xliff or .po so as <xref
+        <p>In case of an IT company, it is extremely important that a TMS supports such<b> native
+                formats</b> as .xml, .xliff or .po so as <xref
                 href="https://localization.pl/thou-shalt-not-excel/" format="html" scope="external"
                 >not to translate using an Excel sheet</xref>.</p>
         <p>XTM supports the following <b>file formats</b> for translation:<ul id="ul_ow2_w3q_2tb">
@@ -65,6 +65,13 @@
             a translator, can result in more work to bring it back to the original format. XTM
             processes .md files without a filter so you can save your time and effort for more
             productive tasks.</p>
-        <p><image href="../images/Screenshot%20XTM.svg" scale="60" id="image_rdt_3fy_2tb"/></p>
+        <p>
+            <fig id="fig_pdz_gtk_jtb">
+                <title>Sample Markdown file in XTM Workbench</title>
+                <image href="../images/Markdown.jpg" scale="50" id="image_qdz_gtk_jtb">
+                    <alt>Sample Markdown file in XTM Workbench</alt>
+                </image>
+            </fig>
+        </p>
     </conbody>
 </concept>

@@ -8,8 +8,8 @@
     <conbody>
         <p>The aim is to help linguists and Project Managers spot as many errors in the translated
             documents as possible quickly and effectively.</p>
-        <p>After translation and proofreading PMs usually perform an automatic Quality Assurance
-            check e.g. for:</p>
+        <p>After translation and proofreading Project Managers usually perform an automatic Quality
+            Assurance check e.g. for:</p>
         <ul id="ul_zxr_y1n_ftb">
             <li>formatting</li>
             <li>punctuation</li>
@@ -27,6 +27,7 @@
             displayed with segment number, category and description. You can also filter our
             segments with QA warnings to focus only on them.</p>
         <p>XTM enables you also to use regular expressions to perform an in-depth quality assurance
-            check. You can choose between a series of predefined regexes in the QA profile.</p>
+            check. You can choose between a series of predefined regular expressions in the QA
+            profile.</p>
     </conbody>
 </concept>

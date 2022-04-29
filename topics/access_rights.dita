@@ -2,19 +2,25 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="access_rights">
     <title>User access rights and roles</title>
-    <shortdesc/>
+    <shortdesc>TMS is a platform where all translation project participants meet.</shortdesc>
     <conbody>
-        <p>TMS is a platform where all translation project participants meet. That's why it is
-            important to manage these users effectively so that everyone could make the best use of
-            this tool. On the other hand, you should also be able to restrict access to certain
-            features to protect your company's content.</p>
+        <p>That's why it is important to manage these users effectively so that everyone could make
+            the best use of this tool. On the other hand, you should also be able to restrict access
+            to certain features to protect your company's content.</p>
         <p>It is up to you as the manager of your corporate translation resources to define what
             third-party users are allowed to do in a TMS. For example, it may be necessary to
             determine if users can modify, import, export, view and add TM entries or limit their
-            ability to do so. The same goes for LQA results, <i>Concordance</i> and
-                <i>Terminology</i>.</p>
+            ability to do so. The same goes for <xref href="lqa.dita">LQA</xref> results,
+                <i>Concordance</i> and <i>Terminology</i>.</p>
         <p>Here is how you can manage <b>users' access</b> to different features in XTM:</p>
-        <p><image href="../images/Access%20rights.jpg" scale="70" id="image_d4t_hzl_ftb"/></p>
+        <p>
+            <fig id="fig_mp4_nbk_jtb">
+                <title>Users access rights in XTM</title>
+                <image href="../images/Access%20rights.jpg" scale="50" id="image_np4_nbk_jtb">
+                    <alt>Users access rights in XTM</alt>
+                </image>
+            </fig>
+        </p>
         <p>It is a nice-have to be able to set access rights globally, for all user roles (as shown
             above) and for particular users.</p>
         <p>In XTM there are both pre-defined and configurable <b>user roles</b> with different
@@ -35,8 +41,8 @@
                         <li>Requester</li>
                     </ul></li>
             </ul></p>
-        <p>It is possible to subcontract projects by creating an LSP account being a special type of
-            user.</p>
+        <p>It is possible to subcontract projects by creating an <xref href="../glossary/g_lsp.dita"
+                >LSP</xref> account being a special type of user.</p>
         <p>Apart from access rights for each user you can define language pairs and rate cards to be
             able to generate automatic <xref href="quotations.dita">purchase orders</xref>. You can
             also define a rating for quality and punctuality, which helps choose the best providers

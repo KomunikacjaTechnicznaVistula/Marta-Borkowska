@@ -2,11 +2,10 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="searcher">
     <title>Searcher</title>
-    <shortdesc/>
+    <shortdesc>Each TMS is an extensive and comprehensive tool to manage your translatable content.
+        As a result, it is very important that it has a <b>good searcher</b> so that you could
+        easily find what you are looking for.</shortdesc>
     <conbody>
-        <p>Each TMS is an extensive and comprehensive tool to manage your translatable content. As a
-            result, it is very important that it has a <b>good searcher</b> so that you could easily
-            find what you are looking for.</p>
         <p>On one hand you should be able to see only what is relevant for you because <b>a
                 dashboard is also a project management tool</b>. XTM offers you different views: you
             can decide if you wish to view projects by project manager (only your projects or all
@@ -25,6 +24,13 @@
             results on your dashboard.</p>
         <p><b>Advanced search</b>, which is available in a separate tab, gives you plenty of
             filtering options.</p>
-        <p><image href="../images/Advanced%20search.jpg" scale="50" id="image_jm3_hry_2tb"/></p>
+        <p>
+            <fig id="fig_oz1_2rk_jtb">
+                <title>Advanced search in XTM</title>
+                <image href="../images/Advanced%20search.jpg" id="image_pz1_2rk_jtb" scale="60">
+                    <alt>Advanced search in XTM</alt>
+                </image>
+            </fig>
+        </p>
     </conbody>
 </concept>

@@ -24,7 +24,14 @@
                 format="html" scope="external">State of Machine Translation report</xref> by
             Intento.</p>
         <p>Here is a choice available in XTM:</p>
-        <p><image href="../images/MT%20engines.jpg" scale="65" id="image_nrw_vbs_2tb"/></p>
+        <p>
+            <fig id="fig_err_p1l_jtb">
+                <title>Machine translation engines in XTM</title>
+                <image href="../images/MT%20engines.jpg" scale="60" id="image_frr_p1l_jtb">
+                    <alt>Machine translation engines in XTM</alt>
+                </image>
+            </fig>
+        </p>
         <p>What you should also note is the ability to choose an MT hub (e.g. <xref
                 href="https://inten.to/" format="html" scope="external">Intento</xref>) or the
             option to <i>add your custom MT</i> (e.g. the one you have created yourself or the one
@@ -32,13 +39,27 @@
         <p>After you decide on an MT engine or engines, all you need to do is create an account with
             a given provider, subscribe to a selected plan, and get an authentication key for CAT
             tools to be copied to a relevant place.</p>
-        <p><image href="../images/DeepL.jpg" scale="55" id="image_kgc_scs_2tb"/></p>
+        <p>
+            <fig id="fig_q11_x1l_jtb">
+                <title>MT authentication in XTM</title>
+                <image href="../images/DeepL.jpg" scale="70" id="image_r11_x1l_jtb">
+                    <alt>MT authentication in XTM</alt>
+                </image>
+            </fig>
+        </p>
         <p>You should also decide how this MT engine will work for your translation projects. All in
             all, with it you get another support in addition to your <abbreviated-form
                 keyref="g_translation_memory"/>. When you have some TM matches, you send these to an
             MT engine to fill in the blanks, creating an opportunity to leverage existing resources
             in an innovative way.</p>
-        <p><image href="../images/General%20options.jpg" scale="65" id="image_iql_1ds_2tb"/></p>
+        <p>
+            <fig id="fig_kpn_51l_jtb">
+                <title>MT leverage options in XTM</title>
+                <image href="../images/General%20options.jpg" scale="70" id="image_lpn_51l_jtb">
+                    <alt>MT leverage options in XTM</alt>
+                </image>
+            </fig>
+        </p>
         <p>A great benefit of using MT in a TMS is that you use its <b>secure version</b> in
             comparison to the free web-based tool. Your texts are never stored or used by an MT
             provider to improve its engine.</p>

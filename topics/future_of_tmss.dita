@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="future_of_tmss">
-    <title>Future of TMSs</title>
-    <shortdesc>Translation Management systems are a novelty in the industry, but they still undergo
+    <title>Future of TMSs in business setting</title>
+    <shortdesc>Translation Management Systems are a novelty in the industry, but they still undergo
         many improvements.</shortdesc>
     <conbody>
         <p>Here are some trends that we may expect TMSs to follow in the future:</p>
@@ -13,7 +13,7 @@
                         format="html" scope="external">text authoring tools</xref></b> – so that
                 technical writers could leverage on the existing multilingual content</li>
             <li><b>incorporation of business management functions</b> – to preview the localization
-                cost and timeframe</li>
+                cost and time-frame</li>
             <li><b>integration with other enterprise systems</b> – such as general ledger
                 applications and sales force automation tools</li>
             <li><b>better TM leveraging</b> – so that project managers could make the best possible

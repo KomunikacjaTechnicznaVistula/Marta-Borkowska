@@ -10,25 +10,31 @@
             your translation process and achieve your business goals. How is it possible? Your TMS
             provider can offer a variety of ways to involve you in shaping of the development of its
             features. Here are a few opportunities:</p>
-        <p><b>XTM Wish List</b></p>
-        <p>With XTM Wish List available from <xref
-                href="https://xtm.cloud/welcome-on-xtm-on-demand/" format="html" scope="external"
-                >XTM On Demand</xref>, you can request or vote for new features. This portal is a
-            platform for customers to submit feedback and suggest what should appear in the TMS. As
-            a result, you can play an active part in creating future versions of the XTM product
-            portfolio.</p>
-        <p><b>XTM Labs</b></p>
-        <p><xref href="https://xtm.cloud/xtm-labs/" format="html" scope="external">XTM Labs</xref>
-            is a brand new concept leveraging on XTM Wish List. When new features and upgrades that
-            you suggested are included in the next release, you’ll get exclusive access to them.
-            You’ll also be able to submit feedback before it becomes available to everyone else, and
-            customize them.</p>
-        <p><b>Product Manager</b></p>
-        <p>The position of a Product Manager is a role key to meeting the unique requirements of
-            clients by driving continual improvement to TMS's product strategy. This person works
-            with development teams, as well as with users and customers to collect and analyze their
-            feedback, which is later transformed into a product roadmap.</p>
-        <p>As a result, it is good to have direct contact to such person at the TMS providers' to be
-            able to voice your requirements and hear about planned releases.</p>
+        <section id="section_cds_pzk_jtb">
+            <title>XTM Wish List</title>
+            <p>With XTM Wish List available from <xref
+                    href="https://xtm.cloud/welcome-on-xtm-on-demand/" format="html"
+                    scope="external">XTM On Demand</xref>, you can request or vote for new features.
+                This portal is a platform for customers to submit feedback and suggest what should
+                appear in the TMS. As a result, you can play an active part in creating future
+                versions of the XTM product portfolio.</p>
+        </section>
+        <section id="section_etm_qzk_jtb">
+            <title>XTM Labs</title>
+            <p><xref href="https://xtm.cloud/xtm-labs/" format="html" scope="external">XTM
+                    Labs</xref> is a brand new concept leveraging on XTM Wish List. When new
+                features and upgrades that you suggested are included in the next release, you’ll
+                get exclusive access to them. You’ll also be able to submit feedback before it
+                becomes available to everyone else, and customize them.</p>
+        </section>
+        <section id="section_ypr_rzk_jtb">
+            <title>Product Manager</title>
+            <p>The position of a Product Manager is a role key to meeting the unique requirements of
+                clients by driving continual improvement to TMS's product strategy. This person
+                works with development teams, as well as with users and customers to collect and
+                analyze their feedback, which is later transformed into a product roadmap.</p>
+            <p>As a result, it is good to have direct contact to such person at the TMS providers'
+                to be able to voice your requirements and hear about planned releases.</p>
+        </section>
     </conbody>
 </concept>

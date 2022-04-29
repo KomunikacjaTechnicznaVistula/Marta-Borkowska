@@ -2,10 +2,10 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="content_management">
     <title>Content management</title>
-    <shortdesc/>
+    <shortdesc>A TMS maintains all the translation-related content centrally to be accessed in real
+        time. </shortdesc>
     <conbody>
-        <p>A TMS maintains all the translation-related content centrally to be accessed in real
-            time. The process is much more streamlined in comparison to offline CAT tools.</p>
+        <p>This process is much more streamlined in comparison to offline CAT tools.</p>
         <p>Here are some useful features to help you manage your corporate linguistic resources:</p>
         <p>
             <ul id="ul_ejp_b4m_ftb">

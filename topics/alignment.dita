@@ -2,35 +2,47 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="alignment">
     <title>Alignment</title>
-    <shortdesc/>
+    <shortdesc>While alignment is a feature shared with a lot of CAT tools, its use can vary from
+        very difficult to extremely easy so you should choose your TMS carefully.</shortdesc>
     <conbody>
-        <p><b>What is it?</b></p>
-        <p><i>Translation alignment</i> is a feature of most CAT tools, but its use can vary from
-            very difficult (e.g. in Trados) to extremely easy. The alignment tool matches the source
-            and target language files side-by-side to determine which pairs belong together. The
-            result is a parallel text (<i>bitext</i>).</p>
+        <p>The alignment tool matches the source and target language files side-by-side to determine
+            which pairs belong together. The result is a parallel text (<i>bitext</i>).</p>
         <p>You use it if you have the translated versions of your documents, but the translation
             wasn’t performed in a CAT tool so you don't have a translation memory. Now these
             documents need to be updated or changed across the languages and you want to retain the
             existing content, style and terminology. In addition, you wish to reduce costs, because
             there are a lot of repetitions and matches.</p>
-        <p><image href="../images/Alignment.jpg" scale="50" id="image_jck_j2y_2tb"/></p>
+        <p>
+            <fig id="fig_pt5_mwk_jtb">
+                <title>Alignment in XTM</title>
+                <image href="../images/Alignment.jpg" scale="60" id="image_qt5_mwk_jtb">
+                    <alt>Alignment in XTM</alt>
+                </image>
+            </fig>
+        </p>
         <p>TMSs are of great help here because this is a built-in feature. All you have to do is go
             to <i>TM </i>> <i>Align</i>, upload two documents (in source and target languages), run
             the alignment and analyze the results. In XTM you get an Excel file with texts in two
             columns and a probability score. </p>
-        <p><image href="../images/Aligned%20docs.jpg" scale="60" id="image_chn_bhy_2tb"/></p>
+        <p>
+            <fig id="fig_wg5_pwk_jtb">
+                <title>Result of XTM alignment</title>
+                <image href="../images/Aligned%20docs.jpg" scale="60" id="image_xg5_pwk_jtb">
+                    <alt>Result of XTM alignment</alt>
+                </image>
+            </fig>
+        </p>
         <p>You need to check it thoroughly and, if everything is done, upload the file in the <i>TM
                 import</i> tab. Then, the translation memory is updated automatically.</p>
-        <p>XTM Align creates two Excel spreadsheets for each alignment: one with <i>90+</i>
+        <p>XTM <i>Align</i> creates two Excel spreadsheets for each alignment: one with <i>90+</i>
             probability of accurate alignment (quick check and upload) and the other with all
             texts.</p>
-        <p>The only disadvantage is that the Align feature in XTM is shared with all of the
+        <p>The only disadvantage is that the <i>Align</i> feature in XTM is shared with all of the
             customers on the cloud so sometimes it takes a long time for the file to be returned. It
             also takes longer if you build a dictionary for a new language pair.</p>
         <p>
-            <note id="note_psz_33h_3tb">In XTM the <i>Align</i> feature is only available for
-                enterprise account (they are not available for freelance or group accounts).</note>
+            <note id="note_psz_33h_3tb">In XTM the <i>Align</i> feature is only available for the
+                enterprise account (it is not available for freelance or group accounts).</note>
         </p>
     </conbody>
 </concept>

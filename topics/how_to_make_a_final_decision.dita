@@ -5,16 +5,18 @@
     <shortdesc>The TMS market is often confusing and still evolving. That's why the decision to buy
         a new system or change an existing one is not easy.</shortdesc>
     <taskbody>
-        <prereq id="prereq_zwt_rkq_zsb"/>
+        <prereq id="prereq_zwt_rkq_zsb">You have decided to purchase a TMS, but are still wondering
+            how to start the whole process. First, you need to outline your needs and goals to be
+            achieved.</prereq>
         <context>To choose the right TMS for your company, you should consider a lot of different
             aspects, both from business and technical perspectives. To make it easier for you, I
             strongly encourage you to follow these steps:</context>
         <steps>
             <step>
-                <cmd><xref href="analysing.dita">Analyzing</xref></cmd>
+                <cmd><xref href="analysing.dita">Analyzing your translation process</xref></cmd>
             </step>
             <step>
-                <cmd><xref href="researching.dita">Researching</xref></cmd>
+                <cmd><xref href="researching.dita">Researching the TMS market</xref></cmd>
             </step>
             <step>
                 <cmd><xref href="preparing_for_launch.dita">Preparing for go-live</xref></cmd>

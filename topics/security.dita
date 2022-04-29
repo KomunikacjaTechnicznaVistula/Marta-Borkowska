@@ -3,10 +3,11 @@
 <concept id="security">
     <title>Security</title>
     <shortdesc>Nowadays, data security is on top of mind of all businesses, with the translation
-        industry being no exception. On one hand, it concerns the confidentiality of transmitted
-        content and the protection of sensitive data. On the other, data is power so it is a must to
-        protect it against accidental loss, especially in case of a cloud solution.</shortdesc>
+        industry being no exception. </shortdesc>
     <conbody>
+        <p>On one hand, it concerns the confidentiality of transmitted content and the protection of
+            sensitive data. On the other, data is power so it is a must to protect it against
+            accidental loss, especially in case of a cloud solution.</p>
         <p>With all legal and compliance obligations, you need to choose a TMS carefully in
             cooperation with the legal and IT departments to adapt the translation process to your
             needs. You will certainly need to ask your TMS provider to sign a DPA and NDA. If you

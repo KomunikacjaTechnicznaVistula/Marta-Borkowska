@@ -20,7 +20,6 @@
                path="topics/how_to_make_a_final_decision.html"/>
    <appContext helpID="analysing" path="topics/analysing.html"/>
    <appContext helpID="researching" path="topics/researching.html"/>
-   <appContext helpID="preparing_for_launch" path="topics/preparing_for_launch.html"/>
    <appContext helpID="roi" path="topics/roi.html"/>
    <appContext helpID="key_tms_features" path="topics/key_tms_features.html"/>
    <appContext helpID="project_management" path="topics/project_management.html"/>
@@ -60,6 +59,7 @@
    <appContext helpID="support" path="topics/support.html"/>
    <appContext helpID="product_development" path="topics/product_development.html"/>
    <appContext helpID="vendor_management" path="topics/vendor_management.html"/>
+   <appContext helpID="preparing_for_launch" path="topics/preparing_for_launch.html"/>
    <appContext helpID="access_rights" path="topics/access_rights.html"/>
    <appContext helpID="how_to_integrate_your_vendors_in_xtm"
                path="topics/how_to_integrate_your_vendors_in_xtm.html"/>

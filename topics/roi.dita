@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="roi">
-    <title>Costs</title>
-    <shortdesc/>
+    <title>Budgeting</title>
+    <shortdesc>Once considered an additional expense of doing business, translation is now a driver
+        of growth and revenue when done right.</shortdesc>
     <conbody>
-        <p>Once considered an additional expense of doing business, translation is now a driver of
-            growth and revenue when done right.</p>
         <p>Most of the available TMSs are cloud-based subscription systems. They are<b> never
                 free</b> for corporate use so you need to pay for them based on the number of
             (concurrent) users or data usage, required features, monthly or annually. It can be
@@ -20,10 +19,10 @@
                 scope="external">XTM pricing</xref>, but it is also a good practice of TMS providers
             to offer discounts to regular customers or for bigger purchase volume.</p>
         <p>Usually, each TMS offer has different plans with available features for various target
-            groups (e.g. small translation teams, bigger LSPs, enterprises). If you decide to buy
-            XTM Cloud, you pay for the number of concurrent users. Their plan for enterprises
-            includes license bands, which are based on the rate, multiplied by the number of
-            users.</p>
+            groups (e.g. small translation teams, bigger <xref href="../glossary/g_lsp.dita"
+                >LSPs</xref>, enterprises). If you decide to buy XTM Cloud, you <b>pay for the
+                number of concurrent users.</b> Their plan for enterprises includes license bands,
+            which are based on the rate, multiplied by the number of users.</p>
         <p>For example, for 10 concurrent users you can spend approx. <b>€ 6,000</b> per year plus
                 <b>€ 3,000</b> if you need special connectors (e.g. for InDesign files and MT
             engine). </p>

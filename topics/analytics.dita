@@ -8,56 +8,84 @@
         kinds of data at any time.</shortdesc>
     <conbody>
         <p>That's where a TMS proves handy. Since it is a content management system for translation,
-            it provides a variety of data in form of metrics and statistics.</p>
-        <p><b>Metrics</b></p>
-        <p>Metrics in a TMS should present all data in a user-friendly way so that all project
-            participants could make relevant decisions e.g. on due dates, costs or linguist
-            allocations. Here is an example of a metrics report generated from XTM:</p>
-        <p><image href="../images/Metrics.jpg" scale="60" id="image_okj_q1f_ftb"/></p>
-        <p>It is important for a TMS to: <ul id="ul_bqr_k2f_ftb">
-                <li>present different data (e.g. number of words and characters)</li>
-                <li>outline all possible TM matches (including internal and machine translation as
-                    well as non-translatables)</li>
-                <li>enable downloading reports in different formats (e.g. xls, csv) or showing them
-                    in the interface on a dashboard</li>
-                <li>show progress of how much work has been done and is yet to be done</li>
-            </ul></p>
-        <p>These metrics can be used by a translation vendor to calculate the price for a project or
-            to generate an automatic <xref href="quotations.dita">purchase order</xref> to be sent
-            to a vendor for approval. They are also useful to gain an understanding on the workload:
-            how much time is needed for translation to be accomplished and how many linguists should
-            be involved in the job.</p>
-        <p><b>Statistics</b></p>
-        <p>The statistics provides information about the quantity of translation actually done by
-            the linguists in each project. In XTM the statistics are divided into the statistics
-            source and statistics target. The data is presented for each linguist, workflow step and
-            file and when there are multiple files in a project as a total for each linguist per
-            workflow step. </p>
-        <p>A PM can decide when project statistics should be processed (when workflow changes, or
-            once the whole project is finished. It is also possible to download this data as a .csv
-            or .xls file, or present it on a dashboard in XTM.</p>
-        <p><image href="../images/Statistics.jpg" scale="50" id="image_v3v_xgf_ftb"/></p>
-        <p>What is worth noting is the <i>Translation time</i> feature shown in <i>Statistics</i>.
-            It reflects the actual amount of time spent by a linguist on the whole job and on
-            particular matches. A PM can use it as an indication for TM quality, timeline for
-            similar jobs in future and <i>edit distance</i> being a metric for machine translation
-            evaluation used for calculating the price for post-editing.</p>
-        <p><b>Reports</b></p>
-        <p>As mentioned above, all data can be presented in a TMS on a dashboard, but it is also
-            very handy to be able to download them in a form of an Excel file (as .xls or .csv
-            format) that you can use for your further reporting purposes.</p>
-        <p>Here are types of reports that you can generate from XTM:<ul id="ul_uq4_f3f_ftb">
-                <li>Metrics history</li>
-                <li>Combined metrics</li>
-                <li>Project delivery dates</li>
-                <li>Statistics summary</li>
-                <li>LQA report</li>
-                <li>Costs and metrics</li>
-            </ul></p>
-        <p>For some of these reports you can also choose the data they are to show (e.g. an example
-            for the <i>Costs and metrics</i> report: <image href="../images/Report%20type.jpg"
-                scale="70" id="image_z3p_w3f_ftb"/></p>
-        <p>You can also filter reports by additional attributes such as linguists, steps, dates,
-            languages to be provided with more specific data for your needs.</p>
+            it provides a variety of data in form of metrics, statistics and reports.</p>
+        <section id="section_rwb_vrk_jtb">
+            <title>Metrics</title>
+            <p>Metrics in a TMS should present all data in a user-friendly way so that all project
+                participants could make relevant decisions e.g. on due dates, costs or linguist
+                allocations. Here is an example of a metrics report generated from XTM:</p>
+            <p>
+                <fig id="fig_j5m_dsk_jtb">
+                    <title>Metrics in XTM</title>
+                    <image href="../images/Metrics.jpg" scale="60" id="image_k5m_dsk_jtb">
+                        <alt>Metrics in XTM</alt>
+                    </image>
+                </fig>
+            </p>
+            <p>It is important for a TMS to: <ul id="ul_tgq_wrk_jtb">
+                    <li>present different data (e.g. number of words and characters)</li>
+                    <li>outline all possible TM matches (including internal and machine translation
+                        as well as non-translatables)</li>
+                    <li>enable downloading reports in different formats (e.g. xls, csv) or showing
+                        them in the interface on a dashboard</li>
+                    <li>show progress of how much work has been done and is yet to be done</li>
+                </ul></p>
+            <p>These metrics can be used by a translation vendor to calculate the price for a
+                project or to generate an automatic <xref href="quotations.dita">purchase
+                    order</xref> to be sent to a vendor for approval. They are also useful to gain
+                an understanding on the workload: how much time is needed for translation to be
+                accomplished and how many linguists should be involved in the job.</p>
+        </section>
+        <section id="section_q5t_wrk_jtb">
+            <title>Statistics</title>
+            <p>The statistics provides information about the quantity of translation actually done
+                by the linguists in each project. In XTM the statistics are divided into the
+                statistics source and statistics target. The data is presented for each linguist,
+                workflow step and file and when there are multiple files in a project as a total for
+                each linguist per workflow step. </p>
+            <p>A PM can decide when project statistics should be processed (when workflow changes,
+                or once the whole project is finished. It is also possible to download this data as
+                a .csv or .xls file, or present it on a dashboard in XTM.</p>
+            <p>
+                <fig id="fig_lpl_fsk_jtb">
+                    <title>Statistics in XTM</title>
+                    <image href="../images/Statistics.jpg" scale="60" id="image_mpl_fsk_jtb">
+                        <alt>Statistics in XTM</alt>
+                    </image>
+                </fig>
+            </p>
+            <p>What is worth noting is the <i>Translation time</i> feature shown in
+                    <i>Statistics</i>. It reflects the actual amount of time spent by a linguist on
+                the whole job and on particular matches. A PM can use it as an indication for TM
+                quality, timeline for similar jobs in future and <i>edit distance</i> being a metric
+                for machine translation evaluation used for calculating the price for
+                post-editing.</p>
+        </section>
+        <section id="section_etd_bsk_jtb">
+            <title>Reports</title>
+            <p>As mentioned above, all data can be presented in a TMS on a dashboard, but it is also
+                very handy to be able to download them in a form of an Excel file (as .xls or .csv
+                format) that you can use for your further reporting purposes.</p>
+            <p>Here are types of reports that you can generate from XTM:<ul id="ul_snj_bsk_jtb">
+                    <li>Metrics history</li>
+                    <li>Combined metrics</li>
+                    <li>Project delivery dates</li>
+                    <li>Statistics summary</li>
+                    <li>LQA report</li>
+                    <li>Costs and metrics</li>
+                </ul></p>
+            <p>For some of these reports you can also choose the data they are to show (e.g. an
+                example for the <i>Costs and metrics</i> report: </p>
+            <p>
+                <fig id="fig_k4c_3sk_jtb">
+                    <title>Report types in XTM</title>
+                    <image href="../images/Report%20type.jpg" scale="60" id="image_l4c_3sk_jtb">
+                        <alt>Report types in XTM</alt>
+                    </image>
+                </fig>
+            </p>
+            <p>You can also filter reports by additional attributes such as linguists, steps, dates,
+                languages to be provided with more specific data for your needs.</p>
+        </section>
     </conbody>
 </concept>

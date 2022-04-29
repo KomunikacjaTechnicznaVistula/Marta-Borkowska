@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="preparing_for_launch">
-    <title>Preparing for go-live</title>
-    <shortdesc/>
+    <title>Preparing for launch</title>
+    <shortdesc>Once you have received an approval to buy a TMS from your management, you should
+        prepare your company for launch.</shortdesc>
     <taskbody>
-        <prereq id="prereq_y1b_gwp_2tb">You may start this stage once you have received an approval
-            to buy a TMS from your management.</prereq>
-        <context>
-            <p/>
-        </context>
+        <prereq id="prereq_y1b_gwp_2tb">You may start this stage </prereq>
+        <context>Follow these steps to ensure that your new tool finds its place in your
+            company.</context>
         <steps>
             <step>
                 <cmd>Start the sales process with TMS provider (either through your purchasing
                     department or on your own):</cmd>
                 <substeps id="substeps_i24_3wp_2tb">
                     <substep>
-                        <cmd>Ask for all necessary agreements (subscription agreement,
+                        <cmd>Ask the TMS provider for all necessary agreements (<xref
+                                href="https://xtm.cloud/master-subscription-agreement/"
+                                format="html" scope="external">subscription agreement</xref>,
                                 <abbreviated-form keyref="g_nda"/>, <abbreviated-form keyref="g_sla"
-                            />, <abbreviated-form keyref="g_dpa"/> if applicable).</cmd>
+                            />, <abbreviated-form keyref="g_dpa"/> if applicable). You can also use
+                            your templates if available.</cmd>
                     </substep>
                     <substep>
                         <cmd>Consult these documents with your legal department. Allocate some time
@@ -68,9 +70,9 @@
             <step>
                 <cmd>Collect all your <xref href="../glossary/g_translation_memory.dita">TMs</xref>
                     and <xref href="../glossary/g_termbase.dita">TBs</xref> (if any) from your
-                    previous vendors and migrate them to the TMS. Create workflows, user accounts
-                    with relevant <xref href="access_rights.dita">access rights and
-                    roles</xref>.</cmd>
+                    previous vendors and migrate them to the TMS. Create <xref href="workflows.dita"
+                        >workflows</xref>, user accounts with relevant <xref
+                        href="access_rights.dita">access rights and roles</xref>.</cmd>
             </step>
             <step>
                 <cmd>Start working with your new TMS, initially only for some projects (the easiest
@@ -83,7 +85,8 @@
                     TM segments, translated words), language pairs, discounts on TM use, overall
                     external costs. It is a good idea to have an Excel report at hand with all
                     relevant data generated from TMS from time to time. Every management would like
-                    to be updated on the metrics (KPIs) relating to the process.</cmd>
+                    to be updated on the metrics (Key Performance Indicators - KPIs) relating to the
+                    process.</cmd>
             </step>
         </steps>
         <postreq id="postreq_czw_kth_3tb">Once in a while, review your decision:<ul

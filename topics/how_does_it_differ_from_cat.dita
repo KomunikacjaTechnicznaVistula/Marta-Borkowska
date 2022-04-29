@@ -2,13 +2,12 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="how_does_it_differ_from_cat">
     <title>How does it differ from CAT?</title>
-    <shortdesc/>
+    <shortdesc>A <b>CAT (computer-assisted translation or computer-aided translation) tool</b> is
+        software used to support a translator facilitating the translation process.</shortdesc>
     <conbody>
-        <p>A <b>CAT (computer-assisted translation or computer-aided translation) tool</b> is
-            software used to support a translator facilitating the translation process. Its aim is
-            to enhance speed, quality and consistency through various features, such as translation
-            memory, term bases, metrics (file analysis), quality assurance and plug-ins (e.g. for
-            machine translation). </p>
+        <p> Its aim is to enhance speed, quality and consistency through various features, such as
+            translation memory, term bases, metrics (file analysis), quality assurance and plug-ins
+            (e.g. for machine translation). </p>
         <p>As a result, a CAT tool is mostly used by translators and revisers, while TMSs are used
             also by project managers. Each TMS has a CAT tool as one of its components.</p>
         <p>The <b>most popular</b> CAT tools in the market are:</p>

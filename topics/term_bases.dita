@@ -2,17 +2,20 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="term_bases">
     <title>Termbases</title>
-    <shortdesc/>
+    <shortdesc>Using a termbase is an excellent solution for terminology management. TMSs should
+        have relevant features to make your work easier and quicker.</shortdesc>
     <conbody>
-        <p>While TMs are automatically created in a TMS, TBs need to be prepared manually. It is
-            possible to use <xref href="terminology_extraction.dita">terminology extraction</xref>
-            to help this process, but it still requires a human factor.</p>
-        <p>XTM incorporates a comprehensive terminology module, i.e. a database of multilingual
-            terms.</p>
+        <p>While <xref href="../glossary/g_translation_memory.dita">TMs</xref> are automatically
+            created in a TMS, <xref href="../glossary/g_termbase.dita">TBs</xref> need to be
+            prepared manually. It is possible to use <xref href="terminology_extraction.dita"
+                >terminology extraction</xref> to help this process, but it still requires a human
+            factor.</p>
+        <p>XTM incorporates a comprehensive <i>Terminology</i> module, i.e. a database of
+            multilingual terms.</p>
         <p>In XTM <i>Workbench</i>, the system identifies and highlights terms in the source text
             that are in the termbase. The approved term equivalent in the target language is
-            displayed in the docked panel. On hover, more term details are displayed. This feature
-            facilitates a consistent use of the agreed terminology during translation.</p>
+            displayed in the docked panel. If you hover on it, you can see more term details. This
+            feature facilitates a consistent use of the agreed terminology during translation.</p>
         <p> In XTM you can:<ul id="ul_ycb_1nm_ftb">
                 <li>manage terminology (add, suggest, edit, delete, add images)</li>
                 <li>export any termbase from XTM to several standard file formats</li>
@@ -21,6 +24,13 @@
                     tab.</li>
             </ul></p>
         <p>Here is what a termbase looks like in XTM:</p>
-        <p><image href="../images/Termbase.jpg" scale="70" id="image_lb4_5mm_ftb"/></p>
+        <p>
+            <fig id="fig_r3f_4yk_jtb">
+                <title>Termbase in XTM</title>
+                <image href="../images/Termbase.jpg" scale="50" id="image_s3f_4yk_jtb">
+                    <alt>Termbase in XTM</alt>
+                </image>
+            </fig>
+        </p>
     </conbody>
 </concept>

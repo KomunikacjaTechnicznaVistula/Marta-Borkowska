@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concordance">
     <title>Concordance</title>
-    <shortdesc/>
+    <shortdesc>Context is the king in translation. Here is how Concordance helps linguists make the
+        most of translation resources in XTM.</shortdesc>
     <conbody>
         <p><i>Concordance</i> is a feature intrinsic to CAT tools and TMSs. It involves searching
             all over a particular TM for translation of particular expression or phrase where there
@@ -11,12 +12,18 @@
         <p>In XTM you can run concordance search for all translation memories both from a dedicated
             panel (<i>Concordance</i> in top menu) and in <i>Workbench</i> when translating a
             document.</p>
-        <p><image href="../images/Concordance.jpg" scale="60" id="image_vk4_1ky_2tb"/></p>
+        <p>
+            <fig id="fig_isy_2zk_jtb">
+                <title>Concordance in XTM</title>
+                <image href="../images/Concordance.jpg" scale="60" id="image_jsy_2zk_jtb">
+                    <alt>Concordance in XTM</alt>
+                </image>
+            </fig>
+        </p>
         <p>It is also good to check if the TMS you wish to buy enables search as broad, phrase or
             exact match, in both source and target segments, reverse matches (e.g. DE>EN and EN>DE
             translation memories) and for <xref href="language_variants.dita">language
                 variants</xref>. As a result, you will be able to access all the language resources
             that you have collected for your company quickly and easily.</p>
-        <p/>
     </conbody>
 </concept>

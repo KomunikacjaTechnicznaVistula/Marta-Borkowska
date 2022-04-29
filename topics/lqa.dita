@@ -40,8 +40,8 @@
                 </p>
             </li>
         </ul>
-        <p>After the process is completed in XTM Workbench, you can view LQA results next to each
-            user or download an LQA report.</p>
+        <p>After the process is completed in <i>XTM Workbench</i>, you can view LQA results next to
+            each user or download an LQA report.</p>
         <p>LQA can be a separate service or a part of the translation service that you buy from your
             LSP. In any case, XTM enables you to perform it using a separate <i>LQA workflow
                 step</i>.</p>

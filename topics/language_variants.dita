@@ -14,7 +14,14 @@
             as en-US or en-AU, and Spanish, such as sp-MX or sp-CL TM to find a match.</p>
         <p>As a result, you can pay considerably less if matches are found from another language
             variant TM.</p>
-        <p><image href="../images/Language%20variants.jpg" scale="60" id="image_xyr_xky_2tb"/></p>
+        <p>
+            <fig id="fig_dvy_nzk_jtb">
+                <title>Language variants in XTM</title>
+                <image href="../images/Language%20variants.jpg" scale="60" id="image_evy_nzk_jtb">
+                    <alt>Language variants in XTM</alt>
+                </image>
+            </fig>
+        </p>
         <p>You can also set a TM language variant penalty profile and highlight segments populated
             with a language variant match.</p>
     </conbody>

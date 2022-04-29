@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>glossary/glossary.ditamap</String>
+                                    <String>how_to_choose_tms.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -30,7 +30,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>how_to_choose_tms.ditamap</String>
+                                    <String>topics/future_of_tmss.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -70,7 +70,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>topics/future_of_tmss.dita</String>
+                                    <String>glossary/glossary.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

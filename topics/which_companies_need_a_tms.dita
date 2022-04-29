@@ -7,68 +7,71 @@
         <p>There may come a day in the life of an organization when the management considers the
             current translation and localization efforts are not enough for business operations and
             something must change.</p>
-        <p><b>What are the reasons for a company to start thinking of buying a TMS?</b></p>
-        <p>
-            <ul id="ul_ijn_pkp_zsb">
-                <li>The management has decided to enter new markets or go global.</li>
-                <li>So far the company has employed a few in-house translators who have worked with
-                    desktop CAT tools limited as to the sharing of translation resources (TMs, TBs)
-                    and it has become more problematic because of their growing volume.</li>
-                <li>The company has outsourced the whole translation process to a third party
-                    (agency, freelancers) and has no control over its translated content.</li>
-                <li>There are more and more complaints about the quality of translations due to
-                    inconsistent terminology, no reuse of content, more work for internal
-                    reviewers.</li>
-                <li>No one controls the costs of translations or knows how to reduce them.</li>
-                <li>There are concerns about security of translated data and the need is to have it
-                    at a higher level.</li>
-                <li>Translation resources (<xref href="../glossary/g_translation_memory.dita"
-                        >TMs</xref>, <xref href="../glossary/g_termbase.dita">TBs</xref>) are not
-                    stored in one place: each department has their own and there is no one who would
-                    collect and reuse them.</li>
-                <li>The whole translation process takes a long time: internal stakeholders would
-                    like to make it quicker, also with the use of translation memories and machine
-                    translation.</li>
-            </ul>
-        </p>
-        <p>A TMS can be a solution to any of the above challenges.</p>
-        <p>In addition, a TMS is the right tool for a company that:</p>
-        <p>
-            <ul id="ul_tlc_2mp_zsb">
-                <li>runs large localization programs</li>
-                <li>cooperates with multiple vendors</li>
-                <li>has large volumes of content to translate</li>
-                <li>works with files in different formats (a TMS can process a variety of them so
-                    you can save on licenses for employees)</li>
-                <li>operates in a strictly regulated environment (e.g. life sciences)</li>
-                <li>wants to have the whole translation process centralized instead of dispersed in
-                    different departments, thus saving on costs through a group buying process of
-                    translation services.</li>
-            </ul>
-        </p>
-        <p>However, a TMS is <b>not</b> the right tool for every organization. This can be when your
-            company:</p>
-        <p>
-            <ul id="ul_xqc_tmp_zsb">
-                <li>is small or operates only in a few markets</li>
-                <li>has a very limited localization budget</li>
-                <li>has no in-house translation or localization experts</li>
-                <li>already has a content management system (CMS) or a product management system
-                    (PIM) in place with translation features</li>
-                <li>invests costs in a TMS (subscription or installation/maintenance fees) that
-                    exceed the savings generated from its use (TM discounts, <xref
-                        href="../glossary/g_machine_translation.dita">MT</xref> use, less work for
-                    internal reviewers and due to content reuse)</li>
-            </ul>
-        </p>
-        <p>In such cases CAT tools (with a server or group-sharing feature) or outsourcing the whole
-            process to an <xref href="../glossary/g_lsp.dita">LSP</xref> would be a better
-            option.</p>
-        <p>
-            <note id="note_eqn_xlr_2tb" type="remember">With the purchase of a TMS, a company needs
-                to employ relevant specialists such as: Translation Coordinator, Translation
-                Manager, Localization Specialist or Localization Engineer to manage the system and
-                process.</note>
-        </p>
+        <section id="section_dqn_nqj_jtb">
+            <title>What are the reasons for a company to start thinking of buying a TMS?</title>
+            <p>
+                <ul id="ul_frt_4qj_jtb">
+                    <li>The management has decided to enter new markets or go global.</li>
+                    <li>So far the company has employed a few in-house translators who have worked
+                        with desktop <xref href="how_does_it_differ_from_cat.dita">CAT tools</xref>
+                        limited as to the sharing of translation resources (<xref
+                            href="../glossary/g_translation_memory.dita">TMs</xref>, <xref
+                            href="../glossary/g_termbase.dita">TBs</xref>) and it has become more
+                        problematic because of their growing volume.</li>
+                    <li>The company has outsourced the whole translation process to a third party
+                        (agency, freelancers) and has no control over its translated content.</li>
+                    <li>There are more and more complaints about the quality of translations due to
+                        inconsistent terminology, no reuse of content, more work for internal
+                        reviewers.</li>
+                    <li>No one controls the costs of translations or knows how to reduce them.</li>
+                    <li>There are concerns about security of translated data and the need is to have
+                        it at a higher level.</li>
+                    <li>Translation resources are not stored in one place: each department has their
+                        own and there is no one who would collect and reuse them.</li>
+                    <li>The whole translation process takes a long time: internal stakeholders would
+                        like to make it quicker, also with the use of translation memories and
+                        machine translation.</li>
+                </ul>
+            </p>
+            <p>A TMS can be a solution to any of the above challenges.</p>
+            <p>In addition, a TMS is the right tool for a company that:</p>
+            <p>
+                <ul id="ul_d3n_qqj_jtb">
+                    <li>runs large localization programs</li>
+                    <li>cooperates with multiple vendors</li>
+                    <li>has large volumes of content to translate</li>
+                    <li>works with files in different formats (a TMS can process a variety of them
+                        so you can save on licenses for employees)</li>
+                    <li>operates in a strictly regulated environment (e.g. life sciences)</li>
+                    <li>wants to have the whole translation process centralized instead of dispersed
+                        in different departments, thus saving on costs through a group buying
+                        process of translation services.</li>
+                </ul>
+            </p>
+            <p>However, a TMS is <b>not</b> the right tool for every organization. This can be when
+                your company:</p>
+            <p>
+                <ul id="ul_jhn_qqj_jtb">
+                    <li>is small or operates only in a few markets</li>
+                    <li>has a very limited localization budget</li>
+                    <li>has no in-house translation or localization experts</li>
+                    <li>already has a content management system (CMS) or a product management system
+                        (PIM) in place with translation features</li>
+                    <li>invests costs in a TMS (subscription or installation/maintenance fees) that
+                        exceed the savings generated from its use (TM discounts, <xref
+                            href="../glossary/g_machine_translation.dita">MT</xref> use, less work
+                        for internal reviewers and due to content reuse)</li>
+                </ul>
+            </p>
+            <p>In such cases CAT tools (with a server or group-sharing feature) or outsourcing the
+                whole process to an <xref href="../glossary/g_lsp.dita">LSP</xref> would be a better
+                option.</p>
+            <p>
+                <note type="remember" id="note_tgn_qqj_jtb">With the purchase of a TMS, a company
+                    needs to employ relevant specialists such as: Translation Coordinator,
+                    Translation Manager, Localization Specialist or Localization Engineer to manage
+                    the system and process.</note>
+            </p>
+        </section>
     </conbody>
 </concept>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="public_vs_private_cloud">
-    <title>Public vs. private cloud</title>
-    <shortdesc/>
+    <title>Public, private or hybrid cloud</title>
+    <shortdesc>You can decide to have your TMS installed in a variety of ways.</shortdesc>
     <conbody>
         <p>Online service providers offer solutions to their clients on:</p>
         <ul id="ul_hsy_dfb_zsb">
@@ -15,7 +15,7 @@
         <p>There’s no one type of cloud that’s right for every organization. As a result, a choice
             of a deployment method depends on your business needs.</p>
         <p>A <b>private cloud</b> is cloud computing with resources used <b>exclusively</b> by one
-            business. It can be physically located at your organization’s on-site datacenter, or it
+            business. It can be physically located at your organization’s on-site data center, or it
             can be hosted by a third-party service provider. But in this case, the services and
             infrastructure are always maintained on a <b>private network</b> and the hardware and
             software are dedicated solely to one organization.</p>
@@ -30,7 +30,8 @@
             It is often used by organizations that require assistance in the form of public cloud
             services e.g. to meet increased traffic demand or private clouds to handle sensitive
             data. It is the most complex solution requiring some IT knowledge.</p>
-        <p>In the table below you will find a comparison of the most important cloud aspects:</p>
+        <p>In the table below you will find a <b>comparison of the most important cloud
+            aspects</b>:</p>
         <table id="table_odl_bhb_zsb" frame="all">
             <tgroup cols="4">
                 <colspec colname="c1" colnum="1"/>
@@ -74,7 +75,7 @@
                         <entry><b>Costs</b></entry>
                         <entry><i>low</i><p>you pay only for the service used and do not have to buy
                                 any infrastructure</p></entry>
-                        <entry><i>high</i><p>you incur initial costs of instalation, then pay for
+                        <entry><i>high</i><p>you incur initial costs of installation, then pay for
                                 each upgrade</p></entry>
                         <entry><i>medium</i><p>flexible plans to meet specific demands</p></entry>
                     </row>

@@ -38,7 +38,14 @@
                     log</xref>.</li>
         </ul>
         <p>You can also access help and information for users directly from XTM:</p>
-        <p><image href="../images/Help.jpg" scale="50" id="image_ar5_rbq_2tb"/></p>
+        <p>
+            <fig id="fig_g5l_f1l_jtb">
+                <title>Help section in XTM</title>
+                <image href="../images/Help.jpg" scale="50" id="image_h5l_f1l_jtb">
+                    <alt>Help section in XTM</alt>
+                </image>
+            </fig>
+        </p>
         <p>
             <note id="note_phv_k3q_2tb">It is very important for the documentation to be easily
                 accessible, user-friendly and up-to-date!</note>

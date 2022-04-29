@@ -6,49 +6,65 @@
         tool.</shortdesc>
     <conbody>
         <p>This manual will help you go through the process of <b>choosing the right Translation
-                Management System (TMS) for your company</b>. </p>
-        <p>It provides hands-on information for <b>translation and localization professionals</b>
-            working both in <b>enterprises</b> and for <b>language service providers</b>. It wil be
-            useful for those who already have some experience with CAT tools, but are now looking
-            for more comprehensive solutions. In addition, target audience includes persons wishing
-            to bring the work onto a new level by starting to work with a TMS or change to another
-            one.</p>
-        <p>It is not another marketing presentation. Quite the contrary: it is a very practical
-            documentation on TMS features important from business perspective.</p>
-        <p>By creating this documentation, I have collected all the knowledge and experience I have
-            gained so far in the translation and localization industry. There is a lot of
-            information on this topic on the web, but it is mostly dispersed so you have to spend a
-            lot of time searching and browsing through data you need. Therefore, this compact manual
-            is perfect for you if you need to decide what to look for in a TMS.</p>
-        <p>There is no one-fits-all solution. Every company has different needs. However, there are
-            some common features that you should take into account.</p>
-        <p><b>What can you find in this manual?</b></p>
-        <ul id="ul_mmb_zp1_zsb">
-            <li>Brief <xref href="what_is_tms.dita">description</xref> and <xref
-                    href="market_overview.dita">overview</xref> of TMS available in the market
-                (2022)</li>
-            <li>Reasons <xref href="which_companies_need_a_tms.dita">for</xref> and <xref
-                    href="what_are_common_concerns_about_using_a_tms.dita">against</xref> having a
-                TMS</li>
-            <li><xref href="how_to_make_a_final_decision.dita">Steps</xref> that you should take
-                when deciding to buy a TMS</li>
-            <li>Analysis of <xref href="key_tms_features.dita">key features</xref> of a TMS and how
-                they can help your company tackle translation and localization challenges</li>
-            <li>Practical information shown on an <xref href="https://xtm.cloud/" format="html"
-                    scope="external"><b>XTM</b></xref> example</li>
-            <li>What to <xref href="best_practices_of_cooperation.dita">do after</xref> you have
-                launched a TMS in your company</li>
-        </ul>
-        <p><b>Why have I chosen XTM?</b></p>
-        <p>Because I know this system and I work with it every day. Please note that I am not
-            related to XTM International, the software provider, in any way and this is not a
-            promotional text. What’s more, XTM’s documentation is very complex, it is available in
-            so many different places and is not much user-friendly. That’s why I wanted to make its
-            key parts more accessible and succinct for future users.</p>
-        <p>So if you have a goal: <b>to find the right translation solution for your company</b>,
-            but you don’t know what and how, I hope it will be clearer once you have read
-            everything.</p>
-        <p>You can download this manual also as a <xref href="../docs/how_to_choose_tms.pdf"
-                format="pdf">pdf file</xref>.</p>
+                Management System (TMS) for your company</b>. A TMS is a software platform designed
+            for managing translation and localization projects in a single place.</p>
+        <section id="section_mxv_5nj_jtb">
+            <title>Who is this manual for?</title>
+            <p>It provides hands-on information for <b>translation and localization
+                    professionals</b> working both in <b>enterprises</b> and for <b>language service
+                    providers</b>. It will be useful for those who already have some experience with
+                CAT tools, but are now looking for more comprehensive solutions. The target audience
+                also includes persons wishing to bring the work onto a new level by starting to work
+                with a TMS or change to another one.</p>
+            <p>It is not another marketing presentation. Quite the contrary: it is a very practical
+                documentation on <xref href="key_tms_features.dita">TMS features</xref> important
+                from business perspective. There is no one-fits-all solution. Every company has
+                different needs. However, there are some common features that you should take into
+                account when choosing your ideal tool. And you will find them here.</p>
+            <p>By creating this documentation, I have collected all the knowledge and experience I
+                have gained so far in the translation and localization industry. There is a lot of
+                information on this topic on the web, but it is mostly dispersed so you have to
+                spend a lot of time searching and browsing through data you need. Therefore, this
+                compact manual is perfect for you if you need to decide what to look for in a
+                TMS.</p>
+        </section>
+        <section id="section_ibj_rnj_jtb">
+            <title>What can you find in this manual?</title>
+            <p>
+                <ul id="ul_n2p_snj_jtb">
+                    <li>Brief <xref href="what_is_tms.dita">description</xref> and <xref
+                            href="market_overview.dita">overview</xref> of TMS available in the
+                        market (2022)</li>
+                    <li>Reasons <xref href="which_companies_need_a_tms.dita">for</xref> and <xref
+                            href="what_are_common_concerns_about_using_a_tms.dita">against</xref>
+                        having a TMS</li>
+                    <li><xref href="how_to_make_a_final_decision.dita">Steps</xref> that you should
+                        take when deciding to buy a TMS</li>
+                    <li>Analysis of <xref href="key_tms_features.dita">key features</xref> of a TMS
+                        and how they can help your company tackle translation and localization
+                        challenges</li>
+                    <li>Practical information shown on an <xref href="https://xtm.cloud/"
+                            format="html" scope="external"><b>XTM</b></xref> example</li>
+                    <li>What to <xref href="best_practices_of_cooperation.dita">do after</xref> you
+                        have launched a TMS in your company</li>
+                </ul>
+            </p>
+        </section>
+        <section id="section_ow5_zj2_jtb">
+            <title>Why have I chosen XTM?</title>
+            <p>Because I know this system and I work with it every day. Please note that I am not
+                related to XTM International, the software provider, in any way and this is not a
+                promotional text. What’s more, XTM’s documentation is very complex, it is available
+                in so many different places and is not much user-friendly. That’s why I wanted to
+                make its key parts more accessible and succinct for future users.</p>
+        </section>
+        <section id="section_e5c_fpj_jtb">
+            <title>Your goal? My answer.</title>
+            <p>So if you have a goal: <b>to find the right translation solution for your
+                company</b>, but you don’t know what and how, I hope it will be clearer once you
+                have read everything.</p>
+            <p>For your convenience, you can download this manual also as a <xref
+                    href="../docs/how_to_choose_tms.pdf" format="pdf">pdf file</xref>.</p>
+        </section>
     </conbody>
 </concept>

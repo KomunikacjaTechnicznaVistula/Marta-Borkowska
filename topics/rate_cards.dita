@@ -2,25 +2,34 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="rate_cards">
     <title>Rate cards</title>
-    <shortdesc/>
+    <shortdesc>Rate cards make it easy to estimate costs, calculate a project's budget or choose the
+        most cost-effective language vendor.</shortdesc>
     <conbody>
-        <p>Rate cards are available for all XTM users from the <i>Users</i> tab and are easily
+        <p>They are available for all XTM users from the <i>Users</i> tab and are easily
             customizable.</p>
-        <p><image href="../images/Rate%20card%20access.jpg" scale="50" id="image_apt_xyx_2tb"/></p>
         <p>All you need is to enter a language combination and get the following information from
             your vendors:<ul id="ul_hqg_vyx_2tb">
                 <li>language pairs</li>
                 <li>base rate, e.g. € 0.10</li>
-                <li>percentage rates for different categories of matches, repetitions, MT matches,
-                    etc.</li>
+                <li>percentage rates for different categories of <xref
+                        href="../glossary/g_fuzzy_matches.dita">matches</xref> (repetitions, <xref
+                        href="../glossary/g_machine_translation.dita">MT</xref> matches, etc.)</li>
             </ul></p>
         <p>Here is a sample rate card for a translator:</p>
-        <p><image href="../images/Rate%20card.jpg" scale="60" id="image_gw1_szx_2tb"/></p>
+        <p>
+            <fig id="fig_hvt_stk_jtb">
+                <title>Sample rate card in XTM</title>
+                <image href="../images/Rate%20card.jpg" id="image_ivt_stk_jtb" scale="50">
+                    <alt>Sample rate card in XTM</alt>
+                </image>
+            </fig>
+        </p>
         <p>Based on this data, XTM generates a <xref href="quotations.dita">purchase order</xref>
-            automatically for a translation project as a pdf file, which you can send to your vendor
-            for approval. This automates the process and considerably shortens the translation
-            turnaround time, because the quotation process can be very time consuming. In addition,
-            you know exactly how much you will pay. Of course, it works well if you gather all this
-            data well in advance, e.g. from the Cooperation Agreement signed with your vendor.</p>
+            automatically for a translation project as a .pdf file, which you can send to your
+            vendor for approval. This automates the process and considerably shortens the
+            translation turnaround time, because the quotation process can be very time consuming.
+            In addition, you know exactly how much you will pay. Of course, it works well if you
+            gather all this data well in advance, e.g. from the Cooperation Agreement signed with
+            your vendor.</p>
     </conbody>
 </concept>

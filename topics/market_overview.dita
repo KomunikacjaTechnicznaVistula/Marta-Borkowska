@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="market_overview1">
     <title>Market overview</title>
-    <shortdesc/>
+    <shortdesc>The market for TMSs is very varied and changes rapidly.</shortdesc>
     <conbody>
         <p>There is a great number of Translation Management Systems available to meet different
             business needs. Below you can find a graphical representation from Nimdzi Language
@@ -141,7 +141,7 @@
                         <entry><xref href="https://wordbee.com/" format="html" scope="external"
                                 >Wordbee</xref></entry>
                         <entry>SaaS collaborative translation management system for enterprises and
-                            LSPs</entry>
+                                <xref href="../glossary/g_lsp.dita">LSPs</xref></entry>
                         <entry>Public or private</entry>
                         <entry>Yes</entry>
                         <entry>Web only</entry>

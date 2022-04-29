@@ -2,13 +2,11 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="project_management">
     <title>Project management </title>
-    <shortdesc/>
+    <shortdesc>Even though the primary goal of a TMS is to automate a lot of tasks in the
+        translation process, it still requires <b>people</b> to manage it. </shortdesc>
     <conbody>
-        <p>Even though the primary goal of a TMS is to automate a lot of tasks in the translation
-            process, it still requires <b>people</b> to manage it. In addition to linguists, TMSs
-            are also used by <b>project managers</b> (both from the client's and vendor's
-            organizations). That's why it should facilitate their work.</p>
-        <p/>
+        <p>In addition to linguists, TMSs are also used by <b>project managers</b> (both from the
+            client's and vendor's organizations). That's why it should facilitate their work.</p>
         <p>Here are some key features relating to project management that each TMS should
                 support:<ul id="ul_mgz_1nf_ftb">
                 <li><xref href="searcher.dita">Searcher</xref></li>
@@ -20,7 +18,8 @@
                 <li><xref href="anonymization.dita">Anonymization</xref></li>
                 <li><xref href="mobile_version.dita">Mobile app</xref></li>
             </ul></p>
-        <p>These features are not specific only to TMSs, because they are also found in simpler CAT
-            tools, but they are important for the smooth translation management process.</p>
+        <p>These features are not specific only to TMSs, because they are also found in simpler
+                <xref href="how_does_it_differ_from_cat.dita">CAT tools</xref>, but they are
+            important for the smooth translation management process.</p>
     </conbody>
 </concept>
