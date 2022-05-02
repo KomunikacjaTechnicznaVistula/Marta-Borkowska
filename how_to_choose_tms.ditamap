@@ -71,15 +71,56 @@
                 <topicref href="topics/introduction.dita"/>
             </relcell>
             <relcell>
-                <topicref href="topics/tms_in_the_corporate_language_policy.dita"/>
+                <topicref href="topics/future_of_tmss.dita"/>
             </relcell>
         </relrow>
         <relrow>
             <relcell>
-                <topicref href="topics/introduction.dita"/>
+                <topicref href="topics/introduction.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell linking="targetonly">
+                <topicref href="topics/roi.dita" linking="targetonly"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/tms_in_the_corporate_language_policy.dita"
+                    linking="sourceonly"/>
             </relcell>
             <relcell>
-                <topicref href="topics/roi.dita"/>
+                <topicref href="topics/what_is_tms.dita" linking="targetonly"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/researching.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/market_overview.dita" linking="targetonly"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/researching.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/key_tms_features.dita" linking="targetonly"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/analysing.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/cloud_vs__onsite_system.dita" linking="targetonly"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/how_to_make_a_final_decision.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/vendor_management.dita"/>
             </relcell>
         </relrow>
     </reltable>

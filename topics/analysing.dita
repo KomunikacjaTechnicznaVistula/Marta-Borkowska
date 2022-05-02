@@ -19,7 +19,8 @@
                         <cmd>What content do you usually translate?</cmd>
                     </substep>
                     <substep>
-                        <cmd>Which file formats are sent for translation?</cmd>
+                        <cmd>Which <xref href="file_formats.dita">file formats</xref> are sent for
+                            translation?</cmd>
                     </substep>
                     <substep>
                         <cmd>Which tools do you use?</cmd>
@@ -29,8 +30,10 @@
                             globally or locally?</cmd>
                     </substep>
                     <substep>
-                        <cmd>Do you have any TMs or TBs? Where are they stored (internally, at your
-                            translation partner’s)?</cmd>
+                        <cmd>Do you have any <xref href="../glossary/g_translation_memory.dita"
+                                >TMs</xref> and/or <xref href="../glossary/g_termbase.dita"
+                                >TBs</xref>? Where are they stored (internally, at your translation
+                            partner’s)?</cmd>
                     </substep>
                     <substep>
                         <cmd>Do you have a database of translated documents/resources?</cmd>
@@ -50,7 +53,8 @@
                         <cmd>Who do you cooperate with (in-house team, freelancers, agencies)?</cmd>
                     </substep>
                     <substep>
-                        <cmd>Do you need any connectors to the systems used at your company?</cmd>
+                        <cmd>Do you need any <xref href="connectors.dita">connectors</xref> to the
+                            systems used at your company?</cmd>
                     </substep>
                 </substeps>
             </step>

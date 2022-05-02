@@ -2,8 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="vendor_management">
     <title>Go-Live</title>
-    <shortdesc>Once you have made your decision, it's time to think how to move your process to the
-        selected TMS.</shortdesc>
+    <shortdesc>Once you have made your <xref href="how_to_make_a_final_decision.dita"
+            >decision</xref>, it's time to think how to move your process to the selected
+        TMS.</shortdesc>
     <conbody>
         <p>You thought it took a long time to make up your mind on which TMS to choose for your
             company, but it may take even longer to prepare the whole go-live process. Draft a plan
