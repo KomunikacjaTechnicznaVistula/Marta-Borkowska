@@ -22,14 +22,14 @@
         <p>A <b>public cloud</b> is cloud computing with resources (hardware, software, storage,
             network devices, etc.) owned and operated by a third-party cloud service provider and
             delivered over the internet. Clients share the same infrastructure with other
-            organizations (known as “tenants”) accessing services and managing their accounts using
-            a web browser.</p>
+            organizations (known as “tenants”) accessing services and managing their accounts with a
+            web browser.</p>
         <p>A <b>hybrid cloud</b> is cloud computing that uses both public and private clouds, or
             combine online and on-premises resources. Infrastructure components can share the
             resources between public and private cloud deployment depending on the business needs.
             It is often used by organizations that require assistance in the form of public cloud
-            services e.g. to meet increased traffic demand or private clouds to handle sensitive
-            data. It is the most complex solution requiring some IT knowledge.</p>
+            services e.g. to meet increased traffic demand - and private clouds to handle sensitive
+            data. It is the most complex solution requiring a good IT setup.</p>
         <p>In the table below you will find a <b>comparison of the most important cloud
             aspects</b>:</p>
         <table id="table_odl_bhb_zsb" frame="all">

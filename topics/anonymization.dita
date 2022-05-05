@@ -6,19 +6,19 @@
             format="html" scope="external">GDPR</xref>, companies are required to anonymize clients'
         TM content, essentially remove personal data.</shortdesc>
     <conbody>
-        <p> One of the features ensuring data protection is <i>anonymization</i> (also called<i>
-                pseudonymization</i>).</p>
-        <p>In XTM the anonymization feature is based on Named Entity Recognition (NER). Its purpose
+        <p> One of the features ensuring data protection is <i><xref
+                    href="https://en.wikipedia.org/wiki/Data_anonymization" format="html"
+                    scope="external">anonymization</xref></i> (with a variation of<i>
+                <xref href="https://en.wikipedia.org/wiki/Pseudonymization" format="html"
+                    scope="external">pseudonymization</xref></i>).</p>
+        <p>In XTM, the anonymization feature is based on Named Entity Recognition (NER). Its purpose
             is to protect private or personally identifiable data. It identifies confidential data
             by converting it to inline tags, while still maintaining the integrity of the data
             itself.</p>
         <p>As a result, there is no risk of a data leak, whether the text is translated by a human
-            translator or through machine translation.</p>
-        <p>To convert sensitive data into inline tags during translation in XTM Workbench, you need
-            to use special MS Word styles. </p>
-        <p>This feature is available for all languages, while anonymization applies only to the
-            following languages: Danish, Dutch, English, French, German, Italian, Portuguese,
-            Spanish, Swedish.</p>
+            translator or through machine translation. Anonymization applies only to the following
+            languages: Danish, Dutch, English, French, German, Italian, Portuguese, Spanish,
+            Swedish.</p>
         <p>Once the translation process is complete, and the target document is finalized, the
             sensitive data is automatically reinserted into the text.</p>
         <p>
@@ -29,5 +29,8 @@
                 </image>
             </fig>
         </p>
+        <p>If you want to use it for any other languages, you need to use special styles in MS Word
+            to be able to convert sensitive data into inline tags during translation in XTM
+            Workbench.</p>
     </conbody>
 </concept>

@@ -2,11 +2,11 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="market_overview1">
     <title>Market overview</title>
-    <shortdesc>The market for TMSs is very varied and changes rapidly.</shortdesc>
+    <shortdesc>There is a great number of Translation Management Systems available to meet different
+        business needs.</shortdesc>
     <conbody>
-        <p>There is a great number of Translation Management Systems available to meet different
-            business needs. Below you can find a graphical representation from Nimdzi Language
-            Technology Atlas 2020, listing all TMSs divided into special-purpose categories:</p>
+        <p>Below you can find a graphical representation from Nimdzi Language Technology Atlas 2020,
+            listing all TMSs divided into special-purpose categories:</p>
         <fig id="fig_rtf_yzh_zsb">
             <title><i>Translation Management Systems</i></title>
             <image href="../images/Atlas-2020-v1.03-Web_2.6MB_3000px_wide-scaled.jpg" scale="50"

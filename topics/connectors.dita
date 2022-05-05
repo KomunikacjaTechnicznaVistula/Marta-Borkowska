@@ -5,27 +5,24 @@
     <shortdesc>Learn how to gain more control over your content by integrating content management
         systems and translation management systems via a connector.</shortdesc>
     <conbody>
-        <p>XTM offers you a possibility of using <xref href="https://xtm.cloud/connectors/"
-                format="html" scope="external">different connectors</xref> that have already been
-            established for and tested by other companies. However, you can also contact the
-            development team for an offer of a custom-made integration with the system that is not
-            on the above list. It can be pricey, though, and may also require some work from your IT
-            team so be prepared with some additional financial and human resources.</p>
         <section id="section_zll_j1l_jtb">
             <title>What is a TMS connector?</title>
             <p>A TMS connector makes it possible to transfer content from your content management
-                system (CMS) to the TMS easily using a set of protocols. There, it can be
-                translated, whether by machine translation, professional translators, or both.
-                Afterwards, the connector can upload the translated files back into the CMS so you
-                can easily access them. In fact, any organization that works with high volumes of
-                content in multiple languages could benefit from a TMS connector. For example, a
-                company with a multilingual website and a blog that requires frequent updates can
-                benefit from a TMS connector that connects their website CMS to their <xref
-                    href="../glossary/g_lsp.dita">LSP’s</xref> TMS.</p>
+                system (CMS) to the TMS, using a set of protocols. There, it can be translated,
+                whether by machine translation, professional translators, or both. Afterwards, the
+                connector can upload the translated files back into the CMS so you can easily access
+                them. In fact, any organization that works with high volumes of content in multiple
+                languages could benefit from a TMS connector. For example, a company with a
+                multilingual website and a blog that requires frequent updates can use a TMS
+                connector from their website CMS to their <xref href="../glossary/g_lsp.dita"
+                    >LSP’s</xref> TMS.</p>
             <p>The integrations between systems are made possible by a layer of software (a
-                connector) based on the RESTFUL API principles of push and pull. Depending on the
-                types of systems, these integrations can be either lightweight, which involves very
-                little set-up, or more intricate middleware type configurations.</p>
+                connector) based on the <xref
+                    href="https://www.techtarget.com/searchapparchitecture/definition/RESTful-API"
+                    format="html" scope="external">RESTFUL API</xref> principles of push and pull.
+                Depending on the types of systems, these integrations can be either lightweight,
+                which involves very little set-up, or more intricate middleware type
+                configurations.</p>
             <p>There are many different connector types depending on what they are used for:<ul
                     id="ul_jvp_k1l_jtb">
                     <li>content management system (CMS) (e.g. Wordpress)</li>
@@ -39,7 +36,7 @@
                 </ul></p>
         </section>
         <section id="section_eqr_l1l_jtb">
-            <title>What are the benefits of using them?</title>
+            <title>What are the benefits of using connectors?</title>
             <p>The connectors save time, reduce file management costs, cut down turnaround times and
                 make localization simple. You also have more control over your content and can
                 reduce human errors since the whole process is automatic.</p>
@@ -48,10 +45,11 @@
             <title>XTM example</title>
             <p>XTM offers you a possibility of using <xref href="https://xtm.cloud/connectors/"
                     format="html" scope="external">different connectors</xref> that have already
-                been established for and tested by other companies. However, you can also contact
-                the development team for an offer of a custom-made integration with the system that
-                is not on the above list. It can be pricey, though, and may also require some work
-                from your IT team so be prepared with some additional financial and human
+                been established for and tested by other companies. However, you can also <xref
+                    href="https://xtm.cloud/contact/" format="html" scope="external">contact</xref>
+                the XTM's development team for an offer of a custom-made integration with the system
+                that is not on the above list. It can be pricey, though, and may also require some
+                work from your IT team so be prepared with some additional financial and human
                 resources.</p>
             <p>Since the release of XTM version 13.0, its connectors have entered a continuous
                 deployment cycle, providing ongoing releases of new features. This means that you

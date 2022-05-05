@@ -3,7 +3,8 @@
 <concept id="machine_translation">
     <title>Machine translation</title>
     <shortdesc><xref href="../glossary/g_machine_translation.dita">Machine translation</xref>
-        engines are third-party systems that are not standard components of a TMS. </shortdesc>
+        engines are third-party systems for automatic translation that are not standard components
+        of a TMS.</shortdesc>
     <conbody>
         <p>A company that wants to use MT needs to have an account with an MT provider or configure
             a custom engine. Only then is it possible to connect the MT engine to TMS via an
@@ -23,7 +24,6 @@
                 href="https://try.inten.to/machine-translation-report-2021/?_ga=2.234064026.560105315.1649773908-478560454.1649498107&amp;_gl=1*e8905i*_ga*NDc4NTYwNDU0LjE2NDk0OTgxMDc.*_ga_8ER1RD0745*MTY0OTg1MjczNy4zLjAuMTY0OTg1MjczNy4w"
                 format="html" scope="external">State of Machine Translation report</xref> by
             Intento.</p>
-        <p>Here is a choice available in XTM:</p>
         <p>
             <fig id="fig_err_p1l_jtb">
                 <title>Machine translation engines in XTM</title>
@@ -37,8 +37,10 @@
             option to <i>add your custom MT</i> (e.g. the one you have created yourself or the one
             developed by a third-party provider).</p>
         <p>After you decide on an MT engine or engines, all you need to do is create an account with
-            a given provider, subscribe to a selected plan, and get an authentication key for CAT
-            tools to be copied to a relevant place.</p>
+            a given provider, subscribe to a selected plan, and get an <xref
+                href="https://marcinbas.github.io/api_mt/#4-how-to-obtain-api-keys-for-mt-plugins"
+                format="html" scope="external">authentication key</xref> for CAT tools to be copied
+            to a relevant place.</p>
         <p>
             <fig id="fig_q11_x1l_jtb">
                 <title>MT authentication in XTM</title>
@@ -47,11 +49,11 @@
                 </image>
             </fig>
         </p>
-        <p>You should also decide how this MT engine will work for your translation projects. All in
-            all, with it you get another support in addition to your <abbreviated-form
-                keyref="g_translation_memory"/>. When you have some TM matches, you send these to an
-            MT engine to fill in the blanks, creating an opportunity to leverage existing resources
-            in an innovative way.</p>
+        <p>You should also decide how this MT engine will work on top of your <xref
+                href="https://komunikacjatechnicznavistula.github.io/Marta-Borkowska/glossary/r_glossary.html#g_translation_memory"
+                format="html" scope="external">Translation memory (TM)</xref>. An MT engine is
+            supposed to fill in the blanks, while you leverage your existing resources from previous
+            human translation.</p>
         <p>
             <fig id="fig_kpn_51l_jtb">
                 <title>MT leverage options in XTM</title>
@@ -60,11 +62,13 @@
                 </image>
             </fig>
         </p>
-        <p>A great benefit of using MT in a TMS is that you use its <b>secure version</b> in
-            comparison to the free web-based tool. Your texts are never stored or used by an MT
-            provider to improve its engine.</p>
-        <p>In addition, while working in XTM, you can translate all <xref href="file_formats.dita"
-                >supported file formats</xref> using an MT engine, and not only a few selected files
-            (e.g. Word or PowerPoint).</p>
+        <p>“A great benefit of using MT in a TMS is that you use its <b>secure version</b> in
+            comparison to the free web-based tool. Your texts should never be stored or used by an
+            MT provider to improve its engine - read the MT provider’s <xref
+                href="https://modelfront.com/compare" format="html" scope="external">Terms and
+                Conditions</xref> to ensure that.</p>
+        <p>In addition, while working in XTM, you can translate all supported <xref
+                href="file_formats.dita">file formats</xref> with an MT engine, and not only a few
+            available from browser (e.g. MS Word or PowerPoint).</p>
     </conbody>
 </concept>

@@ -12,9 +12,18 @@
         <p>There are many CAT tools in the market that enable such feature so it is certain that
             TMSs must follow. After terms are extracted, i.e. a bilingual list of candidate terms is
             created, it should still be verified by a human terminologist or translator.</p>
-        <p>In XTM this feature is based on the <xref href="alignment.dita">Alignment</xref> so it is
-            also available only to enterprise accounts and the output is an Excel file.. It utilizes
-            Big Data, AI, and advances in computational linguistic technology including <xref
+        <p>In XTM, this feature is based on the <xref href="alignment.dita">Alignment</xref> so it
+            is also available only to enterprise accounts and the output is an Excel file.</p>
+        <p>
+            <fig id="fig_axd_5bc_ltb">
+                <title>Result of terminology extraction in XTM</title>
+                <image href="../images/Term%20extract.jpg" scale="60" id="image_bxd_5bc_ltb">
+                    <alt>Result of terminology extraction in XTM</alt>
+                </image>
+            </fig>
+        </p>
+        <p>It utilizes Big Data, AI, and advances in computational linguistic technology including
+                <xref
                 href="https://xtm.cloud/blog/xtm-international-introduces-inter-language-vector-space/"
                 format="html" scope="external">Inter-language vector space</xref>. The feature
             already works for 50 languages helping customers save up to 80 percent of time on

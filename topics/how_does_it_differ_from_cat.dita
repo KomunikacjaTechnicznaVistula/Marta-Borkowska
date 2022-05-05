@@ -12,20 +12,28 @@
             also by project managers. Each TMS has a CAT tool as one of its components.</p>
         <p>The <b>most popular</b> CAT tools in the market are:</p>
         <ul id="ul_vgz_xfb_zsb">
-            <li>SDL Trados Studio</li>
-            <li>memoQ</li>
-            <li>Wordfast (Classic &amp; Pro)</li>
-            <li>Déjà Vu</li>
-            <li>Across</li>
-            <li>Transit (by STAR)</li>
+            <li><xref href="https://www.trados.com/products/trados-studio/" format="html"
+                    scope="external">Trados Studio</xref></li>
+            <li><xref href="https://www.memoq.com/" format="html" scope="external">memoQ</xref></li>
+            <li><xref href="https://www.wordfast.com/" format="html" scope="external"
+                    >Wordfast</xref> (Classic &amp; Pro)</li>
+            <li><xref href="https://atril.com/" format="html" scope="external">Déjà Vu</xref></li>
+            <li><xref href="https://www.across.net/en/across-translator-edition-cat-tool"
+                    format="html" scope="external">Across</xref></li>
+            <li><xref href="https://www.star-group.net/en/downloads/transit-termstar.html"
+                    format="html" scope="external">Transit</xref> (by STAR)</li>
         </ul>
         <p>There are also some <b>free</b> tools for users not requiring sophisticated features:</p>
         <ul id="ul_svt_fgb_zsb">
-            <li>OmegaT</li>
-            <li>Wordfast Anywhere</li>
-            <li>MateCat</li>
-            <li>SmartCAT</li>
-            <li>Virtaal</li>
+            <li><xref href="https://omegat.org/" format="html" scope="external">OmegaT</xref></li>
+            <li><xref href="https://www.wordfast.com/products_wordfast_anywhere" format="html"
+                    scope="external">Wordfast Anywhere</xref></li>
+            <li><xref href="https://www.matecat.com/" format="html" scope="external"
+                >MateCat</xref></li>
+            <li><xref href="https://www.smartcat.com/" format="html" scope="external"
+                    >SmartCAT</xref></li>
+            <li><xref href="https://virtaal.translatehouse.org/" format="html" scope="external"
+                    >Virtaal</xref></li>
         </ul>
     </conbody>
 </concept>

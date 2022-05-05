@@ -22,7 +22,8 @@
                 </image>
             </fig>
         </p>
-        <p>You can also set a TM language variant penalty profile and highlight segments populated
-            with a language variant match.</p>
+        <p>You can also set a TM language variant penalty profile (lower rating of a variant vs. the
+            basic language) and highlight segments populated with a language variant match (to
+            identify them as potentially needing more corrections).</p>
     </conbody>
 </concept>

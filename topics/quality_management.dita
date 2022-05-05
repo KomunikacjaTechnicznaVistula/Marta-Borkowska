@@ -15,8 +15,8 @@
             is improving the quality of translations and quality of the whole process. </p>
         <p>Here are key features that help manage and improve the quality of translations:<ul
                 id="ul_vft_j5m_ftb">
-                <li><xref href="automatic_qa.dita">Quality Assurance (QA)</xref></li>
-                <li><xref href="lqa.dita">Linguistic Quality Assurance (LQA)</xref></li>
+                <li><xref href="automatic_qa.dita">Quality Assurance</xref></li>
+                <li><xref href="lqa.dita">Linguistic Quality Assurance</xref></li>
             </ul></p>
     </conbody>
 </concept>

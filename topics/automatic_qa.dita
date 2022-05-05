@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="automatic_qa">
-    <title>Automatic QA</title>
-    <shortdesc>Automatic QA tools to check translations have become the norm in the translation
+    <title>Quality Assurance</title>
+    <shortdesc>Automatic QA tools to check translations have become the standard in the translation
         industry. Many of them are built-in with the various CAT tools, but some are also available
         separately. </shortdesc>
     <conbody>
@@ -19,11 +19,10 @@
             <li>forbidden or rejected terms used</li>
         </ul>
         <p>In XTM, the scope of QA checks depends on the connected spell checker and its
-            availability for the particular language. You run it directly in Workbench, using
-            eiither a built-in solution or the connect to the one provided by MS Word. It is also
-            possible to perform QA using <xref href="https://www.xbench.net/" format="html"
-                scope="external">Xbench</xref> – a third-party translation QA and terminology
-            management tool.</p>
+            availability for the particular language. You run it directly in Workbench, using either
+            a built-in solution or the connect to MS Word. It is also possible to perform QA using
+                <xref href="https://www.xbench.net/" format="html" scope="external">Xbench</xref> –
+            a third-party translation QA and terminology management tool.</p>
         <p>As a result, when a QA error is detected, it is highlighted and you will see warnings
             displayed with segment number, category and description. You can also filter our
             segments with QA warnings to focus only on them.</p>

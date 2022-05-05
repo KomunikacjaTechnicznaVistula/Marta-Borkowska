@@ -2,11 +2,10 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="which_companies_need_a_tms">
     <title>Which companies need a TMS?</title>
-    <shortdesc/>
+    <shortdesc>There may come a day in the life of an organization when their current translation
+        and localization efforts are not enough for business operations and something must
+        change.</shortdesc>
     <conbody>
-        <p>There may come a day in the life of an organization when the management considers the
-            current translation and localization efforts are not enough for business operations and
-            something must change.</p>
         <section id="section_dqn_nqj_jtb">
             <title>What are the reasons for a company to start thinking of buying a TMS?</title>
             <p>
@@ -57,10 +56,12 @@
                     <li>has no in-house translation or localization experts</li>
                     <li>already has a content management system (CMS) or a product management system
                         (PIM) in place with translation features</li>
-                    <li>invests costs in a TMS (subscription or installation/maintenance fees) that
-                        exceed the savings generated from its use (TM discounts, <xref
-                            href="../glossary/g_machine_translation.dita">MT</xref> use, less work
-                        for internal reviewers and due to content reuse)</li>
+                    <li>potential costs of a TMS (subscription or installation/maintenance fees)
+                        would exceed the savings from its use (<xref
+                            href="../glossary/g_fuzzy_matches.dita">TM discounts</xref>, <xref
+                            href="https://komunikacjatechnicznavistula.github.io/Marta-Borkowska/glossary/r_glossary.html#g_machine_translation"
+                            format="html" scope="external">MT</xref> use, less work for internal
+                        reviewers or content reuse)</li>
                 </ul>
             </p>
             <p>In such cases CAT tools (with a server or group-sharing feature) or outsourcing the

@@ -30,7 +30,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>topics/future_of_tmss.dita</String>
+                                    <String>topics/introduction.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -50,7 +50,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>topics/introduction.dita</String>
+                                    <String>topics/future_of_tmss.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

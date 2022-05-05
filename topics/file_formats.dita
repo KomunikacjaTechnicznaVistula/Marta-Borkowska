@@ -9,14 +9,14 @@
             to cater for future developments.</p>
         <p>It is also good if a TMS supports the original file formats that you use so as to reduce
             the risks of files corrupting after being converted to a replacement format. </p>
-        <p>For example: if your company translates a lot of indd files, look for a TMS that
-            processes indd files directly instead of idml files, because after conversion of indd
-            files to idml format you may have the layout distorted or links to images broken, which
-            will result in a lot of additional unnecessary work by a graphic designer.</p>
-        <p>In case of an IT company, it is extremely important that a TMS supports such<b> native
-                formats</b> as .xml, .xliff or .po so as <xref
-                href="https://localization.pl/thou-shalt-not-excel/" format="html" scope="external"
-                >not to translate using an Excel sheet</xref>.</p>
+        <p>For example: if your company translates a lot of Adobe InDesign indd files, look for a
+            TMS that processes indd files directly and does not require idml format only, because
+            after conversion of indd to idml you may have the layout distorted or links to images
+            broken, which will result in a lot of additional work by a graphic designer.</p>
+        <p>In case of an IT company, it is extremely important that a TMS supports the<b> native
+                formats</b> used by your development, such as XML, resw/resx, JSON or .po - so as
+                <xref href="https://localization.pl/thou-shalt-not-excel/" format="html"
+                scope="external">not to translate using an Excel sheet</xref>.</p>
         <p>XTM supports the following <b>file formats</b> for translation:<ul id="ul_ow2_w3q_2tb">
                 <li>Adobe FrameMaker (mif)</li>
                 <li>Adobe Illustrator (fxg, svg, ai,)</li>
@@ -58,11 +58,11 @@
                 <li>xml</li>
                 <li>yml, yaml</li>
             </ul></p>
-        <p>Some TMSs require a filter to be able to process a particular file format that is either
-            embedded or similar to the native one. For example, if you want to translate a Markdown
-            file in memoQ, which is not supported there, you need to apply a plain text filter. As a
-            result, special Markdown tags will still appear in the Editor and if used improperly by
-            a translator, can result in more work to bring it back to the original format. XTM
+        <p>Some TMSs require a filter to be able to process a particular file format that is not
+            supported by default. For example, if you want to translate a Markdown file in memoQ,
+            you need to apply a plain text filter and add rules to handle Markdown syntax. As a
+            result, some Markdown tags may appear in the Editor as plain text and if used improperly
+            by a translator, can result in more work to bring them back in the translated text. XTM
             processes .md files without a filter so you can save your time and effort for more
             productive tasks.</p>
         <p>

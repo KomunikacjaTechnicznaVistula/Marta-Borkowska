@@ -2,8 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="dealing_with_inline_tags">
     <title>Inline tags</title>
-    <shortdesc><xref href="../glossary/g_inline_tag.dita">Inline tags</xref> are a very important
-        part of the whole translation process. </shortdesc>
+    <shortdesc><xref href="../glossary/g_inline_tag.dita">Inline tags</xref> are non-translation
+        elements located within a segment of translatable text (e.g. in a sentence).</shortdesc>
     <conbody>
         <p>They need to be placed correctly so that the final text has the correct layout. In
             addition, it is a must to place them in the target segment so that the TM could be

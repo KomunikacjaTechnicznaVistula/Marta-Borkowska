@@ -9,10 +9,10 @@
         <p>Here are some useful features to help you manage your corporate linguistic resources:</p>
         <p>
             <ul id="ul_ejp_b4m_ftb">
+                <li><xref href="tm_management.dita">Translation memories</xref></li>
                 <li><xref href="alignment.dita">Alignment</xref></li>
-                <li><xref href="terminology_extraction.dita">Terminology extraction</xref></li>
-                <li><xref href="tm_management.dita">TM management</xref></li>
                 <li><xref href="term_bases.dita">Termbases</xref></li>
+                <li><xref href="terminology_extraction.dita">Terminology extraction</xref></li>
                 <li><xref href="concordance.dita">Concordance</xref></li>
                 <li><xref href="language_variants.dita">Language variants</xref></li>
             </ul>

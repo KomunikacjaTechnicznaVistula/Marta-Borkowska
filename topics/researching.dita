@@ -49,6 +49,11 @@
                 </substeps>
             </step>
             <step>
+                <cmd>Consult your TMS shortlist with relevant stakeholders (e.g. internal reviewers,
+                    marketing team, software developers). Ask about their needs, fears, must-have
+                    features and recommendations.</cmd>
+            </step>
+            <step>
                 <cmd>Check how a TMS works in practice:</cmd>
                 <substeps id="substeps_l4d_5vp_2tb">
                     <substep>
@@ -72,11 +77,6 @@
                             easy for use also by other internal clients?</cmd>
                     </substep>
                 </substeps>
-            </step>
-            <step>
-                <cmd>Consult your choice of a TMS with relevant stakeholders (e.g. internal
-                    reviewers, marketing team, software developers). Ask about their needs, fears,
-                    must-have features and recommendations.</cmd>
             </step>
             <step>
                 <cmd>Make a final decision on a TMS and prepare an offer for your management,

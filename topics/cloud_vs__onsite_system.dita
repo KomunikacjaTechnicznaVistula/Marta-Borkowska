@@ -2,19 +2,14 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="cloud_vs_onsite_system">
     <title>Cloud vs. onsite system</title>
-    <shortdesc>TMSs can be offered as cloud-based or on-premise solutions.</shortdesc>
+    <shortdesc>TMSs can be offered as cloud-based or on-premise solutions, or as a combination of
+        both.</shortdesc>
     <conbody>
-        <p>Most of the TMSs available on the market are offered:</p>
-        <ul id="ul_bt4_ns1_zsb">
-            <li>as cloud-based only</li>
-            <li>as onsite only or </li>
-            <li>in the hybrid model: cloud and onsite with only some features different</li>
-        </ul>
         <p>There are companies which would only choose the solution that is physically installed on
             their servers due to security issues and they have resources to manage it. Add to that a
             high initial price, difficult installation, maintenance costs and the need to pay for
-            each upgrade (after a certain grace period is over) and you will quickly find out why
-            the cloud-based TMS is a better option for you.</p>
+            each upgrade (after a certain grace period is over) and you may find out that the
+            cloud-based TMS is a better option for you.</p>
         <section id="section_gxs_jpj_jtb">
             <title>What are the advantages of the cloud system?</title>
             <p>

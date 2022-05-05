@@ -20,12 +20,13 @@
             to offer discounts to regular customers or for bigger purchase volume.</p>
         <p>Usually, each TMS offer has different plans with available features for various target
             groups (e.g. small translation teams, bigger <xref href="../glossary/g_lsp.dita"
-                >LSPs</xref>, enterprises). If you decide to buy XTM Cloud, you <b>pay for the
-                number of concurrent users.</b> Their plan for enterprises includes license bands,
-            which are based on the rate, multiplied by the number of users.</p>
+                >LSPs</xref>, enterprises). If you decide to buy <xref href="https://xtm.cloud/"
+                format="html" scope="external">XTM Cloud</xref>, you <b>pay for the number of
+                concurrent users.</b> Their plan for enterprises includes license bands, which are
+            based on the rate, multiplied by the number of users.</p>
         <p>For example, for 10 concurrent users you can spend approx. <b>€ 6,000</b> per year plus
-                <b>€ 3,000</b> if you need special connectors (e.g. for InDesign files and MT
-            engine). </p>
+                <b>€ 3,000</b> if you need special <xref href="connectors.dita">connectors</xref>
+            (e.g. for InDesign files and MT engine). </p>
         <p>You need to balance this investment with savings that you have on your translation
             projects (due to the reuse of previous content from translation memories and discounts
             offered by vendors), which can be as high as <b>60%</b>. Add to that a possibility of

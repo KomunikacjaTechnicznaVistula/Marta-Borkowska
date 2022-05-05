@@ -35,11 +35,11 @@
    <appContext helpID="rate_cards" path="topics/rate_cards.html"/>
    <appContext helpID="quotations" path="topics/quotations.html"/>
    <appContext helpID="content_management" path="topics/content_management.html"/>
+   <appContext helpID="tm_management" path="topics/tm_management.html"/>
    <appContext helpID="alignment" path="topics/alignment.html"/>
+   <appContext helpID="term_bases" path="topics/term_bases.html"/>
    <appContext helpID="terinology_extraction"
                path="topics/terminology_extraction.html"/>
-   <appContext helpID="tm_management" path="topics/tm_management.html"/>
-   <appContext helpID="term_bases" path="topics/term_bases.html"/>
    <appContext helpID="concordance" path="topics/concordance.html"/>
    <appContext helpID="language_variants" path="topics/language_variants.html"/>
    <appContext helpID="translation_editor_workbench"

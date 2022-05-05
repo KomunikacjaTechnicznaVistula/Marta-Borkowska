@@ -4,15 +4,15 @@
 <?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
 <?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/ashes-with-colors.css'?>
 <?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/notes.css'?>
-<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/how_to_choose_tms.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">How to choose and start working with the right TMS for your company</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
-    <title class="- topic/title ">How to choose and start working with the right TMS for your company</title>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="introduction"><resourceid appid="introduction" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Introduction to TMS</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn who needs this manual and when a TMS is a better choice than a CAT         tool.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_tms"><resourceid appid="what_is_tms" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">What is a TMS?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A <b class="+ topic/ph hi-d/b ">translation management system (TMS)</b> is a type of software used for         comprehensive work with translation projects. It is a centralized platform that comprises         various tools, performs an abundance of tasks, and allows to achieve numerous         goals</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="how_does_it_differ_from_cat"><resourceid appid="how_does_it_differ_from_cat" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">How does it differ from CAT?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A <b class="+ topic/ph hi-d/b ">CAT (computer-assisted translation or computer-aided translation) tool</b> is         software used to support a translator facilitating the translation process.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="cloud_vs_onsite_system"><resourceid appid="cloud_vs_onsite_system" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Cloud vs. onsite system</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">TMSs can be offered as cloud-based or on-premise solutions.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="public_vs_private_cloud"><resourceid appid="public_vs_private_cloud" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Public, private or hybrid cloud</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can decide to have your TMS installed in a variety of ways.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="market_overview1"><resourceid appid="market_overview1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Market overview</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The market for TMSs is very varied and changes rapidly.</shortdesc></topicmeta></topicref></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_18" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="tms_in_the_corporate_language_policy"><resourceid appid="tms_in_the_corporate_language_policy" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">TMS in Corporate Language Policy</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">It is good to know which companies should choose a TMS and how what their concerns         are.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="which_companies_need_a_tms"><resourceid appid="which_companies_need_a_tms" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Which companies need a TMS?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_are_common_concerns_about_using_a_tms"><resourceid appid="what_are_common_concerns_about_using_a_tms" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">What are common concerns about using a TMS?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">As with every new tool, there is a risk your business will resist to the         change.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="future_of_tmss"><resourceid appid="future_of_tmss" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Future of TMSs in business setting</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Translation Management Systems are a novelty in the industry, but they still undergo         many improvements.</shortdesc></topicmeta></topicref></topicref>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/how_to_choose_tms.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">How to choose and start working with the right TMS for your company - an XTM case study</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">How to choose and start working with the right TMS for your company - an XTM case study</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="introduction"><resourceid appid="introduction" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Introduction to TMS</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn who needs this manual and when a TMS is a better choice than a CAT         tool.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_tms"><resourceid appid="what_is_tms" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">What is a TMS?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A <b class="+ topic/ph hi-d/b ">translation management system (TMS)</b> is a type of software used for         comprehensive work with translation projects. It is a centralized platform that comprises         various tools, performs an abundance of tasks, and allows to achieve numerous         goals</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="how_does_it_differ_from_cat"><resourceid appid="how_does_it_differ_from_cat" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">How does it differ from CAT?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A <b class="+ topic/ph hi-d/b ">CAT (computer-assisted translation or computer-aided translation) tool</b> is         software used to support a translator facilitating the translation process.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="cloud_vs_onsite_system"><resourceid appid="cloud_vs_onsite_system" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Cloud vs. onsite system</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">TMSs can be offered as cloud-based or on-premise solutions, or as a combination of         both.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="public_vs_private_cloud"><resourceid appid="public_vs_private_cloud" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Public, private or hybrid cloud</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can decide to have your TMS installed in a variety of ways.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="market_overview1"><resourceid appid="market_overview1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Market overview</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">There is a great number of Translation Management Systems available to meet different         business needs.</shortdesc></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_18" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="tms_in_the_corporate_language_policy"><resourceid appid="tms_in_the_corporate_language_policy" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">TMS in Corporate Language Policy</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">It is good to know which companies should choose a TMS and how what their concerns         are.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="which_companies_need_a_tms"><resourceid appid="which_companies_need_a_tms" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Which companies need a TMS?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">There may come a day in the life of an organization when their current translation         and localization efforts are not enough for business operations and something must         change.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_are_common_concerns_about_using_a_tms"><resourceid appid="what_are_common_concerns_about_using_a_tms" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">What are common concerns about using a TMS?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">As with every new tool, there is a risk your business will resist to the         change.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="future_of_tmss"><resourceid appid="future_of_tmss" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Future of TMSs in business setting</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Translation Management Systems are a novelty in the industry, but they still undergo         many improvements.</shortdesc></topicmeta></topicref></topicref>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_make_a_final_decision"><resourceid appid="how_to_make_a_final_decision" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Decision-making process</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The TMS market is often confusing and still evolving. That's why the decision to buy         a new system or change an existing one is not easy.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_24" type="task"><topicmeta class="- map/topicmeta " data-topic-id="analysing"><resourceid appid="analysing" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">Analyzing your translation process</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The first step that you need to take is to perform due diligence of the existing         translation process at your company.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_25" type="task"><topicmeta class="- map/topicmeta " data-topic-id="researching"><resourceid appid="researching" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">Researching the TMS market</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="roi"><resourceid appid="roi" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Budgeting</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Once considered an additional expense of doing business, translation is now a driver         of growth and revenue when done right.</shortdesc></topicmeta></topicref></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="key_tms_features"><resourceid appid="key_tms_features" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Key TMS features</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Every TMS should have certain features you should look for to meet your business         needs.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_32" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="project_management"><resourceid appid="project_management" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_32" class="- topic/navtitle ">Project management </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Even though the primary goal of a TMS is to automate a lot of tasks in the         translation process, it still requires <b class="+ topic/ph hi-d/b ">people</b> to manage it. </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_40" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="searcher"><resourceid appid="searcher" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_40" class="- topic/navtitle ">Searcher</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Each TMS is an extensive and comprehensive tool to manage your translatable content.         As a result, it is very important that it has a <b class="+ topic/ph hi-d/b ">good searcher</b> so that you could         easily find what you are looking for.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_41" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="notifications"><resourceid appid="notifications" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_41" class="- topic/navtitle ">Notifications</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">An intelligent TMS should act as a project manager and communicator between team         members, and notify everyone working on it when they have new tasks, and when there is new         content ready for translation. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_42" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="analytics"><resourceid appid="analytics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_42" class="- topic/navtitle ">Analytics</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">According to <i class="+ topic/ph hi-d/i ">The Economist,</i> data is now the most valuable resource in the         world, ahead of oil. That is why it should be regarded as the company's biggest asset. The         translation process is no different. You should be able to present the management with all         kinds of data at any time.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_30" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="workflows"><resourceid appid="workflows" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_30" class="- topic/navtitle ">Workflows</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">One of the main features of a TMS is <b class="+ topic/ph hi-d/b ">work automation</b>. This is reflected, for         example, by workflows which keep all translation stakeholders on the same page. This is         where the process is actually managed with full traceability.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_43" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="working_outside"><resourceid appid="working_outside" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_43" class="- topic/navtitle ">Working outside</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Often TMSs are based on a subscription model in which you pay for the number of         concurrent users, i.e. people that use the tool at the same time. As a result, it is good if         the TMS offered the possibility for the vendor to work in another CAT tool.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_27" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="file_formats"><resourceid appid="file_formats" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_27" class="- topic/navtitle ">File formats </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You need to know what file formats are usually sent for translation in your company         so that you could decide which TMS to choose.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_45" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="anonymization"><resourceid appid="anonymization" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_45" class="- topic/navtitle ">Anonymization</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">To comply with the <xref class="- topic/xref " format="html" href="https://eur-lex.europa.eu/eli/reg/2016/679/oj" scope="external">GDPR</xref>, companies are required to anonymize clients'         TM content, essentially remove personal data.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_46" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="mobile_version"><resourceid appid="mobile_version" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_46" class="- topic/navtitle ">Mobile version</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The world goes mobile, so do TMSs.</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_33" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="finance_management"><resourceid appid="finance_management" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_33" class="- topic/navtitle ">Finance management </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The main reason for investing in a TMS is to reduce costs that your organization         spends on translation in general. See how can this tool help you achieve it.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_48" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="rate_cards"><resourceid appid="rate_cards" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_48" class="- topic/navtitle ">Rate cards</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Rate cards make it easy to estimate costs, calculate a project's budget or choose the         most cost-effective language vendor.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_47" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="quotations"><resourceid appid="quotations" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_47" class="- topic/navtitle ">Purchase orders</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A Purchase Order is the specification of costs that your vendors (e.g. translators,         LSPs) will charge you. </shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_34" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="content_management"><resourceid appid="content_management" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_34" class="- topic/navtitle ">Content management</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A TMS maintains all the translation-related content centrally to be accessed in real         time. </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_50" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="alignment"><resourceid appid="alignment" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_50" class="- topic/navtitle ">Alignment</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">While alignment is a feature shared with a lot of CAT tools, its use can vary from         very difficult to extremely easy so you should choose your TMS carefully.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_51" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="terinology_extraction"><resourceid appid="terinology_extraction" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_51" class="- topic/navtitle ">Terminology extraction</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Computer-aided terminology extraction proves useful when you need to search for         customer-specific vocabulary.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_52" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="tm_management"><resourceid appid="tm_management" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_52" class="- topic/navtitle ">Translation memories </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">TMs are the most important of all translation resources so it's important to choose a         TMS that has the most options to manage them easily.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_53" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="term_bases"><resourceid appid="term_bases" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_53" class="- topic/navtitle ">Termbases</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Using a termbase is an excellent solution for terminology management. TMSs should         have relevant features to make your work easier and quicker.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_54" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concordance"><resourceid appid="concordance" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_54" class="- topic/navtitle ">Concordance</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Context is the king in translation. Here is how Concordance helps linguists make the         most of translation resources in XTM.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_44" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="language_variants"><resourceid appid="language_variants" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_44" class="- topic/navtitle ">Language variants</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Some languages have variants that you want to preserve in separate translation         memories. However, a problem appears if you want to leverage on cost reductions due to a         high number of matches from a <xref class="- topic/xref " href="glossary/g_translation_memory.dita">TM</xref>         with a different language variant.</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_35" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="translation_editor_workbench"><resourceid appid="translation_editor_workbench" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_35" class="- topic/navtitle ">Translation editor (Workbench)</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Currently, hardly anyone translates in an original document, be it Word, HTML file or         InDesign. Most translators and reviewers work in <b class="+ topic/ph hi-d/b ">special text editors</b> that are core         CAT tool components.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_55" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="dealing_with_inline_tags"><resourceid appid="dealing_with_inline_tags" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_55" class="- topic/navtitle ">Inline tags</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><xref class="- topic/xref " href="glossary/g_inline_tag.dita">Inline tags</xref> are a very important         part of the whole translation process. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_56" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="preview"><resourceid appid="preview" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_56" class="- topic/navtitle ">Preview</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The aim of the visual mode in TMSs is to show you a preview of the source and target         file so that linguists could click on the text in the preview and enter or correct a         translation in the target segment. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_57" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="filtering"><resourceid appid="filtering" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_57" class="- topic/navtitle ">Filtering</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You choose a TMS for time and cost savings so one way to make you and your linguists         work faster is to use <b class="+ topic/ph hi-d/b ">filters</b> in the text editor. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_58" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="offline_editor"><resourceid appid="offline_editor" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_58" class="- topic/navtitle ">Offline editor</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Sometimes you know you will not have internet access (rare cases nowadays but it can         still happen if you are able to work from anywhere) and you would like to have your job         done.</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_36" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="quality_management"><resourceid appid="quality_management" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_36" class="- topic/navtitle ">Quality management</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">There are still discussions on what should be considered a high-quality translation.         Is it an error-free document in the target language or the smooth process where every step         complies with the established procedure?</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_22" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="automatic_qa"><resourceid appid="automatic_qa" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Automatic QA</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Automatic QA tools to check translations have become the norm in the translation         industry. Many of them are built-in with the various CAT tools, but some are also available         separately. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="lqa"><resourceid appid="lqa" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">LQA</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><b class="+ topic/ph hi-d/b ">Linguistic Quality Assurance</b> (LQA) is a comprehensive, multi-level process         that includes a large number of factors that all aim to measure, control and increase the         linguistic quality of any text.</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_37" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="machine_translation"><resourceid appid="machine_translation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_37" class="- topic/navtitle ">Machine translation</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><xref class="- topic/xref " href="glossary/g_machine_translation.dita">Machine translation</xref>         engines are third-party systems that are not standard components of a TMS. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_28" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="connectors"><resourceid appid="connectors" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_28" class="- topic/navtitle ">Connectors</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to gain more control over your content by integrating content management         systems and translation management systems via a connector.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="security"><resourceid appid="security" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Security</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Nowadays, data security is on top of mind of all businesses, with the translation         industry being no exception. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_29" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="documentation"><resourceid appid="documentation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_29" class="- topic/navtitle ">Documentation</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">When you start working with a new tool, it is extremely useful to have relevant         documentation at hand to refer to it when you need it. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_38" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="support"><resourceid appid="support" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_38" class="- topic/navtitle ">Support</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">High-quality documentation is useful, but in some cases it may not be enough. As with         every IT tool, with TMSs you can also experience technical problems. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_39" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="product_development"><resourceid appid="product_development" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_39" class="- topic/navtitle ">Product development</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You have bought a TMS and what comes next? Since every IT tool is upgraded from time         to time and you get the new version instantly if you use the cloud-based software, you need         to be ready for constant changes.</shortdesc></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="key_tms_features"><resourceid appid="key_tms_features" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Key TMS features</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Every TMS should have certain features you should look for to meet your business         needs.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_32" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="project_management"><resourceid appid="project_management" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_32" class="- topic/navtitle ">Project management </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Even though the primary goal of a TMS is to automate a lot of tasks in the         translation process, it still requires <b class="+ topic/ph hi-d/b ">people</b> to manage it. </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_40" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="searcher"><resourceid appid="searcher" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_40" class="- topic/navtitle ">Searcher</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Each TMS is an extensive and comprehensive tool to manage your translatable content.         As a result, it is very important that it has a <b class="+ topic/ph hi-d/b ">good searcher</b> so that you could         easily find what you are looking for.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_41" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="notifications"><resourceid appid="notifications" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_41" class="- topic/navtitle ">Notifications</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">An intelligent TMS should act as a project manager and communicator between team         members, and notify everyone working on it when they have new tasks, and when there is new         content ready for translation. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_42" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="analytics"><resourceid appid="analytics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_42" class="- topic/navtitle ">Analytics</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">According to <i class="+ topic/ph hi-d/i ">The Economist,</i> data is now the most valuable resource in the         world, ahead of oil. That is why it should be regarded as the company's biggest asset. The         translation process is no different. You should be able to present the management with all         kinds of data at any time.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_30" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="workflows"><resourceid appid="workflows" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_30" class="- topic/navtitle ">Workflows</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">One of the main features of a TMS is <b class="+ topic/ph hi-d/b ">work automation</b>. This is reflected, for         example, by workflows which keep all translation stakeholders on the same page. This is         where the process is actually managed with full traceability.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_43" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="working_outside"><resourceid appid="working_outside" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_43" class="- topic/navtitle ">Working outside</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Often TMSs are based on a subscription model in which you pay for the number of         concurrent users, i.e. people that use the tool at the same time. As a result, it is good if         the TMS offered the possibility for the vendor to work in another CAT tool.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_27" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="file_formats"><resourceid appid="file_formats" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_27" class="- topic/navtitle ">File formats </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You need to know what file formats are usually sent for translation in your company         so that you could decide which TMS to choose.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_45" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="anonymization"><resourceid appid="anonymization" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_45" class="- topic/navtitle ">Anonymization</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">To comply with the <xref class="- topic/xref " format="html" href="https://eur-lex.europa.eu/eli/reg/2016/679/oj" scope="external">GDPR</xref>, companies are required to anonymize clients'         TM content, essentially remove personal data.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_46" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="mobile_version"><resourceid appid="mobile_version" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_46" class="- topic/navtitle ">Mobile version</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The world goes mobile, so do TMSs.</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_33" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="finance_management"><resourceid appid="finance_management" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_33" class="- topic/navtitle ">Finance management </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The main reason for investing in a TMS is to reduce costs that your organization         spends on translation in general. See how can this tool help you achieve it.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_48" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="rate_cards"><resourceid appid="rate_cards" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_48" class="- topic/navtitle ">Rate cards</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Rate cards make it easy to estimate costs, calculate a project's budget or choose the         most cost-effective language vendor.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_47" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="quotations"><resourceid appid="quotations" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_47" class="- topic/navtitle ">Purchase orders</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A Purchase Order is the specification of costs that your vendors (e.g. translators,         LSPs) will charge you. </shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_34" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="content_management"><resourceid appid="content_management" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_34" class="- topic/navtitle ">Content management</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A TMS maintains all the translation-related content centrally to be accessed in real         time. </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_50" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="tm_management"><resourceid appid="tm_management" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_50" class="- topic/navtitle ">Translation memories </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">TMs are the most important of all translation resources so it's important to choose a         TMS that has the most options to manage them easily.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_51" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="alignment"><resourceid appid="alignment" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_51" class="- topic/navtitle ">Alignment</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">While alignment is a feature shared with a lot of CAT tools, its use can vary from         very difficult to extremely easy so you should choose your TMS carefully.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_52" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="term_bases"><resourceid appid="term_bases" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_52" class="- topic/navtitle ">Termbases</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Using a termbase is an excellent solution for terminology management. TMSs should         have relevant features to make your work easier and quicker.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_53" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="terinology_extraction"><resourceid appid="terinology_extraction" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_53" class="- topic/navtitle ">Terminology extraction</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Computer-aided terminology extraction proves useful when you need to search for         customer-specific vocabulary.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_54" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concordance"><resourceid appid="concordance" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_54" class="- topic/navtitle ">Concordance</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Context is the king in translation. Here is how Concordance helps linguists make the         most of translation resources in XTM.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_44" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="language_variants"><resourceid appid="language_variants" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_44" class="- topic/navtitle ">Language variants</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Some languages have variants that you want to preserve in separate translation         memories. However, a problem appears if you want to leverage on cost reductions due to a         high number of matches from a <xref class="- topic/xref " href="glossary/g_translation_memory.dita">TM</xref>         with a different language variant.</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_35" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="translation_editor_workbench"><resourceid appid="translation_editor_workbench" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_35" class="- topic/navtitle ">Translation editor (Workbench)</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Currently, hardly anyone translates in an original document, be it Word, HTML file or         InDesign. Most translators and reviewers work in <b class="+ topic/ph hi-d/b ">special text editors</b> that are core         CAT tool components.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_55" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="dealing_with_inline_tags"><resourceid appid="dealing_with_inline_tags" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_55" class="- topic/navtitle ">Inline tags</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><xref class="- topic/xref " href="glossary/g_inline_tag.dita">Inline tags</xref> are non-translation         elements located within a segment of translatable text (e.g. in a sentence).</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_56" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="preview"><resourceid appid="preview" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_56" class="- topic/navtitle ">Preview</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The aim of the visual mode in TMSs is to show you a preview of the source and target         file so that linguists could click on the text in the preview and enter or correct a         translation in the target segment. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_57" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="filtering"><resourceid appid="filtering" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_57" class="- topic/navtitle ">Filtering</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You choose a TMS for time and cost savings so one way to make you and your linguists         work faster is to use <b class="+ topic/ph hi-d/b ">filters</b> in the text editor. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_58" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="offline_editor"><resourceid appid="offline_editor" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_58" class="- topic/navtitle ">Offline editor</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Sometimes you know you will not have internet access (rare cases nowadays but it can         still happen if you are able to work from anywhere) and you would like to have your job         done.</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_36" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="quality_management"><resourceid appid="quality_management" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_36" class="- topic/navtitle ">Quality management</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">There are still discussions on what should be considered a high-quality translation.         Is it an error-free document in the target language or the smooth process where every step         complies with the established procedure?</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_22" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="automatic_qa"><resourceid appid="automatic_qa" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Quality Assurance</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Automatic QA tools to check translations have become the standard in the translation         industry. Many of them are built-in with the various CAT tools, but some are also available         separately. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="lqa"><resourceid appid="lqa" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">Linguistic Quality Assurance</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><b class="+ topic/ph hi-d/b ">Linguistic Quality Assurance</b> (LQA) is a comprehensive, multi-level process         that includes a large number of factors that all aim to measure, control and increase the         linguistic quality of any text.</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_37" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="machine_translation"><resourceid appid="machine_translation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_37" class="- topic/navtitle ">Machine translation</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><xref class="- topic/xref " href="glossary/g_machine_translation.dita">Machine translation</xref>         engines are third-party systems for automatic translation that are not standard components         of a TMS.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_28" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="connectors"><resourceid appid="connectors" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_28" class="- topic/navtitle ">Connectors</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to gain more control over your content by integrating content management         systems and translation management systems via a connector.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="security"><resourceid appid="security" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Security</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Nowadays, data security is on top of mind of all businesses, with the translation         industry being no exception. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_29" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="documentation"><resourceid appid="documentation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_29" class="- topic/navtitle ">Documentation</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">When you start working with a new tool, it is extremely useful to have relevant         documentation at hand to refer to it when you need it. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_38" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="support"><resourceid appid="support" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_38" class="- topic/navtitle ">Support</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">High-quality documentation is useful, but in some cases it may not be enough. As with         every IT tool, with TMSs you can also experience technical problems. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_39" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="product_development"><resourceid appid="product_development" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_39" class="- topic/navtitle ">Product development</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You have bought a TMS and what comes next? Since every IT tool is upgraded from time         to time and you get the new version instantly if you use the cloud-based software, you need         to be ready for constant changes.</shortdesc></topicmeta></topicref></topicref>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_26" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="vendor_management"><resourceid appid="vendor_management" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">Go-Live</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Once you have made your <xref class="- topic/xref " href="topics/how_to_make_a_final_decision.dita">decision</xref>, it's time to think how to move your process to the selected         TMS.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_61" type="task"><topicmeta class="- map/topicmeta " data-topic-id="preparing_for_launch"><resourceid appid="preparing_for_launch" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_61" class="- topic/navtitle ">Preparing for launch</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You have made your choice and still need to comply with a lot of formalities before         you can start working with your TMS.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_31" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="access_rights"><resourceid appid="access_rights" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_31" class="- topic/navtitle ">Managing user access rights and roles</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">TMS is a platform where all translation project participants meet. To streamline its         operations, you should manage your vendors in a structured and efficient way so that all         parties are satisfied with this cooperation and bring your translation process to the next         level.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_62" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_integrate_your_vendors_in_xtm"><resourceid appid="how_to_integrate_your_vendors_in_xtm" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_62" class="- topic/navtitle ">Setting up TMS to work with your vendors</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This is how you can set up the TMS environment for your translation vendors based on         the XTM example.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="best_practices_of_cooperation"><resourceid appid="best_practices_of_cooperation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Agreeing on best cooperation practices</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Once you have set up the TMS in your company, you need to inform your vendors that         you will soon use it for all the translation projects.</shortdesc></topicmeta></topicref></topicref>
     
-    <?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><topicref is-chapter="true" class="- map/topicref " href="#unique_64" print="yes" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="r_glossary"><resourceid appid="r_glossary" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_64" class="- topic/navtitle ">Glossary</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Find the meaning of some key terms from the translation and localization         industry.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_63" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_dpa"><resourceid appid="g_dpa" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_63" class="- topic/navtitle ">Data Protection Agreement (DPA)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_49" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="fuzzy_matches"><resourceid appid="fuzzy_matches" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_49" class="- topic/navtitle ">Fuzzy matches</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_59" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="inline_tag"><resourceid appid="inline_tag" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_59" class="- topic/navtitle ">Inline tag</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_65" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_localization"><resourceid appid="g_localization" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_65" class="- topic/navtitle ">Localization (L10n)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_lsp"><resourceid appid="g_lsp" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Language Service Provider (LSP)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_machine_translation"><resourceid appid="g_machine_translation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Machine translation (MT)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="nda"><resourceid appid="nda" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Non-Disclosure Agreement (NDA)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_60" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_post_editing"><resourceid appid="g_post_editing" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_60" class="- topic/navtitle ">Post-editing (PE)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="SLA"><resourceid appid="SLA" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Service Level Agreement (SLA)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_20" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_termbase"><resourceid appid="g_termbase" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Termbase (TB)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_translation_memory"><resourceid appid="g_translation_memory" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Translation memory (TM)</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+    <?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><topicref is-chapter="true" class="- map/topicref " href="#unique_64" print="yes" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="r_glossary"><resourceid appid="r_glossary" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_64" class="- topic/navtitle ">Glossary</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Find the meaning of some key terms from the translation and localization         industry.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_63" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_dpa"><resourceid appid="g_dpa" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_63" class="- topic/navtitle ">Data Protection Agreement (DPA)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="fuzzy_matches"><resourceid appid="fuzzy_matches" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Fuzzy matches</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_59" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="inline_tag"><resourceid appid="inline_tag" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_59" class="- topic/navtitle ">Inline tag</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_65" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_localization"><resourceid appid="g_localization" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_65" class="- topic/navtitle ">Localization (L10n)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_lsp"><resourceid appid="g_lsp" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Language Service Provider (LSP)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_49" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_machine_translation"><resourceid appid="g_machine_translation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_49" class="- topic/navtitle ">Machine translation (MT)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="nda"><resourceid appid="nda" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Non-Disclosure Agreement (NDA)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_60" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_post_editing"><resourceid appid="g_post_editing" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_60" class="- topic/navtitle ">Post-editing (PE)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="SLA"><resourceid appid="SLA" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Service Level Agreement (SLA)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_20" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_termbase"><resourceid appid="g_termbase" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Termbase (TB)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" print="yes" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_translation_memory"><resourceid appid="g_translation_memory" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Translation memory (TM)</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
 </opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="introduction" oid="introduction" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Introduction to TMS</ph></title>
     <shortdesc class="- topic/shortdesc ">Learn who needs this manual and when a TMS is a better choice than a CAT
@@ -27,8 +27,8 @@
                     professionals</b> working both in <b class="+ topic/ph hi-d/b ">enterprises</b> and for <b class="+ topic/ph hi-d/b ">language service
                     providers</b>. It will be useful for those who already have some experience with
                 CAT tools, but are now looking for more comprehensive solutions. The target audience
-                also includes persons wishing to bring the work onto a new level by starting to work
-                with a TMS or change to another one.</p>
+                also includes persons wishing to bring their work onto a new level by starting to
+                use a TMS or by switching to another one.</p>
             <p class="- topic/p ">It is not another marketing presentation. Quite the contrary: it is a very practical
                 documentation on <xref class="- topic/xref " href="#unique_2" type="concept"><?ditaot usertext?>TMS features<?ditaot genshortdesc?><desc class="- topic/desc ">Every TMS should have certain features you should look for to meet your business         needs.</desc></xref> important
                 from business perspective. There is no one-fits-all solution. Every company has
@@ -45,9 +45,9 @@
             <title class="- topic/title ">What can you find in this manual?</title>
             <p class="- topic/p ">
                 <ul class="- topic/ul " id="unique_1_Connect_42_ul_n2p_snj_jtb" nd:nd-id="ul_n2p_snj_jtb">
-                    <li class="- topic/li ">Brief <xref class="- topic/xref " href="#unique_3" type="concept"><?ditaot usertext?>description<?ditaot genshortdesc?><desc class="- topic/desc ">A <b class="+ topic/ph hi-d/b ">translation management system (TMS)</b> is a type of software used for         comprehensive work with translation projects. It is a centralized platform that comprises         various tools, performs an abundance of tasks, and allows to achieve numerous         goals</desc></xref> and <xref class="- topic/xref " href="#unique_4" type="concept"><?ditaot usertext?>overview<?ditaot genshortdesc?><desc class="- topic/desc ">The market for TMSs is very varied and changes rapidly.</desc></xref> of TMS available in the
+                    <li class="- topic/li ">Brief <xref class="- topic/xref " href="#unique_3" type="concept"><?ditaot usertext?>description<?ditaot genshortdesc?><desc class="- topic/desc ">A <b class="+ topic/ph hi-d/b ">translation management system (TMS)</b> is a type of software used for         comprehensive work with translation projects. It is a centralized platform that comprises         various tools, performs an abundance of tasks, and allows to achieve numerous         goals</desc></xref> and <xref class="- topic/xref " href="#unique_4" type="concept"><?ditaot usertext?>overview<?ditaot genshortdesc?><desc class="- topic/desc ">There is a great number of Translation Management Systems available to meet different         business needs.</desc></xref> of TMS available in the
                         market (2022)</li>
-                    <li class="- topic/li ">Reasons <xref class="- topic/xref " href="#unique_5" type="concept"><?ditaot usertext?>for</xref> and <xref class="- topic/xref " href="#unique_6" type="concept"><?ditaot usertext?>against<?ditaot genshortdesc?><desc class="- topic/desc ">As with every new tool, there is a risk your business will resist to the         change.</desc></xref>
+                    <li class="- topic/li ">Reasons <xref class="- topic/xref " href="#unique_5" type="concept"><?ditaot usertext?>for<?ditaot genshortdesc?><desc class="- topic/desc ">There may come a day in the life of an organization when their current translation         and localization efforts are not enough for business operations and something must         change.</desc></xref> and <xref class="- topic/xref " href="#unique_6" type="concept"><?ditaot usertext?>against<?ditaot genshortdesc?><desc class="- topic/desc ">As with every new tool, there is a risk your business will resist to the         change.</desc></xref>
                         having a TMS</li>
                     <li class="- topic/li "><xref class="- topic/xref " href="#unique_7" type="task"><?ditaot usertext?>Steps<?ditaot genshortdesc?><desc class="- topic/desc ">The TMS market is often confusing and still evolving. That's why the decision to buy         a new system or change an existing one is not easy.</desc></xref> that you should
                         take when deciding to buy a TMS</li>
@@ -143,37 +143,32 @@
             also by project managers. Each TMS has a CAT tool as one of its components.</p>
         <p class="- topic/p ">The <b class="+ topic/ph hi-d/b ">most popular</b> CAT tools in the market are:</p>
         <ul class="- topic/ul " id="unique_11_Connect_42_ul_vgz_xfb_zsb" nd:nd-id="ul_vgz_xfb_zsb">
-            <li class="- topic/li ">SDL Trados Studio</li>
-            <li class="- topic/li ">memoQ</li>
-            <li class="- topic/li ">Wordfast (Classic &amp; Pro)</li>
-            <li class="- topic/li ">Déjà Vu</li>
-            <li class="- topic/li ">Across</li>
-            <li class="- topic/li ">Transit (by STAR)</li>
+            <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://www.trados.com/products/trados-studio/" scope="external"><?ditaot usertext?>Trados Studio</xref></li>
+            <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://www.memoq.com/" scope="external"><?ditaot usertext?>memoQ</xref></li>
+            <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://www.wordfast.com/" scope="external"><?ditaot usertext?>Wordfast</xref> (Classic &amp; Pro)</li>
+            <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://atril.com/" scope="external"><?ditaot usertext?>Déjà Vu</xref></li>
+            <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://www.across.net/en/across-translator-edition-cat-tool" scope="external"><?ditaot usertext?>Across</xref></li>
+            <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://www.star-group.net/en/downloads/transit-termstar.html" scope="external"><?ditaot usertext?>Transit</xref> (by STAR)</li>
         </ul>
         <p class="- topic/p ">There are also some <b class="+ topic/ph hi-d/b ">free</b> tools for users not requiring sophisticated features:</p>
         <ul class="- topic/ul " id="unique_11_Connect_42_ul_svt_fgb_zsb" nd:nd-id="ul_svt_fgb_zsb">
-            <li class="- topic/li ">OmegaT</li>
-            <li class="- topic/li ">Wordfast Anywhere</li>
-            <li class="- topic/li ">MateCat</li>
-            <li class="- topic/li ">SmartCAT</li>
-            <li class="- topic/li ">Virtaal</li>
+            <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://omegat.org/" scope="external"><?ditaot usertext?>OmegaT</xref></li>
+            <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://www.wordfast.com/products_wordfast_anywhere" scope="external"><?ditaot usertext?>Wordfast Anywhere</xref></li>
+            <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://www.matecat.com/" scope="external"><?ditaot usertext?>MateCat</xref></li>
+            <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://www.smartcat.com/" scope="external"><?ditaot usertext?>SmartCAT</xref></li>
+            <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://virtaal.translatehouse.org/" scope="external"><?ditaot usertext?>Virtaal</xref></li>
         </ul>
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="cloud_vs_onsite_system" oid="cloud_vs_onsite_system" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Cloud vs. onsite system</ph></title>
-    <shortdesc class="- topic/shortdesc ">TMSs can be offered as cloud-based or on-premise solutions.</shortdesc>
+    <shortdesc class="- topic/shortdesc ">TMSs can be offered as cloud-based or on-premise solutions, or as a combination of
+        both.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">Most of the TMSs available on the market are offered:</p>
-        <ul class="- topic/ul " id="unique_12_Connect_42_ul_bt4_ns1_zsb" nd:nd-id="ul_bt4_ns1_zsb">
-            <li class="- topic/li ">as cloud-based only</li>
-            <li class="- topic/li ">as onsite only or </li>
-            <li class="- topic/li ">in the hybrid model: cloud and onsite with only some features different</li>
-        </ul>
         <p class="- topic/p ">There are companies which would only choose the solution that is physically installed on
             their servers due to security issues and they have resources to manage it. Add to that a
             high initial price, difficult installation, maintenance costs and the need to pay for
-            each upgrade (after a certain grace period is over) and you will quickly find out why
-            the cloud-based TMS is a better option for you.</p>
+            each upgrade (after a certain grace period is over) and you may find out that the
+            cloud-based TMS is a better option for you.</p>
         <section class="- topic/section " id="unique_12_Connect_42_section_gxs_jpj_jtb" nd:nd-id="section_gxs_jpj_jtb">
             <title class="- topic/title ">What are the advantages of the cloud system?</title>
             <p class="- topic/p ">
@@ -230,14 +225,14 @@
         <p class="- topic/p ">A <b class="+ topic/ph hi-d/b ">public cloud</b> is cloud computing with resources (hardware, software, storage,
             network devices, etc.) owned and operated by a third-party cloud service provider and
             delivered over the internet. Clients share the same infrastructure with other
-            organizations (known as “tenants”) accessing services and managing their accounts using
-            a web browser.</p>
+            organizations (known as “tenants”) accessing services and managing their accounts with a
+            web browser.</p>
         <p class="- topic/p ">A <b class="+ topic/ph hi-d/b ">hybrid cloud</b> is cloud computing that uses both public and private clouds, or
             combine online and on-premises resources. Infrastructure components can share the
             resources between public and private cloud deployment depending on the business needs.
             It is often used by organizations that require assistance in the form of public cloud
-            services e.g. to meet increased traffic demand or private clouds to handle sensitive
-            data. It is the most complex solution requiring some IT knowledge.</p>
+            services e.g. to meet increased traffic demand - and private clouds to handle sensitive
+            data. It is the most complex solution requiring a good IT setup.</p>
         <p class="- topic/p ">In the table below you will find a <b class="+ topic/ph hi-d/b ">comparison of the most important cloud
             aspects</b>:</p>
         <table class="- topic/table " frame="all" id="unique_16_Connect_42_table_odl_bhb_zsb" nd:nd-id="table_odl_bhb_zsb">
@@ -322,11 +317,11 @@
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="market_overview1" oid="market_overview1" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Market overview</ph></title>
-    <shortdesc class="- topic/shortdesc ">The market for TMSs is very varied and changes rapidly.</shortdesc>
+    <shortdesc class="- topic/shortdesc ">There is a great number of Translation Management Systems available to meet different
+        business needs.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">There is a great number of Translation Management Systems available to meet different
-            business needs. Below you can find a graphical representation from Nimdzi Language
-            Technology Atlas 2020, listing all TMSs divided into special-purpose categories:</p>
+        <p class="- topic/p ">Below you can find a graphical representation from Nimdzi Language Technology Atlas 2020,
+            listing all TMSs divided into special-purpose categories:</p>
         <fig class="- topic/fig " id="unique_4_Connect_42_fig_rtf_yzh_zsb" nd:nd-id="fig_rtf_yzh_zsb"><title class="- topic/title "><i class="+ topic/ph hi-d/i ">Translation Management Systems</i></title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/Atlas-2020-v1.03-Web_2.6MB_3000px_wide-scaled.jpg" id="unique_4_Connect_42_image_stf_yzh_zsb" nd:nd-id="image_stf_yzh_zsb" placement="inline" width="468" height="426" scale="50">
                 <alt class="- topic/alt ">Translation Management Systems</alt>
             </image></fig>
@@ -522,11 +517,10 @@
     </conbody>
 <related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>What is a TMS?</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">A <b class="+ topic/ph hi-d/b ">translation management system (TMS)</b> is a type of software used for         comprehensive work with translation projects. It is a centralized platform that comprises         various tools, performs an abundance of tasks, and allows to achieve numerous         goals</desc></link></linkpool></related-links><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="which_companies_need_a_tms" oid="which_companies_need_a_tms" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Which companies need a TMS?</ph></title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc ">There may come a day in the life of an organization when their current translation
+        and localization efforts are not enough for business operations and something must
+        change.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">There may come a day in the life of an organization when the management considers the
-            current translation and localization efforts are not enough for business operations and
-            something must change.</p>
         <section class="- topic/section " id="unique_5_Connect_42_section_dqn_nqj_jtb" nd:nd-id="section_dqn_nqj_jtb">
             <title class="- topic/title ">What are the reasons for a company to start thinking of buying a TMS?</title>
             <p class="- topic/p ">
@@ -575,9 +569,9 @@
                     <li class="- topic/li ">has no in-house translation or localization experts</li>
                     <li class="- topic/li ">already has a content management system (CMS) or a product management system
                         (PIM) in place with translation features</li>
-                    <li class="- topic/li ">invests costs in a TMS (subscription or installation/maintenance fees) that
-                        exceed the savings generated from its use (TM discounts, <xref class="- topic/xref " href="#unique_21" type="glossentry"><?ditaot usertext?>MT</xref> use, less work
-                        for internal reviewers and due to content reuse)</li>
+                    <li class="- topic/li ">potential costs of a TMS (subscription or installation/maintenance fees)
+                        would exceed the savings from its use (<xref class="- topic/xref " href="#unique_21" type="glossentry"><?ditaot usertext?>TM discounts</xref>, <xref class="- topic/xref " format="html" href="https://komunikacjatechnicznavistula.github.io/Marta-Borkowska/glossary/r_glossary.html#g_machine_translation" scope="external"><?ditaot usertext?>MT</xref> use, less work for internal
+                        reviewers or content reuse)</li>
                 </ul>
             </p>
             <p class="- topic/p ">In such cases CAT tools (with a server or group-sharing feature) or outsourcing the
@@ -659,9 +653,9 @@
                         <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7"><i class="+ topic/ph hi-d/i ">Our current translation vendors will not want to use it. Each of
                                 them have their own TMS and CAT tools.</i></entry>
                         <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">Most TMSs enable exporting packages to be processed in any CAT tool
-                            (interoperability). As a result, <xref class="- topic/xref " href="#unique_17" type="glossentry"><?ditaot usertext?>LSPs</xref> or freelancers can still use their preferred resources
-                            with a possibility to translate in the TMS Editor as well (thus saving
-                            on their license costs).</entry>
+                            (interoperability). <xref class="- topic/xref " format="html" href="https://komunikacjatechnicznavistula.github.io/Marta-Borkowska/glossary/r_glossary.html#g_lsp" scope="external"><?ditaot usertext?>LSPs</xref> or freelancers can still
+                            use their preferred resources - or can translate in the TMS Editor as
+                            well (thus saving on their license costs).</entry>
                     </row>
                     <row class="- topic/row ">
                         <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8"><i class="+ topic/ph hi-d/i ">I feel it more secure when all translation memories are saved on
@@ -669,13 +663,13 @@
                         <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">The TMS provider will sign an <xref class="- topic/xref " href="#unique_14" type="glossentry"><?ditaot usertext?>NDA</xref> agreement with us and it ensures continuous back-up of
                             our data on several secure servers. Anyway, you can always lose access
                             to your hard drives due to a computer failure as well and then no one
-                            will be to retrieve this content.</entry>
+                            will be able to retrieve this content.</entry>
                     </row>
                     <row class="- topic/row ">
                         <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9"><i class="+ topic/ph hi-d/i ">I fear this change will have a negative impact on the translation
                                 quality. An IT tool cannot be better than human.</i></entry>
                         <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">All TMSs contain built-in <xref class="- topic/xref " href="#unique_22" type="concept"><?ditaot usertext?>QA
-                            <?ditaot genshortdesc?><desc class="- topic/desc ">Automatic QA tools to check translations have become the norm in the translation         industry. Many of them are built-in with the various CAT tools, but some are also available         separately. </desc></xref>and <xref class="- topic/xref " href="#unique_23" type="concept"><?ditaot usertext?>LQA<?ditaot genshortdesc?><desc class="- topic/desc "><b class="+ topic/ph hi-d/b ">Linguistic Quality Assurance</b> (LQA) is a comprehensive, multi-level process         that includes a large number of factors that all aim to measure, control and increase the         linguistic quality of any text.</desc></xref> features which automate
+                            <?ditaot genshortdesc?><desc class="- topic/desc ">Automatic QA tools to check translations have become the standard in the translation         industry. Many of them are built-in with the various CAT tools, but some are also available         separately. </desc></xref>and <xref class="- topic/xref " href="#unique_23" type="concept"><?ditaot usertext?>LQA<?ditaot genshortdesc?><desc class="- topic/desc "><b class="+ topic/ph hi-d/b ">Linguistic Quality Assurance</b> (LQA) is a comprehensive, multi-level process         that includes a large number of factors that all aim to measure, control and increase the         linguistic quality of any text.</desc></xref> features which automate
                             quality assurance and allow you to spot mistakes sometimes not easily
                             noticed by proofreaders.</entry>
                     </row>
@@ -738,9 +732,8 @@
         </steps>
         <postreq class="- topic/section task/postreq " id="unique_7_Connect_42_postreq_owb_gtp_2tb" nd:nd-id="postreq_owb_gtp_2tb">
             <note class="- topic/note " id="unique_7_Connect_42_note_kjt_4jm_jtb" nd:nd-id="note_kjt_4jm_jtb">The whole process can take even a few months so be prepared
-                to allocate a specific period of time. Don't hurry up - the decision is important
-                and costly! I also recommend to set yourself a go-live date early and try to stick
-                to it.</note>
+                to allocate the time. Don't hurry up - the decision is important and costly! I
+                recommend to set a realistic go-live date - and try to stick to it!</note>
             <p class="- topic/p ">In the end, what you are looking for is:</p>
             <ul class="- topic/ul " id="unique_7_Connect_42_ul_fwf_gtp_2tb" nd:nd-id="ul_fwf_gtp_2tb">
                 <li class="- topic/li ">higher team productivity</li>
@@ -836,7 +829,7 @@
             answers to the above questions with recommendation on the further development of the
             translation process.</result>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_12" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Cloud vs. onsite system</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">TMSs can be offered as cloud-based or on-premise solutions.</desc></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_25" topicrefclass="- map/topicref " nd:nd-id="researching" oid="researching" specializations="@props/deliveryTarget">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_12" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Cloud vs. onsite system</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">TMSs can be offered as cloud-based or on-premise solutions, or as a combination of         both.</desc></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_25" topicrefclass="- map/topicref " nd:nd-id="researching" oid="researching" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Researching the TMS market</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <taskbody class="- topic/body task/taskbody ">
@@ -883,6 +876,11 @@
                 </substeps>
             </step>
             <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Consult your TMS shortlist with relevant stakeholders (e.g. internal reviewers,
+                    marketing team, software developers). Ask about their needs, fears, must-have
+                    features and recommendations.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Check how a TMS works in practice:</cmd>
                 <substeps class="- topic/ol task/substeps " id="unique_25_Connect_42_substeps_l4d_5vp_2tb" nd:nd-id="substeps_l4d_5vp_2tb">
                     <substep class="- topic/li task/substep ">
@@ -907,11 +905,6 @@
                 </substeps>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Consult your choice of a TMS with relevant stakeholders (e.g. internal
-                    reviewers, marketing team, software developers). Ask about their needs, fears,
-                    must-have features and recommendations.</cmd>
-            </step>
-            <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Make a final decision on a TMS and prepare an offer for your management,
                     including its:</cmd>
                 <substeps class="- topic/ol task/substeps " id="unique_25_Connect_42_substeps_bgn_bwp_2tb" nd:nd-id="substeps_bgn_bwp_2tb">
@@ -934,7 +927,7 @@
             </step>
         </steps>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_4" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Market overview</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">The market for TMSs is very varied and changes rapidly.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_2" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Key TMS features</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Every TMS should have certain features you should look for to meet your business         needs.</desc></link></linkpool></related-links></task><concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="roi" oid="roi" specializations="@props/deliveryTarget">
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_4" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Market overview</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">There is a great number of Translation Management Systems available to meet different         business needs.</desc></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_2" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Key TMS features</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Every TMS should have certain features you should look for to meet your business         needs.</desc></link></linkpool></related-links></task><concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="roi" oid="roi" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Budgeting</ph></title>
     <shortdesc class="- topic/shortdesc ">Once considered an additional expense of doing business, translation is now a driver
         of growth and revenue when done right.</shortdesc>
@@ -952,12 +945,12 @@
         <p class="- topic/p ">You can check the official <xref class="- topic/xref " format="html" href="https://xtm.cloud/pricing/" scope="external"><?ditaot usertext?>XTM pricing</xref>, but it is also a good practice of TMS providers
             to offer discounts to regular customers or for bigger purchase volume.</p>
         <p class="- topic/p ">Usually, each TMS offer has different plans with available features for various target
-            groups (e.g. small translation teams, bigger <xref class="- topic/xref " href="#unique_17" type="glossentry"><?ditaot usertext?>LSPs</xref>, enterprises). If you decide to buy XTM Cloud, you <b class="+ topic/ph hi-d/b ">pay for the
-                number of concurrent users.</b> Their plan for enterprises includes license bands,
-            which are based on the rate, multiplied by the number of users.</p>
+            groups (e.g. small translation teams, bigger <xref class="- topic/xref " href="#unique_17" type="glossentry"><?ditaot usertext?>LSPs</xref>, enterprises). If you decide to buy <xref class="- topic/xref " format="html" href="https://xtm.cloud/" scope="external"><?ditaot usertext?>XTM Cloud</xref>, you <b class="+ topic/ph hi-d/b ">pay for the number of
+                concurrent users.</b> Their plan for enterprises includes license bands, which are
+            based on the rate, multiplied by the number of users.</p>
         <p class="- topic/p ">For example, for 10 concurrent users you can spend approx. <b class="+ topic/ph hi-d/b ">€ 6,000</b> per year plus
-                <b class="+ topic/ph hi-d/b ">€ 3,000</b> if you need special connectors (e.g. for InDesign files and MT
-            engine). </p>
+                <b class="+ topic/ph hi-d/b ">€ 3,000</b> if you need special <xref class="- topic/xref " href="#unique_28" type="concept"><?ditaot usertext?>connectors<?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to gain more control over your content by integrating content management         systems and translation management systems via a connector.</desc></xref>
+            (e.g. for InDesign files and MT engine). </p>
         <p class="- topic/p ">You need to balance this investment with savings that you have on your translation
             projects (due to the reuse of previous content from translation memories and discounts
             offered by vendors), which can be as high as <b class="+ topic/ph hi-d/b ">60%</b>. Add to that a possibility of
@@ -979,7 +972,7 @@
                 <li class="- topic/li "><xref class="- topic/xref " href="#unique_34" type="concept"><?ditaot usertext?>Content management<?ditaot genshortdesc?><desc class="- topic/desc ">A TMS maintains all the translation-related content centrally to be accessed in real         time. </desc></xref></li>
                 <li class="- topic/li "><xref class="- topic/xref " href="#unique_35" type="concept"><?ditaot usertext?>Translation editor<?ditaot genshortdesc?><desc class="- topic/desc ">Currently, hardly anyone translates in an original document, be it Word, HTML file or         InDesign. Most translators and reviewers work in <b class="+ topic/ph hi-d/b ">special text editors</b> that are core         CAT tool components.</desc></xref></li>
                 <li class="- topic/li "><xref class="- topic/xref " href="#unique_36" type="concept"><?ditaot usertext?>Quality management<?ditaot genshortdesc?><desc class="- topic/desc ">There are still discussions on what should be considered a high-quality translation.         Is it an error-free document in the target language or the smooth process where every step         complies with the established procedure?</desc></xref></li>
-                <li class="- topic/li "><xref class="- topic/xref " href="#unique_37" type="concept"><?ditaot usertext?>Machine translation<?ditaot genshortdesc?><desc class="- topic/desc ">Machine translation         engines are third-party systems that are not standard components of a TMS. </desc></xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " href="#unique_37" type="concept"><?ditaot usertext?>Machine translation<?ditaot genshortdesc?><desc class="- topic/desc ">Machine translation         engines are third-party systems for automatic translation that are not standard components         of a TMS.</desc></xref></li>
                 <li class="- topic/li "><xref class="- topic/xref " href="#unique_28" type="concept"><?ditaot usertext?>Connectors<?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to gain more control over your content by integrating content management         systems and translation management systems via a connector.</desc></xref></li>
                 <li class="- topic/li "><xref class="- topic/xref " href="#unique_13" type="concept"><?ditaot usertext?>Security<?ditaot genshortdesc?><desc class="- topic/desc ">Nowadays, data security is on top of mind of all businesses, with the translation         industry being no exception. </desc></xref></li>
                 <li class="- topic/li "><xref class="- topic/xref " href="#unique_29" type="concept"><?ditaot usertext?>Documentation<?ditaot genshortdesc?><desc class="- topic/desc ">When you start working with a new tool, it is extremely useful to have relevant         documentation at hand to refer to it when you need it. </desc></xref></li>
@@ -1208,7 +1201,7 @@
                 </image></fig>
         </p>
         <p class="- topic/p ">Once you start the process, persons responsible for particular tasks will receive
-            automatic <xref class="- topic/xref " href="#unique_41" type="concept"><?ditaot usertext?>notifications<?ditaot genshortdesc?><desc class="- topic/desc ">An intelligent TMS should act as a project manager and communicator between team         members, and notify everyone working on it when they have new tasks, and when there is new         content ready for translation. </desc></xref> form XTM to their email
+            automatic <xref class="- topic/xref " href="#unique_41" type="concept"><?ditaot usertext?>notifications<?ditaot genshortdesc?><desc class="- topic/desc ">An intelligent TMS should act as a project manager and communicator between team         members, and notify everyone working on it when they have new tasks, and when there is new         content ready for translation. </desc></xref> from XTM to their email
             addresses so there is no need for a Project Manager (PM) to send any additional message.
             PMs also receives emails once a particular step is finished so they can keep an eye on
             the translation process.</p>
@@ -1220,8 +1213,8 @@
         the TMS offered the possibility for the vendor to work in another CAT tool.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">It is possible to work outside a TMS by downloading a package with all language
-            resources. Some translation vendors may not like or be familiar with the TMS that you
-            have bought so this option is also a nice alternative.</p>
+            resources. Some translation vendors may not like, or are not familiar with, the TMS that
+            you have bought so this option is also a nice alternative.</p>
         <p class="- topic/p ">XTM offers an opportunity to download an xliff file from the <i class="+ topic/ph hi-d/i ">Offline translation</i>
             column.</p>
         <p class="- topic/p ">
@@ -1243,12 +1236,13 @@
             to cater for future developments.</p>
         <p class="- topic/p ">It is also good if a TMS supports the original file formats that you use so as to reduce
             the risks of files corrupting after being converted to a replacement format. </p>
-        <p class="- topic/p ">For example: if your company translates a lot of indd files, look for a TMS that
-            processes indd files directly instead of idml files, because after conversion of indd
-            files to idml format you may have the layout distorted or links to images broken, which
-            will result in a lot of additional unnecessary work by a graphic designer.</p>
-        <p class="- topic/p ">In case of an IT company, it is extremely important that a TMS supports such<b class="+ topic/ph hi-d/b "> native
-                formats</b> as .xml, .xliff or .po so as <xref class="- topic/xref " format="html" href="https://localization.pl/thou-shalt-not-excel/" scope="external"><?ditaot usertext?>not to translate using an Excel sheet</xref>.</p>
+        <p class="- topic/p ">For example: if your company translates a lot of Adobe InDesign indd files, look for a
+            TMS that processes indd files directly and does not require idml format only, because
+            after conversion of indd to idml you may have the layout distorted or links to images
+            broken, which will result in a lot of additional work by a graphic designer.</p>
+        <p class="- topic/p ">In case of an IT company, it is extremely important that a TMS supports the<b class="+ topic/ph hi-d/b "> native
+                formats</b> used by your development, such as XML, resw/resx, JSON or .po - so as
+                <xref class="- topic/xref " format="html" href="https://localization.pl/thou-shalt-not-excel/" scope="external"><?ditaot usertext?>not to translate using an Excel sheet</xref>.</p>
         <p class="- topic/p ">XTM supports the following <b class="+ topic/ph hi-d/b ">file formats</b> for translation:<ul class="- topic/ul " id="unique_27_Connect_42_ul_ow2_w3q_2tb" nd:nd-id="ul_ow2_w3q_2tb">
                 <li class="- topic/li ">Adobe FrameMaker (mif)</li>
                 <li class="- topic/li ">Adobe Illustrator (fxg, svg, ai,)</li>
@@ -1290,11 +1284,11 @@
                 <li class="- topic/li ">xml</li>
                 <li class="- topic/li ">yml, yaml</li>
             </ul></p>
-        <p class="- topic/p ">Some TMSs require a filter to be able to process a particular file format that is either
-            embedded or similar to the native one. For example, if you want to translate a Markdown
-            file in memoQ, which is not supported there, you need to apply a plain text filter. As a
-            result, special Markdown tags will still appear in the Editor and if used improperly by
-            a translator, can result in more work to bring it back to the original format. XTM
+        <p class="- topic/p ">Some TMSs require a filter to be able to process a particular file format that is not
+            supported by default. For example, if you want to translate a Markdown file in memoQ,
+            you need to apply a plain text filter and add rules to handle Markdown syntax. As a
+            result, some Markdown tags may appear in the Editor as plain text and if used improperly
+            by a translator, can result in more work to bring them back in the translated text. XTM
             processes .md files without a filter so you can save your time and effort for more
             productive tasks.</p>
         <p class="- topic/p ">
@@ -1308,19 +1302,16 @@
     <shortdesc class="- topic/shortdesc ">To comply with the <xref class="- topic/xref " format="html" href="https://eur-lex.europa.eu/eli/reg/2016/679/oj" scope="external"><?ditaot usertext?>GDPR</xref>, companies are required to anonymize clients'
         TM content, essentially remove personal data.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "> One of the features ensuring data protection is <i class="+ topic/ph hi-d/i ">anonymization</i> (also called<i class="+ topic/ph hi-d/i ">
-                pseudonymization</i>).</p>
-        <p class="- topic/p ">In XTM the anonymization feature is based on Named Entity Recognition (NER). Its purpose
+        <p class="- topic/p "> One of the features ensuring data protection is <i class="+ topic/ph hi-d/i "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Data_anonymization" scope="external"><?ditaot usertext?>anonymization</xref></i> (with a variation of<i class="+ topic/ph hi-d/i ">
+                <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Pseudonymization" scope="external"><?ditaot usertext?>pseudonymization</xref></i>).</p>
+        <p class="- topic/p ">In XTM, the anonymization feature is based on Named Entity Recognition (NER). Its purpose
             is to protect private or personally identifiable data. It identifies confidential data
             by converting it to inline tags, while still maintaining the integrity of the data
             itself.</p>
         <p class="- topic/p ">As a result, there is no risk of a data leak, whether the text is translated by a human
-            translator or through machine translation.</p>
-        <p class="- topic/p ">To convert sensitive data into inline tags during translation in XTM Workbench, you need
-            to use special MS Word styles. </p>
-        <p class="- topic/p ">This feature is available for all languages, while anonymization applies only to the
-            following languages: Danish, Dutch, English, French, German, Italian, Portuguese,
-            Spanish, Swedish.</p>
+            translator or through machine translation. Anonymization applies only to the following
+            languages: Danish, Dutch, English, French, German, Italian, Portuguese, Spanish,
+            Swedish.</p>
         <p class="- topic/p ">Once the translation process is complete, and the target document is finalized, the
             sensitive data is automatically reinserted into the text.</p>
         <p class="- topic/p ">
@@ -1328,6 +1319,9 @@
                     <alt class="- topic/alt ">Anonymization in XTM</alt>
                 </image></fig>
         </p>
+        <p class="- topic/p ">If you want to use it for any other languages, you need to use special styles in MS Word
+            to be able to convert sensitive data into inline tags during translation in XTM
+            Workbench.</p>
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_46" topicrefclass="- map/topicref " nd:nd-id="mobile_version" oid="mobile_version" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Mobile version</ph></title>
@@ -1358,9 +1352,6 @@
     <shortdesc class="- topic/shortdesc ">The main reason for investing in a TMS is to reduce costs that your organization
         spends on translation in general. See how can this tool help you achieve it.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">It is best if you have all the translation costs under control. However, only a few TMSs
-            have incorporated this important business management function, XTM being one of
-            them.</p>
         <p class="- topic/p ">In the translation industry pricing strategies are very diverse. You can be charged per
             characters, words, lines, both source and target. It is good practice to agree upon one
             model with all of your vendors and apply it in your TMS.</p>
@@ -1384,7 +1375,7 @@
             your vendors:<ul class="- topic/ul " id="unique_48_Connect_42_ul_hqg_vyx_2tb" nd:nd-id="ul_hqg_vyx_2tb">
                 <li class="- topic/li ">language pairs</li>
                 <li class="- topic/li ">base rate, e.g. € 0.10</li>
-                <li class="- topic/li ">percentage rates for different categories of <xref class="- topic/xref " href="#unique_49" type="glossentry"><?ditaot usertext?>matches</xref> (repetitions, <xref class="- topic/xref " href="#unique_21" type="glossentry"><?ditaot usertext?>MT</xref> matches, etc.)</li>
+                <li class="- topic/li ">percentage rates for different categories of <xref class="- topic/xref " href="#unique_21" type="glossentry"><?ditaot usertext?>matches</xref> (repetitions, <xref class="- topic/xref " href="#unique_49" type="glossentry"><?ditaot usertext?>MT</xref> matches, etc.)</li>
             </ul></p>
         <p class="- topic/p ">Here is a sample rate card for a translator:</p>
         <p class="- topic/p ">
@@ -1449,16 +1440,62 @@
         <p class="- topic/p ">Here are some useful features to help you manage your corporate linguistic resources:</p>
         <p class="- topic/p ">
             <ul class="- topic/ul " id="unique_34_Connect_42_ul_ejp_b4m_ftb" nd:nd-id="ul_ejp_b4m_ftb">
-                <li class="- topic/li "><xref class="- topic/xref " href="#unique_50" type="concept"><?ditaot usertext?>Alignment<?ditaot genshortdesc?><desc class="- topic/desc ">While alignment is a feature shared with a lot of CAT tools, its use can vary from         very difficult to extremely easy so you should choose your TMS carefully.</desc></xref></li>
-                <li class="- topic/li "><xref class="- topic/xref " href="#unique_51" type="concept"><?ditaot usertext?>Terminology extraction<?ditaot genshortdesc?><desc class="- topic/desc ">Computer-aided terminology extraction proves useful when you need to search for         customer-specific vocabulary.</desc></xref></li>
-                <li class="- topic/li "><xref class="- topic/xref " href="#unique_52" type="concept"><?ditaot usertext?>TM management<?ditaot genshortdesc?><desc class="- topic/desc ">TMs are the most important of all translation resources so it's important to choose a         TMS that has the most options to manage them easily.</desc></xref></li>
-                <li class="- topic/li "><xref class="- topic/xref " href="#unique_53" type="concept"><?ditaot usertext?>Termbases<?ditaot genshortdesc?><desc class="- topic/desc ">Using a termbase is an excellent solution for terminology management. TMSs should         have relevant features to make your work easier and quicker.</desc></xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " href="#unique_50" type="concept"><?ditaot usertext?>Translation memories<?ditaot genshortdesc?><desc class="- topic/desc ">TMs are the most important of all translation resources so it's important to choose a         TMS that has the most options to manage them easily.</desc></xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " href="#unique_51" type="concept"><?ditaot usertext?>Alignment<?ditaot genshortdesc?><desc class="- topic/desc ">While alignment is a feature shared with a lot of CAT tools, its use can vary from         very difficult to extremely easy so you should choose your TMS carefully.</desc></xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " href="#unique_52" type="concept"><?ditaot usertext?>Termbases<?ditaot genshortdesc?><desc class="- topic/desc ">Using a termbase is an excellent solution for terminology management. TMSs should         have relevant features to make your work easier and quicker.</desc></xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " href="#unique_53" type="concept"><?ditaot usertext?>Terminology extraction<?ditaot genshortdesc?><desc class="- topic/desc ">Computer-aided terminology extraction proves useful when you need to search for         customer-specific vocabulary.</desc></xref></li>
                 <li class="- topic/li "><xref class="- topic/xref " href="#unique_54" type="concept"><?ditaot usertext?>Concordance<?ditaot genshortdesc?><desc class="- topic/desc ">Context is the king in translation. Here is how Concordance helps linguists make the         most of translation resources in XTM.</desc></xref></li>
                 <li class="- topic/li "><xref class="- topic/xref " href="#unique_44" type="concept"><?ditaot usertext?>Language variants<?ditaot genshortdesc?><desc class="- topic/desc ">Some languages have variants that you want to preserve in separate translation         memories. However, a problem appears if you want to leverage on cost reductions due to a         high number of matches from a TM         with a different language variant.</desc></xref></li>
             </ul>
         </p>
     </conbody>
-<concept class="- topic/topic concept/concept " id="unique_50" topicrefclass="- map/topicref " nd:nd-id="alignment" oid="alignment" specializations="@props/deliveryTarget">
+<concept class="- topic/topic concept/concept " id="unique_50" topicrefclass="- map/topicref " nd:nd-id="tm_management" oid="tm_management" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Translation memories </ph></title>
+    <shortdesc class="- topic/shortdesc ">TMs are the most important of all translation resources so it's important to choose a
+        TMS that has the most options to manage them easily.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">XTM has integrated <xref class="- topic/xref " href="#unique_19" type="glossentry"><?ditaot usertext?>Translation
+                Memory</xref> and <xref class="- topic/xref " href="#unique_52" type="concept"><?ditaot usertext?>Terminology<?ditaot genshortdesc?><desc class="- topic/desc ">Using a termbase is an excellent solution for terminology management. TMSs should         have relevant features to make your work easier and quicker.</desc></xref> modules to allow
+            creating, maintaining, and updating translation memories and termbases. All sets of TM
+            assigned to a project are <b class="+ topic/ph hi-d/b ">updated in real time</b> as the translators move from
+            segment to segment. Any changes made to the TM are immediately updated and accessible to
+            all users with appropriate roles and access rights. <note class="- topic/note " id="unique_50_Connect_42_note_mcr_m2x_gtb" nd:nd-id="note_mcr_m2x_gtb">It is a
+                huge advantage of a TMS that TMs do not have to be sent by email or any other file
+                transfer, but are stored and updated centrally on the server.</note></p>
+        <p class="- topic/p ">The translation memory is assigned to the customer and a language pair. You can edit it
+            both in a dedicated <i class="+ topic/ph hi-d/i ">TM Manage</i> tab or directly in <i class="+ topic/ph hi-d/i ">Workbench</i> for a
+            particular segment.</p>
+        <p class="- topic/p ">
+            <fig class="- topic/fig " id="unique_50_Connect_42_fig_lxb_gyk_jtb" nd:nd-id="fig_lxb_gyk_jtb"><title class="- topic/title ">TM management in XTM</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/TM.jpg" id="unique_50_Connect_42_image_mxb_gyk_jtb" nd:nd-id="image_mxb_gyk_jtb" placement="inline" width="670" height="306" scale="50">
+                    <alt class="- topic/alt ">TM management in XTM</alt>
+                </image></fig>
+        </p>
+        <p class="- topic/p ">The TM management system enables you to:</p>
+        <ul class="- topic/ul " id="unique_50_Connect_42_ul_rnx_bhm_ftb" nd:nd-id="ul_rnx_bhm_ftb">
+            <li class="- topic/li ">
+                <p class="- topic/p ">manage your translation resources (edit, approve, delete, search, find and
+                    replace)</p>
+            </li>
+            <li class="- topic/li ">
+                <p class="- topic/p ">import a new TM</p>
+            </li>
+            <li class="- topic/li ">
+                <p class="- topic/p ">export selected TMs in a relevant format </p>
+            </li>
+        </ul>
+        <p class="- topic/p ">Translation memories can be imported into XTM from:<ul class="- topic/ul " id="unique_50_Connect_42_ul_f4p_hhm_ftb" nd:nd-id="ul_f4p_hhm_ftb">
+                <li class="- topic/li ">
+                    <p class="- topic/p ">TMX</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">XLS</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">single-language XLIFF file</p>
+                </li>
+            </ul></p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_51" topicrefclass="- map/topicref " nd:nd-id="alignment" oid="alignment" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Alignment</ph></title>
     <shortdesc class="- topic/shortdesc ">While alignment is a feature shared with a lot of CAT tools, its use can vary from
         very difficult to extremely easy so you should choose your TMS carefully.</shortdesc>
@@ -1471,7 +1508,7 @@
             existing content, style and terminology. In addition, you wish to reduce costs, because
             there are a lot of repetitions and matches.</p>
         <p class="- topic/p ">
-            <fig class="- topic/fig " id="unique_50_Connect_42_fig_pt5_mwk_jtb" nd:nd-id="fig_pt5_mwk_jtb"><title class="- topic/title ">Alignment in XTM</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/Alignment.jpg" id="unique_50_Connect_42_image_qt5_mwk_jtb" nd:nd-id="image_qt5_mwk_jtb" placement="inline" width="428" height="237" scale="60">
+            <fig class="- topic/fig " id="unique_51_Connect_42_fig_pt5_mwk_jtb" nd:nd-id="fig_pt5_mwk_jtb"><title class="- topic/title ">Alignment in XTM</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/Alignment.jpg" id="unique_51_Connect_42_image_qt5_mwk_jtb" nd:nd-id="image_qt5_mwk_jtb" placement="inline" width="428" height="237" scale="60">
                     <alt class="- topic/alt ">Alignment in XTM</alt>
                 </image></fig>
         </p>
@@ -1480,7 +1517,7 @@
             the alignment and analyze the results. In XTM you get an Excel file with texts in two
             columns and a probability score. </p>
         <p class="- topic/p ">
-            <fig class="- topic/fig " id="unique_50_Connect_42_fig_wg5_pwk_jtb" nd:nd-id="fig_wg5_pwk_jtb"><title class="- topic/title ">Result of XTM alignment</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/Aligned%20docs.jpg" id="unique_50_Connect_42_image_xg5_pwk_jtb" nd:nd-id="image_xg5_pwk_jtb" placement="inline" width="774" height="179" scale="60">
+            <fig class="- topic/fig " id="unique_51_Connect_42_fig_wg5_pwk_jtb" nd:nd-id="fig_wg5_pwk_jtb"><title class="- topic/title ">Result of XTM alignment</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/Aligned%20docs.jpg" id="unique_51_Connect_42_image_xg5_pwk_jtb" nd:nd-id="image_xg5_pwk_jtb" placement="inline" width="774" height="179" scale="60">
                     <alt class="- topic/alt ">Result of XTM alignment</alt>
                 </image></fig>
         </p>
@@ -1493,11 +1530,40 @@
             customers on the cloud so sometimes it takes a long time for the file to be returned. It
             also takes longer if you build a dictionary for a new language pair.</p>
         <p class="- topic/p ">
-            <note class="- topic/note " id="unique_50_Connect_42_note_psz_33h_3tb" nd:nd-id="note_psz_33h_3tb">In XTM the <i class="+ topic/ph hi-d/i ">Align</i> feature is only available for the
+            <note class="- topic/note " id="unique_51_Connect_42_note_psz_33h_3tb" nd:nd-id="note_psz_33h_3tb">In XTM the <i class="+ topic/ph hi-d/i ">Align</i> feature is only available for the
                 enterprise account (it is not available for freelance or group accounts).</note>
         </p>
     </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_51" topicrefclass="- map/topicref " nd:nd-id="terinology_extraction" oid="terinology_extraction" specializations="@props/deliveryTarget">
+</concept><concept class="- topic/topic concept/concept " id="unique_52" topicrefclass="- map/topicref " nd:nd-id="term_bases" oid="term_bases" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Termbases</ph></title>
+    <shortdesc class="- topic/shortdesc ">Using a termbase is an excellent solution for terminology management. TMSs should
+        have relevant features to make your work easier and quicker.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">While <xref class="- topic/xref " href="#unique_19" type="glossentry"><?ditaot usertext?>TMs</xref> are automatically
+            created in a TMS, <xref class="- topic/xref " href="#unique_20" type="glossentry"><?ditaot usertext?>TBs</xref> need to be
+            prepared manually. It is possible to use <xref class="- topic/xref " href="#unique_53" type="concept"><?ditaot usertext?>terminology extraction<?ditaot genshortdesc?><desc class="- topic/desc ">Computer-aided terminology extraction proves useful when you need to search for         customer-specific vocabulary.</desc></xref> to help this process, but it still requires a human
+            factor.</p>
+        <p class="- topic/p ">XTM incorporates a comprehensive <i class="+ topic/ph hi-d/i ">Terminology</i> module, i.e. a database of
+            multilingual terms.</p>
+        <p class="- topic/p ">In XTM <i class="+ topic/ph hi-d/i ">Workbench</i>, the system identifies and highlights terms in the source text
+            that are in the termbase. The approved term equivalent in the target language is
+            displayed in the docked panel. If you hover on it, you can see more term details. This
+            feature facilitates a consistent use of the agreed terminology during translation.</p>
+        <p class="- topic/p "> In XTM you can:<ul class="- topic/ul " id="unique_52_Connect_42_ul_ycb_1nm_ftb" nd:nd-id="ul_ycb_1nm_ftb">
+                <li class="- topic/li ">manage terminology (add, suggest, edit, delete, add images)</li>
+                <li class="- topic/li ">export any termbase from XTM to several standard file formats</li>
+                <li class="- topic/li ">import a list of existing terms into XTM from external sources, and then edit or
+                    add new terms directly from the XTM <i class="+ topic/ph hi-d/i ">Workbench</i> or in the <i class="+ topic/ph hi-d/i ">Manage</i>
+                    tab.</li>
+            </ul></p>
+        <p class="- topic/p ">Here is what a termbase looks like in XTM:</p>
+        <p class="- topic/p ">
+            <fig class="- topic/fig " id="unique_52_Connect_42_fig_r3f_4yk_jtb" nd:nd-id="fig_r3f_4yk_jtb"><title class="- topic/title ">Termbase in XTM</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/Termbase.jpg" id="unique_52_Connect_42_image_s3f_4yk_jtb" nd:nd-id="image_s3f_4yk_jtb" placement="inline" width="681" height="328" scale="50">
+                    <alt class="- topic/alt ">Termbase in XTM</alt>
+                </image></fig>
+        </p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_53" topicrefclass="- map/topicref " nd:nd-id="terinology_extraction" oid="terinology_extraction" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Terminology extraction</ph></title>
     <shortdesc class="- topic/shortdesc ">Computer-aided terminology extraction proves useful when you need to search for
         customer-specific vocabulary.</shortdesc>
@@ -1509,97 +1575,28 @@
         <p class="- topic/p ">There are many CAT tools in the market that enable such feature so it is certain that
             TMSs must follow. After terms are extracted, i.e. a bilingual list of candidate terms is
             created, it should still be verified by a human terminologist or translator.</p>
-        <p class="- topic/p ">In XTM this feature is based on the <xref class="- topic/xref " href="#unique_50" type="concept"><?ditaot usertext?>Alignment<?ditaot genshortdesc?><desc class="- topic/desc ">While alignment is a feature shared with a lot of CAT tools, its use can vary from         very difficult to extremely easy so you should choose your TMS carefully.</desc></xref> so it is
-            also available only to enterprise accounts and the output is an Excel file.. It utilizes
-            Big Data, AI, and advances in computational linguistic technology including <xref class="- topic/xref " format="html" href="https://xtm.cloud/blog/xtm-international-introduces-inter-language-vector-space/" scope="external"><?ditaot usertext?>Inter-language vector space</xref>. The feature
+        <p class="- topic/p ">In XTM, this feature is based on the <xref class="- topic/xref " href="#unique_51" type="concept"><?ditaot usertext?>Alignment<?ditaot genshortdesc?><desc class="- topic/desc ">While alignment is a feature shared with a lot of CAT tools, its use can vary from         very difficult to extremely easy so you should choose your TMS carefully.</desc></xref> so it
+            is also available only to enterprise accounts and the output is an Excel file.</p>
+        <p class="- topic/p ">
+            <fig class="- topic/fig " id="unique_53_Connect_42_fig_axd_5bc_ltb" nd:nd-id="fig_axd_5bc_ltb"><title class="- topic/title ">Result of terminology extraction in XTM</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/Term%20extract.jpg" id="unique_53_Connect_42_image_bxd_5bc_ltb" nd:nd-id="image_bxd_5bc_ltb" placement="inline" width="766" height="216" scale="60">
+                    <alt class="- topic/alt ">Result of terminology extraction in XTM</alt>
+                </image></fig>
+        </p>
+        <p class="- topic/p ">It utilizes Big Data, AI, and advances in computational linguistic technology including
+                <xref class="- topic/xref " format="html" href="https://xtm.cloud/blog/xtm-international-introduces-inter-language-vector-space/" scope="external"><?ditaot usertext?>Inter-language vector space</xref>. The feature
             already works for 50 languages helping customers save up to 80 percent of time on
             glossary creation.</p>
         <p class="- topic/p ">For more information on terminology extraction, you should visit <xref class="- topic/xref " format="html" href="https://termcoord.eu/2013/08/why-terminology-extraction/" scope="external"><?ditaot usertext?>TermCoord</xref> or <xref class="- topic/xref " format="html" href="https://www.nimdzi.com/term-extraction/" scope="external"><?ditaot usertext?>Nimdzi</xref>.</p>
-    </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_52" topicrefclass="- map/topicref " nd:nd-id="tm_management" oid="tm_management" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Translation memories </ph></title>
-    <shortdesc class="- topic/shortdesc ">TMs are the most important of all translation resources so it's important to choose a
-        TMS that has the most options to manage them easily.</shortdesc>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">XTM has integrated <xref class="- topic/xref " href="#unique_19" type="glossentry"><?ditaot usertext?>Translation
-                Memory</xref> and <xref class="- topic/xref " href="#unique_53" type="concept"><?ditaot usertext?>Terminology<?ditaot genshortdesc?><desc class="- topic/desc ">Using a termbase is an excellent solution for terminology management. TMSs should         have relevant features to make your work easier and quicker.</desc></xref> modules to allow
-            creating, maintaining, and updating translation memories and termbases. All sets of TM
-            assigned to a project are <b class="+ topic/ph hi-d/b ">updated in real time</b> as the translators move from
-            segment to segment. Any changes made to the TM are immediately updated and accessible to
-            all users with appropriate roles and access rights. <note class="- topic/note " id="unique_52_Connect_42_note_mcr_m2x_gtb" nd:nd-id="note_mcr_m2x_gtb">It is a
-                huge advantage of a TMS that TMs do not have to be sent by email or any other file
-                transfer, but are stored and updated centrally on the server.</note></p>
-        <p class="- topic/p ">The translation memory is assigned to the customer and a language pair. You can edit it
-            both in a dedicate <i class="+ topic/ph hi-d/i ">TM Manage</i> tab or directly in <i class="+ topic/ph hi-d/i ">Workbench</i> for a particular
-            segment.</p>
-        <p class="- topic/p ">
-            <fig class="- topic/fig " id="unique_52_Connect_42_fig_lxb_gyk_jtb" nd:nd-id="fig_lxb_gyk_jtb"><title class="- topic/title ">TM management in XTM</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/TM.jpg" id="unique_52_Connect_42_image_mxb_gyk_jtb" nd:nd-id="image_mxb_gyk_jtb" placement="inline" width="670" height="306" scale="50">
-                    <alt class="- topic/alt ">TM management in XTM</alt>
-                </image></fig>
-        </p>
-        <p class="- topic/p ">The TM management system enables you to:</p>
-        <ul class="- topic/ul " id="unique_52_Connect_42_ul_rnx_bhm_ftb" nd:nd-id="ul_rnx_bhm_ftb">
-            <li class="- topic/li ">
-                <p class="- topic/p ">manage your translation resources (edit, approve, delete, search, find and
-                    replace)</p>
-            </li>
-            <li class="- topic/li ">
-                <p class="- topic/p ">import a new TM</p>
-            </li>
-            <li class="- topic/li ">
-                <p class="- topic/p ">export selected TMs in a relevant format </p>
-            </li>
-        </ul>
-        <p class="- topic/p ">Translation memories can be imported into XTM from:<ul class="- topic/ul " id="unique_52_Connect_42_ul_f4p_hhm_ftb" nd:nd-id="ul_f4p_hhm_ftb">
-                <li class="- topic/li ">
-                    <p class="- topic/p ">TMX</p>
-                </li>
-                <li class="- topic/li ">
-                    <p class="- topic/p ">XLS</p>
-                </li>
-                <li class="- topic/li ">
-                    <p class="- topic/p ">single-language XLIFF file</p>
-                </li>
-            </ul></p>
-    </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_53" topicrefclass="- map/topicref " nd:nd-id="term_bases" oid="term_bases" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Termbases</ph></title>
-    <shortdesc class="- topic/shortdesc ">Using a termbase is an excellent solution for terminology management. TMSs should
-        have relevant features to make your work easier and quicker.</shortdesc>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">While <xref class="- topic/xref " href="#unique_19" type="glossentry"><?ditaot usertext?>TMs</xref> are automatically
-            created in a TMS, <xref class="- topic/xref " href="#unique_20" type="glossentry"><?ditaot usertext?>TBs</xref> need to be
-            prepared manually. It is possible to use <xref class="- topic/xref " href="#unique_51" type="concept"><?ditaot usertext?>terminology extraction<?ditaot genshortdesc?><desc class="- topic/desc ">Computer-aided terminology extraction proves useful when you need to search for         customer-specific vocabulary.</desc></xref> to help this process, but it still requires a human
-            factor.</p>
-        <p class="- topic/p ">XTM incorporates a comprehensive <i class="+ topic/ph hi-d/i ">Terminology</i> module, i.e. a database of
-            multilingual terms.</p>
-        <p class="- topic/p ">In XTM <i class="+ topic/ph hi-d/i ">Workbench</i>, the system identifies and highlights terms in the source text
-            that are in the termbase. The approved term equivalent in the target language is
-            displayed in the docked panel. If you hover on it, you can see more term details. This
-            feature facilitates a consistent use of the agreed terminology during translation.</p>
-        <p class="- topic/p "> In XTM you can:<ul class="- topic/ul " id="unique_53_Connect_42_ul_ycb_1nm_ftb" nd:nd-id="ul_ycb_1nm_ftb">
-                <li class="- topic/li ">manage terminology (add, suggest, edit, delete, add images)</li>
-                <li class="- topic/li ">export any termbase from XTM to several standard file formats</li>
-                <li class="- topic/li ">import a list of existing terms into XTM from external sources, and then edit or
-                    add new terms directly from the XTM <i class="+ topic/ph hi-d/i ">Workbench</i> or in the <i class="+ topic/ph hi-d/i ">Manage</i>
-                    tab.</li>
-            </ul></p>
-        <p class="- topic/p ">Here is what a termbase looks like in XTM:</p>
-        <p class="- topic/p ">
-            <fig class="- topic/fig " id="unique_53_Connect_42_fig_r3f_4yk_jtb" nd:nd-id="fig_r3f_4yk_jtb"><title class="- topic/title ">Termbase in XTM</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/Termbase.jpg" id="unique_53_Connect_42_image_s3f_4yk_jtb" nd:nd-id="image_s3f_4yk_jtb" placement="inline" width="681" height="328" scale="50">
-                    <alt class="- topic/alt ">Termbase in XTM</alt>
-                </image></fig>
-        </p>
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_54" topicrefclass="- map/topicref " nd:nd-id="concordance" oid="concordance" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Concordance</ph></title>
     <shortdesc class="- topic/shortdesc ">Context is the king in translation. Here is how Concordance helps linguists make the
         most of translation resources in XTM.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">Concordance</i> is a feature intrinsic to CAT tools and TMSs. It involves searching
-            all over a particular TM for translation of particular expression or phrase where there
-            is no TM match (or where the match is below a pre-determined threshold, e.g. 75%, to be
-            displayed) or the translator wants to learn more about the context.</p>
+        <p class="- topic/p ">“<i class="+ topic/ph hi-d/i ">Concordance</i> involves searching all over a particular TM for translation of
+            particular expression or phrase where there is no TM match (or where the match is below
+            a pre-determined threshold, e.g. 75%, to be displayed), or when the translator wants to
+            learn more about the context.</p>
         <p class="- topic/p ">In XTM you can run concordance search for all translation memories both from a dedicated
             panel (<i class="+ topic/ph hi-d/i ">Concordance</i> in top menu) and in <i class="+ topic/ph hi-d/i ">Workbench</i> when translating a
             document.</p>
@@ -1633,8 +1630,9 @@
                     <alt class="- topic/alt ">Language variants in XTM</alt>
                 </image></fig>
         </p>
-        <p class="- topic/p ">You can also set a TM language variant penalty profile and highlight segments populated
-            with a language variant match.</p>
+        <p class="- topic/p ">You can also set a TM language variant penalty profile (lower rating of a variant vs. the
+            basic language) and highlight segments populated with a language variant match (to
+            identify them as potentially needing more corrections).</p>
     </conbody>
 </concept></concept><concept class="- topic/topic concept/concept " id="unique_35" topicrefclass="- map/topicref " nd:nd-id="translation_editor_workbench" oid="translation_editor_workbench" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Translation editor (Workbench)</ph></title>
@@ -1642,14 +1640,14 @@
         InDesign. Most translators and reviewers work in <b class="+ topic/ph hi-d/b ">special text editors</b> that are core
         CAT tool components.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p "> As a result, they do not need any other special tools (e.g. code editors for html) or
-            even software licenses (e.g. for InDesign) to translate a special file. It is possible
-            to work with any file format on a plain text.</p>
+        <p class="- topic/p "> As a result, they do not need other tools (like code editors for XML) or even software
+            licenses (e.g. for InDesign) to translate any file supported by the TMS. Translation
+            editor allows to work with the text content of the file.</p>
         <p class="- topic/p ">Such editors can be available as <b class="+ topic/ph hi-d/b ">desktop</b> or <b class="+ topic/ph hi-d/b ">cloud</b> versions. However, most
             TMSs will have both options with the latter one set as default. Therefore, translators
-            need stable internet connection to be able to work in it, which can still be a nuisance
-            for them. However, thanks to the integration with translation memories, termbases and
-            machine translation engines, linguists can speed up the translation process.</p>
+            need stable internet connection, which can still be a nuisance for some. On the other
+            hand, thanks to the integration with translation memories, termbases and machine
+            translation engines, the cloud version speeds up the translation process.</p>
         <p class="- topic/p ">You should also remember that not only linguists use the translation editor interface in
             a TMS. As a result, its features should meet the needs also of project managers doing
             the last check before delivering the file to the client.</p>
@@ -1657,7 +1655,7 @@
             TMS:</p>
         <p class="- topic/p ">
             <ul class="- topic/ul " id="unique_35_Connect_42_ul_ckx_fvp_gtb" nd:nd-id="ul_ckx_fvp_gtb">
-                <li class="- topic/li "><xref class="- topic/xref " href="#unique_55" type="concept"><?ditaot usertext?>Inline tags<?ditaot genshortdesc?><desc class="- topic/desc ">Inline tags are a very important         part of the whole translation process. </desc></xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " href="#unique_55" type="concept"><?ditaot usertext?>Inline tags<?ditaot genshortdesc?><desc class="- topic/desc ">Inline tags are non-translation         elements located within a segment of translatable text (e.g. in a sentence).</desc></xref></li>
                 <li class="- topic/li "><xref class="- topic/xref " href="#unique_56" type="concept"><?ditaot usertext?>Preview<?ditaot genshortdesc?><desc class="- topic/desc ">The aim of the visual mode in TMSs is to show you a preview of the source and target         file so that linguists could click on the text in the preview and enter or correct a         translation in the target segment. </desc></xref></li>
                 <li class="- topic/li "><xref class="- topic/xref " href="#unique_57" type="concept"><?ditaot usertext?>Filtering<?ditaot genshortdesc?><desc class="- topic/desc ">You choose a TMS for time and cost savings so one way to make you and your linguists         work faster is to use <b class="+ topic/ph hi-d/b ">filters</b> in the text editor. </desc></xref></li>
                 <li class="- topic/li "><xref class="- topic/xref " href="#unique_58" type="concept"><?ditaot usertext?>Offline editor<?ditaot genshortdesc?><desc class="- topic/desc ">Sometimes you know you will not have internet access (rare cases nowadays but it can         still happen if you are able to work from anywhere) and you would like to have your job         done.</desc></xref></li>
@@ -1666,8 +1664,8 @@
     </conbody>
 <concept class="- topic/topic concept/concept " id="unique_55" topicrefclass="- map/topicref " nd:nd-id="dealing_with_inline_tags" oid="dealing_with_inline_tags" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Inline tags</ph></title>
-    <shortdesc class="- topic/shortdesc "><xref class="- topic/xref " href="#unique_59" type="glossentry"><?ditaot usertext?>Inline tags</xref> are a very important
-        part of the whole translation process. </shortdesc>
+    <shortdesc class="- topic/shortdesc "><xref class="- topic/xref " href="#unique_59" type="glossentry"><?ditaot usertext?>Inline tags</xref> are non-translation
+        elements located within a segment of translatable text (e.g. in a sentence).</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">They need to be placed correctly so that the final text has the correct layout. In
             addition, it is a must to place them in the target segment so that the TM could be
@@ -1729,7 +1727,7 @@
                 </image></fig>
         </p>
         <p class="- topic/p ">
-            <fig class="- topic/fig " id="unique_56_Connect_42_fig_h1t_tgl_htb" nd:nd-id="fig_h1t_tgl_htb"><title class="- topic/title ">Interactive pdf preview for indd files in XTM</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/Preview_pdf.jpg" id="unique_56_Connect_42_image_i1t_tgl_htb" nd:nd-id="image_i1t_tgl_htb" placement="inline" width="442" height="294" scale="60">
+            <fig class="- topic/fig " id="unique_56_Connect_42_fig_h1t_tgl_htb" nd:nd-id="fig_h1t_tgl_htb"><title class="- topic/title ">Interactive pdf preview for indd files in XTM - French translation</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/Preview_pdf.jpg" id="unique_56_Connect_42_image_i1t_tgl_htb" nd:nd-id="image_i1t_tgl_htb" placement="inline" width="442" height="294" scale="60">
                     <alt class="- topic/alt ">Interactive pdf preview for indd files in XTM</alt>
                 </image></fig>
         </p>
@@ -1747,20 +1745,16 @@
                 <b class="+ topic/ph hi-d/b ">favourite filters</b> and you will see the ones you used last. As an additional
             feature you can create <b class="+ topic/ph hi-d/b ">advanced, customized filters</b> by joining two or more
             segment filters together.</p>
-        <p class="- topic/p ">Each linguist and PM should be able to see <b class="+ topic/ph hi-d/b ">filters grouped in categories</b> such as:
-            status, invalid, modification, match, inconsistency and <b class="+ topic/ph hi-d/b ">exclude</b> them from being
-            displayed.</p>
-        <p class="- topic/p ">Here are some of available filters in XTM:</p>
+        <p class="- topic/p ">Filters are a great way to save on costs, e.g. if you pay hourly rates, your linguists
+            spend less time on browsing through huge files. You can also send only new and modified
+            texts for translation by filtering out all 100% and 101% matches so you will pay much
+            less. This is extremely useful in the case of files with a lot of reused content for
+            which you still pay for <xref class="- topic/xref " href="#unique_21" type="glossentry"><?ditaot usertext?>matches</xref>.</p>
         <p class="- topic/p ">
             <fig class="- topic/fig " id="unique_57_Connect_42_fig_dny_hbl_jtb" nd:nd-id="fig_dny_hbl_jtb"><title class="- topic/title ">Some filters available in XTM</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/Filters.jpg" id="unique_57_Connect_42_image_eny_hbl_jtb" nd:nd-id="image_eny_hbl_jtb" placement="inline" width="475" height="334" scale="60">
                     <alt class="- topic/alt ">Some filters available in XTM</alt>
                 </image></fig>
         </p>
-        <p class="- topic/p ">Filters are a great way to save on costs, e.g. if you pay hourly rates, your linguists
-            spend less time on browsing through huge files. You can also send only new and modified
-            texts for translation by filtering out all 100% and 101% matches so you will pay much
-            less. This is extremely useful in the case of files with a lot of reused content for
-            which you still pay for matches.</p>
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_58" topicrefclass="- map/topicref " nd:nd-id="offline_editor" oid="offline_editor" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Offline editor</ph></title>
@@ -1794,13 +1788,13 @@
             Managers can do is to focus on the former aspect. One of the reasons for buying the TMS
             is improving the quality of translations and quality of the whole process. </p>
         <p class="- topic/p ">Here are key features that help manage and improve the quality of translations:<ul class="- topic/ul " id="unique_36_Connect_42_ul_vft_j5m_ftb" nd:nd-id="ul_vft_j5m_ftb">
-                <li class="- topic/li "><xref class="- topic/xref " href="#unique_22" type="concept"><?ditaot usertext?>Quality Assurance (QA)<?ditaot genshortdesc?><desc class="- topic/desc ">Automatic QA tools to check translations have become the norm in the translation         industry. Many of them are built-in with the various CAT tools, but some are also available         separately. </desc></xref></li>
-                <li class="- topic/li "><xref class="- topic/xref " href="#unique_23" type="concept"><?ditaot usertext?>Linguistic Quality Assurance (LQA)<?ditaot genshortdesc?><desc class="- topic/desc "><b class="+ topic/ph hi-d/b ">Linguistic Quality Assurance</b> (LQA) is a comprehensive, multi-level process         that includes a large number of factors that all aim to measure, control and increase the         linguistic quality of any text.</desc></xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " href="#unique_22" type="concept"><?ditaot usertext?>Quality Assurance<?ditaot genshortdesc?><desc class="- topic/desc ">Automatic QA tools to check translations have become the standard in the translation         industry. Many of them are built-in with the various CAT tools, but some are also available         separately. </desc></xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " href="#unique_23" type="concept"><?ditaot usertext?>Linguistic Quality Assurance<?ditaot genshortdesc?><desc class="- topic/desc "><b class="+ topic/ph hi-d/b ">Linguistic Quality Assurance</b> (LQA) is a comprehensive, multi-level process         that includes a large number of factors that all aim to measure, control and increase the         linguistic quality of any text.</desc></xref></li>
             </ul></p>
     </conbody>
 <concept class="- topic/topic concept/concept " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="automatic_qa" oid="automatic_qa" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Automatic QA</ph></title>
-    <shortdesc class="- topic/shortdesc ">Automatic QA tools to check translations have become the norm in the translation
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Quality Assurance</ph></title>
+    <shortdesc class="- topic/shortdesc ">Automatic QA tools to check translations have become the standard in the translation
         industry. Many of them are built-in with the various CAT tools, but some are also available
         separately. </shortdesc>
     <conbody class="- topic/body  concept/conbody ">
@@ -1817,10 +1811,10 @@
             <li class="- topic/li ">forbidden or rejected terms used</li>
         </ul>
         <p class="- topic/p ">In XTM, the scope of QA checks depends on the connected spell checker and its
-            availability for the particular language. You run it directly in Workbench, using
-            eiither a built-in solution or the connect to the one provided by MS Word. It is also
-            possible to perform QA using <xref class="- topic/xref " format="html" href="https://www.xbench.net/" scope="external"><?ditaot usertext?>Xbench</xref> – a third-party translation QA and terminology
-            management tool.</p>
+            availability for the particular language. You run it directly in Workbench, using either
+            a built-in solution or the connect to MS Word. It is also possible to perform QA using
+                <xref class="- topic/xref " format="html" href="https://www.xbench.net/" scope="external"><?ditaot usertext?>Xbench</xref> –
+            a third-party translation QA and terminology management tool.</p>
         <p class="- topic/p ">As a result, when a QA error is detected, it is highlighted and you will see warnings
             displayed with segment number, category and description. You can also filter our
             segments with QA warnings to focus only on them.</p>
@@ -1834,20 +1828,20 @@
             expressions in the QA profile.</p>
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="lqa" oid="lqa" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">LQA</ph></title>
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Linguistic Quality Assurance</ph></title>
     <shortdesc class="- topic/shortdesc "><b class="+ topic/ph hi-d/b ">Linguistic Quality Assurance</b> (LQA) is a comprehensive, multi-level process
         that includes a large number of factors that all aim to measure, control and increase the
         linguistic quality of any text.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">While <xref class="- topic/xref " href="#unique_22" type="concept"><?ditaot usertext?>QA checks<?ditaot genshortdesc?><desc class="- topic/desc ">Automatic QA tools to check translations have become the norm in the translation         industry. Many of them are built-in with the various CAT tools, but some are also available         separately. </desc></xref> are performed automatically, LQA is
+        <p class="- topic/p ">While <xref class="- topic/xref " href="#unique_22" type="concept"><?ditaot usertext?>QA checks<?ditaot genshortdesc?><desc class="- topic/desc ">Automatic QA tools to check translations have become the standard in the translation         industry. Many of them are built-in with the various CAT tools, but some are also available         separately. </desc></xref> are performed automatically, LQA is
             always performed by human linguists. Using a pre-determined methodology, they determine
             if the translation contains any <b class="+ topic/ph hi-d/b ">objective errors</b> grouped into categories. These
             may include: <ul class="- topic/ul " id="unique_23_Connect_42_ul_usz_pxm_ftb" nd:nd-id="ul_usz_pxm_ftb">
+                <li class="- topic/li ">different meaning/mistranslation/incorrect translation</li>
+                <li class="- topic/li ">omissions</li>
                 <li class="- topic/li ">inaccuracy or inconsistency with glossary, style guide or translation memory </li>
                 <li class="- topic/li ">inadequate spelling, grammar, punctuation</li>
                 <li class="- topic/li ">wrong register</li>
-                <li class="- topic/li ">omissions</li>
-                <li class="- topic/li ">different meaning/mistranslation/incorrect translation</li>
             </ul></p>
         <p class="- topic/p ">The process of performing LQA begins with the recording of the errors in translation and
             ends with reporting analysis. For that purpose an evaluator can use a special form or
@@ -1856,7 +1850,7 @@
             Multidimensional Quality Metrics (MQM) model which has been designed as part of the
                 <xref class="- topic/xref " format="html" href="https://www.qt21.eu/launchpad/" scope="external"><?ditaot usertext?>QT
                 Launchpad project</xref>. As a result it is flexible (can be easily configured to
-            meet your needs), suitable for all translation methods (including <xref class="- topic/xref " href="#unique_21" type="glossentry"><?ditaot usertext?>MT</xref>) and comparable.</p>
+            meet your needs), suitable for all translation methods (including <xref class="- topic/xref " href="#unique_49" type="glossentry"><?ditaot usertext?>MT</xref>) and comparable.</p>
         <p class="- topic/p ">You can also set the weight for each item and severity multiplier for neutral, minor,
             major, and critical items, or add new errors.</p>
         <p class="- topic/p ">XTM offers different methods of calculating LQA scores:</p>
@@ -1875,13 +1869,14 @@
         <p class="- topic/p ">After the process is completed in <i class="+ topic/ph hi-d/i ">XTM Workbench</i>, you can view LQA results next to
             each user or download an LQA report as an Excel file.</p>
         <p class="- topic/p "><fig class="- topic/fig " id="unique_23_Connect_42_fig_lq5_b2m_jtb" nd:nd-id="fig_lq5_b2m_jtb"><title class="- topic/title ">LQA report</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/LQA%20report.jpg" id="unique_23_Connect_42_image_qgq_12m_jtb" nd:nd-id="image_qgq_12m_jtb" placement="inline" width="478" height="202" scale="50">
-                <alt class="- topic/alt ">LQA report</alt>
-            </image></fig></p>
+                    <alt class="- topic/alt ">LQA report</alt>
+                </image></fig></p>
         <p class="- topic/p ">LQA can be a separate service or a part of the translation service that you buy from your
                 <xref class="- topic/xref " href="#unique_17" type="glossentry"><?ditaot usertext?>LSP</xref>. In any case, XTM enables you to
             perform it using a separate <i class="+ topic/ph hi-d/i ">LQA workflow step</i>.</p>
-        <p class="- topic/p ">Usually, when the score is below 93%, the test is failed and the translation should be
-            returned to the linguist for correction.</p>
+        <p class="- topic/p ">You have to decide the total score when a translation is considered as pass or fail.
+            Usually, when it is below 93%, the test is failed and the translation should be returned
+            to the linguist for correction.</p>
         <p class="- topic/p ">
             <fig class="- topic/fig " id="unique_23_Connect_42_fig_vkg_ndm_jtb" nd:nd-id="fig_vkg_ndm_jtb"><title class="- topic/title ">LQA feature in XTM Workbench</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/LQA.jpg" id="unique_23_Connect_42_image_wkg_ndm_jtb" nd:nd-id="image_wkg_ndm_jtb" placement="inline" width="542" height="291" scale="50">
                     <alt class="- topic/alt ">LQA feature in XTM Workbench</alt>
@@ -1890,8 +1885,9 @@
     </conbody>
 </concept></concept><concept class="- topic/topic concept/concept " id="unique_37" topicrefclass="- map/topicref " nd:nd-id="machine_translation" oid="machine_translation" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Machine translation</ph></title>
-    <shortdesc class="- topic/shortdesc "><xref class="- topic/xref " href="#unique_21" type="glossentry"><?ditaot usertext?>Machine translation</xref>
-        engines are third-party systems that are not standard components of a TMS. </shortdesc>
+    <shortdesc class="- topic/shortdesc "><xref class="- topic/xref " href="#unique_49" type="glossentry"><?ditaot usertext?>Machine translation</xref>
+        engines are third-party systems for automatic translation that are not standard components
+        of a TMS.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">A company that wants to use MT needs to have an account with an MT provider or configure
             a custom engine. Only then is it possible to connect the MT engine to TMS via an
@@ -1907,7 +1903,6 @@
             content, consult the <xref class="- topic/xref " format="html" href="https://go.memsource.com/machine-translation-report" scope="external"><?ditaot usertext?>Memsource Machine Translation Report</xref> or the
                 <xref class="- topic/xref " format="html" href="https://try.inten.to/machine-translation-report-2021/?_ga=2.234064026.560105315.1649773908-478560454.1649498107&amp;_gl=1*e8905i*_ga*NDc4NTYwNDU0LjE2NDk0OTgxMDc.*_ga_8ER1RD0745*MTY0OTg1MjczNy4zLjAuMTY0OTg1MjczNy4w" scope="external"><?ditaot usertext?>State of Machine Translation report</xref> by
             Intento.</p>
-        <p class="- topic/p ">Here is a choice available in XTM:</p>
         <p class="- topic/p ">
             <fig class="- topic/fig " id="unique_37_Connect_42_fig_err_p1l_jtb" nd:nd-id="fig_err_p1l_jtb"><title class="- topic/title ">Machine translation engines in XTM</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/MT%20engines.jpg" id="unique_37_Connect_42_image_frr_p1l_jtb" nd:nd-id="image_frr_p1l_jtb" placement="inline" width="439" height="288" scale="60">
                     <alt class="- topic/alt ">Machine translation engines in XTM</alt>
@@ -1917,52 +1912,48 @@
             option to <i class="+ topic/ph hi-d/i ">add your custom MT</i> (e.g. the one you have created yourself or the one
             developed by a third-party provider).</p>
         <p class="- topic/p ">After you decide on an MT engine or engines, all you need to do is create an account with
-            a given provider, subscribe to a selected plan, and get an authentication key for CAT
-            tools to be copied to a relevant place.</p>
+            a given provider, subscribe to a selected plan, and get an <xref class="- topic/xref " format="html" href="https://marcinbas.github.io/api_mt/#4-how-to-obtain-api-keys-for-mt-plugins" scope="external"><?ditaot usertext?>authentication key</xref> for CAT tools to be copied
+            to a relevant place.</p>
         <p class="- topic/p ">
             <fig class="- topic/fig " id="unique_37_Connect_42_fig_q11_x1l_jtb" nd:nd-id="fig_q11_x1l_jtb"><title class="- topic/title ">MT authentication in XTM</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/DeepL.jpg" id="unique_37_Connect_42_image_r11_x1l_jtb" nd:nd-id="image_r11_x1l_jtb" placement="inline" width="470" height="102" scale="70">
                     <alt class="- topic/alt ">MT authentication in XTM</alt>
                 </image></fig>
         </p>
-        <p class="- topic/p ">You should also decide how this MT engine will work for your translation projects. All in
-            all, with it you get another support in addition to your <abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="#unique_19" keyref="g_translation_memory" type="glossentry"><?ditaot gentext?>Translation memory (TM)</abbreviated-form>. When you have some TM matches, you send these to an
-            MT engine to fill in the blanks, creating an opportunity to leverage existing resources
-            in an innovative way.</p>
+        <p class="- topic/p ">You should also decide how this MT engine will work on top of your <xref class="- topic/xref " format="html" href="https://komunikacjatechnicznavistula.github.io/Marta-Borkowska/glossary/r_glossary.html#g_translation_memory" scope="external"><?ditaot usertext?>Translation memory (TM)</xref>. An MT engine is
+            supposed to fill in the blanks, while you leverage your existing resources from previous
+            human translation.</p>
         <p class="- topic/p ">
             <fig class="- topic/fig " id="unique_37_Connect_42_fig_kpn_51l_jtb" nd:nd-id="fig_kpn_51l_jtb"><title class="- topic/title ">MT leverage options in XTM</title><image class="- topic/image " href="file:/C:/Users/BorkMa2/Desktop/Moje%20dokumenty/Marta-Borkowska/images/General%20options.jpg" id="unique_37_Connect_42_image_lpn_51l_jtb" nd:nd-id="image_lpn_51l_jtb" placement="inline" width="464" height="106" scale="70">
                     <alt class="- topic/alt ">MT leverage options in XTM</alt>
                 </image></fig>
         </p>
-        <p class="- topic/p ">A great benefit of using MT in a TMS is that you use its <b class="+ topic/ph hi-d/b ">secure version</b> in
-            comparison to the free web-based tool. Your texts are never stored or used by an MT
-            provider to improve its engine.</p>
-        <p class="- topic/p ">In addition, while working in XTM, you can translate all <xref class="- topic/xref " href="#unique_27" type="concept"><?ditaot usertext?>supported file formats<?ditaot genshortdesc?><desc class="- topic/desc ">You need to know what file formats are usually sent for translation in your company         so that you could decide which TMS to choose.</desc></xref> using an MT engine, and not only a few selected files
-            (e.g. Word or PowerPoint).</p>
+        <p class="- topic/p ">“A great benefit of using MT in a TMS is that you use its <b class="+ topic/ph hi-d/b ">secure version</b> in
+            comparison to the free web-based tool. Your texts should never be stored or used by an
+            MT provider to improve its engine - read the MT provider’s <xref class="- topic/xref " format="html" href="https://modelfront.com/compare" scope="external"><?ditaot usertext?>Terms and
+                Conditions</xref> to ensure that.</p>
+        <p class="- topic/p ">In addition, while working in XTM, you can translate all supported <xref class="- topic/xref " href="#unique_27" type="concept"><?ditaot usertext?>file formats<?ditaot genshortdesc?><desc class="- topic/desc ">You need to know what file formats are usually sent for translation in your company         so that you could decide which TMS to choose.</desc></xref> with an MT engine, and not only a few
+            available from browser (e.g. MS Word or PowerPoint).</p>
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_28" topicrefclass="- map/topicref " nd:nd-id="connectors" oid="connectors" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Connectors</ph></title>
     <shortdesc class="- topic/shortdesc ">Learn how to gain more control over your content by integrating content management
         systems and translation management systems via a connector.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">XTM offers you a possibility of using <xref class="- topic/xref " format="html" href="https://xtm.cloud/connectors/" scope="external"><?ditaot usertext?>different connectors</xref> that have already been
-            established for and tested by other companies. However, you can also contact the
-            development team for an offer of a custom-made integration with the system that is not
-            on the above list. It can be pricey, though, and may also require some work from your IT
-            team so be prepared with some additional financial and human resources.</p>
         <section class="- topic/section " id="unique_28_Connect_42_section_zll_j1l_jtb" nd:nd-id="section_zll_j1l_jtb">
             <title class="- topic/title ">What is a TMS connector?</title>
             <p class="- topic/p ">A TMS connector makes it possible to transfer content from your content management
-                system (CMS) to the TMS easily using a set of protocols. There, it can be
-                translated, whether by machine translation, professional translators, or both.
-                Afterwards, the connector can upload the translated files back into the CMS so you
-                can easily access them. In fact, any organization that works with high volumes of
-                content in multiple languages could benefit from a TMS connector. For example, a
-                company with a multilingual website and a blog that requires frequent updates can
-                benefit from a TMS connector that connects their website CMS to their <xref class="- topic/xref " href="#unique_17" type="glossentry"><?ditaot usertext?>LSP’s</xref> TMS.</p>
+                system (CMS) to the TMS, using a set of protocols. There, it can be translated,
+                whether by machine translation, professional translators, or both. Afterwards, the
+                connector can upload the translated files back into the CMS so you can easily access
+                them. In fact, any organization that works with high volumes of content in multiple
+                languages could benefit from a TMS connector. For example, a company with a
+                multilingual website and a blog that requires frequent updates can use a TMS
+                connector from their website CMS to their <xref class="- topic/xref " href="#unique_17" type="glossentry"><?ditaot usertext?>LSP’s</xref> TMS.</p>
             <p class="- topic/p ">The integrations between systems are made possible by a layer of software (a
-                connector) based on the RESTFUL API principles of push and pull. Depending on the
-                types of systems, these integrations can be either lightweight, which involves very
-                little set-up, or more intricate middleware type configurations.</p>
+                connector) based on the <xref class="- topic/xref " format="html" href="https://www.techtarget.com/searchapparchitecture/definition/RESTful-API" scope="external"><?ditaot usertext?>RESTFUL API</xref> principles of push and pull.
+                Depending on the types of systems, these integrations can be either lightweight,
+                which involves very little set-up, or more intricate middleware type
+                configurations.</p>
             <p class="- topic/p ">There are many different connector types depending on what they are used for:<ul class="- topic/ul " id="unique_28_Connect_42_ul_jvp_k1l_jtb" nd:nd-id="ul_jvp_k1l_jtb">
                     <li class="- topic/li ">content management system (CMS) (e.g. Wordpress)</li>
                     <li class="- topic/li ">e-commerce</li>
@@ -1975,7 +1966,7 @@
                 </ul></p>
         </section>
         <section class="- topic/section " id="unique_28_Connect_42_section_eqr_l1l_jtb" nd:nd-id="section_eqr_l1l_jtb">
-            <title class="- topic/title ">What are the benefits of using them?</title>
+            <title class="- topic/title ">What are the benefits of using connectors?</title>
             <p class="- topic/p ">The connectors save time, reduce file management costs, cut down turnaround times and
                 make localization simple. You also have more control over your content and can
                 reduce human errors since the whole process is automatic.</p>
@@ -1983,10 +1974,10 @@
         <section class="- topic/section " id="unique_28_Connect_42_section_rb3_m1l_jtb" nd:nd-id="section_rb3_m1l_jtb">
             <title class="- topic/title ">XTM example</title>
             <p class="- topic/p ">XTM offers you a possibility of using <xref class="- topic/xref " format="html" href="https://xtm.cloud/connectors/" scope="external"><?ditaot usertext?>different connectors</xref> that have already
-                been established for and tested by other companies. However, you can also contact
-                the development team for an offer of a custom-made integration with the system that
-                is not on the above list. It can be pricey, though, and may also require some work
-                from your IT team so be prepared with some additional financial and human
+                been established for and tested by other companies. However, you can also <xref class="- topic/xref " format="html" href="https://xtm.cloud/contact/" scope="external"><?ditaot usertext?>contact</xref>
+                the XTM's development team for an offer of a custom-made integration with the system
+                that is not on the above list. It can be pricey, though, and may also require some
+                work from your IT team so be prepared with some additional financial and human
                 resources.</p>
             <p class="- topic/p ">Since the release of XTM version 13.0, its connectors have entered a continuous
                 deployment cycle, providing ongoing releases of new features. This means that you
@@ -2494,13 +2485,13 @@
         (such as a third-party service provider). It regulates any personal data processing
         conducted for business purposes. Recently, it has become an important part of business
         relations in the translation industry due to the entry of the <xref class="- topic/xref " format="html" href="https://eur-lex.europa.eu/eli/reg/2016/679/oj" scope="external"><?ditaot usertext?>General Data Protection Regulation</xref> in the EU.</glossdef>
-</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_49" topicrefclass="- map/topicref " nd:nd-id="fuzzy_matches" oid="fuzzy_matches" specializations="@props/deliveryTarget">
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="fuzzy_matches" oid="fuzzy_matches" specializations="@props/deliveryTarget">
     <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">Fuzzy matches</ph></glossterm>
     <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Each CAT tool divides a text into segments. Then, it begins analysing the text against
         a relevant translation memory. As a result, each segment is given a score, i.e. a match
         ranging from 1 to 99%. Matches are important because they speed up the translation process
         and provide discounts. As a result, you save a lot on a bigger translation memory and
-        similar texts stored in it. There are different types of matches:<ul class="- topic/ul " id="unique_49_Connect_42_ul_if1_njz_htb" nd:nd-id="ul_if1_njz_htb">
+        similar texts stored in it. There are different types of matches:<ul class="- topic/ul " id="unique_21_Connect_42_ul_if1_njz_htb" nd:nd-id="ul_if1_njz_htb">
             <li class="- topic/li "><i class="+ topic/ph hi-d/i ">101% match </i>(also called: ICE match or a context match) is an identical
                 segment in an identical context, which means we the translator can be sure this
                 match can be approved, because the segments before and after it are also
@@ -2550,7 +2541,7 @@
         language-related services (i.e. translation, interpreting, localization, transcreation,
         transcription, subtitling, voice-over). An LSP can include a translation agency, a company,
         or an individual.</glossdef>
-</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="g_machine_translation" oid="g_machine_translation" specializations="@props/deliveryTarget">
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_49" topicrefclass="- map/topicref " nd:nd-id="g_machine_translation" oid="g_machine_translation" specializations="@props/deliveryTarget">
     <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">Machine translation (MT)</ph></glossterm>
     <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">It is defined in ISO 18587:2017 as automatic translation of text from one natural
         language to another using a computer application. Machine translation is a hot topic in the

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="lqa">
-    <title>LQA</title>
+    <title>Linguistic Quality Assurance</title>
     <shortdesc><b>Linguistic Quality Assurance</b> (LQA) is a comprehensive, multi-level process
         that includes a large number of factors that all aim to measure, control and increase the
         linguistic quality of any text.</shortdesc>
@@ -10,11 +10,11 @@
             always performed by human linguists. Using a pre-determined methodology, they determine
             if the translation contains any <b>objective errors</b> grouped into categories. These
             may include: <ul id="ul_usz_pxm_ftb">
+                <li>different meaning/mistranslation/incorrect translation</li>
+                <li>omissions</li>
                 <li>inaccuracy or inconsistency with glossary, style guide or translation memory </li>
                 <li>inadequate spelling, grammar, punctuation</li>
                 <li>wrong register</li>
-                <li>omissions</li>
-                <li>different meaning/mistranslation/incorrect translation</li>
             </ul></p>
         <p>The process of performing LQA begins with the recording of the errors in translation and
             ends with reporting analysis. For that purpose an evaluator can use a special form or
@@ -44,14 +44,16 @@
             each user or download an LQA report as an Excel file.</p>
         <p><fig id="fig_lq5_b2m_jtb">
                 <title>LQA report</title>
-            <image href="../images/LQA%20report.jpg" scale="50" id="image_qgq_12m_jtb">
-                <alt>LQA report</alt>
-            </image></fig></p>
+                <image href="../images/LQA%20report.jpg" scale="50" id="image_qgq_12m_jtb">
+                    <alt>LQA report</alt>
+                </image>
+            </fig></p>
         <p>LQA can be a separate service or a part of the translation service that you buy from your
                 <xref href="../glossary/g_lsp.dita">LSP</xref>. In any case, XTM enables you to
             perform it using a separate <i>LQA workflow step</i>.</p>
-        <p>Usually, when the score is below 93%, the test is failed and the translation should be
-            returned to the linguist for correction.</p>
+        <p>You have to decide the total score when a translation is considered as pass or fail.
+            Usually, when it is below 93%, the test is failed and the translation should be returned
+            to the linguist for correction.</p>
         <p>
             <fig id="fig_vkg_ndm_jtb">
                 <title>LQA feature in XTM Workbench</title>

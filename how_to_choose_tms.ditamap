@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>How to choose and start working with the right TMS for your company</title>
+    <title>How to choose and start working with the right TMS for your company - an XTM case
+        study</title>
     <topicref href="topics/introduction.dita">
         <topicref href="topics/what_is_tms.dita"/>
         <topicref href="topics/how_does_it_differ_from_cat.dita"/>
@@ -35,10 +36,10 @@
             <topicref href="topics/quotations.dita"/>
         </topicref>
         <topicref href="topics/content_management.dita">
-            <topicref href="topics/alignment.dita"/>
-            <topicref href="topics/terminology_extraction.dita"/>
             <topicref href="topics/tm_management.dita"/>
+            <topicref href="topics/alignment.dita"/>
             <topicref href="topics/term_bases.dita"/>
+            <topicref href="topics/terminology_extraction.dita"/>
             <topicref href="topics/concordance.dita"/>
             <topicref href="topics/language_variants.dita"/>
         </topicref>

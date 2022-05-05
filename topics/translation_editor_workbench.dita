@@ -6,14 +6,14 @@
         InDesign. Most translators and reviewers work in <b>special text editors</b> that are core
         CAT tool components.</shortdesc>
     <conbody>
-        <p> As a result, they do not need any other special tools (e.g. code editors for html) or
-            even software licenses (e.g. for InDesign) to translate a special file. It is possible
-            to work with any file format on a plain text.</p>
+        <p> As a result, they do not need other tools (like code editors for XML) or even software
+            licenses (e.g. for InDesign) to translate any file supported by the TMS. Translation
+            editor allows to work with the text content of the file.</p>
         <p>Such editors can be available as <b>desktop</b> or <b>cloud</b> versions. However, most
             TMSs will have both options with the latter one set as default. Therefore, translators
-            need stable internet connection to be able to work in it, which can still be a nuisance
-            for them. However, thanks to the integration with translation memories, termbases and
-            machine translation engines, linguists can speed up the translation process.</p>
+            need stable internet connection, which can still be a nuisance for some. On the other
+            hand, thanks to the integration with translation memories, termbases and machine
+            translation engines, the cloud version speeds up the translation process.</p>
         <p>You should also remember that not only linguists use the translation editor interface in
             a TMS. As a result, its features should meet the needs also of project managers doing
             the last check before delivering the file to the client.</p>
