@@ -1319,9 +1319,8 @@
                     <alt class="- topic/alt ">Anonymization in XTM</alt>
                 </image></fig>
         </p>
-        <p class="- topic/p ">If you want to use it for any other languages, you need to use special styles in MS Word
-            to be able to convert sensitive data into inline tags during translation in XTM
-            Workbench.</p>
+        <p class="- topic/p ">If you want to use it for any other languages, you need to use <xref class="- topic/xref " format="html" href="https://help.xtm.cloud/xtm-cloud/13/en/protecting-sensitive-data-during-translation-in-xtm.html" scope="external"><?ditaot usertext?>special styles in MS Word</xref> to be able to
+            convert sensitive data into inline tags during translation in XTM Workbench.</p>
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_46" topicrefclass="- map/topicref " nd:nd-id="mobile_version" oid="mobile_version" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Mobile version</ph></title>
