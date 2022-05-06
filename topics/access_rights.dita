@@ -13,8 +13,9 @@
         <p>It is up to you as the manager of your corporate translation resources to define what
             third-party users are allowed to do in a TMS. For example, it may be necessary to
             determine if users can modify, import, export, view and add TM entries or limit their
-            ability to do so. The same goes for <xref href="lqa.dita">LQA</xref> results,
-                <i>Concordance</i> and <i>Terminology</i>.</p>
+            ability to do so. The same goes for <xref href="lqa.dita">LQA</xref> results, <i><xref
+                    href="concordance.dita">Concordance</xref></i> and <i><xref
+                    href="term_bases.dita">Terminology</xref></i>.</p>
         <p>Here is how you can manage <b>users' access</b> to different features in XTM:</p>
         <p>
             <fig id="fig_mp4_nbk_jtb">

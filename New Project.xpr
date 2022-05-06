@@ -312,7 +312,7 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${cfd}/out/pdf-css-html5</String>
+                                    <String>${cfd}/docs</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>${cfd}/temp/pdf-css-html5</String>

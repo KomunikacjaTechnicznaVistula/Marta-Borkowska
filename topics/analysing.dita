@@ -5,11 +5,9 @@
     <shortdesc>The first step that you need to take is to perform due diligence of the existing
         translation process at your company.</shortdesc>
     <taskbody>
-        <context>
-            <p>These steps will help you get to know what you already have and decide what should
-                change in your <xref href="tms_in_the_corporate_language_policy.dita">Corporate
-                    Language Policy</xref>.</p>
-        </context>
+        <context>These actions will help you get to know what you already have and decide what you
+            should change in your <xref href="tms_in_the_corporate_language_policy.dita">Corporate
+                Language Policy</xref>.</context>
         <steps>
             <step>
                 <cmd>Analyze the translation process that runs at your company so far by answering

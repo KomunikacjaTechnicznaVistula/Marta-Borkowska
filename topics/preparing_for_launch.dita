@@ -69,11 +69,14 @@
                 </substeps>
             </step>
             <step>
-                <cmd>Collect all your <xref href="../glossary/g_translation_memory.dita">TMs</xref>
-                    and <xref href="../glossary/g_termbase.dita">TBs</xref> (if any) from your
-                    previous vendors and migrate them to the TMS. Create <xref href="workflows.dita"
-                        >workflows</xref>, user accounts with relevant <xref
-                        href="access_rights.dita">access rights and roles</xref>.</cmd>
+                <cmd>Collect all available <xref href="../glossary/g_translation_memory.dita"
+                        >TMs</xref> and <xref href="../glossary/g_termbase.dita">TBs</xref> from all
+                    your vendors (including vendors that will no longer work for you), and migrate
+                    these assets to the TMS. </cmd>
+            </step>
+            <step>
+                <cmd>Create <xref href="workflows.dita">workflows</xref>, user accounts with
+                    relevant <xref href="access_rights.dita">access rights and roles</xref>.</cmd>
             </step>
             <step>
                 <cmd>Set the go-live date and start working with your new TMS. Initially process
@@ -83,12 +86,12 @@
                     it.</cmd>
             </step>
             <step>
-                <cmd>Be prepared to report on TMS key metrics such as translation volume (number of
-                    TM segments, translated words), language pairs, discounts on TM use, overall
-                    external costs. It is a good idea to have an Excel report at hand with all
-                    relevant data generated from TMS from time to time. Every management would like
-                    to be updated on the metrics (Key Performance Indicators - KPIs) relating to the
-                    process.</cmd>
+                <cmd>Define your schedule to report on TMS key metrics such as translation volume
+                    (number of TM segments, translated words), language pairs, discounts on TM use,
+                    overall external costs. It is a good idea to have an Excel report at hand with
+                    all relevant data generated from TMS from time to time. Every management would
+                    like to be updated on the metrics (Key Performance Indicators - KPIs) relating
+                    to the process.</cmd>
             </step>
         </steps>
         <postreq id="postreq_czw_kth_3tb">Once in a while, review your decision:<ul

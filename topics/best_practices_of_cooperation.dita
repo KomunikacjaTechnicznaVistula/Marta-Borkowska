@@ -62,9 +62,10 @@
             <title>Translation in TMS</title>
             <p>
                 <ul id="ul_v11_wqk_jtb">
-                    <li>Send all reference materials to your vendor, which may help linguist deliver
-                        accurate translations. These may include corporate websites, previous
-                        translations (not existing in your TM)., offline glossaries, etc.</li>
+                    <li>Send all reference materials to your vendor to help linguists deliver
+                        accurate translations. Reference materials may include corporate websites,
+                        previous translations (not existing in your TMs), offline glossaries,
+                        etc.</li>
                     <li>Inform your vendor about the need to use of <abbreviated-form
                             keyref="g_translation_memory"/>, <abbreviated-form keyref="g_termbase"
                         />, Concordance and what to do in case of conflicting matches (e.g. use the

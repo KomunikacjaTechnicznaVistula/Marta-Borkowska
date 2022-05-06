@@ -18,7 +18,8 @@
                     time)</li>
             </ul></p>
         <p>How can you contact <b>XTM support</b>?<ul id="ul_x3m_xcq_2tb">
-                <li>send an email to a dedicated address (support@xtm-intl.com)</li>
+                <li>send an email to a dedicated address (<xref href="mailto:support@xtm-intl.com"
+                        format="html" scope="external">support@xtm-intl.com</xref>)</li>
                 <li>call them at +48 61 654 91 53</li>
                 <li>log in to the <xref href="https://support.xtm-intl.com/en/support/home"
                         format="html" scope="external"><b>Support Portal</b></xref> to create a new
@@ -27,8 +28,9 @@
                     helps the XTM Support Team organize the issues reported by XTM users and keep
                     track of the progress of handling issues.</li>
             </ul></p>
-        <p>The response and resolution times are governed by the SLA that you sign with your TMS
-            provider. They should be confirmed each time you report a bug.</p>
+        <p>The response and resolution times are governed by the <xref href="../glossary/g_sla.dita"
+                >SLA</xref> that you sign with your TMS provider. They should be confirmed each time
+            you report a bug.</p>
         <p>
             <fig id="fig_whz_b1l_jtb">
                 <title>Automatic reply from XTM Support Team</title>

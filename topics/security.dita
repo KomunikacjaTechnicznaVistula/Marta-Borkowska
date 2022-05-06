@@ -10,8 +10,10 @@
             accidental loss, especially in case of a cloud solution.</p>
         <p>With all legal and compliance obligations, you need to choose a TMS carefully in
             cooperation with the legal and IT departments to adapt the translation process to your
-            needs. You will certainly need to ask your TMS provider to sign a DPA and NDA. If you
-            can provide them with your corporate terms, the better for you.</p>
+            needs. You will certainly need to ask your TMS provider to sign a <xref
+                href="../glossary/g_dpa.dita">DPA</xref> and <xref href="../glossary/g_nda.dita"
+                >NDA</xref>. If you can provide them with your corporate terms, the better for
+            you.</p>
         <p>There are certain aspects that should be kept in mind to ensure the secure environment
             for your translation management. It is important to check if your TMS of choice offers
             the following features:<ul id="ul_x1z_4lw_gtb">
@@ -27,9 +29,12 @@
                     system)</li>
             </ul></p>
         <p>All of these are provided by XTM being a <b>secure environment</b> to work in.</p>
-        <p>In addition, XTM is <b>ISO/IEC 27001: 2017-06</b> certified, which confirms that the
-            provider has the processes in place to protect customer data. It’s also evident that its
-            information security management system (ISMIS) is able to minimize risk and ensure
-            business continuity by pro-actively limiting the impact of a security breach.</p>
+        <p>In addition, XTM is <b><xref
+                    href="https://www.beuth.de/en/standard/din-en-iso-iec-27001/269670716"
+                    format="html" scope="external">ISO/IEC 27001: 2017-06</xref></b> certified,
+            which confirms that the provider has the processes in place to protect customer data.
+            It’s also evident that its information security management system (ISMIS) is able to
+            minimize risk and ensure business continuity by pro-actively limiting the impact of a
+            security breach.</p>
     </conbody>
 </concept>

@@ -2,11 +2,11 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="researching">
     <title>Researching the TMS market</title>
-    <shortdesc/>
+    <shortdesc>The second step involves shortlisting a few TMSs and checking their
+        features.</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context>These actions will help you decide which tool will satisfy your business needs
+            best.</context>
         <steps>
             <step>
                 <cmd>Check the key TMS features: decide which are must, nice-to-have or unnecessary
@@ -79,7 +79,7 @@
                 </substeps>
             </step>
             <step>
-                <cmd>Make a final decision on a TMS and prepare an offer for your management,
+                <cmd>Make a final decision on a TMS and prepare <b>an offer</b> for your management,
                     including its:</cmd>
                 <substeps id="substeps_bgn_bwp_2tb">
                     <substep>
